@@ -1,0 +1,71 @@
+<style>
+      .market-grid { display:grid; grid-template-columns:1fr; gap:10px; }
+        .market-panel { padding:11px; border:1px solid #2a332c; border-radius:10px; background:#191f1a; }
+          .market-title { color:#9ea799; font-size:9px; font-weight:700; letter-spacing:.13em; text-transform:uppercase; }
+            .market-options { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:7px; margin-top:9px; }
+              .market-option { min-width:0; padding:8px 5px; border:1px solid #303a31; border-radius:7px; background:#222a23; text-align:center; }
+                .market-option-label { overflow:hidden; color:#a4ad9f; font-size:9px; font-weight:700; text-overflow:ellipsis; white-space:nowrap; }
+                  .market-odd { margin-top:3px; color:#f1f2e8; font:500 15px "DM Mono",monospace; }
+                    .market-prob { margin-top:2px; color:var(--lime); font:500 10px "DM Mono",monospace; }
+                      .market-track { display:flex; height:3px; margin-top:8px; overflow:hidden; border-radius:99px; background:#303830; }
+                        .market-track span { transition:width .4s ease; }
+
+                          @media (min-width:700px) {
+                              .market-grid { grid-template-columns:repeat(2,minmax(0,1fr)); }
+                                }
+                                </style>
+
+                                <script>
+                                  function validOdds(odds, keys) {
+                                      return odds &&
+                                            typeof odds === "object" &&
+                                                  keys.every((key) => Number.isFinite(Number(odds[key])) && Number(odds[key]) > 1);
+                                                    }
+
+                                                      function probabilities(odds, keys = ["1", "X", "2"]) {
+                                                          const raw = keys.map((key) => 1 / Number(odds[key]));
+                                                              const sum = raw.reduce((total, value) => total + value, 0);
+                                                                  const rounded = raw.map((value) => Math.round(value / sum * 1000) / 10);
+                                                                      const adjustment = Math.round((100 - rounded.reduce((total, value) => total + value, 0)) * 10) / 10;
+                                                                          rounded[rounded.indexOf(Math.max(...rounded))] += adjustment;
+                                                                              return rounded;
+                                                                                }
+
+                                                                                  function renderMarket(title, odds, options) {
+                                                                                      const keys = options.map((option) => option.key);
+
+                                                                                          if (!validOdds(odds, keys)) {
+                                                                                                return `<section class="market-panel">
+                                                                                                        <h4 class="market-title">${esc(title)}</h4>
+                                                                                                                <p class="mt-3 text-[10px] text-[#7f897d]">Quote non disponibili</p>
+                                                                                                                      </section>`;
+                                                                                                                          }
+
+                                                                                                                              const probs = probabilities(odds, keys);
+                                                                                                                                  const cells = options.map((option, index) => `
+                                                                                                                                        <div class="market-option">
+                                                                                                                                                <div class="market-option-label">${esc(option.label)}</div>
+                                                                                                                                                        <div class="market-odd">${Number(odds[option.key]).toFixed(2)}</div>
+                                                                                                                                                                <div class="market-prob">${probs[index].toFixed(1).replace(".", ",")}%</div>
+                                                                                                                                                                      </div>`).join("");
+
+                                                                                                                                                                          return `<section class="market-panel">
+                                                                                                                                                                                <h4 class="market-title">${esc(title)}</h4>
+                                                                                                                                                                                      <div class="market-options">${cells}</div>
+                                                                                                                                                                                            <div class="market-track" aria-label="Probabilità implicite ${esc(title)}">
+                                                                                                                                                                                                    ${probs.map((probability, index) => `<span style="width:${probability}%;background:${index === 0 ? "#c4f16a" : "#89917c"}"></span>`).join("")}
+                                                                                                                                                                                                          </div>
+                                                                                                                                                                                                              </section>`;
+                                                                                                                                                                                                                }
+                                                                                                                                                                                                                </script>
+
+                                                                                                                                                                                                                <div class="market-grid mt-3">
+                                                                                                                                                                                                                  ${renderMarket("Goal / NoGoal", match.mercati?.goalNoGoal, [
+                                                                                                                                                                                                                      { key:"goal", label:"Goal" },
+                                                                                                                                                                                                                          { key:"noGoal", label:"NoGoal" }
+                                                                                                                                                                                                                            ])}
+                                                                                                                                                                                                                              ${renderMarket("Over / Under 2.5", match.mercati?.overUnder25, [
+                                                                                                                                                                                                                                  { key:"over", label:"Over 2.5" },
+                                                                                                                                                                                                                                      { key:"under", label:"Under 2.5" }
+                                                                                                                                                                                                                                        ])}
+                                                                                                                                                                                                                                        </div>
