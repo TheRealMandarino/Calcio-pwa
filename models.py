@@ -44,3 +44,14 @@ def estrai_esiti_1x2(matrice_prob):
         "X": round(p_pareggio * 100, 2),
         "2": round(p_ospite * 100, 2)
     }
+def applica_fattori_correttivi(lambda_c, lambda_o, fattore_fatica_c=1.0, fattore_fatica_o=1.0, boost_c=1.0, boost_o=1.0):
+    """
+    Modifica i lambda attesi di casa e trasferta applicando:
+    - Fattore fatica (es. 0.90 / 0.95 per impegni ravvicinati / infrasettimanali)
+    - Fattore boost (es. 1.10 / 1.15 per must-win o reazione psicologica post-crisi)
+    """
+    lam_c_modificato = lambda_c * fattore_fatica_c * boost_c
+    lam_o_modificato = lambda_o * fattore_fatica_o * boost_o
+    
+    # Evitiamo valori negativi o nulli azzerati
+    return max(0.05, lam_c_modificato), max(0.05, lam_o_modificato)

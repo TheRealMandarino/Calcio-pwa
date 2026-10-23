@@ -1,71 +1,421 @@
-<style>
+```html
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#101411" />
+    <meta name="description" content="Quote Calcio: una lettura chiara delle quote e delle probabilità implicite delle prossime partite." />
+    <meta property="og:title" content="Quote Calcio — La giornata, in chiaro" />
+    <meta property="og:description" content="Quote e probabilità implicite delle prossime partite. Solo informazione, nessuna scommessa." />
+    <meta property="og:type" content="website" />
+    <link rel="manifest" href="./manifest.webmanifest" />
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <title>Quote Calcio — La giornata, in chiaro</title>
+    <style>
+      :root { color-scheme: dark; --ink:#e8e9df; --muted:#92998f; --pitch:#101411; --panel:#191f1a; --line:#2a332c; --lime:#c4f16a; --orange:#ff8b62; }
+      * { box-sizing:border-box; }
+      body { margin:0; background:var(--pitch); color:var(--ink); font-family:"Manrope",sans-serif; min-height:100dvh; }
+      body::before { content:""; position:fixed; inset:0; z-index:-1; opacity:.16; pointer-events:none; background-image:radial-gradient(#829079 0.55px,transparent 0.55px); background-size:6px 6px; }
+      .mono { font-family:"DM Mono",monospace; }
+      .shell { width:min(100% - 32px, 1080px); margin-inline:auto; }
+      .topline { border-bottom:1px solid var(--line); }
+      .brand-mark { width:34px;height:34px;border:1px solid #56634d;border-radius:50%;display:grid;place-items:center;position:relative; }
+      .brand-mark::after { content:""; width:10px;height:10px;border-radius:50%;background:var(--lime);box-shadow:0 0 0 5px #c4f16a1c; }
+      .hero-grid { display:grid; grid-template-columns:1fr auto; gap:20px; align-items:end; }
+      .hero-title { font-size:clamp(2.4rem,8vw,5.6rem); line-height:.91; letter-spacing:-.075em; }
+      .hero-title span { color:var(--lime); }
+      .hero-stamp { writing-mode:vertical-rl; transform:rotate(180deg); color:#778174; letter-spacing:.22em; font-size:10px; }
+      .section-label { color:#9ea799; letter-spacing:.16em; text-transform:uppercase; font-size:10px; font-weight:700; }
+      .match-card { background:linear-gradient(135deg,#1b221d,#171c18); border:1px solid #2a332c; border-radius:15px; overflow:hidden; transition:transform .2s ease,border-color .2s ease; animation:arrive .45s both; }
+      .match-card:hover { transform:translateY(-2px); border-color:#526044; }
+      .match-head { border-bottom:1px solid #2a332c; }
+      .team-row { display:grid; grid-template-columns:1fr auto 1fr; align-items:center; gap:12px; }
+      .team-name { font-weight:800; font-size:clamp(15px,3.5vw,20px); letter-spacing:-.04em; line-height:1.12; }
+      .team-name.away { text-align:right; }
+      .versus { color:#778174;font:11px "DM Mono",monospace; }
+      .odds-grid { display:grid; grid-template-columns:repeat(3,1fr); gap:8px; }
+      .odds-cell { background:#222a23; border:1px solid #303a31; border-radius:9px; padding:10px 8px 9px; text-align:center; min-width:0; }
+      .odds-cell.favorite { border-color:#687b4e; background:#263020; }
+      .odds-label { color:#899287; font-size:10px; letter-spacing:.12em; font-weight:700; }
+      .odd-value { color:#f1f2e8; font:500 18px "DM Mono",monospace; margin-top:3px; }
+      .prob-value { color:var(--lime); font:500 12px "DM Mono",monospace; margin-top:2px; }
+      .prob-track { display:flex; height:4px; border-radius:99px; overflow:hidden; background:#303830; }
+      .prob-track span { transition:width .4s ease; }
       .market-grid { display:grid; grid-template-columns:1fr; gap:10px; }
-        .market-panel { padding:11px; border:1px solid #2a332c; border-radius:10px; background:#191f1a; }
-          .market-title { color:#9ea799; font-size:9px; font-weight:700; letter-spacing:.13em; text-transform:uppercase; }
-            .market-options { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:7px; margin-top:9px; }
-              .market-option { min-width:0; padding:8px 5px; border:1px solid #303a31; border-radius:7px; background:#222a23; text-align:center; }
-                .market-option-label { overflow:hidden; color:#a4ad9f; font-size:9px; font-weight:700; text-overflow:ellipsis; white-space:nowrap; }
-                  .market-odd { margin-top:3px; color:#f1f2e8; font:500 15px "DM Mono",monospace; }
-                    .market-prob { margin-top:2px; color:var(--lime); font:500 10px "DM Mono",monospace; }
-                      .market-track { display:flex; height:3px; margin-top:8px; overflow:hidden; border-radius:99px; background:#303830; }
-                        .market-track span { transition:width .4s ease; }
+      .market-panel { padding:11px; border:1px solid #2a332c; border-radius:10px; background:#191f1a; }
+      .market-title { color:#9ea799; font-size:9px; font-weight:700; letter-spacing:.13em; text-transform:uppercase; }
+      .market-options { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:7px; margin-top:9px; }
+      .market-option { min-width:0; padding:8px 5px; border:1px solid #303a31; border-radius:7px; background:#222a23; text-align:center; }
+      .market-option-label { overflow:hidden; color:#a4ad9f; font-size:9px; font-weight:700; text-overflow:ellipsis; white-space:nowrap; }
+      .market-odd { margin-top:3px; color:#f1f2e8; font:500 15px "DM Mono",monospace; }
+      .market-prob { margin-top:2px; color:var(--lime); font:500 10px "DM Mono",monospace; }
+      .market-track { display:flex; height:3px; margin-top:8px; overflow:hidden; border-radius:99px; background:#303830; }
+      .market-track span { transition:width .4s ease; }
+      .scenario-panel { margin-top:14px; padding:12px; border:1px solid #354132; border-radius:10px; background:#171d18; }
+      .scenario-heading { display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between; gap:6px; }
+      .scenario-title { color:#c4f16a; font-size:9px; font-weight:700; letter-spacing:.13em; text-transform:uppercase; }
+      .scenario-lambda { color:#aab3a5; font:10px "DM Mono",monospace; }
+      .scenario-team-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:8px; margin-top:10px; }
+      .scenario-team { min-width:0; padding:9px; border:1px solid #2a332c; border-radius:8px; background:#1b221d; }
+      .scenario-team-name { display:flex; flex-direction:column; gap:2px; margin-bottom:8px; }
+      .scenario-team-name strong { color:#e8e9df; font-size:10px; }
+      .scenario-team-name span { overflow:hidden; color:#899287; font-size:9px; text-overflow:ellipsis; white-space:nowrap; }
+      .scenario-control { display:block; margin-top:8px; }
+      .scenario-control-head { display:flex; align-items:center; justify-content:space-between; gap:5px; color:#aab3a5; font-size:9px; }
+      .scenario-control output { color:#c4f16a; font:10px "DM Mono",monospace; }
+      .scenario-range { display:block; width:100%; height:16px; margin:3px 0 0; accent-color:#c4f16a; cursor:pointer; }
+      .scenario-range:focus-visible { outline:2px solid #c4f16a; outline-offset:2px; border-radius:4px; }
+      .scenario-bounds { display:flex; justify-content:space-between; color:#737d71; font:8px "DM Mono",monospace; }
+      .model-caption { display:flex; flex-wrap:wrap; justify-content:space-between; gap:4px 8px; margin:0 0 7px; color:#879183; font:9px "DM Mono",monospace; }
+      .market-heading { display:flex; align-items:center; justify-content:space-between; gap:6px; }
+      .market-source { color:#7f897d; font:8px "DM Mono",monospace; letter-spacing:.05em; }
+      .filter-select { background:#19201a;border:1px solid #344035;color:#dce1d6;border-radius:8px;padding:10px 36px 10px 12px; outline:none; font:600 12px "Manrope",sans-serif; min-width:152px; }
+      .filter-select:focus { border-color:var(--lime); }
+      .refresh-button { border:1px solid #3a4639;color:#cbd1c6;border-radius:8px;padding:9px 12px;background:#1a211b;font-size:11px;font-weight:700;transition:background .15s ease; }
+      .refresh-button:hover { background:#263126; }
+      .status-panel { border:1px solid #344035;background:#171d18;border-radius:12px; }
+      .skeleton { background:linear-gradient(90deg,#202720 25%,#2b342b 42%,#202720 64%);background-size:300% 100%;animation:shimmer 1.5s ease infinite; }
+      .notice { border-left:2px solid var(--lime); }
+      .error-mark { width:36px;height:36px;display:grid;place-items:center;border:1px solid #784c3a;border-radius:50%;color:var(--orange);font:500 17px "DM Mono",monospace; }
+      @keyframes shimmer { to { background-position:-150% 0; } }
+      @keyframes arrive { from { opacity:0; transform:translateY(8px); } to { opacity:1; transform:translateY(0); } }
+      @media (min-width:700px) {
+        .shell { width:min(100% - 64px,1080px); }
+        .fixtures-grid { display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px; }
+        .market-grid { grid-template-columns:repeat(2,minmax(0,1fr)); }
+        .fixture-heading { display:flex;align-items:end;justify-content:space-between; }
+      }
+      @media (max-width:460px) {
+        .hero-grid { align-items:center; }
+        .hero-copy { max-width:300px; }
+        .fixture-toolbar { align-items:stretch; }
+        .filter-select { flex:1; }
+      }
+      @media (prefers-reduced-motion:reduce) { *,*::before,*::after { animation-duration:.01ms!important; transition-duration:.01ms!important; scroll-behavior:auto!important; } }
+    </style>
+  </head>
+  <body>
+    <header class="topline">
+      <div class="shell flex h-[68px] items-center justify-between">
+        <a href="./" class="flex items-center gap-3 no-underline text-inherit" aria-label="Quote Calcio, home">
+          <span class="brand-mark" aria-hidden="true"></span>
+          <span class="font-extrabold tracking-[-.06em] text-[15px]">QUOTE <span class="text-[#c4f16a]">CALCIO</span></span>
+        </a>
+        <div class="flex items-center gap-2">
+          <span class="h-[7px] w-[7px] rounded-full bg-[#c4f16a]" id="connection-dot"></span>
+          <span class="mono text-[10px] uppercase tracking-[.11em] text-[#aab3a5]" id="connection-label">In linea</span>
+        </div>
+      </div>
+    </header>
 
-                          @media (min-width:700px) {
-                              .market-grid { grid-template-columns:repeat(2,minmax(0,1fr)); }
-                                }
-                                </style>
+    <main class="shell pb-14">
+      <section class="pt-10 pb-9 md:pt-[72px] md:pb-[60px]">
+        <div class="hero-grid">
+          <div class="hero-copy">
+            <p class="section-label mb-4">Il tabellino delle probabilità</p>
+            <h1 class="hero-title font-extrabold">La giornata,<br /><span>in chiaro.</span></h1>
+            <p class="mt-5 max-w-[430px] text-[13px] leading-[1.75] text-[#a5ada1] md:text-[15px]">
+              Quote e probabilità stimate con Poisson. Regola fatica e boost di casa e ospite e osserva i λ e le percentuali aggiornarsi in tempo reale.
+            </p>
+          </div>
+          <div class="hero-stamp hidden sm:block">CALCIO · LETTURA DATI</div>
+        </div>
+        <div class="mt-8 grid grid-cols-3 border-y border-[#2a332c] py-4">
+          <div><p class="mono text-[9px] tracking-[.13em] text-[#7f897d]">ESITI</p><p class="mt-1 text-[12px] font-bold">1 · X · 2</p></div>
+          <div class="border-l border-[#2a332c] pl-4"><p class="mono text-[9px] tracking-[.13em] text-[#7f897d]">METODO</p><p class="mt-1 text-[12px] font-bold">Poisson · λ</p></div>
+          <div class="border-l border-[#2a332c] pl-4"><p class="mono text-[9px] tracking-[.13em] text-[#7f897d]">USO</p><p class="mt-1 text-[12px] font-bold">Solo informativo</p></div>
+        </div>
+      </section>
 
-                                <script>
-                                  function validOdds(odds, keys) {
-                                      return odds &&
-                                            typeof odds === "object" &&
-                                                  keys.every((key) => Number.isFinite(Number(odds[key])) && Number(odds[key]) > 1);
-                                                    }
+      <section aria-labelledby="fixtures-title">
+        <div class="fixture-heading mb-5">
+          <div>
+            <p class="section-label mb-2">Calendario</p>
+            <h2 id="fixtures-title" class="text-[22px] font-extrabold tracking-[-.055em]">Prossime partite<span class="ml-2 text-[#c4f16a]">/</span></h2>
+          </div>
+          <div class="fixture-toolbar mt-4 flex items-center gap-2 md:mt-0">
+            <label class="sr-only" for="league-filter">Filtra per campionato</label>
+            <select id="league-filter" class="filter-select" disabled>
+              <option value="all">Tutti i campionati</option>
+            </select>
+            <button id="reload-button" class="refresh-button" type="button" aria-label="Ricarica partite">AGGIORNA</button>
+          </div>
+        </div>
+        <div id="feed-meta" class="mb-3 flex min-h-[18px] items-center justify-between">
+          <p class="mono text-[10px] tracking-[.06em] text-[#7f897d]" id="feed-count">CARICAMENTO CALENDARIO</p>
+          <p class="mono text-[10px] text-[#7f897d]" id="updated-at"></p>
+        </div>
+        <div id="fixtures" class="fixtures-grid space-y-3 md:space-y-0" aria-live="polite" aria-busy="true"></div>
+        <aside class="notice mt-7 rounded-r-md bg-[#1b211b] px-4 py-3.5">
+          <p class="text-[11px] font-bold text-[#d5dfcb]">Come leggere le percentuali</p>
+          <p class="mt-1 text-[10px] leading-[1.65] text-[#939d90]">1X2 e Over/Under sono stime Poisson dai λ base di partite.json, moltiplicati per Fatica e Boost selezionati. Goal/NoGoal resta normalizzato dalle quote. Sono stime illustrative, non previsioni né garanzie.</p>
+        </aside>
+      </section>
 
-                                                      function probabilities(odds, keys = ["1", "X", "2"]) {
-                                                          const raw = keys.map((key) => 1 / Number(odds[key]));
-                                                              const sum = raw.reduce((total, value) => total + value, 0);
-                                                                  const rounded = raw.map((value) => Math.round(value / sum * 1000) / 10);
-                                                                      const adjustment = Math.round((100 - rounded.reduce((total, value) => total + value, 0)) * 10) / 10;
-                                                                          rounded[rounded.indexOf(Math.max(...rounded))] += adjustment;
-                                                                              return rounded;
-                                                                                }
+      <footer class="mt-12 border-t border-[#2a332c] pt-4">
+        <div class="flex flex-col gap-2 text-[10px] text-[#788176] sm:flex-row sm:items-center sm:justify-between">
+          <span class="font-extrabold tracking-[.1em]">QUOTE CALCIO <span class="text-[#c4f16a]">/</span> DATI, NON PRONOSTICI</span>
+          <span>Dati dimostrativi da partite.json. Nessuna attività di gioco o scommessa è offerta qui.</span>
+        </div>
+      </footer>
+    </main>
 
-                                                                                  function renderMarket(title, odds, options) {
-                                                                                      const keys = options.map((option) => option.key);
+    <script>
+      const FEED_URL = "./partite.json";
+      const fixtureRoot = document.getElementById("fixtures");
+      const feedCount = document.getElementById("feed-count");
+      const updatedAt = document.getElementById("updated-at");
+      const leagueFilter = document.getElementById("league-filter");
+      const connectionDot = document.getElementById("connection-dot");
+      const connectionLabel = document.getElementById("connection-label");
+      let allFixtures = [];
+      let loadedFromCache = false;
+      const scenarioValues = new Map();
 
-                                                                                          if (!validOdds(odds, keys)) {
-                                                                                                return `<section class="market-panel">
-                                                                                                        <h4 class="market-title">${esc(title)}</h4>
-                                                                                                                <p class="mt-3 text-[10px] text-[#7f897d]">Quote non disponibili</p>
-                                                                                                                      </section>`;
-                                                                                                                          }
+      function setConnection() {
+        const online = navigator.onLine;
+        connectionDot.className = "h-[7px] w-[7px] rounded-full " + (online ? "bg-[#c4f16a]" : "bg-[#ff8b62]");
+        connectionLabel.textContent = online ? (loadedFromCache ? "Dati salvati" : "In linea") : "Offline";
+      }
+      window.addEventListener("online", setConnection);
+      window.addEventListener("offline", setConnection);
 
-                                                                                                                              const probs = probabilities(odds, keys);
-                                                                                                                                  const cells = options.map((option, index) => `
-                                                                                                                                        <div class="market-option">
-                                                                                                                                                <div class="market-option-label">${esc(option.label)}</div>
-                                                                                                                                                        <div class="market-odd">${Number(odds[option.key]).toFixed(2)}</div>
-                                                                                                                                                                <div class="market-prob">${probs[index].toFixed(1).replace(".", ",")}%</div>
-                                                                                                                                                                      </div>`).join("");
+      function esc(value) {
+        return String(value).replace(/[&<>"']/g, (char) => ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&#39;" })[char]);
+      }
+      function validFixture(item) {
+        if (!item || typeof item !== "object") return false;
+        if (typeof item.id !== "string" || !item.id.trim()) return false;
+        if (typeof item.campionato !== "string" || !item.campionato.trim()) return false;
+        if (typeof item.casa !== "string" || !item.casa.trim() || typeof item.trasferta !== "string" || !item.trasferta.trim()) return false;
+        if (!item.data || Number.isNaN(Date.parse(item.data))) return false;
+        if (!validOdds(item.quote, ["1", "X", "2"])) return false;
+        return item.lambdaBase &&
+          Number.isFinite(Number(item.lambdaBase.casa)) && Number(item.lambdaBase.casa) > 0 &&
+          Number.isFinite(Number(item.lambdaBase.trasferta)) && Number(item.lambdaBase.trasferta) > 0;
+      }
+      function formatDate(value) {
+        const date = new Date(value);
+        return new Intl.DateTimeFormat("it-IT", { weekday:"short", day:"2-digit", month:"short", hour:"2-digit", minute:"2-digit", timeZone:"Europe/Rome" }).format(date).replace(",", " ·");
+      }
+      function validOdds(odds, keys) {
+        return odds && typeof odds === "object" && keys.every((key) => Number.isFinite(Number(odds[key])) && Number(odds[key]) > 1);
+      }
+      function normalizeProbabilities(raw) {
+        const sum = raw.reduce((total, value) => total + value, 0);
+        const rounded = raw.map((value) => Math.round(value / sum * 1000) / 10);
+        const adjustment = Math.round((100 - rounded.reduce((total, value) => total + value, 0)) * 10) / 10;
+        rounded[rounded.indexOf(Math.max(...rounded))] += adjustment;
+        return rounded;
+      }
+      function probabilities(odds, keys = ["1", "X", "2"]) {
+        return normalizeProbabilities(keys.map((key) => 1 / Number(odds[key])));
+      }
+      function poissonDistribution(lambda, maxGoals = 12) {
+        const distribution = [Math.exp(-lambda)];
+        for (let goals = 1; goals <= maxGoals; goals += 1) {
+          distribution.push(distribution[goals - 1] * lambda / goals);
+        }
+        return distribution;
+      }
+      function poissonOutcomeProbabilities(lambdaHome, lambdaAway) {
+        const home = poissonDistribution(lambdaHome);
+        const away = poissonDistribution(lambdaAway);
+        const outcomes = [0, 0, 0];
+        for (let homeGoals = 0; homeGoals < home.length; homeGoals += 1) {
+          for (let awayGoals = 0; awayGoals < away.length; awayGoals += 1) {
+            const probability = home[homeGoals] * away[awayGoals];
+            outcomes[homeGoals > awayGoals ? 0 : homeGoals === awayGoals ? 1 : 2] += probability;
+          }
+        }
+        return normalizeProbabilities(outcomes);
+      }
+      function poissonTotalsProbabilities(lambdaHome, lambdaAway) {
+        const totalLambda = lambdaHome + lambdaAway;
+        const under = Math.exp(-totalLambda) * (1 + totalLambda + totalLambda ** 2 / 2);
+        return normalizeProbabilities([1 - under, under]);
+      }
+      function scenarioFor(match) {
+        if (!scenarioValues.has(match.id)) {
+          scenarioValues.set(match.id, {
+            homeFatigue: 1,
+            homeBoost: 1,
+            awayFatigue: 1,
+            awayBoost: 1,
+          });
+        }
+        return scenarioValues.get(match.id);
+      }
+      function currentLambdas(match, scenario = scenarioFor(match)) {
+        return {
+          home: Number(match.lambdaBase.casa) * scenario.homeFatigue * scenario.homeBoost,
+          away: Number(match.lambdaBase.trasferta) * scenario.awayFatigue * scenario.awayBoost,
+        };
+      }
+      function formatFactor(value) {
+        return Number(value).toFixed(2).replace(".", ",");
+      }
+      function renderFactor(label, fixtureId, factor, value, min, max) {
+        return `<label class="scenario-control">
+          <span class="scenario-control-head"><span>${label}</span><output>${formatFactor(value)}</output></span>
+          <input class="scenario-range" type="range" min="${min}" max="${max}" step="0.01" value="${value}" data-fixture-id="${esc(fixtureId)}" data-factor="${factor}" aria-label="${label}">
+          <span class="scenario-bounds"><span>${formatFactor(min)}</span><span>${formatFactor(max)}</span></span>
+        </label>`;
+      }
+      function renderScenarioTeam(side, team, fixtureId, scenario) {
+        const isHome = side === "home";
+        const fatigueKey = isHome ? "homeFatigue" : "awayFatigue";
+        const boostKey = isHome ? "homeBoost" : "awayBoost";
+        return `<div class="scenario-team">
+          <div class="scenario-team-name"><strong>${isHome ? "CASA" : "OSPITE"}</strong><span>${esc(team)}</span></div>
+          ${renderFactor("Fatica", fixtureId, fatigueKey, scenario[fatigueKey], 0.85, 1)}
+          ${renderFactor("Boost", fixtureId, boostKey, scenario[boostKey], 1, 1.15)}
+        </div>`;
+      }
+      function renderMarket(title, odds, options, marketId, modelProbabilities = null) {
+        const keys = options.map((option) => option.key);
+        const hasOdds = validOdds(odds, keys);
+        if (!hasOdds && !modelProbabilities) {
+          return `<section class="market-panel"><h4 class="market-title">${esc(title)}</h4><p class="mt-3 text-[10px] text-[#7f897d]">Quote non disponibili</p></section>`;
+        }
+        const probs = modelProbabilities || probabilities(odds, keys);
+        const cells = options.map((option, index) => `
+          <div class="market-option">
+            <div class="market-option-label">${esc(option.label)}</div>
+            <div class="market-odd">${hasOdds ? Number(odds[option.key]).toFixed(2) : "—"}</div>
+            <div class="market-prob" data-market-prob="${marketId}:${option.key}">${probs[index].toFixed(1).replace(".", ",")}%</div>
+          </div>`).join("");
+        return `<section class="market-panel">
+          <div class="market-heading"><h4 class="market-title">${esc(title)}</h4><span class="market-source">${modelProbabilities ? "MODELLO POISSON" : "DA QUOTA"}</span></div>
+          <div class="market-options">${cells}</div>
+          <div class="market-track" aria-label="Probabilità ${esc(title)}">${probs.map((probability, index) => `<span data-market-bar="${marketId}:${options[index].key}" style="width:${probability}%;background:${index === 0 ? "#c4f16a" : "#89917c"}"></span>`).join("")}</div>
+        </section>`;
+      }
+      function renderCard(match, index) {
+        const scenario = scenarioFor(match);
+        const lambdas = currentLambdas(match, scenario);
+        const probs = poissonOutcomeProbabilities(lambdas.home, lambdas.away);
+        const totals = poissonTotalsProbabilities(lambdas.home, lambdas.away);
+        const favorite = probs.indexOf(Math.max(...probs));
+        const odds = ["1", "X", "2"];
+        const cells = odds.map((key, i) => `
+          <div class="odds-cell ${i === favorite ? "favorite" : ""}">
+            <div class="odds-label">${key === "1" ? "1 · CASA" : key === "X" ? "X · PARI" : "2 · OSPITE"}</div>
+            <div class="odd-value">${Number(match.quote[key]).toFixed(2)}</div>
+            <div class="prob-value" data-outcome-prob="${key}">${probs[i].toFixed(1).replace(".", ",")}%</div>
+          </div>`).join("");
+        return `<article class="match-card" style="animation-delay:${Math.min(index * 50, 300)}ms">
+          <div class="match-head flex items-center justify-between px-4 py-3">
+            <span class="section-label !text-[9px]">${esc(match.campionato)}</span>
+            <time class="mono text-[10px] text-[#9aa396]" datetime="${esc(match.data)}">${esc(formatDate(match.data))}</time>
+          </div>
+          <div class="px-4 pt-4 pb-3">
+            <div class="team-row mb-4"><h3 class="team-name">${esc(match.casa)}</h3><span class="versus">VS</span><h3 class="team-name away">${esc(match.trasferta)}</h3></div>
+            <div class="model-caption"><span>1X2 · PROBABILITÀ MODELLO</span><span>λ CASA <b data-lambda="home">${lambdas.home.toFixed(2)}</b> · OSPITE <b data-lambda="away">${lambdas.away.toFixed(2)}</b></span></div>
+            <div class="odds-grid">${cells}</div>
+            <div class="prob-track mt-3" aria-label="Distribuzione delle probabilità del modello">${probs.map((p, i) => `<span data-outcome-bar="${odds[i]}" style="width:${p}%;background:${["#c4f16a","#89917c","#e7a47a"][i]}"></span>`).join("")}</div>
+            <section class="scenario-panel" aria-label="Fattori di scenario per ${esc(match.casa)} e ${esc(match.trasferta)}">
+              <div class="scenario-heading"><h4 class="scenario-title">Fattori di scenario</h4><span class="scenario-lambda">λ effettivo = λ base × fatica × boost</span></div>
+              <div class="scenario-team-grid">
+                ${renderScenarioTeam("home", match.casa, match.id, scenario)}
+                ${renderScenarioTeam("away", match.trasferta, match.id, scenario)}
+              </div>
+            </section>
+            <div class="market-grid mt-3">
+              ${renderMarket("Goal / NoGoal", match.mercati?.goalNoGoal, [{ key:"goal", label:"Goal" }, { key:"noGoal", label:"NoGoal" }], "goalNoGoal")}
+              ${renderMarket("Over / Under 2.5", match.mercati?.overUnder25, [{ key:"over", label:"Over 2.5" }, { key:"under", label:"Under 2.5" }], "overUnder25", totals)}
+            </div>
+          </div>
+        </article>`;
+      }
+      function updateScenarioCard(card, match) {
+        const lambdas = currentLambdas(match);
+        const outcomes = poissonOutcomeProbabilities(lambdas.home, lambdas.away);
+        const totals = poissonTotalsProbabilities(lambdas.home, lambdas.away);
+        card.querySelector('[data-lambda="home"]').textContent = lambdas.home.toFixed(2);
+        card.querySelector('[data-lambda="away"]').textContent = lambdas.away.toFixed(2);
+        ["1", "X", "2"].forEach((key, index) => {
+          card.querySelector(`[data-outcome-prob="${key}"]`).textContent = `${outcomes[index].toFixed(1).replace(".", ",")}%`;
+          card.querySelector(`[data-outcome-bar="${key}"]`).style.width = `${outcomes[index]}%`;
+          card.querySelectorAll(".odds-cell")[index].classList.toggle("favorite", index === outcomes.indexOf(Math.max(...outcomes)));
+        });
+        ["over", "under"].forEach((key, index) => {
+          card.querySelector(`[data-market-prob="overUnder25:${key}"]`).textContent = `${totals[index].toFixed(1).replace(".", ",")}%`;
+          card.querySelector(`[data-market-bar="overUnder25:${key}"]`).style.width = `${totals[index]}%`;
+        });
+      }
+      function renderFixtures() {
+        const selectedLeague = leagueFilter.value;
+        const shown = selectedLeague === "all" ? allFixtures : allFixtures.filter((item) => item.campionato === selectedLeague);
+        if (!shown.length) {
+          fixtureRoot.innerHTML = `<div class="status-panel col-span-full px-5 py-8 text-center"><div class="mx-auto mb-3 h-9 w-9 rounded-full border border-[#43503e] grid place-items-center text-[#c4f16a] mono">—</div><p class="text-[13px] font-bold">${allFixtures.length ? "Nessuna partita per questo campionato" : "Nessuna partita in programma"}</p><p class="mx-auto mt-1 max-w-[300px] text-[11px] leading-relaxed text-[#8f988b]">${allFixtures.length ? "Scegli un altro campionato dal filtro." : "Il calendario non contiene ancora incontri. Torna più tardi per consultare i prossimi appuntamenti."}</p></div>`;
+        } else {
+          fixtureRoot.innerHTML = shown.map(renderCard).join("");
+        }
+        feedCount.textContent = `${String(shown.length).padStart(2, "0")} ${shown.length === 1 ? "PARTITA" : "PARTITE"} ${selectedLeague !== "all" ? "· " + selectedLeague.toUpperCase() : "NEL CALENDARIO"}`;
+        fixtureRoot.setAttribute("aria-busy", "false");
+      }
+      function showLoading() {
+        fixtureRoot.setAttribute("aria-busy", "true");
+        feedCount.textContent = "CARICAMENTO CALENDARIO";
+        fixtureRoot.innerHTML = Array.from({ length: 3 }, () => `<div class="match-card p-4"><div class="skeleton h-3 w-24 rounded"></div><div class="skeleton mt-5 h-5 w-3/4 rounded"></div><div class="odds-grid mt-5">${[1,2,3].map(() => `<div class="skeleton h-[66px] rounded-lg"></div>`).join("")}</div></div>`).join("");
+      }
+      function showError(message) {
+        fixtureRoot.setAttribute("aria-busy", "false");
+        feedCount.textContent = "CALENDARIO NON DISPONIBILE";
+        fixtureRoot.innerHTML = `<div class="status-panel col-span-full px-5 py-7"><div class="flex items-start gap-3"><span class="error-mark">!</span><div><h3 class="text-[14px] font-extrabold">Non riusciamo a leggere le partite</h3><p class="mt-1 text-[11px] leading-relaxed text-[#959e92]">${esc(message)}</p><button id="retry-button" class="refresh-button mt-4" type="button">RIPROVA</button></div></div></div>`;
+        document.getElementById("retry-button").addEventListener("click", loadFixtures);
+      }
+      async function loadFixtures() {
+        showLoading();
+        loadedFromCache = false;
+        setConnection();
+        try {
+          const response = await fetch(FEED_URL, { cache: "no-cache" });
+          if (!response.ok) throw new Error("Il file partite.json non è raggiungibile.");
+          const payload = await response.json();
+          if (!Array.isArray(payload)) throw new Error("Il formato del calendario non è valido: atteso un elenco di partite.");
+          const invalidCount = payload.filter((item) => !validFixture(item)).length;
+          allFixtures = payload.filter(validFixture).sort((a, b) => Date.parse(a.data) - Date.parse(b.data));
+          if (payload.length && !allFixtures.length) throw new Error("I dati presenti non rispettano il formato previsto per le partite.");
+          if (invalidCount) console.warn(`Quote Calcio: ignorate ${invalidCount} righe non valide nel calendario.`);
+          const leagues = [...new Set(allFixtures.map((match) => match.campionato))].sort((a, b) => a.localeCompare(b, "it"));
+          leagueFilter.innerHTML = `<option value="all">Tutti i campionati</option>` + leagues.map((league) => `<option value="${esc(league)}">${esc(league)}</option>`).join("");
+          leagueFilter.disabled = leagues.length === 0;
+          renderFixtures();
+          updatedAt.textContent = `AGGIORNATO ${new Intl.DateTimeFormat("it-IT", { hour:"2-digit", minute:"2-digit", timeZone:"Europe/Rome" }).format(new Date())}`;
+          setConnection();
+        } catch (error) {
+          showError(error instanceof SyntaxError ? "Il file del calendario contiene JSON non valido. Riprova tra poco." : (error.message || "Controlla la connessione e riprova."));
+          setConnection();
+        }
+      }
+      leagueFilter.addEventListener("change", renderFixtures);
+      fixtureRoot.addEventListener("input", (event) => {
+        const input = event.target;
+        if (!(input instanceof HTMLInputElement) || !input.classList.contains("scenario-range")) return;
+        const match = allFixtures.find((fixture) => fixture.id === input.dataset.fixtureId);
+        const factor = input.dataset.factor;
+        if (!match || !["homeFatigue", "homeBoost", "awayFatigue", "awayBoost"].includes(factor)) return;
+        const value = Number(input.value);
+        if (!Number.isFinite(value)) return;
+        const scenario = scenarioFor(match);
+        scenario[factor] = value;
+        input.closest(".scenario-control").querySelector("output").textContent = formatFactor(value);
+        updateScenarioCard(input.closest(".match-card"), match);
+      });
+      document.getElementById("reload-button").addEventListener("click", loadFixtures);
+      loadFixtures();
 
-                                                                                                                                                                          return `<section class="market-panel">
-                                                                                                                                                                                <h4 class="market-title">${esc(title)}</h4>
-                                                                                                                                                                                      <div class="market-options">${cells}</div>
-                                                                                                                                                                                            <div class="market-track" aria-label="Probabilità implicite ${esc(title)}">
-                                                                                                                                                                                                    ${probs.map((probability, index) => `<span style="width:${probability}%;background:${index === 0 ? "#c4f16a" : "#89917c"}"></span>`).join("")}
-                                                                                                                                                                                                          </div>
-                                                                                                                                                                                                              </section>`;
-                                                                                                                                                                                                                }
-                                                                                                                                                                                                                </script>
-
-                                                                                                                                                                                                                <div class="market-grid mt-3">
-                                                                                                                                                                                                                  ${renderMarket("Goal / NoGoal", match.mercati?.goalNoGoal, [
-                                                                                                                                                                                                                      { key:"goal", label:"Goal" },
-                                                                                                                                                                                                                          { key:"noGoal", label:"NoGoal" }
-                                                                                                                                                                                                                            ])}
-                                                                                                                                                                                                                              ${renderMarket("Over / Under 2.5", match.mercati?.overUnder25, [
-                                                                                                                                                                                                                                  { key:"over", label:"Over 2.5" },
-                                                                                                                                                                                                                                      { key:"under", label:"Under 2.5" }
-                                                                                                                                                                                                                                        ])}
-                                                                                                                                                                                                                                        </div>
+      if ("serviceWorker" in navigator && location.protocol !== "file:") {
+        window.addEventListener("load", () => navigator.serviceWorker.register("./service-worker.js").catch(() => {}));
+      }
+    </script>
+  </body>
+</html>
+```
