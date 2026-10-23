@@ -1,0 +1,8062 @@
+[
+  {
+    "id": "2026-torino-monza",
+    "campionato": "Serie A",
+    "casa": "Torino",
+    "trasferta": "Monza",
+    "data": "2026-10-23 00:00:00",
+    "quote": {
+      "1": 2.05,
+      "X": 3.17,
+      "2": 5.1
+    },
+    "lambdaBase": {
+      "casa": 1.34,
+      "trasferta": 0.76
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.86,
+        "under": 1.54
+      }
+    }
+  },
+  {
+    "id": "2026-cagliari-bologna",
+    "campionato": "Serie A",
+    "casa": "Cagliari",
+    "trasferta": "Bologna",
+    "data": "2026-10-24 00:00:00",
+    "quote": {
+      "1": 3.76,
+      "X": 3.54,
+      "2": 2.21
+    },
+    "lambdaBase": {
+      "casa": 1.16,
+      "trasferta": 1.58
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.95,
+        "under": 2.05
+      }
+    }
+  },
+  {
+    "id": "2026-como-sassuolo",
+    "campionato": "Serie A",
+    "casa": "Como",
+    "trasferta": "Sassuolo",
+    "data": "2026-10-24 00:00:00",
+    "quote": {
+      "1": 1.67,
+      "X": 4.42,
+      "2": 5.74
+    },
+    "lambdaBase": {
+      "casa": 2.21,
+      "trasferta": 1.12
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.57,
+        "under": 2.75
+      }
+    }
+  },
+  {
+    "id": "2026-lazio-parma",
+    "campionato": "Serie A",
+    "casa": "Lazio",
+    "trasferta": "Parma",
+    "data": "2026-10-24 00:00:00",
+    "quote": {
+      "1": 1.72,
+      "X": 3.7,
+      "2": 6.7
+    },
+    "lambdaBase": {
+      "casa": 1.67,
+      "trasferta": 0.74
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.33,
+        "under": 1.75
+      }
+    }
+  },
+  {
+    "id": "2026-napoli-roma",
+    "campionato": "Serie A",
+    "casa": "Napoli",
+    "trasferta": "Roma",
+    "data": "2026-10-24 00:00:00",
+    "quote": {
+      "1": 2.11,
+      "X": 3.43,
+      "2": 4.26
+    },
+    "lambdaBase": {
+      "casa": 1.52,
+      "trasferta": 1.0
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.18,
+        "under": 1.85
+      }
+    }
+  },
+  {
+    "id": "2026-atalanta-frosinone",
+    "campionato": "Serie A",
+    "casa": "Atalanta",
+    "trasferta": "Frosinone",
+    "data": "2026-10-25 00:00:00",
+    "quote": {
+      "1": 1.36,
+      "X": 5.77,
+      "2": 11.22
+    },
+    "lambdaBase": {
+      "casa": 2.65,
+      "trasferta": 0.83
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.52,
+        "under": 2.92
+      }
+    }
+  },
+  {
+    "id": "2026-genoa-venezia",
+    "campionato": "Serie A",
+    "casa": "Genoa",
+    "trasferta": "Venezia",
+    "data": "2026-10-25 00:00:00",
+    "quote": {
+      "1": 2.09,
+      "X": 3.14,
+      "2": 4.92
+    },
+    "lambdaBase": {
+      "casa": 1.32,
+      "trasferta": 0.78
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.87,
+        "under": 1.53
+      }
+    }
+  },
+  {
+    "id": "2026-inter-fiorentina",
+    "campionato": "Serie A",
+    "casa": "Inter",
+    "trasferta": "Fiorentina",
+    "data": "2026-10-25 00:00:00",
+    "quote": {
+      "1": 1.44,
+      "X": 5.05,
+      "2": 9.34
+    },
+    "lambdaBase": {
+      "casa": 2.37,
+      "trasferta": 0.83
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.65,
+        "under": 2.55
+      }
+    }
+  },
+  {
+    "id": "2026-lecce-juventus",
+    "campionato": "Serie A",
+    "casa": "Lecce",
+    "trasferta": "Juventus",
+    "data": "2026-10-25 00:00:00",
+    "quote": {
+      "1": 9.03,
+      "X": 3.82,
+      "2": 1.59
+    },
+    "lambdaBase": {
+      "casa": 0.57,
+      "trasferta": 1.68
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.58,
+        "under": 1.63
+      }
+    }
+  },
+  {
+    "id": "2026-udinese-milan",
+    "campionato": "Serie A",
+    "casa": "Udinese",
+    "trasferta": "Milan",
+    "data": "2026-10-25 00:00:00",
+    "quote": {
+      "1": 5.54,
+      "X": 4.15,
+      "2": 1.73
+    },
+    "lambdaBase": {
+      "casa": 1.05,
+      "trasferta": 2.03
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.71,
+        "under": 2.42
+      }
+    }
+  },
+  {
+    "id": "2026-roma-cagliari",
+    "campionato": "Serie A",
+    "casa": "Roma",
+    "trasferta": "Cagliari",
+    "data": "2026-10-27 00:00:00",
+    "quote": {
+      "1": 1.35,
+      "X": 5.07,
+      "2": 15.77
+    },
+    "lambdaBase": {
+      "casa": 2.1,
+      "trasferta": 0.48
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.15,
+        "under": 1.87
+      }
+    }
+  },
+  {
+    "id": "2026-sassuolo-lazio",
+    "campionato": "Serie A",
+    "casa": "Sassuolo",
+    "trasferta": "Lazio",
+    "data": "2026-10-27 00:00:00",
+    "quote": {
+      "1": 5.03,
+      "X": 3.71,
+      "2": 1.88
+    },
+    "lambdaBase": {
+      "casa": 0.97,
+      "trasferta": 1.72
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.0,
+        "under": 2.0
+      }
+    }
+  },
+  {
+    "id": "2026-torino-como",
+    "campionato": "Serie A",
+    "casa": "Torino",
+    "trasferta": "Como",
+    "data": "2026-10-27 00:00:00",
+    "quote": {
+      "1": 4.86,
+      "X": 3.14,
+      "2": 2.1
+    },
+    "lambdaBase": {
+      "casa": 0.78,
+      "trasferta": 1.32
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.87,
+        "under": 1.54
+      }
+    }
+  },
+  {
+    "id": "2026-genoa-juventus",
+    "campionato": "Serie A",
+    "casa": "Genoa",
+    "trasferta": "Juventus",
+    "data": "2026-10-28 00:00:00",
+    "quote": {
+      "1": 5.91,
+      "X": 3.42,
+      "2": 1.86
+    },
+    "lambdaBase": {
+      "casa": 0.74,
+      "trasferta": 1.51
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.57,
+        "under": 1.64
+      }
+    }
+  },
+  {
+    "id": "2026-milan-bologna",
+    "campionato": "Serie A",
+    "casa": "Milan",
+    "trasferta": "Bologna",
+    "data": "2026-10-28 00:00:00",
+    "quote": {
+      "1": 1.7,
+      "X": 4.03,
+      "2": 6.15
+    },
+    "lambdaBase": {
+      "casa": 1.91,
+      "trasferta": 0.91
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.89,
+        "under": 2.12
+      }
+    }
+  },
+  {
+    "id": "2026-monza-napoli",
+    "campionato": "Serie A",
+    "casa": "Monza",
+    "trasferta": "Napoli",
+    "data": "2026-10-28 00:00:00",
+    "quote": {
+      "1": 8.61,
+      "X": 4.13,
+      "2": 1.56
+    },
+    "lambdaBase": {
+      "casa": 0.68,
+      "trasferta": 1.87
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.16,
+        "under": 1.86
+      }
+    }
+  },
+  {
+    "id": "2026-parma-udinese",
+    "campionato": "Serie A",
+    "casa": "Parma",
+    "trasferta": "Udinese",
+    "data": "2026-10-28 00:00:00",
+    "quote": {
+      "1": 3.72,
+      "X": 3.3,
+      "2": 2.34
+    },
+    "lambdaBase": {
+      "casa": 1.05,
+      "trasferta": 1.39
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.27,
+        "under": 1.79
+      }
+    }
+  },
+  {
+    "id": "2026-venezia-inter",
+    "campionato": "Serie A",
+    "casa": "Venezia",
+    "trasferta": "Inter",
+    "data": "2026-10-28 00:00:00",
+    "quote": {
+      "1": 19.92,
+      "X": 6.94,
+      "2": 1.24
+    },
+    "lambdaBase": {
+      "casa": 0.58,
+      "trasferta": 2.75
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.6,
+        "under": 2.66
+      }
+    }
+  },
+  {
+    "id": "2026-fiorentina-atalanta",
+    "campionato": "Serie A",
+    "casa": "Fiorentina",
+    "trasferta": "Atalanta",
+    "data": "2026-10-29 00:00:00",
+    "quote": {
+      "1": 3.37,
+      "X": 3.6,
+      "2": 2.35
+    },
+    "lambdaBase": {
+      "casa": 1.29,
+      "trasferta": 1.59
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.83,
+        "under": 2.21
+      }
+    }
+  },
+  {
+    "id": "2026-frosinone-lecce",
+    "campionato": "Serie A",
+    "casa": "Frosinone",
+    "trasferta": "Lecce",
+    "data": "2026-10-29 00:00:00",
+    "quote": {
+      "1": 2.24,
+      "X": 3.4,
+      "2": 3.85
+    },
+    "lambdaBase": {
+      "casa": 1.48,
+      "trasferta": 1.08
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.14,
+        "under": 1.88
+      }
+    }
+  },
+  {
+    "id": "2026-bologna-monza",
+    "campionato": "Serie A",
+    "casa": "Bologna",
+    "trasferta": "Monza",
+    "data": "2026-10-31 00:00:00",
+    "quote": {
+      "1": 1.73,
+      "X": 3.65,
+      "2": 6.68
+    },
+    "lambdaBase": {
+      "casa": 1.65,
+      "trasferta": 0.73
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.38,
+        "under": 1.73
+      }
+    }
+  },
+  {
+    "id": "2026-milan-inter",
+    "campionato": "Serie A",
+    "casa": "Milan",
+    "trasferta": "Inter",
+    "data": "2026-10-31 00:00:00",
+    "quote": {
+      "1": 3.49,
+      "X": 3.37,
+      "2": 2.4
+    },
+    "lambdaBase": {
+      "casa": 1.14,
+      "trasferta": 1.42
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.13,
+        "under": 1.88
+      }
+    }
+  },
+  {
+    "id": "2026-udinese-roma",
+    "campionato": "Serie A",
+    "casa": "Udinese",
+    "trasferta": "Roma",
+    "data": "2026-10-31 00:00:00",
+    "quote": {
+      "1": 4.4,
+      "X": 3.5,
+      "2": 2.05
+    },
+    "lambdaBase": {
+      "casa": 1.0,
+      "trasferta": 1.57
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.12,
+        "under": 1.89
+      }
+    }
+  },
+  {
+    "id": "2026-como-venezia",
+    "campionato": "Serie A",
+    "casa": "Como",
+    "trasferta": "Venezia",
+    "data": "2026-11-01 00:00:00",
+    "quote": {
+      "1": 1.45,
+      "X": 4.7,
+      "2": 10.52
+    },
+    "lambdaBase": {
+      "casa": 2.11,
+      "trasferta": 0.66
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.95,
+        "under": 2.06
+      }
+    }
+  },
+  {
+    "id": "2026-frosinone-torino",
+    "campionato": "Serie A",
+    "casa": "Frosinone",
+    "trasferta": "Torino",
+    "data": "2026-11-01 00:00:00",
+    "quote": {
+      "1": 2.64,
+      "X": 3.43,
+      "2": 3.03
+    },
+    "lambdaBase": {
+      "casa": 1.4,
+      "trasferta": 1.29
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.99,
+        "under": 2.01
+      }
+    }
+  },
+  {
+    "id": "2026-juventus-napoli",
+    "campionato": "Serie A",
+    "casa": "Juventus",
+    "trasferta": "Napoli",
+    "data": "2026-11-01 00:00:00",
+    "quote": {
+      "1": 3.08,
+      "X": 2.91,
+      "2": 3.02
+    },
+    "lambdaBase": {
+      "casa": 0.99,
+      "trasferta": 1.01
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 3.1,
+        "under": 1.48
+      }
+    }
+  },
+  {
+    "id": "2026-lazio-cagliari",
+    "campionato": "Serie A",
+    "casa": "Lazio",
+    "trasferta": "Cagliari",
+    "data": "2026-11-01 00:00:00",
+    "quote": {
+      "1": 1.48,
+      "X": 4.58,
+      "2": 9.48
+    },
+    "lambdaBase": {
+      "casa": 2.09,
+      "trasferta": 0.71
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.92,
+        "under": 2.09
+      }
+    }
+  },
+  {
+    "id": "2026-lecce-genoa",
+    "campionato": "Serie A",
+    "casa": "Lecce",
+    "trasferta": "Genoa",
+    "data": "2026-11-01 00:00:00",
+    "quote": {
+      "1": 3.76,
+      "X": 2.71,
+      "2": 2.74
+    },
+    "lambdaBase": {
+      "casa": 0.78,
+      "trasferta": 0.95
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 4.0,
+        "under": 1.33
+      }
+    }
+  },
+  {
+    "id": "2026-atalanta-parma",
+    "campionato": "Serie A",
+    "casa": "Atalanta",
+    "trasferta": "Parma",
+    "data": "2026-11-02 00:00:00",
+    "quote": {
+      "1": 1.53,
+      "X": 4.37,
+      "2": 8.64
+    },
+    "lambdaBase": {
+      "casa": 2.01,
+      "trasferta": 0.73
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.97,
+        "under": 2.04
+      }
+    }
+  },
+  {
+    "id": "2026-sassuolo-fiorentina",
+    "campionato": "Serie A",
+    "casa": "Sassuolo",
+    "trasferta": "Fiorentina",
+    "data": "2026-11-02 00:00:00",
+    "quote": {
+      "1": 3.31,
+      "X": 3.59,
+      "2": 2.38
+    },
+    "lambdaBase": {
+      "casa": 1.31,
+      "trasferta": 1.57
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.83,
+        "under": 2.2
+      }
+    }
+  },
+  {
+    "id": "2026-venezia-udinese",
+    "campionato": "Serie A",
+    "casa": "Venezia",
+    "trasferta": "Udinese",
+    "data": "2026-11-06 00:00:00",
+    "quote": {
+      "1": 4.57,
+      "X": 3.71,
+      "2": 1.95
+    },
+    "lambdaBase": {
+      "casa": 1.06,
+      "trasferta": 1.73
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.91,
+        "under": 2.1
+      }
+    }
+  },
+  {
+    "id": "2026-cagliari-frosinone",
+    "campionato": "Serie A",
+    "casa": "Cagliari",
+    "trasferta": "Frosinone",
+    "data": "2026-11-07 00:00:00",
+    "quote": {
+      "1": 2.06,
+      "X": 3.79,
+      "2": 4.0
+    },
+    "lambdaBase": {
+      "casa": 1.78,
+      "trasferta": 1.22
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.74,
+        "under": 2.34
+      }
+    }
+  },
+  {
+    "id": "2026-parma-bologna",
+    "campionato": "Serie A",
+    "casa": "Parma",
+    "trasferta": "Bologna",
+    "data": "2026-11-07 00:00:00",
+    "quote": {
+      "1": 3.75,
+      "X": 3.29,
+      "2": 2.33
+    },
+    "lambdaBase": {
+      "casa": 1.05,
+      "trasferta": 1.39
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.29,
+        "under": 1.78
+      }
+    }
+  },
+  {
+    "id": "2026-roma-sassuolo",
+    "campionato": "Serie A",
+    "casa": "Roma",
+    "trasferta": "Sassuolo",
+    "data": "2026-11-07 00:00:00",
+    "quote": {
+      "1": 1.42,
+      "X": 5.19,
+      "2": 9.64
+    },
+    "lambdaBase": {
+      "casa": 2.43,
+      "trasferta": 0.84
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.61,
+        "under": 2.63
+      }
+    }
+  },
+  {
+    "id": "2026-torino-lecce",
+    "campionato": "Serie A",
+    "casa": "Torino",
+    "trasferta": "Lecce",
+    "data": "2026-11-07 00:00:00",
+    "quote": {
+      "1": 2.39,
+      "X": 2.68,
+      "2": 4.78
+    },
+    "lambdaBase": {
+      "casa": 1.0,
+      "trasferta": 0.63
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 4.47,
+        "under": 1.29
+      }
+    }
+  },
+  {
+    "id": "2026-fiorentina-juventus",
+    "campionato": "Serie A",
+    "casa": "Fiorentina",
+    "trasferta": "Juventus",
+    "data": "2026-11-08 00:00:00",
+    "quote": {
+      "1": 2.8,
+      "X": 3.26,
+      "2": 2.97
+    },
+    "lambdaBase": {
+      "casa": 1.26,
+      "trasferta": 1.21
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.24,
+        "under": 1.81
+      }
+    }
+  },
+  {
+    "id": "2026-genoa-milan",
+    "campionato": "Serie A",
+    "casa": "Genoa",
+    "trasferta": "Milan",
+    "data": "2026-11-08 00:00:00",
+    "quote": {
+      "1": 5.81,
+      "X": 3.97,
+      "2": 1.74
+    },
+    "lambdaBase": {
+      "casa": 0.94,
+      "trasferta": 1.89
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.88,
+        "under": 2.14
+      }
+    }
+  },
+  {
+    "id": "2026-inter-como",
+    "campionato": "Serie A",
+    "casa": "Inter",
+    "trasferta": "Como",
+    "data": "2026-11-08 00:00:00",
+    "quote": {
+      "1": 1.67,
+      "X": 4.15,
+      "2": 6.29
+    },
+    "lambdaBase": {
+      "casa": 1.99,
+      "trasferta": 0.93
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.81,
+        "under": 2.23
+      }
+    }
+  },
+  {
+    "id": "2026-monza-atalanta",
+    "campionato": "Serie A",
+    "casa": "Monza",
+    "trasferta": "Atalanta",
+    "data": "2026-11-08 00:00:00",
+    "quote": {
+      "1": 7.57,
+      "X": 4.39,
+      "2": 1.56
+    },
+    "lambdaBase": {
+      "casa": 0.84,
+      "trasferta": 2.08
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.82,
+        "under": 2.22
+      }
+    }
+  },
+  {
+    "id": "2026-napoli-lazio",
+    "campionato": "Serie A",
+    "casa": "Napoli",
+    "trasferta": "Lazio",
+    "data": "2026-11-08 00:00:00",
+    "quote": {
+      "1": 2.45,
+      "X": 3.2,
+      "2": 3.58
+    },
+    "lambdaBase": {
+      "casa": 1.3,
+      "trasferta": 1.04
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.42,
+        "under": 1.7
+      }
+    }
+  },
+  {
+    "id": "2026-como-cagliari",
+    "campionato": "Serie A",
+    "casa": "Como",
+    "trasferta": "Cagliari",
+    "data": "2026-11-21 00:00:00",
+    "quote": {
+      "1": 1.5,
+      "X": 4.39,
+      "2": 9.46
+    },
+    "lambdaBase": {
+      "casa": 1.98,
+      "trasferta": 0.67
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.05,
+        "under": 1.95
+      }
+    }
+  },
+  {
+    "id": "2026-lazio-lecce",
+    "campionato": "Serie A",
+    "casa": "Lazio",
+    "trasferta": "Lecce",
+    "data": "2026-11-21 00:00:00",
+    "quote": {
+      "1": 1.78,
+      "X": 3.47,
+      "2": 6.67
+    },
+    "lambdaBase": {
+      "casa": 1.53,
+      "trasferta": 0.68
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.66,
+        "under": 1.6
+      }
+    }
+  },
+  {
+    "id": "2026-napoli-torino",
+    "campionato": "Serie A",
+    "casa": "Napoli",
+    "trasferta": "Torino",
+    "data": "2026-11-21 00:00:00",
+    "quote": {
+      "1": 1.75,
+      "X": 3.68,
+      "2": 6.36
+    },
+    "lambdaBase": {
+      "casa": 1.67,
+      "trasferta": 0.77
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.29,
+        "under": 1.78
+      }
+    }
+  },
+  {
+    "id": "2026-parma-roma",
+    "campionato": "Serie A",
+    "casa": "Parma",
+    "trasferta": "Roma",
+    "data": "2026-11-21 00:00:00",
+    "quote": {
+      "1": 5.86,
+      "X": 3.73,
+      "2": 1.78
+    },
+    "lambdaBase": {
+      "casa": 0.85,
+      "trasferta": 1.72
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.13,
+        "under": 1.89
+      }
+    }
+  },
+  {
+    "id": "2026-atalanta-inter",
+    "campionato": "Serie A",
+    "casa": "Atalanta",
+    "trasferta": "Inter",
+    "data": "2026-11-22 00:00:00",
+    "quote": {
+      "1": 5.65,
+      "X": 4.28,
+      "2": 1.7
+    },
+    "lambdaBase": {
+      "casa": 1.08,
+      "trasferta": 2.11
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.64,
+        "under": 2.56
+      }
+    }
+  },
+  {
+    "id": "2026-bologna-udinese",
+    "campionato": "Serie A",
+    "casa": "Bologna",
+    "trasferta": "Udinese",
+    "data": "2026-11-22 00:00:00",
+    "quote": {
+      "1": 2.03,
+      "X": 3.35,
+      "2": 4.8
+    },
+    "lambdaBase": {
+      "casa": 1.47,
+      "trasferta": 0.87
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.42,
+        "under": 1.7
+      }
+    }
+  },
+  {
+    "id": "2026-juventus-venezia",
+    "campionato": "Serie A",
+    "casa": "Juventus",
+    "trasferta": "Venezia",
+    "data": "2026-11-22 00:00:00",
+    "quote": {
+      "1": 1.32,
+      "X": 5.39,
+      "2": 17.12
+    },
+    "lambdaBase": {
+      "casa": 2.2,
+      "trasferta": 0.48
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.05,
+        "under": 1.96
+      }
+    }
+  },
+  {
+    "id": "2026-milan-frosinone",
+    "campionato": "Serie A",
+    "casa": "Milan",
+    "trasferta": "Frosinone",
+    "data": "2026-11-22 00:00:00",
+    "quote": {
+      "1": 1.32,
+      "X": 5.85,
+      "2": 13.79
+    },
+    "lambdaBase": {
+      "casa": 2.54,
+      "trasferta": 0.68
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.65,
+        "under": 2.55
+      }
+    }
+  },
+  {
+    "id": "2026-sassuolo-genoa",
+    "campionato": "Serie A",
+    "casa": "Sassuolo",
+    "trasferta": "Genoa",
+    "data": "2026-11-22 00:00:00",
+    "quote": {
+      "1": 2.51,
+      "X": 3.23,
+      "2": 3.44
+    },
+    "lambdaBase": {
+      "casa": 1.31,
+      "trasferta": 1.08
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.35,
+        "under": 1.74
+      }
+    }
+  },
+  {
+    "id": "2026-monza-fiorentina",
+    "campionato": "Serie A",
+    "casa": "Monza",
+    "trasferta": "Fiorentina",
+    "data": "2026-11-23 00:00:00",
+    "quote": {
+      "1": 3.43,
+      "X": 3.4,
+      "2": 2.41
+    },
+    "lambdaBase": {
+      "casa": 1.18,
+      "trasferta": 1.44
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.07,
+        "under": 1.94
+      }
+    }
+  },
+  {
+    "id": "2026-venezia-bologna",
+    "campionato": "Serie A",
+    "casa": "Venezia",
+    "trasferta": "Bologna",
+    "data": "2026-11-27 00:00:00",
+    "quote": {
+      "1": 5.03,
+      "X": 3.77,
+      "2": 1.87
+    },
+    "lambdaBase": {
+      "casa": 1.0,
+      "trasferta": 1.77
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.93,
+        "under": 2.08
+      }
+    }
+  },
+  {
+    "id": "2026-frosinone-parma",
+    "campionato": "Serie A",
+    "casa": "Frosinone",
+    "trasferta": "Parma",
+    "data": "2026-11-28 00:00:00",
+    "quote": {
+      "1": 2.02,
+      "X": 3.57,
+      "2": 4.44
+    },
+    "lambdaBase": {
+      "casa": 1.63,
+      "trasferta": 1.03
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.03,
+        "under": 1.97
+      }
+    }
+  },
+  {
+    "id": "2026-inter-genoa",
+    "campionato": "Serie A",
+    "casa": "Inter",
+    "trasferta": "Genoa",
+    "data": "2026-11-28 00:00:00",
+    "quote": {
+      "1": 1.28,
+      "X": 6.17,
+      "2": 17.73
+    },
+    "lambdaBase": {
+      "casa": 2.52,
+      "trasferta": 0.56
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.74,
+        "under": 2.35
+      }
+    }
+  },
+  {
+    "id": "2026-torino-lazio",
+    "campionato": "Serie A",
+    "casa": "Torino",
+    "trasferta": "Lazio",
+    "data": "2026-11-28 00:00:00",
+    "quote": {
+      "1": 3.98,
+      "X": 3.08,
+      "2": 2.36
+    },
+    "lambdaBase": {
+      "casa": 0.9,
+      "trasferta": 1.25
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.76,
+        "under": 1.57
+      }
+    }
+  },
+  {
+    "id": "2026-como-juventus",
+    "campionato": "Serie A",
+    "casa": "Como",
+    "trasferta": "Juventus",
+    "data": "2026-11-29 00:00:00",
+    "quote": {
+      "1": 2.84,
+      "X": 3.21,
+      "2": 2.98
+    },
+    "lambdaBase": {
+      "casa": 1.21,
+      "trasferta": 1.18
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.34,
+        "under": 1.75
+      }
+    }
+  },
+  {
+    "id": "2026-roma-monza",
+    "campionato": "Serie A",
+    "casa": "Roma",
+    "trasferta": "Monza",
+    "data": "2026-11-29 00:00:00",
+    "quote": {
+      "1": 1.34,
+      "X": 5.43,
+      "2": 14.49
+    },
+    "lambdaBase": {
+      "casa": 2.31,
+      "trasferta": 0.58
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.86,
+        "under": 2.16
+      }
+    }
+  },
+  {
+    "id": "2026-sassuolo-napoli",
+    "campionato": "Serie A",
+    "casa": "Sassuolo",
+    "trasferta": "Napoli",
+    "data": "2026-11-29 00:00:00",
+    "quote": {
+      "1": 9.61,
+      "X": 4.76,
+      "2": 1.46
+    },
+    "lambdaBase": {
+      "casa": 0.74,
+      "trasferta": 2.19
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.82,
+        "under": 2.22
+      }
+    }
+  },
+  {
+    "id": "2026-udinese-fiorentina",
+    "campionato": "Serie A",
+    "casa": "Udinese",
+    "trasferta": "Fiorentina",
+    "data": "2026-11-29 00:00:00",
+    "quote": {
+      "1": 3.09,
+      "X": 3.52,
+      "2": 2.55
+    },
+    "lambdaBase": {
+      "casa": 1.33,
+      "trasferta": 1.48
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.89,
+        "under": 2.13
+      }
+    }
+  },
+  {
+    "id": "2026-cagliari-milan",
+    "campionato": "Serie A",
+    "casa": "Cagliari",
+    "trasferta": "Milan",
+    "data": "2026-11-30 00:00:00",
+    "quote": {
+      "1": 6.28,
+      "X": 4.54,
+      "2": 1.61
+    },
+    "lambdaBase": {
+      "casa": 1.06,
+      "trasferta": 2.25
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.58,
+        "under": 2.73
+      }
+    }
+  },
+  {
+    "id": "2026-lecce-atalanta",
+    "campionato": "Serie A",
+    "casa": "Lecce",
+    "trasferta": "Atalanta",
+    "data": "2026-11-30 00:00:00",
+    "quote": {
+      "1": 12.74,
+      "X": 4.99,
+      "2": 1.39
+    },
+    "lambdaBase": {
+      "casa": 0.59,
+      "trasferta": 2.16
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.97,
+        "under": 2.03
+      }
+    }
+  },
+  {
+    "id": "2026-bologna-roma",
+    "campionato": "Serie A",
+    "casa": "Bologna",
+    "trasferta": "Roma",
+    "data": "2026-12-04 00:00:00",
+    "quote": {
+      "1": 2.72,
+      "X": 3.19,
+      "2": 3.14
+    },
+    "lambdaBase": {
+      "casa": 1.24,
+      "trasferta": 1.13
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.38,
+        "under": 1.73
+      }
+    }
+  },
+  {
+    "id": "2026-frosinone-inter",
+    "campionato": "Serie A",
+    "casa": "Frosinone",
+    "trasferta": "Inter",
+    "data": "2026-12-05 00:00:00",
+    "quote": {
+      "1": 10.93,
+      "X": 6.25,
+      "2": 1.34
+    },
+    "lambdaBase": {
+      "casa": 0.96,
+      "trasferta": 2.95
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.38,
+        "under": 3.65
+      }
+    }
+  },
+  {
+    "id": "2026-monza-como",
+    "campionato": "Serie A",
+    "casa": "Monza",
+    "trasferta": "Como",
+    "data": "2026-12-05 00:00:00",
+    "quote": {
+      "1": 5.86,
+      "X": 3.73,
+      "2": 1.78
+    },
+    "lambdaBase": {
+      "casa": 0.85,
+      "trasferta": 1.72
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.12,
+        "under": 1.89
+      }
+    }
+  },
+  {
+    "id": "2026-napoli-lecce",
+    "campionato": "Serie A",
+    "casa": "Napoli",
+    "trasferta": "Lecce",
+    "data": "2026-12-05 00:00:00",
+    "quote": {
+      "1": 1.62,
+      "X": 3.68,
+      "2": 8.98
+    },
+    "lambdaBase": {
+      "casa": 1.6,
+      "trasferta": 0.55
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.78,
+        "under": 1.56
+      }
+    }
+  },
+  {
+    "id": "2026-genoa-torino",
+    "campionato": "Serie A",
+    "casa": "Genoa",
+    "trasferta": "Torino",
+    "data": "2026-12-06 00:00:00",
+    "quote": {
+      "1": 3.16,
+      "X": 3.01,
+      "2": 2.84
+    },
+    "lambdaBase": {
+      "casa": 1.03,
+      "trasferta": 1.1
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.79,
+        "under": 1.56
+      }
+    }
+  },
+  {
+    "id": "2026-juventus-udinese",
+    "campionato": "Serie A",
+    "casa": "Juventus",
+    "trasferta": "Udinese",
+    "data": "2026-12-06 00:00:00",
+    "quote": {
+      "1": 1.61,
+      "X": 3.93,
+      "2": 8.12
+    },
+    "lambdaBase": {
+      "casa": 1.77,
+      "trasferta": 0.67
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.3,
+        "under": 1.77
+      }
+    }
+  },
+  {
+    "id": "2026-lazio-atalanta",
+    "campionato": "Serie A",
+    "casa": "Lazio",
+    "trasferta": "Atalanta",
+    "data": "2026-12-06 00:00:00",
+    "quote": {
+      "1": 3.47,
+      "X": 3.51,
+      "2": 2.34
+    },
+    "lambdaBase": {
+      "casa": 1.22,
+      "trasferta": 1.53
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.94,
+        "under": 2.06
+      }
+    }
+  },
+  {
+    "id": "2026-milan-parma",
+    "campionato": "Serie A",
+    "casa": "Milan",
+    "trasferta": "Parma",
+    "data": "2026-12-06 00:00:00",
+    "quote": {
+      "1": 1.55,
+      "X": 4.03,
+      "2": 9.35
+    },
+    "lambdaBase": {
+      "casa": 1.79,
+      "trasferta": 0.6
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.37,
+        "under": 1.73
+      }
+    }
+  },
+  {
+    "id": "2026-fiorentina-cagliari",
+    "campionato": "Serie A",
+    "casa": "Fiorentina",
+    "trasferta": "Cagliari",
+    "data": "2026-12-07 00:00:00",
+    "quote": {
+      "1": 1.54,
+      "X": 4.33,
+      "2": 8.26
+    },
+    "lambdaBase": {
+      "casa": 2.01,
+      "trasferta": 0.76
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.95,
+        "under": 2.06
+      }
+    }
+  },
+  {
+    "id": "2026-venezia-sassuolo",
+    "campionato": "Serie A",
+    "casa": "Venezia",
+    "trasferta": "Sassuolo",
+    "data": "2026-12-07 00:00:00",
+    "quote": {
+      "1": 4.27,
+      "X": 4.01,
+      "2": 1.94
+    },
+    "lambdaBase": {
+      "casa": 1.26,
+      "trasferta": 1.95
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.62,
+        "under": 2.61
+      }
+    }
+  },
+  {
+    "id": "2026-udinese-frosinone",
+    "campionato": "Serie A",
+    "casa": "Udinese",
+    "trasferta": "Frosinone",
+    "data": "2026-12-11 00:00:00",
+    "quote": {
+      "1": 1.99,
+      "X": 3.44,
+      "2": 4.85
+    },
+    "lambdaBase": {
+      "casa": 1.54,
+      "trasferta": 0.9
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.29,
+        "under": 1.78
+      }
+    }
+  },
+  {
+    "id": "2026-cagliari-venezia",
+    "campionato": "Serie A",
+    "casa": "Cagliari",
+    "trasferta": "Venezia",
+    "data": "2026-12-12 00:00:00",
+    "quote": {
+      "1": 1.96,
+      "X": 3.45,
+      "2": 5.03
+    },
+    "lambdaBase": {
+      "casa": 1.54,
+      "trasferta": 0.88
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.32,
+        "under": 1.76
+      }
+    }
+  },
+  {
+    "id": "2026-como-bologna",
+    "campionato": "Serie A",
+    "casa": "Como",
+    "trasferta": "Bologna",
+    "data": "2026-12-12 00:00:00",
+    "quote": {
+      "1": 2.17,
+      "X": 3.53,
+      "2": 3.92
+    },
+    "lambdaBase": {
+      "casa": 1.58,
+      "trasferta": 1.12
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.99,
+        "under": 2.01
+      }
+    }
+  },
+  {
+    "id": "2026-lecce-sassuolo",
+    "campionato": "Serie A",
+    "casa": "Lecce",
+    "trasferta": "Sassuolo",
+    "data": "2026-12-12 00:00:00",
+    "quote": {
+      "1": 3.79,
+      "X": 3.44,
+      "2": 2.24
+    },
+    "lambdaBase": {
+      "casa": 1.11,
+      "trasferta": 1.5
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.08,
+        "under": 1.93
+      }
+    }
+  },
+  {
+    "id": "2026-inter-torino",
+    "campionato": "Serie A",
+    "casa": "Inter",
+    "trasferta": "Torino",
+    "data": "2026-12-13 00:00:00",
+    "quote": {
+      "1": 1.34,
+      "X": 5.67,
+      "2": 12.56
+    },
+    "lambdaBase": {
+      "casa": 2.52,
+      "trasferta": 0.72
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.64,
+        "under": 2.57
+      }
+    }
+  },
+  {
+    "id": "2026-lazio-roma",
+    "campionato": "Serie A",
+    "casa": "Lazio",
+    "trasferta": "Roma",
+    "data": "2026-12-13 00:00:00",
+    "quote": {
+      "1": 2.83,
+      "X": 3.33,
+      "2": 2.89
+    },
+    "lambdaBase": {
+      "casa": 1.29,
+      "trasferta": 1.27
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.13,
+        "under": 1.89
+      }
+    }
+  },
+  {
+    "id": "2026-napoli-milan",
+    "campionato": "Serie A",
+    "casa": "Napoli",
+    "trasferta": "Milan",
+    "data": "2026-12-13 00:00:00",
+    "quote": {
+      "1": 2.39,
+      "X": 3.48,
+      "2": 3.4
+    },
+    "lambdaBase": {
+      "casa": 1.5,
+      "trasferta": 1.22
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.97,
+        "under": 2.03
+      }
+    }
+  },
+  {
+    "id": "2026-parma-fiorentina",
+    "campionato": "Serie A",
+    "casa": "Parma",
+    "trasferta": "Fiorentina",
+    "data": "2026-12-13 00:00:00",
+    "quote": {
+      "1": 3.83,
+      "X": 3.14,
+      "2": 2.38
+    },
+    "lambdaBase": {
+      "casa": 0.96,
+      "trasferta": 1.28
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.59,
+        "under": 1.63
+      }
+    }
+  },
+  {
+    "id": "2026-atalanta-genoa",
+    "campionato": "Serie A",
+    "casa": "Atalanta",
+    "trasferta": "Genoa",
+    "data": "2026-12-14 00:00:00",
+    "quote": {
+      "1": 1.54,
+      "X": 4.35,
+      "2": 8.27
+    },
+    "lambdaBase": {
+      "casa": 2.02,
+      "trasferta": 0.76
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.94,
+        "under": 2.07
+      }
+    }
+  },
+  {
+    "id": "2026-juventus-monza",
+    "campionato": "Serie A",
+    "casa": "Juventus",
+    "trasferta": "Monza",
+    "data": "2026-12-14 00:00:00",
+    "quote": {
+      "1": 1.43,
+      "X": 4.66,
+      "2": 11.98
+    },
+    "lambdaBase": {
+      "casa": 2.03,
+      "trasferta": 0.57
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.12,
+        "under": 1.89
+      }
+    }
+  },
+  {
+    "id": "2026-frosinone-lazio",
+    "campionato": "Serie A",
+    "casa": "Frosinone",
+    "trasferta": "Lazio",
+    "data": "2026-12-18 00:00:00",
+    "quote": {
+      "1": 4.35,
+      "X": 4.12,
+      "2": 1.9
+    },
+    "lambdaBase": {
+      "casa": 1.29,
+      "trasferta": 2.04
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.56,
+        "under": 2.77
+      }
+    }
+  },
+  {
+    "id": "2026-lecce-inter",
+    "campionato": "Serie A",
+    "casa": "Lecce",
+    "trasferta": "Inter",
+    "data": "2026-12-18 00:00:00",
+    "quote": {
+      "1": 23.36,
+      "X": 6.97,
+      "2": 1.23
+    },
+    "lambdaBase": {
+      "casa": 0.49,
+      "trasferta": 2.64
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.71,
+        "under": 2.41
+      }
+    }
+  },
+  {
+    "id": "2026-milan-como",
+    "campionato": "Serie A",
+    "casa": "Milan",
+    "trasferta": "Como",
+    "data": "2026-12-19 00:00:00",
+    "quote": {
+      "1": 2.24,
+      "X": 3.32,
+      "2": 3.95
+    },
+    "lambdaBase": {
+      "casa": 1.42,
+      "trasferta": 1.01
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.29,
+        "under": 1.77
+      }
+    }
+  },
+  {
+    "id": "2026-roma-juventus",
+    "campionato": "Serie A",
+    "casa": "Roma",
+    "trasferta": "Juventus",
+    "data": "2026-12-19 00:00:00",
+    "quote": {
+      "1": 2.28,
+      "X": 3.13,
+      "2": 4.12
+    },
+    "lambdaBase": {
+      "casa": 1.29,
+      "trasferta": 0.9
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.68,
+        "under": 1.6
+      }
+    }
+  },
+  {
+    "id": "2026-sassuolo-parma",
+    "campionato": "Serie A",
+    "casa": "Sassuolo",
+    "trasferta": "Parma",
+    "data": "2026-12-19 00:00:00",
+    "quote": {
+      "1": 2.4,
+      "X": 3.08,
+      "2": 3.88
+    },
+    "lambdaBase": {
+      "casa": 1.24,
+      "trasferta": 0.92
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.75,
+        "under": 1.57
+      }
+    }
+  },
+  {
+    "id": "2026-atalanta-napoli",
+    "campionato": "Serie A",
+    "casa": "Atalanta",
+    "trasferta": "Napoli",
+    "data": "2026-12-20 00:00:00",
+    "quote": {
+      "1": 3.52,
+      "X": 3.54,
+      "2": 2.31
+    },
+    "lambdaBase": {
+      "casa": 1.22,
+      "trasferta": 1.56
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.91,
+        "under": 2.1
+      }
+    }
+  },
+  {
+    "id": "2026-fiorentina-bologna",
+    "campionato": "Serie A",
+    "casa": "Fiorentina",
+    "trasferta": "Bologna",
+    "data": "2026-12-20 00:00:00",
+    "quote": {
+      "1": 2.15,
+      "X": 3.68,
+      "2": 3.81
+    },
+    "lambdaBase": {
+      "casa": 1.69,
+      "trasferta": 1.22
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.81,
+        "under": 2.23
+      }
+    }
+  },
+  {
+    "id": "2026-genoa-udinese",
+    "campionato": "Serie A",
+    "casa": "Genoa",
+    "trasferta": "Udinese",
+    "data": "2026-12-20 00:00:00",
+    "quote": {
+      "1": 2.94,
+      "X": 3.19,
+      "2": 2.89
+    },
+    "lambdaBase": {
+      "casa": 1.18,
+      "trasferta": 1.2
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.36,
+        "under": 1.73
+      }
+    }
+  },
+  {
+    "id": "2026-torino-cagliari",
+    "campionato": "Serie A",
+    "casa": "Torino",
+    "trasferta": "Cagliari",
+    "data": "2026-12-20 00:00:00",
+    "quote": {
+      "1": 1.97,
+      "X": 3.21,
+      "2": 5.55
+    },
+    "lambdaBase": {
+      "casa": 1.37,
+      "trasferta": 0.72
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.89,
+        "under": 1.53
+      }
+    }
+  },
+  {
+    "id": "2026-venezia-monza",
+    "campionato": "Serie A",
+    "casa": "Venezia",
+    "trasferta": "Monza",
+    "data": "2026-12-20 00:00:00",
+    "quote": {
+      "1": 2.95,
+      "X": 3.25,
+      "2": 2.83
+    },
+    "lambdaBase": {
+      "casa": 1.21,
+      "trasferta": 1.25
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.25,
+        "under": 1.8
+      }
+    }
+  },
+  {
+    "id": "2026-cagliari-genoa",
+    "campionato": "Serie A",
+    "casa": "Cagliari",
+    "trasferta": "Genoa",
+    "data": "2027-01-02 00:00:00",
+    "quote": {
+      "1": 2.77,
+      "X": 3.18,
+      "2": 3.08
+    },
+    "lambdaBase": {
+      "casa": 1.22,
+      "trasferta": 1.14
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.39,
+        "under": 1.72
+      }
+    }
+  },
+  {
+    "id": "2026-fiorentina-lazio",
+    "campionato": "Serie A",
+    "casa": "Fiorentina",
+    "trasferta": "Lazio",
+    "data": "2027-01-02 00:00:00",
+    "quote": {
+      "1": 2.7,
+      "X": 3.37,
+      "2": 3.0
+    },
+    "lambdaBase": {
+      "casa": 1.34,
+      "trasferta": 1.26
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.08,
+        "under": 1.93
+      }
+    }
+  },
+  {
+    "id": "2026-monza-milan",
+    "campionato": "Serie A",
+    "casa": "Monza",
+    "trasferta": "Milan",
+    "data": "2027-01-02 00:00:00",
+    "quote": {
+      "1": 6.26,
+      "X": 4.18,
+      "2": 1.66
+    },
+    "lambdaBase": {
+      "casa": 0.95,
+      "trasferta": 2.01
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.79,
+        "under": 2.27
+      }
+    }
+  },
+  {
+    "id": "2026-roma-frosinone",
+    "campionato": "Serie A",
+    "casa": "Roma",
+    "trasferta": "Frosinone",
+    "data": "2027-01-02 00:00:00",
+    "quote": {
+      "1": 1.26,
+      "X": 6.41,
+      "2": 19.69
+    },
+    "lambdaBase": {
+      "casa": 2.55,
+      "trasferta": 0.53
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.74,
+        "under": 2.35
+      }
+    }
+  },
+  {
+    "id": "2026-torino-venezia",
+    "campionato": "Serie A",
+    "casa": "Torino",
+    "trasferta": "Venezia",
+    "data": "2027-01-02 00:00:00",
+    "quote": {
+      "1": 1.87,
+      "X": 3.22,
+      "2": 6.52
+    },
+    "lambdaBase": {
+      "casa": 1.37,
+      "trasferta": 0.62
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 3.13,
+        "under": 1.47
+      }
+    }
+  },
+  {
+    "id": "2026-bologna-juventus",
+    "campionato": "Serie A",
+    "casa": "Bologna",
+    "trasferta": "Juventus",
+    "data": "2027-01-03 00:00:00",
+    "quote": {
+      "1": 3.3,
+      "X": 3.08,
+      "2": 2.69
+    },
+    "lambdaBase": {
+      "casa": 1.04,
+      "trasferta": 1.17
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.64,
+        "under": 1.61
+      }
+    }
+  },
+  {
+    "id": "2026-como-lecce",
+    "campionato": "Serie A",
+    "casa": "Como",
+    "trasferta": "Lecce",
+    "data": "2027-01-03 00:00:00",
+    "quote": {
+      "1": 1.62,
+      "X": 3.81,
+      "2": 8.36
+    },
+    "lambdaBase": {
+      "casa": 1.69,
+      "trasferta": 0.62
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.48,
+        "under": 1.67
+      }
+    }
+  },
+  {
+    "id": "2026-inter-sassuolo",
+    "campionato": "Serie A",
+    "casa": "Inter",
+    "trasferta": "Sassuolo",
+    "data": "2027-01-03 00:00:00",
+    "quote": {
+      "1": 1.23,
+      "X": 7.97,
+      "2": 15.65
+    },
+    "lambdaBase": {
+      "casa": 3.46,
+      "trasferta": 0.92
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.28,
+        "under": 4.61
+      }
+    }
+  },
+  {
+    "id": "2026-parma-napoli",
+    "campionato": "Serie A",
+    "casa": "Parma",
+    "trasferta": "Napoli",
+    "data": "2027-01-03 00:00:00",
+    "quote": {
+      "1": 9.33,
+      "X": 4.01,
+      "2": 1.55
+    },
+    "lambdaBase": {
+      "casa": 0.6,
+      "trasferta": 1.78
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.39,
+        "under": 1.72
+      }
+    }
+  },
+  {
+    "id": "2026-udinese-atalanta",
+    "campionato": "Serie A",
+    "casa": "Udinese",
+    "trasferta": "Atalanta",
+    "data": "2027-01-03 00:00:00",
+    "quote": {
+      "1": 5.58,
+      "X": 3.86,
+      "2": 1.78
+    },
+    "lambdaBase": {
+      "casa": 0.94,
+      "trasferta": 1.81
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.95,
+        "under": 2.06
+      }
+    }
+  },
+  {
+    "id": "2026-genoa-monza",
+    "campionato": "Serie A",
+    "casa": "Genoa",
+    "trasferta": "Monza",
+    "data": "2027-01-05 00:00:00",
+    "quote": {
+      "1": 2.38,
+      "X": 3.22,
+      "2": 3.72
+    },
+    "lambdaBase": {
+      "casa": 1.33,
+      "trasferta": 1.02
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.4,
+        "under": 1.71
+      }
+    }
+  },
+  {
+    "id": "2026-milan-fiorentina",
+    "campionato": "Serie A",
+    "casa": "Milan",
+    "trasferta": "Fiorentina",
+    "data": "2027-01-05 00:00:00",
+    "quote": {
+      "1": 1.8,
+      "X": 3.8,
+      "2": 5.56
+    },
+    "lambdaBase": {
+      "casa": 1.77,
+      "trasferta": 0.92
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.0,
+        "under": 2.0
+      }
+    }
+  },
+  {
+    "id": "2026-venezia-roma",
+    "campionato": "Serie A",
+    "casa": "Venezia",
+    "trasferta": "Roma",
+    "data": "2027-01-05 00:00:00",
+    "quote": {
+      "1": 6.5,
+      "X": 3.94,
+      "2": 1.69
+    },
+    "lambdaBase": {
+      "casa": 0.84,
+      "trasferta": 1.84
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.02,
+        "under": 1.98
+      }
+    }
+  },
+  {
+    "id": "2026-atalanta-como",
+    "campionato": "Serie A",
+    "casa": "Atalanta",
+    "trasferta": "Como",
+    "data": "2027-01-06 00:00:00",
+    "quote": {
+      "1": 2.74,
+      "X": 3.44,
+      "2": 2.9
+    },
+    "lambdaBase": {
+      "casa": 1.38,
+      "trasferta": 1.33
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.98,
+        "under": 2.02
+      }
+    }
+  },
+  {
+    "id": "2026-frosinone-bologna",
+    "campionato": "Serie A",
+    "casa": "Frosinone",
+    "trasferta": "Bologna",
+    "data": "2027-01-06 00:00:00",
+    "quote": {
+      "1": 2.91,
+      "X": 3.75,
+      "2": 2.57
+    },
+    "lambdaBase": {
+      "casa": 1.52,
+      "trasferta": 1.63
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.65,
+        "under": 2.54
+      }
+    }
+  },
+  {
+    "id": "2026-juventus-torino",
+    "campionato": "Serie A",
+    "casa": "Juventus",
+    "trasferta": "Torino",
+    "data": "2027-01-06 00:00:00",
+    "quote": {
+      "1": 1.75,
+      "X": 3.47,
+      "2": 7.16
+    },
+    "lambdaBase": {
+      "casa": 1.52,
+      "trasferta": 0.63
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.78,
+        "under": 1.56
+      }
+    }
+  },
+  {
+    "id": "2026-lazio-inter",
+    "campionato": "Serie A",
+    "casa": "Lazio",
+    "trasferta": "Inter",
+    "data": "2027-01-06 00:00:00",
+    "quote": {
+      "1": 5.89,
+      "X": 4.25,
+      "2": 1.68
+    },
+    "lambdaBase": {
+      "casa": 1.03,
+      "trasferta": 2.07
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.69,
+        "under": 2.44
+      }
+    }
+  },
+  {
+    "id": "2026-lecce-parma",
+    "campionato": "Serie A",
+    "casa": "Lecce",
+    "trasferta": "Parma",
+    "data": "2027-01-06 00:00:00",
+    "quote": {
+      "1": 3.29,
+      "X": 2.74,
+      "2": 3.02
+    },
+    "lambdaBase": {
+      "casa": 0.87,
+      "trasferta": 0.92
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 3.76,
+        "under": 1.36
+      }
+    }
+  },
+  {
+    "id": "2026-napoli-cagliari",
+    "campionato": "Serie A",
+    "casa": "Napoli",
+    "trasferta": "Cagliari",
+    "data": "2027-01-07 00:00:00",
+    "quote": {
+      "1": 1.37,
+      "X": 5.13,
+      "2": 13.77
+    },
+    "lambdaBase": {
+      "casa": 2.19,
+      "trasferta": 0.57
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.97,
+        "under": 2.04
+      }
+    }
+  },
+  {
+    "id": "2026-sassuolo-udinese",
+    "campionato": "Serie A",
+    "casa": "Sassuolo",
+    "trasferta": "Udinese",
+    "data": "2027-01-07 00:00:00",
+    "quote": {
+      "1": 2.66,
+      "X": 3.62,
+      "2": 2.87
+    },
+    "lambdaBase": {
+      "casa": 1.51,
+      "trasferta": 1.45
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.77,
+        "under": 2.3
+      }
+    }
+  },
+  {
+    "id": "2026-bologna-genoa",
+    "campionato": "Serie A",
+    "casa": "Bologna",
+    "trasferta": "Genoa",
+    "data": "2027-01-09 00:00:00",
+    "quote": {
+      "1": 1.94,
+      "X": 3.29,
+      "2": 5.5
+    },
+    "lambdaBase": {
+      "casa": 1.43,
+      "trasferta": 0.75
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.71,
+        "under": 1.58
+      }
+    }
+  },
+  {
+    "id": "2026-monza-frosinone",
+    "campionato": "Serie A",
+    "casa": "Monza",
+    "trasferta": "Frosinone",
+    "data": "2027-01-09 00:00:00",
+    "quote": {
+      "1": 2.11,
+      "X": 3.5,
+      "2": 4.16
+    },
+    "lambdaBase": {
+      "casa": 1.56,
+      "trasferta": 1.05
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.07,
+        "under": 1.93
+      }
+    }
+  },
+  {
+    "id": "2026-roma-milan",
+    "campionato": "Serie A",
+    "casa": "Roma",
+    "trasferta": "Milan",
+    "data": "2027-01-09 00:00:00",
+    "quote": {
+      "1": 2.25,
+      "X": 3.42,
+      "2": 3.78
+    },
+    "lambdaBase": {
+      "casa": 1.49,
+      "trasferta": 1.1
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.1,
+        "under": 1.91
+      }
+    }
+  },
+  {
+    "id": "2026-como-lazio",
+    "campionato": "Serie A",
+    "casa": "Como",
+    "trasferta": "Lazio",
+    "data": "2027-01-10 00:00:00",
+    "quote": {
+      "1": 2.67,
+      "X": 3.34,
+      "2": 3.07
+    },
+    "lambdaBase": {
+      "casa": 1.34,
+      "trasferta": 1.23
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.12,
+        "under": 1.89
+      }
+    }
+  },
+  {
+    "id": "2026-fiorentina-lecce",
+    "campionato": "Serie A",
+    "casa": "Fiorentina",
+    "trasferta": "Lecce",
+    "data": "2027-01-10 00:00:00",
+    "quote": {
+      "1": 1.73,
+      "X": 3.66,
+      "2": 6.79
+    },
+    "lambdaBase": {
+      "casa": 1.65,
+      "trasferta": 0.72
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.39,
+        "under": 1.72
+      }
+    }
+  },
+  {
+    "id": "2026-inter-juventus",
+    "campionato": "Serie A",
+    "casa": "Inter",
+    "trasferta": "Juventus",
+    "data": "2027-01-10 00:00:00",
+    "quote": {
+      "1": 1.78,
+      "X": 4.02,
+      "2": 5.29
+    },
+    "lambdaBase": {
+      "casa": 1.94,
+      "trasferta": 1.04
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.77,
+        "under": 2.3
+      }
+    }
+  },
+  {
+    "id": "2026-parma-venezia",
+    "campionato": "Serie A",
+    "casa": "Parma",
+    "trasferta": "Venezia",
+    "data": "2027-01-10 00:00:00",
+    "quote": {
+      "1": 2.12,
+      "X": 3.2,
+      "2": 4.61
+    },
+    "lambdaBase": {
+      "casa": 1.36,
+      "trasferta": 0.84
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.65,
+        "under": 1.6
+      }
+    }
+  },
+  {
+    "id": "2026-torino-atalanta",
+    "campionato": "Serie A",
+    "casa": "Torino",
+    "trasferta": "Atalanta",
+    "data": "2027-01-10 00:00:00",
+    "quote": {
+      "1": 5.31,
+      "X": 3.4,
+      "2": 1.93
+    },
+    "lambdaBase": {
+      "casa": 0.81,
+      "trasferta": 1.5
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.46,
+        "under": 1.68
+      }
+    }
+  },
+  {
+    "id": "2026-cagliari-sassuolo",
+    "campionato": "Serie A",
+    "casa": "Cagliari",
+    "trasferta": "Sassuolo",
+    "data": "2027-01-11 00:00:00",
+    "quote": {
+      "1": 2.65,
+      "X": 3.8,
+      "2": 2.79
+    },
+    "lambdaBase": {
+      "casa": 1.63,
+      "trasferta": 1.59
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.61,
+        "under": 2.63
+      }
+    }
+  },
+  {
+    "id": "2026-udinese-napoli",
+    "campionato": "Serie A",
+    "casa": "Udinese",
+    "trasferta": "Napoli",
+    "data": "2027-01-11 00:00:00",
+    "quote": {
+      "1": 7.27,
+      "X": 3.9,
+      "2": 1.65
+    },
+    "lambdaBase": {
+      "casa": 0.74,
+      "trasferta": 1.78
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.19,
+        "under": 1.84
+      }
+    }
+  },
+  {
+    "id": "2026-atalanta-roma",
+    "campionato": "Serie A",
+    "casa": "Atalanta",
+    "trasferta": "Roma",
+    "data": "2027-01-17 00:00:00",
+    "quote": {
+      "1": 2.28,
+      "X": 3.55,
+      "2": 3.57
+    },
+    "lambdaBase": {
+      "casa": 1.57,
+      "trasferta": 1.22
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.91,
+        "under": 2.1
+      }
+    }
+  },
+  {
+    "id": "2026-cagliari-como",
+    "campionato": "Serie A",
+    "casa": "Cagliari",
+    "trasferta": "Como",
+    "data": "2027-01-17 00:00:00",
+    "quote": {
+      "1": 5.86,
+      "X": 3.81,
+      "2": 1.76
+    },
+    "lambdaBase": {
+      "casa": 0.88,
+      "trasferta": 1.77
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.04,
+        "under": 1.96
+      }
+    }
+  },
+  {
+    "id": "2026-juventus-genoa",
+    "campionato": "Serie A",
+    "casa": "Juventus",
+    "trasferta": "Genoa",
+    "data": "2027-01-17 00:00:00",
+    "quote": {
+      "1": 1.54,
+      "X": 3.87,
+      "2": 11.07
+    },
+    "lambdaBase": {
+      "casa": 1.65,
+      "trasferta": 0.47
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.83,
+        "under": 1.55
+      }
+    }
+  },
+  {
+    "id": "2026-lazio-bologna",
+    "campionato": "Serie A",
+    "casa": "Lazio",
+    "trasferta": "Bologna",
+    "data": "2027-01-17 00:00:00",
+    "quote": {
+      "1": 2.06,
+      "X": 3.72,
+      "2": 4.07
+    },
+    "lambdaBase": {
+      "casa": 1.73,
+      "trasferta": 1.17
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.82,
+        "under": 2.22
+      }
+    }
+  },
+  {
+    "id": "2026-lecce-udinese",
+    "campionato": "Serie A",
+    "casa": "Lecce",
+    "trasferta": "Udinese",
+    "data": "2027-01-17 00:00:00",
+    "quote": {
+      "1": 4.47,
+      "X": 3.24,
+      "2": 2.14
+    },
+    "lambdaBase": {
+      "casa": 0.89,
+      "trasferta": 1.39
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.54,
+        "under": 1.65
+      }
+    }
+  },
+  {
+    "id": "2026-milan-torino",
+    "campionato": "Serie A",
+    "casa": "Milan",
+    "trasferta": "Torino",
+    "data": "2027-01-17 00:00:00",
+    "quote": {
+      "1": 1.7,
+      "X": 3.92,
+      "2": 6.4
+    },
+    "lambdaBase": {
+      "casa": 1.83,
+      "trasferta": 0.84
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.02,
+        "under": 1.98
+      }
+    }
+  },
+  {
+    "id": "2026-napoli-fiorentina",
+    "campionato": "Serie A",
+    "casa": "Napoli",
+    "trasferta": "Fiorentina",
+    "data": "2027-01-17 00:00:00",
+    "quote": {
+      "1": 1.7,
+      "X": 4.0,
+      "2": 6.21
+    },
+    "lambdaBase": {
+      "casa": 1.89,
+      "trasferta": 0.89
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.93,
+        "under": 2.08
+      }
+    }
+  },
+  {
+    "id": "2026-parma-inter",
+    "campionato": "Serie A",
+    "casa": "Parma",
+    "trasferta": "Inter",
+    "data": "2027-01-17 00:00:00",
+    "quote": {
+      "1": 15.17,
+      "X": 6.06,
+      "2": 1.3
+    },
+    "lambdaBase": {
+      "casa": 0.65,
+      "trasferta": 2.57
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.65,
+        "under": 2.53
+      }
+    }
+  },
+  {
+    "id": "2026-sassuolo-monza",
+    "campionato": "Serie A",
+    "casa": "Sassuolo",
+    "trasferta": "Monza",
+    "data": "2027-01-17 00:00:00",
+    "quote": {
+      "1": 2.33,
+      "X": 3.47,
+      "2": 3.53
+    },
+    "lambdaBase": {
+      "casa": 1.51,
+      "trasferta": 1.19
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.99,
+        "under": 2.01
+      }
+    }
+  },
+  {
+    "id": "2026-venezia-frosinone",
+    "campionato": "Serie A",
+    "casa": "Venezia",
+    "trasferta": "Frosinone",
+    "data": "2027-01-17 00:00:00",
+    "quote": {
+      "1": 2.71,
+      "X": 3.44,
+      "2": 2.94
+    },
+    "lambdaBase": {
+      "casa": 1.39,
+      "trasferta": 1.33
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.97,
+        "under": 2.03
+      }
+    }
+  },
+  {
+    "id": "2026-bologna-atalanta",
+    "campionato": "Serie A",
+    "casa": "Bologna",
+    "trasferta": "Atalanta",
+    "data": "2027-01-24 00:00:00",
+    "quote": {
+      "1": 3.8,
+      "X": 3.22,
+      "2": 2.35
+    },
+    "lambdaBase": {
+      "casa": 1.0,
+      "trasferta": 1.34
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.43,
+        "under": 1.7
+      }
+    }
+  },
+  {
+    "id": "2026-como-napoli",
+    "campionato": "Serie A",
+    "casa": "Como",
+    "trasferta": "Napoli",
+    "data": "2027-01-24 00:00:00",
+    "quote": {
+      "1": 3.96,
+      "X": 3.25,
+      "2": 2.28
+    },
+    "lambdaBase": {
+      "casa": 0.98,
+      "trasferta": 1.37
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.42,
+        "under": 1.71
+      }
+    }
+  },
+  {
+    "id": "2026-fiorentina-sassuolo",
+    "campionato": "Serie A",
+    "casa": "Fiorentina",
+    "trasferta": "Sassuolo",
+    "data": "2027-01-24 00:00:00",
+    "quote": {
+      "1": 1.7,
+      "X": 4.47,
+      "2": 5.28
+    },
+    "lambdaBase": {
+      "casa": 2.27,
+      "trasferta": 1.23
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.49,
+        "under": 3.03
+      }
+    }
+  },
+  {
+    "id": "2026-frosinone-milan",
+    "campionato": "Serie A",
+    "casa": "Frosinone",
+    "trasferta": "Milan",
+    "data": "2027-01-24 00:00:00",
+    "quote": {
+      "1": 4.8,
+      "X": 4.65,
+      "2": 1.73
+    },
+    "lambdaBase": {
+      "casa": 1.42,
+      "trasferta": 2.45
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.37,
+        "under": 3.71
+      }
+    }
+  },
+  {
+    "id": "2026-genoa-parma",
+    "campionato": "Serie A",
+    "casa": "Genoa",
+    "trasferta": "Parma",
+    "data": "2027-01-24 00:00:00",
+    "quote": {
+      "1": 2.55,
+      "X": 2.79,
+      "2": 4.01
+    },
+    "lambdaBase": {
+      "casa": 1.03,
+      "trasferta": 0.77
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 3.7,
+        "under": 1.37
+      }
+    }
+  },
+  {
+    "id": "2026-inter-venezia",
+    "campionato": "Serie A",
+    "casa": "Inter",
+    "trasferta": "Venezia",
+    "data": "2027-01-24 00:00:00",
+    "quote": {
+      "1": 1.16,
+      "X": 9.1,
+      "2": 33.9
+    },
+    "lambdaBase": {
+      "casa": 3.07,
+      "trasferta": 0.47
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.53,
+        "under": 2.9
+      }
+    }
+  },
+  {
+    "id": "2026-juventus-cagliari",
+    "campionato": "Serie A",
+    "casa": "Juventus",
+    "trasferta": "Cagliari",
+    "data": "2027-01-24 00:00:00",
+    "quote": {
+      "1": 1.44,
+      "X": 4.41,
+      "2": 12.92
+    },
+    "lambdaBase": {
+      "casa": 1.88,
+      "trasferta": 0.49
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.42,
+        "under": 1.71
+      }
+    }
+  },
+  {
+    "id": "2026-lecce-torino",
+    "campionato": "Serie A",
+    "casa": "Lecce",
+    "trasferta": "Torino",
+    "data": "2027-01-24 00:00:00",
+    "quote": {
+      "1": 4.81,
+      "X": 3.01,
+      "2": 2.17
+    },
+    "lambdaBase": {
+      "casa": 0.74,
+      "trasferta": 1.23
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 3.19,
+        "under": 1.46
+      }
+    }
+  },
+  {
+    "id": "2026-monza-lazio",
+    "campionato": "Serie A",
+    "casa": "Monza",
+    "trasferta": "Lazio",
+    "data": "2027-01-24 00:00:00",
+    "quote": {
+      "1": 5.78,
+      "X": 3.77,
+      "2": 1.78
+    },
+    "lambdaBase": {
+      "casa": 0.88,
+      "trasferta": 1.75
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.07,
+        "under": 1.94
+      }
+    }
+  },
+  {
+    "id": "2026-roma-udinese",
+    "campionato": "Serie A",
+    "casa": "Roma",
+    "trasferta": "Udinese",
+    "data": "2027-01-24 00:00:00",
+    "quote": {
+      "1": 1.54,
+      "X": 4.25,
+      "2": 8.54
+    },
+    "lambdaBase": {
+      "casa": 1.94,
+      "trasferta": 0.71
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.05,
+        "under": 1.95
+      }
+    }
+  },
+  {
+    "id": "2026-atalanta-fiorentina",
+    "campionato": "Serie A",
+    "casa": "Atalanta",
+    "trasferta": "Fiorentina",
+    "data": "2027-01-31 00:00:00",
+    "quote": {
+      "1": 1.95,
+      "X": 3.87,
+      "2": 4.35
+    },
+    "lambdaBase": {
+      "casa": 1.85,
+      "trasferta": 1.18
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.73,
+        "under": 2.36
+      }
+    }
+  },
+  {
+    "id": "2026-cagliari-parma",
+    "campionato": "Serie A",
+    "casa": "Cagliari",
+    "trasferta": "Parma",
+    "data": "2027-01-31 00:00:00",
+    "quote": {
+      "1": 2.3,
+      "X": 3.13,
+      "2": 4.07
+    },
+    "lambdaBase": {
+      "casa": 1.29,
+      "trasferta": 0.91
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.66,
+        "under": 1.6
+      }
+    }
+  },
+  {
+    "id": "2026-genoa-lecce",
+    "campionato": "Serie A",
+    "casa": "Genoa",
+    "trasferta": "Lecce",
+    "data": "2027-01-31 00:00:00",
+    "quote": {
+      "1": 2.71,
+      "X": 2.76,
+      "2": 3.71
+    },
+    "lambdaBase": {
+      "casa": 0.99,
+      "trasferta": 0.81
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 3.73,
+        "under": 1.37
+      }
+    }
+  },
+  {
+    "id": "2026-lazio-venezia",
+    "campionato": "Serie A",
+    "casa": "Lazio",
+    "trasferta": "Venezia",
+    "data": "2027-01-31 00:00:00",
+    "quote": {
+      "1": 1.39,
+      "X": 5.04,
+      "2": 12.0
+    },
+    "lambdaBase": {
+      "casa": 2.22,
+      "trasferta": 0.64
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.88,
+        "under": 2.14
+      }
+    }
+  },
+  {
+    "id": "2026-milan-juventus",
+    "campionato": "Serie A",
+    "casa": "Milan",
+    "trasferta": "Juventus",
+    "data": "2027-01-31 00:00:00",
+    "quote": {
+      "1": 2.55,
+      "X": 3.02,
+      "2": 3.62
+    },
+    "lambdaBase": {
+      "casa": 1.17,
+      "trasferta": 0.94
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.83,
+        "under": 1.55
+      }
+    }
+  },
+  {
+    "id": "2026-monza-roma",
+    "campionato": "Serie A",
+    "casa": "Monza",
+    "trasferta": "Roma",
+    "data": "2027-01-31 00:00:00",
+    "quote": {
+      "1": 5.21,
+      "X": 3.65,
+      "2": 1.87
+    },
+    "lambdaBase": {
+      "casa": 0.92,
+      "trasferta": 1.68
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.1,
+        "under": 1.91
+      }
+    }
+  },
+  {
+    "id": "2026-napoli-inter",
+    "campionato": "Serie A",
+    "casa": "Napoli",
+    "trasferta": "Inter",
+    "data": "2027-01-31 00:00:00",
+    "quote": {
+      "1": 3.61,
+      "X": 3.57,
+      "2": 2.26
+    },
+    "lambdaBase": {
+      "casa": 1.22,
+      "trasferta": 1.59
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.89,
+        "under": 2.12
+      }
+    }
+  },
+  {
+    "id": "2026-sassuolo-como",
+    "campionato": "Serie A",
+    "casa": "Sassuolo",
+    "trasferta": "Como",
+    "data": "2027-01-31 00:00:00",
+    "quote": {
+      "1": 5.07,
+      "X": 3.76,
+      "2": 1.86
+    },
+    "lambdaBase": {
+      "casa": 0.99,
+      "trasferta": 1.76
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.95,
+        "under": 2.05
+      }
+    }
+  },
+  {
+    "id": "2026-torino-frosinone",
+    "campionato": "Serie A",
+    "casa": "Torino",
+    "trasferta": "Frosinone",
+    "data": "2027-01-31 00:00:00",
+    "quote": {
+      "1": 1.98,
+      "X": 3.15,
+      "2": 5.61
+    },
+    "lambdaBase": {
+      "casa": 1.33,
+      "trasferta": 0.69
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 3.05,
+        "under": 1.49
+      }
+    }
+  },
+  {
+    "id": "2026-udinese-bologna",
+    "campionato": "Serie A",
+    "casa": "Udinese",
+    "trasferta": "Bologna",
+    "data": "2027-01-31 00:00:00",
+    "quote": {
+      "1": 3.33,
+      "X": 3.35,
+      "2": 2.49
+    },
+    "lambdaBase": {
+      "casa": 1.17,
+      "trasferta": 1.39
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.13,
+        "under": 1.89
+      }
+    }
+  },
+  {
+    "id": "2026-atalanta-lazio",
+    "campionato": "Serie A",
+    "casa": "Atalanta",
+    "trasferta": "Lazio",
+    "data": "2027-02-07 00:00:00",
+    "quote": {
+      "1": 2.54,
+      "X": 3.4,
+      "2": 3.2
+    },
+    "lambdaBase": {
+      "casa": 1.41,
+      "trasferta": 1.23
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.04,
+        "under": 1.96
+      }
+    }
+  },
+  {
+    "id": "2026-bologna-milan",
+    "campionato": "Serie A",
+    "casa": "Bologna",
+    "trasferta": "Milan",
+    "data": "2027-02-07 00:00:00",
+    "quote": {
+      "1": 3.48,
+      "X": 3.42,
+      "2": 2.37
+    },
+    "lambdaBase": {
+      "casa": 1.17,
+      "trasferta": 1.46
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.05,
+        "under": 1.95
+      }
+    }
+  },
+  {
+    "id": "2026-como-monza",
+    "campionato": "Serie A",
+    "casa": "Como",
+    "trasferta": "Monza",
+    "data": "2027-02-07 00:00:00",
+    "quote": {
+      "1": 1.52,
+      "X": 4.52,
+      "2": 8.23
+    },
+    "lambdaBase": {
+      "casa": 2.12,
+      "trasferta": 0.81
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.82,
+        "under": 2.23
+      }
+    }
+  },
+  {
+    "id": "2026-fiorentina-udinese",
+    "campionato": "Serie A",
+    "casa": "Fiorentina",
+    "trasferta": "Udinese",
+    "data": "2027-02-07 00:00:00",
+    "quote": {
+      "1": 1.92,
+      "X": 3.92,
+      "2": 4.47
+    },
+    "lambdaBase": {
+      "casa": 1.89,
+      "trasferta": 1.17
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.71,
+        "under": 2.41
+      }
+    }
+  },
+  {
+    "id": "2026-inter-cagliari",
+    "campionato": "Serie A",
+    "casa": "Inter",
+    "trasferta": "Cagliari",
+    "data": "2027-02-07 00:00:00",
+    "quote": {
+      "1": 1.17,
+      "X": 8.97,
+      "2": 30.77
+    },
+    "lambdaBase": {
+      "casa": 3.11,
+      "trasferta": 0.52
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.49,
+        "under": 3.04
+      }
+    }
+  },
+  {
+    "id": "2026-juventus-sassuolo",
+    "campionato": "Serie A",
+    "casa": "Juventus",
+    "trasferta": "Sassuolo",
+    "data": "2027-02-07 00:00:00",
+    "quote": {
+      "1": 1.46,
+      "X": 4.96,
+      "2": 8.87
+    },
+    "lambdaBase": {
+      "casa": 2.35,
+      "trasferta": 0.86
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.65,
+        "under": 2.55
+      }
+    }
+  },
+  {
+    "id": "2026-lecce-napoli",
+    "campionato": "Serie A",
+    "casa": "Lecce",
+    "trasferta": "Napoli",
+    "data": "2027-02-07 00:00:00",
+    "quote": {
+      "1": 13.85,
+      "X": 4.46,
+      "2": 1.42
+    },
+    "lambdaBase": {
+      "casa": 0.46,
+      "trasferta": 1.88
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.46,
+        "under": 1.68
+      }
+    }
+  },
+  {
+    "id": "2026-parma-frosinone",
+    "campionato": "Serie A",
+    "casa": "Parma",
+    "trasferta": "Frosinone",
+    "data": "2027-02-07 00:00:00",
+    "quote": {
+      "1": 2.32,
+      "X": 3.3,
+      "2": 3.76
+    },
+    "lambdaBase": {
+      "casa": 1.4,
+      "trasferta": 1.05
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.28,
+        "under": 1.78
+      }
+    }
+  },
+  {
+    "id": "2026-roma-torino",
+    "campionato": "Serie A",
+    "casa": "Roma",
+    "trasferta": "Torino",
+    "data": "2027-02-07 00:00:00",
+    "quote": {
+      "1": 1.63,
+      "X": 3.81,
+      "2": 8.17
+    },
+    "lambdaBase": {
+      "casa": 1.7,
+      "trasferta": 0.63
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.45,
+        "under": 1.69
+      }
+    }
+  },
+  {
+    "id": "2026-venezia-genoa",
+    "campionato": "Serie A",
+    "casa": "Venezia",
+    "trasferta": "Genoa",
+    "data": "2027-02-07 00:00:00",
+    "quote": {
+      "1": 3.39,
+      "X": 2.91,
+      "2": 2.76
+    },
+    "lambdaBase": {
+      "casa": 0.93,
+      "trasferta": 1.06
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 3.1,
+        "under": 1.48
+      }
+    }
+  },
+  {
+    "id": "2026-bologna-como",
+    "campionato": "Serie A",
+    "casa": "Bologna",
+    "trasferta": "Como",
+    "data": "2027-02-14 00:00:00",
+    "quote": {
+      "1": 2.98,
+      "X": 3.04,
+      "2": 2.98
+    },
+    "lambdaBase": {
+      "casa": 1.09,
+      "trasferta": 1.09
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.71,
+        "under": 1.59
+      }
+    }
+  },
+  {
+    "id": "2026-cagliari-lazio",
+    "campionato": "Serie A",
+    "casa": "Cagliari",
+    "trasferta": "Lazio",
+    "data": "2027-02-14 00:00:00",
+    "quote": {
+      "1": 5.91,
+      "X": 3.86,
+      "2": 1.75
+    },
+    "lambdaBase": {
+      "casa": 0.89,
+      "trasferta": 1.81
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.0,
+        "under": 2.0
+      }
+    }
+  },
+  {
+    "id": "2026-frosinone-fiorentina",
+    "campionato": "Serie A",
+    "casa": "Frosinone",
+    "trasferta": "Fiorentina",
+    "data": "2027-02-14 00:00:00",
+    "quote": {
+      "1": 2.82,
+      "X": 3.91,
+      "2": 2.56
+    },
+    "lambdaBase": {
+      "casa": 1.65,
+      "trasferta": 1.74
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.53,
+        "under": 2.89
+      }
+    }
+  },
+  {
+    "id": "2026-genoa-atalanta",
+    "campionato": "Serie A",
+    "casa": "Genoa",
+    "trasferta": "Atalanta",
+    "data": "2027-02-14 00:00:00",
+    "quote": {
+      "1": 7.34,
+      "X": 4.23,
+      "2": 1.59
+    },
+    "lambdaBase": {
+      "casa": 0.82,
+      "trasferta": 1.99
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.9,
+        "under": 2.11
+      }
+    }
+  },
+  {
+    "id": "2026-inter-milan",
+    "campionato": "Serie A",
+    "casa": "Inter",
+    "trasferta": "Milan",
+    "data": "2027-02-14 00:00:00",
+    "quote": {
+      "1": 1.86,
+      "X": 4.0,
+      "2": 4.68
+    },
+    "lambdaBase": {
+      "casa": 1.95,
+      "trasferta": 1.16
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.68,
+        "under": 2.46
+      }
+    }
+  },
+  {
+    "id": "2026-monza-lecce",
+    "campionato": "Serie A",
+    "casa": "Monza",
+    "trasferta": "Lecce",
+    "data": "2027-02-14 00:00:00",
+    "quote": {
+      "1": 2.75,
+      "X": 2.9,
+      "2": 3.44
+    },
+    "lambdaBase": {
+      "casa": 1.06,
+      "trasferta": 0.92
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 3.17,
+        "under": 1.46
+      }
+    }
+  },
+  {
+    "id": "2026-napoli-juventus",
+    "campionato": "Serie A",
+    "casa": "Napoli",
+    "trasferta": "Juventus",
+    "data": "2027-02-14 00:00:00",
+    "quote": {
+      "1": 2.46,
+      "X": 3.2,
+      "2": 3.56
+    },
+    "lambdaBase": {
+      "casa": 1.3,
+      "trasferta": 1.04
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.43,
+        "under": 1.7
+      }
+    }
+  },
+  {
+    "id": "2026-roma-parma",
+    "campionato": "Serie A",
+    "casa": "Roma",
+    "trasferta": "Parma",
+    "data": "2027-02-14 00:00:00",
+    "quote": {
+      "1": 1.41,
+      "X": 4.58,
+      "2": 13.87
+    },
+    "lambdaBase": {
+      "casa": 1.93,
+      "trasferta": 0.48
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.36,
+        "under": 1.74
+      }
+    }
+  },
+  {
+    "id": "2026-torino-sassuolo",
+    "campionato": "Serie A",
+    "casa": "Torino",
+    "trasferta": "Sassuolo",
+    "data": "2027-02-14 00:00:00",
+    "quote": {
+      "1": 2.24,
+      "X": 3.43,
+      "2": 3.81
+    },
+    "lambdaBase": {
+      "casa": 1.5,
+      "trasferta": 1.1
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.1,
+        "under": 1.91
+      }
+    }
+  },
+  {
+    "id": "2026-udinese-venezia",
+    "campionato": "Serie A",
+    "casa": "Udinese",
+    "trasferta": "Venezia",
+    "data": "2027-02-14 00:00:00",
+    "quote": {
+      "1": 1.75,
+      "X": 3.79,
+      "2": 6.02
+    },
+    "lambdaBase": {
+      "casa": 1.75,
+      "trasferta": 0.85
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.09,
+        "under": 1.91
+      }
+    }
+  },
+  {
+    "id": "2026-atalanta-monza",
+    "campionato": "Serie A",
+    "casa": "Atalanta",
+    "trasferta": "Monza",
+    "data": "2027-02-21 00:00:00",
+    "quote": {
+      "1": 1.43,
+      "X": 5.15,
+      "2": 9.43
+    },
+    "lambdaBase": {
+      "casa": 2.42,
+      "trasferta": 0.85
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.61,
+        "under": 2.64
+      }
+    }
+  },
+  {
+    "id": "2026-como-torino",
+    "campionato": "Serie A",
+    "casa": "Como",
+    "trasferta": "Torino",
+    "data": "2027-02-21 00:00:00",
+    "quote": {
+      "1": 1.78,
+      "X": 3.74,
+      "2": 5.81
+    },
+    "lambdaBase": {
+      "casa": 1.73,
+      "trasferta": 0.86
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.1,
+        "under": 1.91
+      }
+    }
+  },
+  {
+    "id": "2026-fiorentina-inter",
+    "campionato": "Serie A",
+    "casa": "Fiorentina",
+    "trasferta": "Inter",
+    "data": "2027-02-21 00:00:00",
+    "quote": {
+      "1": 5.17,
+      "X": 3.96,
+      "2": 1.8
+    },
+    "lambdaBase": {
+      "casa": 1.05,
+      "trasferta": 1.9
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.79,
+        "under": 2.27
+      }
+    }
+  },
+  {
+    "id": "2026-juventus-bologna",
+    "campionato": "Serie A",
+    "casa": "Juventus",
+    "trasferta": "Bologna",
+    "data": "2027-02-21 00:00:00",
+    "quote": {
+      "1": 1.71,
+      "X": 3.8,
+      "2": 6.58
+    },
+    "lambdaBase": {
+      "casa": 1.75,
+      "trasferta": 0.78
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.18,
+        "under": 1.85
+      }
+    }
+  },
+  {
+    "id": "2026-lazio-napoli",
+    "campionato": "Serie A",
+    "casa": "Lazio",
+    "trasferta": "Napoli",
+    "data": "2027-02-21 00:00:00",
+    "quote": {
+      "1": 4.06,
+      "X": 3.34,
+      "2": 2.2
+    },
+    "lambdaBase": {
+      "casa": 1.0,
+      "trasferta": 1.44
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.27,
+        "under": 1.78
+      }
+    }
+  },
+  {
+    "id": "2026-lecce-frosinone",
+    "campionato": "Serie A",
+    "casa": "Lecce",
+    "trasferta": "Frosinone",
+    "data": "2027-02-21 00:00:00",
+    "quote": {
+      "1": 2.82,
+      "X": 3.03,
+      "2": 3.16
+    },
+    "lambdaBase": {
+      "casa": 1.12,
+      "trasferta": 1.04
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.73,
+        "under": 1.58
+      }
+    }
+  },
+  {
+    "id": "2026-milan-genoa",
+    "campionato": "Serie A",
+    "casa": "Milan",
+    "trasferta": "Genoa",
+    "data": "2027-02-21 00:00:00",
+    "quote": {
+      "1": 1.55,
+      "X": 4.06,
+      "2": 9.18
+    },
+    "lambdaBase": {
+      "casa": 1.81,
+      "trasferta": 0.62
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.32,
+        "under": 1.76
+      }
+    }
+  },
+  {
+    "id": "2026-sassuolo-roma",
+    "campionato": "Serie A",
+    "casa": "Sassuolo",
+    "trasferta": "Roma",
+    "data": "2027-02-21 00:00:00",
+    "quote": {
+      "1": 4.34,
+      "X": 3.71,
+      "2": 2.0
+    },
+    "lambdaBase": {
+      "casa": 1.11,
+      "trasferta": 1.73
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.87,
+        "under": 2.15
+      }
+    }
+  },
+  {
+    "id": "2026-udinese-parma",
+    "campionato": "Serie A",
+    "casa": "Udinese",
+    "trasferta": "Parma",
+    "data": "2027-02-21 00:00:00",
+    "quote": {
+      "1": 2.17,
+      "X": 3.11,
+      "2": 4.58
+    },
+    "lambdaBase": {
+      "casa": 1.29,
+      "trasferta": 0.81
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.86,
+        "under": 1.54
+      }
+    }
+  },
+  {
+    "id": "2026-venezia-cagliari",
+    "campionato": "Serie A",
+    "casa": "Venezia",
+    "trasferta": "Cagliari",
+    "data": "2027-02-21 00:00:00",
+    "quote": {
+      "1": 2.94,
+      "X": 3.06,
+      "2": 3.01
+    },
+    "lambdaBase": {
+      "casa": 1.1,
+      "trasferta": 1.09
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.67,
+        "under": 1.6
+      }
+    }
+  },
+  {
+    "id": "2026-bologna-lecce",
+    "campionato": "Serie A",
+    "casa": "Bologna",
+    "trasferta": "Lecce",
+    "data": "2027-02-28 00:00:00",
+    "quote": {
+      "1": 1.89,
+      "X": 3.16,
+      "2": 6.5
+    },
+    "lambdaBase": {
+      "casa": 1.33,
+      "trasferta": 0.6
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 3.28,
+        "under": 1.44
+      }
+    }
+  },
+  {
+    "id": "2026-cagliari-udinese",
+    "campionato": "Serie A",
+    "casa": "Cagliari",
+    "trasferta": "Udinese",
+    "data": "2027-02-28 00:00:00",
+    "quote": {
+      "1": 3.39,
+      "X": 3.44,
+      "2": 2.42
+    },
+    "lambdaBase": {
+      "casa": 1.2,
+      "trasferta": 1.46
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.02,
+        "under": 1.98
+      }
+    }
+  },
+  {
+    "id": "2026-como-milan",
+    "campionato": "Serie A",
+    "casa": "Como",
+    "trasferta": "Milan",
+    "data": "2027-02-28 00:00:00",
+    "quote": {
+      "1": 3.12,
+      "X": 3.6,
+      "2": 2.49
+    },
+    "lambdaBase": {
+      "casa": 1.37,
+      "trasferta": 1.55
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.8,
+        "under": 2.25
+      }
+    }
+  },
+  {
+    "id": "2026-frosinone-napoli",
+    "campionato": "Serie A",
+    "casa": "Frosinone",
+    "trasferta": "Napoli",
+    "data": "2027-02-28 00:00:00",
+    "quote": {
+      "1": 7.65,
+      "X": 4.87,
+      "2": 1.51
+    },
+    "lambdaBase": {
+      "casa": 0.97,
+      "trasferta": 2.37
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.57,
+        "under": 2.75
+      }
+    }
+  },
+  {
+    "id": "2026-genoa-lazio",
+    "campionato": "Serie A",
+    "casa": "Genoa",
+    "trasferta": "Lazio",
+    "data": "2027-02-28 00:00:00",
+    "quote": {
+      "1": 6.24,
+      "X": 3.68,
+      "2": 1.76
+    },
+    "lambdaBase": {
+      "casa": 0.79,
+      "trasferta": 1.68
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.26,
+        "under": 1.8
+      }
+    }
+  },
+  {
+    "id": "2026-inter-atalanta",
+    "campionato": "Serie A",
+    "casa": "Inter",
+    "trasferta": "Atalanta",
+    "data": "2027-02-28 00:00:00",
+    "quote": {
+      "1": 1.71,
+      "X": 4.2,
+      "2": 5.7
+    },
+    "lambdaBase": {
+      "casa": 2.05,
+      "trasferta": 1.04
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.7,
+        "under": 2.43
+      }
+    }
+  },
+  {
+    "id": "2026-monza-juventus",
+    "campionato": "Serie A",
+    "casa": "Monza",
+    "trasferta": "Juventus",
+    "data": "2027-02-28 00:00:00",
+    "quote": {
+      "1": 5.67,
+      "X": 3.56,
+      "2": 1.84
+    },
+    "lambdaBase": {
+      "casa": 0.82,
+      "trasferta": 1.61
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.3,
+        "under": 1.77
+      }
+    }
+  },
+  {
+    "id": "2026-parma-sassuolo",
+    "campionato": "Serie A",
+    "casa": "Parma",
+    "trasferta": "Sassuolo",
+    "data": "2027-02-28 00:00:00",
+    "quote": {
+      "1": 2.92,
+      "X": 3.48,
+      "2": 2.7
+    },
+    "lambdaBase": {
+      "casa": 1.35,
+      "trasferta": 1.42
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.92,
+        "under": 2.09
+      }
+    }
+  },
+  {
+    "id": "2026-roma-venezia",
+    "campionato": "Serie A",
+    "casa": "Roma",
+    "trasferta": "Venezia",
+    "data": "2027-02-28 00:00:00",
+    "quote": {
+      "1": 1.31,
+      "X": 5.54,
+      "2": 17.57
+    },
+    "lambdaBase": {
+      "casa": 2.26,
+      "trasferta": 0.49
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.99,
+        "under": 2.01
+      }
+    }
+  },
+  {
+    "id": "2026-torino-fiorentina",
+    "campionato": "Serie A",
+    "casa": "Torino",
+    "trasferta": "Fiorentina",
+    "data": "2027-02-28 00:00:00",
+    "quote": {
+      "1": 2.88,
+      "X": 2.97,
+      "2": 3.16
+    },
+    "lambdaBase": {
+      "casa": 1.07,
+      "trasferta": 1.01
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.9,
+        "under": 1.53
+      }
+    }
+  },
+  {
+    "id": "2026-atalanta-torino",
+    "campionato": "Serie A",
+    "casa": "Atalanta",
+    "trasferta": "Torino",
+    "data": "2027-03-07 00:00:00",
+    "quote": {
+      "1": 1.76,
+      "X": 3.94,
+      "2": 5.65
+    },
+    "lambdaBase": {
+      "casa": 1.87,
+      "trasferta": 0.96
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.88,
+        "under": 2.13
+      }
+    }
+  },
+  {
+    "id": "2026-fiorentina-venezia",
+    "campionato": "Serie A",
+    "casa": "Fiorentina",
+    "trasferta": "Venezia",
+    "data": "2027-03-07 00:00:00",
+    "quote": {
+      "1": 1.48,
+      "X": 4.52,
+      "2": 9.76
+    },
+    "lambdaBase": {
+      "casa": 2.05,
+      "trasferta": 0.68
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.98,
+        "under": 2.02
+      }
+    }
+  },
+  {
+    "id": "2026-juventus-roma",
+    "campionato": "Serie A",
+    "casa": "Juventus",
+    "trasferta": "Roma",
+    "data": "2027-03-07 00:00:00",
+    "quote": {
+      "1": 2.06,
+      "X": 3.26,
+      "2": 4.82
+    },
+    "lambdaBase": {
+      "casa": 1.41,
+      "trasferta": 0.83
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.59,
+        "under": 1.63
+      }
+    }
+  },
+  {
+    "id": "2026-lazio-frosinone",
+    "campionato": "Serie A",
+    "casa": "Lazio",
+    "trasferta": "Frosinone",
+    "data": "2027-03-07 00:00:00",
+    "quote": {
+      "1": 1.43,
+      "X": 5.17,
+      "2": 9.35
+    },
+    "lambdaBase": {
+      "casa": 2.44,
+      "trasferta": 0.86
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.6,
+        "under": 2.67
+      }
+    }
+  },
+  {
+    "id": "2026-lecce-como",
+    "campionato": "Serie A",
+    "casa": "Lecce",
+    "trasferta": "Como",
+    "data": "2027-03-07 00:00:00",
+    "quote": {
+      "1": 10.49,
+      "X": 4.2,
+      "2": 1.5
+    },
+    "lambdaBase": {
+      "casa": 0.57,
+      "trasferta": 1.85
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.34,
+        "under": 1.74
+      }
+    }
+  },
+  {
+    "id": "2026-milan-cagliari",
+    "campionato": "Serie A",
+    "casa": "Milan",
+    "trasferta": "Cagliari",
+    "data": "2027-03-07 00:00:00",
+    "quote": {
+      "1": 1.37,
+      "X": 5.21,
+      "2": 13.05
+    },
+    "lambdaBase": {
+      "casa": 2.26,
+      "trasferta": 0.61
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.87,
+        "under": 2.15
+      }
+    }
+  },
+  {
+    "id": "2026-monza-genoa",
+    "campionato": "Serie A",
+    "casa": "Monza",
+    "trasferta": "Genoa",
+    "data": "2027-03-07 00:00:00",
+    "quote": {
+      "1": 2.65,
+      "X": 2.99,
+      "2": 3.47
+    },
+    "lambdaBase": {
+      "casa": 1.13,
+      "trasferta": 0.96
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.89,
+        "under": 1.53
+      }
+    }
+  },
+  {
+    "id": "2026-napoli-parma",
+    "campionato": "Serie A",
+    "casa": "Napoli",
+    "trasferta": "Parma",
+    "data": "2027-03-07 00:00:00",
+    "quote": {
+      "1": 1.58,
+      "X": 3.82,
+      "2": 9.5
+    },
+    "lambdaBase": {
+      "casa": 1.67,
+      "trasferta": 0.55
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.66,
+        "under": 1.6
+      }
+    }
+  },
+  {
+    "id": "2026-sassuolo-bologna",
+    "campionato": "Serie A",
+    "casa": "Sassuolo",
+    "trasferta": "Bologna",
+    "data": "2027-03-07 00:00:00",
+    "quote": {
+      "1": 3.28,
+      "X": 3.66,
+      "2": 2.37
+    },
+    "lambdaBase": {
+      "casa": 1.35,
+      "trasferta": 1.63
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.76,
+        "under": 2.32
+      }
+    }
+  },
+  {
+    "id": "2026-udinese-inter",
+    "campionato": "Serie A",
+    "casa": "Udinese",
+    "trasferta": "Inter",
+    "data": "2027-03-07 00:00:00",
+    "quote": {
+      "1": 9.55,
+      "X": 5.23,
+      "2": 1.42
+    },
+    "lambdaBase": {
+      "casa": 0.86,
+      "trasferta": 2.46
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.59,
+        "under": 2.7
+      }
+    }
+  },
+  {
+    "id": "2026-bologna-napoli",
+    "campionato": "Serie A",
+    "casa": "Bologna",
+    "trasferta": "Napoli",
+    "data": "2027-03-14 00:00:00",
+    "quote": {
+      "1": 4.48,
+      "X": 3.18,
+      "2": 2.16
+    },
+    "lambdaBase": {
+      "casa": 0.86,
+      "trasferta": 1.34
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.67,
+        "under": 1.6
+      }
+    }
+  },
+  {
+    "id": "2026-cagliari-fiorentina",
+    "campionato": "Serie A",
+    "casa": "Cagliari",
+    "trasferta": "Fiorentina",
+    "data": "2027-03-14 00:00:00",
+    "quote": {
+      "1": 3.61,
+      "X": 3.53,
+      "2": 2.27
+    },
+    "lambdaBase": {
+      "casa": 1.19,
+      "trasferta": 1.56
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.94,
+        "under": 2.06
+      }
+    }
+  },
+  {
+    "id": "2026-como-udinese",
+    "campionato": "Serie A",
+    "casa": "Como",
+    "trasferta": "Udinese",
+    "data": "2027-03-14 00:00:00",
+    "quote": {
+      "1": 1.87,
+      "X": 3.7,
+      "2": 5.16
+    },
+    "lambdaBase": {
+      "casa": 1.71,
+      "trasferta": 0.95
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.03,
+        "under": 1.97
+      }
+    }
+  },
+  {
+    "id": "2026-frosinone-monza",
+    "campionato": "Serie A",
+    "casa": "Frosinone",
+    "trasferta": "Monza",
+    "data": "2027-03-14 00:00:00",
+    "quote": {
+      "1": 1.93,
+      "X": 4.07,
+      "2": 4.22
+    },
+    "lambdaBase": {
+      "casa": 2.0,
+      "trasferta": 1.3
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.58,
+        "under": 2.73
+      }
+    }
+  },
+  {
+    "id": "2026-genoa-roma",
+    "campionato": "Serie A",
+    "casa": "Genoa",
+    "trasferta": "Roma",
+    "data": "2027-03-14 00:00:00",
+    "quote": {
+      "1": 4.89,
+      "X": 3.5,
+      "2": 1.96
+    },
+    "lambdaBase": {
+      "casa": 0.92,
+      "trasferta": 1.58
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.21,
+        "under": 1.82
+      }
+    }
+  },
+  {
+    "id": "2026-lazio-juventus",
+    "campionato": "Serie A",
+    "casa": "Lazio",
+    "trasferta": "Juventus",
+    "data": "2027-03-14 00:00:00",
+    "quote": {
+      "1": 2.79,
+      "X": 3.27,
+      "2": 2.98
+    },
+    "lambdaBase": {
+      "casa": 1.26,
+      "trasferta": 1.22
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.23,
+        "under": 1.81
+      }
+    }
+  },
+  {
+    "id": "2026-milan-sassuolo",
+    "campionato": "Serie A",
+    "casa": "Milan",
+    "trasferta": "Sassuolo",
+    "data": "2027-03-14 00:00:00",
+    "quote": {
+      "1": 1.55,
+      "X": 4.73,
+      "2": 7.02
+    },
+    "lambdaBase": {
+      "casa": 2.33,
+      "trasferta": 1.01
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.57,
+        "under": 2.76
+      }
+    }
+  },
+  {
+    "id": "2026-parma-lecce",
+    "campionato": "Serie A",
+    "casa": "Parma",
+    "trasferta": "Lecce",
+    "data": "2027-03-14 00:00:00",
+    "quote": {
+      "1": 3.01,
+      "X": 2.87,
+      "2": 3.13
+    },
+    "lambdaBase": {
+      "casa": 0.99,
+      "trasferta": 0.96
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 3.24,
+        "under": 1.45
+      }
+    }
+  },
+  {
+    "id": "2026-torino-inter",
+    "campionato": "Serie A",
+    "casa": "Torino",
+    "trasferta": "Inter",
+    "data": "2027-03-14 00:00:00",
+    "quote": {
+      "1": 8.34,
+      "X": 4.14,
+      "2": 1.57
+    },
+    "lambdaBase": {
+      "casa": 0.7,
+      "trasferta": 1.89
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.12,
+        "under": 1.89
+      }
+    }
+  },
+  {
+    "id": "2026-venezia-atalanta",
+    "campionato": "Serie A",
+    "casa": "Venezia",
+    "trasferta": "Atalanta",
+    "data": "2027-03-14 00:00:00",
+    "quote": {
+      "1": 12.32,
+      "X": 5.47,
+      "2": 1.36
+    },
+    "lambdaBase": {
+      "casa": 0.7,
+      "trasferta": 2.43
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.7,
+        "under": 2.44
+      }
+    }
+  },
+  {
+    "id": "2026-atalanta-milan",
+    "campionato": "Serie A",
+    "casa": "Atalanta",
+    "trasferta": "Milan",
+    "data": "2027-03-21 00:00:00",
+    "quote": {
+      "1": 2.66,
+      "X": 3.82,
+      "2": 2.77
+    },
+    "lambdaBase": {
+      "casa": 1.65,
+      "trasferta": 1.61
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.6,
+        "under": 2.68
+      }
+    }
+  },
+  {
+    "id": "2026-fiorentina-genoa",
+    "campionato": "Serie A",
+    "casa": "Fiorentina",
+    "trasferta": "Genoa",
+    "data": "2027-03-21 00:00:00",
+    "quote": {
+      "1": 1.77,
+      "X": 3.61,
+      "2": 6.27
+    },
+    "lambdaBase": {
+      "casa": 1.63,
+      "trasferta": 0.76
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.35,
+        "under": 1.74
+      }
+    }
+  },
+  {
+    "id": "2026-inter-frosinone",
+    "campionato": "Serie A",
+    "casa": "Inter",
+    "trasferta": "Frosinone",
+    "data": "2027-03-21 00:00:00",
+    "quote": {
+      "1": 1.14,
+      "X": 10.36,
+      "2": 33.67
+    },
+    "lambdaBase": {
+      "casa": 3.46,
+      "trasferta": 0.57
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.37,
+        "under": 3.7
+      }
+    }
+  },
+  {
+    "id": "2026-juventus-como",
+    "campionato": "Serie A",
+    "casa": "Juventus",
+    "trasferta": "Como",
+    "data": "2027-03-21 00:00:00",
+    "quote": {
+      "1": 2.35,
+      "X": 3.05,
+      "2": 4.05
+    },
+    "lambdaBase": {
+      "casa": 1.23,
+      "trasferta": 0.88
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.85,
+        "under": 1.54
+      }
+    }
+  },
+  {
+    "id": "2026-monza-bologna",
+    "campionato": "Serie A",
+    "casa": "Monza",
+    "trasferta": "Bologna",
+    "data": "2027-03-21 00:00:00",
+    "quote": {
+      "1": 3.59,
+      "X": 3.33,
+      "2": 2.38
+    },
+    "lambdaBase": {
+      "casa": 1.1,
+      "trasferta": 1.4
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.2,
+        "under": 1.83
+      }
+    }
+  },
+  {
+    "id": "2026-napoli-venezia",
+    "campionato": "Serie A",
+    "casa": "Napoli",
+    "trasferta": "Venezia",
+    "data": "2027-03-21 00:00:00",
+    "quote": {
+      "1": 1.36,
+      "X": 5.13,
+      "2": 14.93
+    },
+    "lambdaBase": {
+      "casa": 2.15,
+      "trasferta": 0.52
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.05,
+        "under": 1.95
+      }
+    }
+  },
+  {
+    "id": "2026-parma-lazio",
+    "campionato": "Serie A",
+    "casa": "Parma",
+    "trasferta": "Lazio",
+    "data": "2027-03-21 00:00:00",
+    "quote": {
+      "1": 5.52,
+      "X": 3.56,
+      "2": 1.86
+    },
+    "lambdaBase": {
+      "casa": 0.84,
+      "trasferta": 1.61
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.27,
+        "under": 1.78
+      }
+    }
+  },
+  {
+    "id": "2026-roma-lecce",
+    "campionato": "Serie A",
+    "casa": "Roma",
+    "trasferta": "Lecce",
+    "data": "2027-03-21 00:00:00",
+    "quote": {
+      "1": 1.45,
+      "X": 4.27,
+      "2": 12.9
+    },
+    "lambdaBase": {
+      "casa": 1.81,
+      "trasferta": 0.47
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.56,
+        "under": 1.64
+      }
+    }
+  },
+  {
+    "id": "2026-sassuolo-cagliari",
+    "campionato": "Serie A",
+    "casa": "Sassuolo",
+    "trasferta": "Cagliari",
+    "data": "2027-03-21 00:00:00",
+    "quote": {
+      "1": 2.09,
+      "X": 3.47,
+      "2": 4.29
+    },
+    "lambdaBase": {
+      "casa": 1.54,
+      "trasferta": 1.01
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.14,
+        "under": 1.88
+      }
+    }
+  },
+  {
+    "id": "2026-udinese-torino",
+    "campionato": "Serie A",
+    "casa": "Udinese",
+    "trasferta": "Torino",
+    "data": "2027-03-21 00:00:00",
+    "quote": {
+      "1": 2.87,
+      "X": 3.24,
+      "2": 2.91
+    },
+    "lambdaBase": {
+      "casa": 1.22,
+      "trasferta": 1.21
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.28,
+        "under": 1.78
+      }
+    }
+  },
+  {
+    "id": "2026-cagliari-napoli",
+    "campionato": "Serie A",
+    "casa": "Cagliari",
+    "trasferta": "Napoli",
+    "data": "2027-04-04 00:00:00",
+    "quote": {
+      "1": 10.17,
+      "X": 4.66,
+      "2": 1.46
+    },
+    "lambdaBase": {
+      "casa": 0.68,
+      "trasferta": 2.1
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.94,
+        "under": 2.07
+      }
+    }
+  },
+  {
+    "id": "2026-como-fiorentina",
+    "campionato": "Serie A",
+    "casa": "Como",
+    "trasferta": "Fiorentina",
+    "data": "2027-04-04 00:00:00",
+    "quote": {
+      "1": 2.01,
+      "X": 3.62,
+      "2": 4.42
+    },
+    "lambdaBase": {
+      "casa": 1.66,
+      "trasferta": 1.05
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.98,
+        "under": 2.02
+      }
+    }
+  },
+  {
+    "id": "2026-frosinone-udinese",
+    "campionato": "Serie A",
+    "casa": "Frosinone",
+    "trasferta": "Udinese",
+    "data": "2027-04-04 00:00:00",
+    "quote": {
+      "1": 2.6,
+      "X": 3.63,
+      "2": 2.94
+    },
+    "lambdaBase": {
+      "casa": 1.54,
+      "trasferta": 1.44
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.76,
+        "under": 2.32
+      }
+    }
+  },
+  {
+    "id": "2026-genoa-inter",
+    "campionato": "Serie A",
+    "casa": "Genoa",
+    "trasferta": "Inter",
+    "data": "2027-04-04 00:00:00",
+    "quote": {
+      "1": 11.52,
+      "X": 5.18,
+      "2": 1.39
+    },
+    "lambdaBase": {
+      "casa": 0.69,
+      "trasferta": 2.32
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.77,
+        "under": 2.3
+      }
+    }
+  },
+  {
+    "id": "2026-lecce-lazio",
+    "campionato": "Serie A",
+    "casa": "Lecce",
+    "trasferta": "Lazio",
+    "data": "2027-04-04 00:00:00",
+    "quote": {
+      "1": 8.32,
+      "X": 3.67,
+      "2": 1.65
+    },
+    "lambdaBase": {
+      "casa": 0.59,
+      "trasferta": 1.61
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.68,
+        "under": 1.6
+      }
+    }
+  },
+  {
+    "id": "2026-milan-monza",
+    "campionato": "Serie A",
+    "casa": "Milan",
+    "trasferta": "Monza",
+    "data": "2027-04-04 00:00:00",
+    "quote": {
+      "1": 1.41,
+      "X": 4.96,
+      "2": 11.11
+    },
+    "lambdaBase": {
+      "casa": 2.22,
+      "trasferta": 0.68
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.85,
+        "under": 2.18
+      }
+    }
+  },
+  {
+    "id": "2026-roma-bologna",
+    "campionato": "Serie A",
+    "casa": "Roma",
+    "trasferta": "Bologna",
+    "data": "2027-04-04 00:00:00",
+    "quote": {
+      "1": 1.7,
+      "X": 3.94,
+      "2": 6.4
+    },
+    "lambdaBase": {
+      "casa": 1.84,
+      "trasferta": 0.85
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.01,
+        "under": 1.99
+      }
+    }
+  },
+  {
+    "id": "2026-sassuolo-atalanta",
+    "campionato": "Serie A",
+    "casa": "Sassuolo",
+    "trasferta": "Atalanta",
+    "data": "2027-04-04 00:00:00",
+    "quote": {
+      "1": 5.84,
+      "X": 4.25,
+      "2": 1.68
+    },
+    "lambdaBase": {
+      "casa": 1.04,
+      "trasferta": 2.08
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.68,
+        "under": 2.46
+      }
+    }
+  },
+  {
+    "id": "2026-torino-juventus",
+    "campionato": "Serie A",
+    "casa": "Torino",
+    "trasferta": "Juventus",
+    "data": "2027-04-04 00:00:00",
+    "quote": {
+      "1": 4.26,
+      "X": 2.9,
+      "2": 2.38
+    },
+    "lambdaBase": {
+      "casa": 0.78,
+      "trasferta": 1.13
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 3.37,
+        "under": 1.42
+      }
+    }
+  },
+  {
+    "id": "2026-venezia-parma",
+    "campionato": "Serie A",
+    "casa": "Venezia",
+    "trasferta": "Parma",
+    "data": "2027-04-04 00:00:00",
+    "quote": {
+      "1": 3.3,
+      "X": 2.92,
+      "2": 2.82
+    },
+    "lambdaBase": {
+      "casa": 0.96,
+      "trasferta": 1.06
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 3.06,
+        "under": 1.48
+      }
+    }
+  },
+  {
+    "id": "2026-bologna-venezia",
+    "campionato": "Serie A",
+    "casa": "Bologna",
+    "trasferta": "Venezia",
+    "data": "2027-04-11 00:00:00",
+    "quote": {
+      "1": 1.52,
+      "X": 4.16,
+      "2": 9.63
+    },
+    "lambdaBase": {
+      "casa": 1.85,
+      "trasferta": 0.61
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.27,
+        "under": 1.79
+      }
+    }
+  },
+  {
+    "id": "2026-cagliari-atalanta",
+    "campionato": "Serie A",
+    "casa": "Cagliari",
+    "trasferta": "Atalanta",
+    "data": "2027-04-11 00:00:00",
+    "quote": {
+      "1": 6.28,
+      "X": 4.19,
+      "2": 1.66
+    },
+    "lambdaBase": {
+      "casa": 0.95,
+      "trasferta": 2.02
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.78,
+        "under": 2.28
+      }
+    }
+  },
+  {
+    "id": "2026-fiorentina-milan",
+    "campionato": "Serie A",
+    "casa": "Fiorentina",
+    "trasferta": "Milan",
+    "data": "2027-04-11 00:00:00",
+    "quote": {
+      "1": 3.09,
+      "X": 3.68,
+      "2": 2.47
+    },
+    "lambdaBase": {
+      "casa": 1.42,
+      "trasferta": 1.61
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.72,
+        "under": 2.38
+      }
+    }
+  },
+  {
+    "id": "2026-frosinone-genoa",
+    "campionato": "Serie A",
+    "casa": "Frosinone",
+    "trasferta": "Genoa",
+    "data": "2027-04-11 00:00:00",
+    "quote": {
+      "1": 2.07,
+      "X": 3.59,
+      "2": 4.21
+    },
+    "lambdaBase": {
+      "casa": 1.64,
+      "trasferta": 1.09
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.97,
+        "under": 2.03
+      }
+    }
+  },
+  {
+    "id": "2026-inter-roma",
+    "campionato": "Serie A",
+    "casa": "Inter",
+    "trasferta": "Roma",
+    "data": "2027-04-11 00:00:00",
+    "quote": {
+      "1": 1.58,
+      "X": 4.44,
+      "2": 7.09
+    },
+    "lambdaBase": {
+      "casa": 2.14,
+      "trasferta": 0.92
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.73,
+        "under": 2.38
+      }
+    }
+  },
+  {
+    "id": "2026-juventus-lecce",
+    "campionato": "Serie A",
+    "casa": "Juventus",
+    "trasferta": "Lecce",
+    "data": "2027-04-11 00:00:00",
+    "quote": {
+      "1": 1.57,
+      "X": 3.71,
+      "2": 10.68
+    },
+    "lambdaBase": {
+      "casa": 1.58,
+      "trasferta": 0.46
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 3.03,
+        "under": 1.49
+      }
+    }
+  },
+  {
+    "id": "2026-lazio-torino",
+    "campionato": "Serie A",
+    "casa": "Lazio",
+    "trasferta": "Torino",
+    "data": "2027-04-11 00:00:00",
+    "quote": {
+      "1": 1.97,
+      "X": 3.66,
+      "2": 4.55
+    },
+    "lambdaBase": {
+      "casa": 1.69,
+      "trasferta": 1.04
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.96,
+        "under": 2.04
+      }
+    }
+  },
+  {
+    "id": "2026-napoli-sassuolo",
+    "campionato": "Serie A",
+    "casa": "Napoli",
+    "trasferta": "Sassuolo",
+    "data": "2027-04-11 00:00:00",
+    "quote": {
+      "1": 1.42,
+      "X": 5.35,
+      "2": 9.24
+    },
+    "lambdaBase": {
+      "casa": 2.56,
+      "trasferta": 0.92
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.52,
+        "under": 2.93
+      }
+    }
+  },
+  {
+    "id": "2026-parma-como",
+    "campionato": "Serie A",
+    "casa": "Parma",
+    "trasferta": "Como",
+    "data": "2027-04-11 00:00:00",
+    "quote": {
+      "1": 6.38,
+      "X": 3.55,
+      "2": 1.78
+    },
+    "lambdaBase": {
+      "casa": 0.73,
+      "trasferta": 1.58
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.47,
+        "under": 1.68
+      }
+    }
+  },
+  {
+    "id": "2026-udinese-monza",
+    "campionato": "Serie A",
+    "casa": "Udinese",
+    "trasferta": "Monza",
+    "data": "2027-04-11 00:00:00",
+    "quote": {
+      "1": 2.14,
+      "X": 3.47,
+      "2": 4.09
+    },
+    "lambdaBase": {
+      "casa": 1.54,
+      "trasferta": 1.05
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.09,
+        "under": 1.91
+      }
+    }
+  },
+  {
+    "id": "2026-atalanta-udinese",
+    "campionato": "Serie A",
+    "casa": "Atalanta",
+    "trasferta": "Udinese",
+    "data": "2027-04-18 00:00:00",
+    "quote": {
+      "1": 1.81,
+      "X": 3.97,
+      "2": 5.1
+    },
+    "lambdaBase": {
+      "casa": 1.91,
+      "trasferta": 1.06
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.77,
+        "under": 2.29
+      }
+    }
+  },
+  {
+    "id": "2026-bologna-cagliari",
+    "campionato": "Serie A",
+    "casa": "Bologna",
+    "trasferta": "Cagliari",
+    "data": "2027-04-18 00:00:00",
+    "quote": {
+      "1": 1.62,
+      "X": 3.79,
+      "2": 8.27
+    },
+    "lambdaBase": {
+      "casa": 1.69,
+      "trasferta": 0.62
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.49,
+        "under": 1.67
+      }
+    }
+  },
+  {
+    "id": "2026-como-frosinone",
+    "campionato": "Serie A",
+    "casa": "Como",
+    "trasferta": "Frosinone",
+    "data": "2027-04-18 00:00:00",
+    "quote": {
+      "1": 1.62,
+      "X": 4.14,
+      "2": 7.0
+    },
+    "lambdaBase": {
+      "casa": 1.95,
+      "trasferta": 0.84
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.92,
+        "under": 2.08
+      }
+    }
+  },
+  {
+    "id": "2026-fiorentina-parma",
+    "campionato": "Serie A",
+    "casa": "Fiorentina",
+    "trasferta": "Parma",
+    "data": "2027-04-18 00:00:00",
+    "quote": {
+      "1": 1.81,
+      "X": 3.39,
+      "2": 6.54
+    },
+    "lambdaBase": {
+      "casa": 1.48,
+      "trasferta": 0.67
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.78,
+        "under": 1.56
+      }
+    }
+  },
+  {
+    "id": "2026-milan-napoli",
+    "campionato": "Serie A",
+    "casa": "Milan",
+    "trasferta": "Napoli",
+    "data": "2027-04-18 00:00:00",
+    "quote": {
+      "1": 3.38,
+      "X": 3.09,
+      "2": 2.63
+    },
+    "lambdaBase": {
+      "casa": 1.02,
+      "trasferta": 1.19
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.63,
+        "under": 1.61
+      }
+    }
+  },
+  {
+    "id": "2026-monza-inter",
+    "campionato": "Serie A",
+    "casa": "Monza",
+    "trasferta": "Inter",
+    "data": "2027-04-18 00:00:00",
+    "quote": {
+      "1": 12.25,
+      "X": 5.67,
+      "2": 1.35
+    },
+    "lambdaBase": {
+      "casa": 0.74,
+      "trasferta": 2.53
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.62,
+        "under": 2.62
+      }
+    }
+  },
+  {
+    "id": "2026-roma-lazio",
+    "campionato": "Serie A",
+    "casa": "Roma",
+    "trasferta": "Lazio",
+    "data": "2027-04-18 00:00:00",
+    "quote": {
+      "1": 2.07,
+      "X": 3.23,
+      "2": 4.86
+    },
+    "lambdaBase": {
+      "casa": 1.38,
+      "trasferta": 0.82
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.67,
+        "under": 1.6
+      }
+    }
+  },
+  {
+    "id": "2026-sassuolo-lecce",
+    "campionato": "Serie A",
+    "casa": "Sassuolo",
+    "trasferta": "Lecce",
+    "data": "2027-04-18 00:00:00",
+    "quote": {
+      "1": 2.56,
+      "X": 3.07,
+      "2": 3.53
+    },
+    "lambdaBase": {
+      "casa": 1.2,
+      "trasferta": 0.98
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.7,
+        "under": 1.59
+      }
+    }
+  },
+  {
+    "id": "2026-torino-genoa",
+    "campionato": "Serie A",
+    "casa": "Torino",
+    "trasferta": "Genoa",
+    "data": "2027-04-18 00:00:00",
+    "quote": {
+      "1": 2.4,
+      "X": 2.77,
+      "2": 4.49
+    },
+    "lambdaBase": {
+      "casa": 1.05,
+      "trasferta": 0.7
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 3.94,
+        "under": 1.34
+      }
+    }
+  },
+  {
+    "id": "2026-venezia-juventus",
+    "campionato": "Serie A",
+    "casa": "Venezia",
+    "trasferta": "Juventus",
+    "data": "2027-04-18 00:00:00",
+    "quote": {
+      "1": 8.1,
+      "X": 4.24,
+      "2": 1.56
+    },
+    "lambdaBase": {
+      "casa": 0.75,
+      "trasferta": 1.96
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.0,
+        "under": 2.0
+      }
+    }
+  },
+  {
+    "id": "2026-cagliari-monza",
+    "campionato": "Serie A",
+    "casa": "Cagliari",
+    "trasferta": "Monza",
+    "data": "2027-04-25 00:00:00",
+    "quote": {
+      "1": 2.4,
+      "X": 3.44,
+      "2": 3.41
+    },
+    "lambdaBase": {
+      "casa": 1.47,
+      "trasferta": 1.2
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.02,
+        "under": 1.98
+      }
+    }
+  },
+  {
+    "id": "2026-frosinone-roma",
+    "campionato": "Serie A",
+    "casa": "Frosinone",
+    "trasferta": "Roma",
+    "data": "2027-04-25 00:00:00",
+    "quote": {
+      "1": 4.36,
+      "X": 4.03,
+      "2": 1.91
+    },
+    "lambdaBase": {
+      "casa": 1.25,
+      "trasferta": 1.97
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.62,
+        "under": 2.61
+      }
+    }
+  },
+  {
+    "id": "2026-genoa-sassuolo",
+    "campionato": "Serie A",
+    "casa": "Genoa",
+    "trasferta": "Sassuolo",
+    "data": "2027-04-25 00:00:00",
+    "quote": {
+      "1": 2.57,
+      "X": 3.61,
+      "2": 3.0
+    },
+    "lambdaBase": {
+      "casa": 1.54,
+      "trasferta": 1.41
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.78,
+        "under": 2.28
+      }
+    }
+  },
+  {
+    "id": "2026-inter-bologna",
+    "campionato": "Serie A",
+    "casa": "Inter",
+    "trasferta": "Bologna",
+    "data": "2027-04-25 00:00:00",
+    "quote": {
+      "1": 1.39,
+      "X": 5.59,
+      "2": 9.83
+    },
+    "lambdaBase": {
+      "casa": 2.65,
+      "trasferta": 0.91
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.48,
+        "under": 3.06
+      }
+    }
+  },
+  {
+    "id": "2026-juventus-fiorentina",
+    "campionato": "Serie A",
+    "casa": "Juventus",
+    "trasferta": "Fiorentina",
+    "data": "2027-04-25 00:00:00",
+    "quote": {
+      "1": 1.89,
+      "X": 3.43,
+      "2": 5.57
+    },
+    "lambdaBase": {
+      "casa": 1.52,
+      "trasferta": 0.79
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.47,
+        "under": 1.68
+      }
+    }
+  },
+  {
+    "id": "2026-lazio-como",
+    "campionato": "Serie A",
+    "casa": "Lazio",
+    "trasferta": "Como",
+    "data": "2027-04-25 00:00:00",
+    "quote": {
+      "1": 2.98,
+      "X": 3.41,
+      "2": 2.69
+    },
+    "lambdaBase": {
+      "casa": 1.3,
+      "trasferta": 1.38
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.01,
+        "under": 1.99
+      }
+    }
+  },
+  {
+    "id": "2026-lecce-milan",
+    "campionato": "Serie A",
+    "casa": "Lecce",
+    "trasferta": "Milan",
+    "data": "2027-04-25 00:00:00",
+    "quote": {
+      "1": 11.53,
+      "X": 4.95,
+      "2": 1.41
+    },
+    "lambdaBase": {
+      "casa": 0.65,
+      "trasferta": 2.2
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.89,
+        "under": 2.12
+      }
+    }
+  },
+  {
+    "id": "2026-napoli-udinese",
+    "campionato": "Serie A",
+    "casa": "Napoli",
+    "trasferta": "Udinese",
+    "data": "2027-04-25 00:00:00",
+    "quote": {
+      "1": 1.7,
+      "X": 3.93,
+      "2": 6.33
+    },
+    "lambdaBase": {
+      "casa": 1.84,
+      "trasferta": 0.86
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.0,
+        "under": 2.0
+      }
+    }
+  },
+  {
+    "id": "2026-parma-atalanta",
+    "campionato": "Serie A",
+    "casa": "Parma",
+    "trasferta": "Atalanta",
+    "data": "2027-04-25 00:00:00",
+    "quote": {
+      "1": 7.99,
+      "X": 4.48,
+      "2": 1.53
+    },
+    "lambdaBase": {
+      "casa": 0.82,
+      "trasferta": 2.11
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.81,
+        "under": 2.23
+      }
+    }
+  },
+  {
+    "id": "2026-venezia-torino",
+    "campionato": "Serie A",
+    "casa": "Venezia",
+    "trasferta": "Torino",
+    "data": "2027-04-25 00:00:00",
+    "quote": {
+      "1": 4.36,
+      "X": 3.27,
+      "2": 2.15
+    },
+    "lambdaBase": {
+      "casa": 0.92,
+      "trasferta": 1.4
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.45,
+        "under": 1.69
+      }
+    }
+  },
+  {
+    "id": "2026-atalanta-juventus",
+    "campionato": "Serie A",
+    "casa": "Atalanta",
+    "trasferta": "Juventus",
+    "data": "2027-05-02 00:00:00",
+    "quote": {
+      "1": 2.7,
+      "X": 3.36,
+      "2": 3.01
+    },
+    "lambdaBase": {
+      "casa": 1.34,
+      "trasferta": 1.26
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.08,
+        "under": 1.93
+      }
+    }
+  },
+  {
+    "id": "2026-bologna-fiorentina",
+    "campionato": "Serie A",
+    "casa": "Bologna",
+    "trasferta": "Fiorentina",
+    "data": "2027-05-02 00:00:00",
+    "quote": {
+      "1": 2.24,
+      "X": 3.32,
+      "2": 3.97
+    },
+    "lambdaBase": {
+      "casa": 1.42,
+      "trasferta": 1.01
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.29,
+        "under": 1.78
+      }
+    }
+  },
+  {
+    "id": "2026-como-inter",
+    "campionato": "Serie A",
+    "casa": "Como",
+    "trasferta": "Inter",
+    "data": "2027-05-02 00:00:00",
+    "quote": {
+      "1": 5.41,
+      "X": 4.0,
+      "2": 1.77
+    },
+    "lambdaBase": {
+      "casa": 1.02,
+      "trasferta": 1.92
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.79,
+        "under": 2.26
+      }
+    }
+  },
+  {
+    "id": "2026-lecce-cagliari",
+    "campionato": "Serie A",
+    "casa": "Lecce",
+    "trasferta": "Cagliari",
+    "data": "2027-05-02 00:00:00",
+    "quote": {
+      "1": 3.15,
+      "X": 2.86,
+      "2": 3.0
+    },
+    "lambdaBase": {
+      "casa": 0.96,
+      "trasferta": 0.99
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 3.26,
+        "under": 1.44
+      }
+    }
+  },
+  {
+    "id": "2026-milan-lazio",
+    "campionato": "Serie A",
+    "casa": "Milan",
+    "trasferta": "Lazio",
+    "data": "2027-05-02 00:00:00",
+    "quote": {
+      "1": 2.38,
+      "X": 3.25,
+      "2": 3.67
+    },
+    "lambdaBase": {
+      "casa": 1.35,
+      "trasferta": 1.04
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.34,
+        "under": 1.75
+      }
+    }
+  },
+  {
+    "id": "2026-monza-venezia",
+    "campionato": "Serie A",
+    "casa": "Monza",
+    "trasferta": "Venezia",
+    "data": "2027-05-02 00:00:00",
+    "quote": {
+      "1": 2.08,
+      "X": 3.29,
+      "2": 4.63
+    },
+    "lambdaBase": {
+      "casa": 1.42,
+      "trasferta": 0.87
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.5,
+        "under": 1.67
+      }
+    }
+  },
+  {
+    "id": "2026-roma-napoli",
+    "campionato": "Serie A",
+    "casa": "Roma",
+    "trasferta": "Napoli",
+    "data": "2027-05-02 00:00:00",
+    "quote": {
+      "1": 3.05,
+      "X": 2.99,
+      "2": 2.96
+    },
+    "lambdaBase": {
+      "casa": 1.05,
+      "trasferta": 1.07
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.83,
+        "under": 1.55
+      }
+    }
+  },
+  {
+    "id": "2026-sassuolo-frosinone",
+    "campionato": "Serie A",
+    "casa": "Sassuolo",
+    "trasferta": "Frosinone",
+    "data": "2027-05-02 00:00:00",
+    "quote": {
+      "1": 2.0,
+      "X": 3.86,
+      "2": 4.17
+    },
+    "lambdaBase": {
+      "casa": 1.84,
+      "trasferta": 1.21
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.72,
+        "under": 2.4
+      }
+    }
+  },
+  {
+    "id": "2026-torino-parma",
+    "campionato": "Serie A",
+    "casa": "Torino",
+    "trasferta": "Parma",
+    "data": "2027-05-02 00:00:00",
+    "quote": {
+      "1": 2.08,
+      "X": 2.96,
+      "2": 5.52
+    },
+    "lambdaBase": {
+      "casa": 1.2,
+      "trasferta": 0.64
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 3.57,
+        "under": 1.39
+      }
+    }
+  },
+  {
+    "id": "2026-udinese-genoa",
+    "campionato": "Serie A",
+    "casa": "Udinese",
+    "trasferta": "Genoa",
+    "data": "2027-05-02 00:00:00",
+    "quote": {
+      "1": 2.53,
+      "X": 3.03,
+      "2": 3.64
+    },
+    "lambdaBase": {
+      "casa": 1.18,
+      "trasferta": 0.94
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.81,
+        "under": 1.55
+      }
+    }
+  },
+  {
+    "id": "2026-fiorentina-roma",
+    "campionato": "Serie A",
+    "casa": "Fiorentina",
+    "trasferta": "Roma",
+    "data": "2027-05-09 00:00:00",
+    "quote": {
+      "1": 2.8,
+      "X": 3.48,
+      "2": 2.81
+    },
+    "lambdaBase": {
+      "casa": 1.39,
+      "trasferta": 1.38
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.92,
+        "under": 2.09
+      }
+    }
+  },
+  {
+    "id": "2026-frosinone-atalanta",
+    "campionato": "Serie A",
+    "casa": "Frosinone",
+    "trasferta": "Atalanta",
+    "data": "2027-05-09 00:00:00",
+    "quote": {
+      "1": 5.7,
+      "X": 4.7,
+      "2": 1.63
+    },
+    "lambdaBase": {
+      "casa": 1.23,
+      "trasferta": 2.41
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.44,
+        "under": 3.26
+      }
+    }
+  },
+  {
+    "id": "2026-genoa-cagliari",
+    "campionato": "Serie A",
+    "casa": "Genoa",
+    "trasferta": "Cagliari",
+    "data": "2027-05-09 00:00:00",
+    "quote": {
+      "1": 2.06,
+      "X": 3.33,
+      "2": 4.65
+    },
+    "lambdaBase": {
+      "casa": 1.45,
+      "trasferta": 0.89
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.43,
+        "under": 1.7
+      }
+    }
+  },
+  {
+    "id": "2026-inter-lecce",
+    "campionato": "Serie A",
+    "casa": "Inter",
+    "trasferta": "Lecce",
+    "data": "2027-05-09 00:00:00",
+    "quote": {
+      "1": 1.27,
+      "X": 6.22,
+      "2": 19.84
+    },
+    "lambdaBase": {
+      "casa": 2.46,
+      "trasferta": 0.5
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.82,
+        "under": 2.23
+      }
+    }
+  },
+  {
+    "id": "2026-lazio-sassuolo",
+    "campionato": "Serie A",
+    "casa": "Lazio",
+    "trasferta": "Sassuolo",
+    "data": "2027-05-09 00:00:00",
+    "quote": {
+      "1": 1.68,
+      "X": 4.45,
+      "2": 5.59
+    },
+    "lambdaBase": {
+      "casa": 2.24,
+      "trasferta": 1.16
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.54,
+        "under": 2.85
+      }
+    }
+  },
+  {
+    "id": "2026-napoli-monza",
+    "campionato": "Serie A",
+    "casa": "Napoli",
+    "trasferta": "Monza",
+    "data": "2027-05-09 00:00:00",
+    "quote": {
+      "1": 1.45,
+      "X": 4.73,
+      "2": 10.11
+    },
+    "lambdaBase": {
+      "casa": 2.15,
+      "trasferta": 0.7
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.88,
+        "under": 2.13
+      }
+    }
+  },
+  {
+    "id": "2026-parma-milan",
+    "campionato": "Serie A",
+    "casa": "Parma",
+    "trasferta": "Milan",
+    "data": "2027-05-09 00:00:00",
+    "quote": {
+      "1": 6.13,
+      "X": 4.13,
+      "2": 1.68
+    },
+    "lambdaBase": {
+      "casa": 0.95,
+      "trasferta": 1.98
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.81,
+        "under": 2.24
+      }
+    }
+  },
+  {
+    "id": "2026-torino-bologna",
+    "campionato": "Serie A",
+    "casa": "Torino",
+    "trasferta": "Bologna",
+    "data": "2027-05-09 00:00:00",
+    "quote": {
+      "1": 3.02,
+      "X": 3.06,
+      "2": 2.92
+    },
+    "lambdaBase": {
+      "casa": 1.09,
+      "trasferta": 1.11
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.66,
+        "under": 1.6
+      }
+    }
+  },
+  {
+    "id": "2026-udinese-juventus",
+    "campionato": "Serie A",
+    "casa": "Udinese",
+    "trasferta": "Juventus",
+    "data": "2027-05-09 00:00:00",
+    "quote": {
+      "1": 5.23,
+      "X": 3.48,
+      "2": 1.92
+    },
+    "lambdaBase": {
+      "casa": 0.86,
+      "trasferta": 1.56
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.31,
+        "under": 1.76
+      }
+    }
+  },
+  {
+    "id": "2026-venezia-como",
+    "campionato": "Serie A",
+    "casa": "Venezia",
+    "trasferta": "Como",
+    "data": "2027-05-09 00:00:00",
+    "quote": {
+      "1": 7.72,
+      "X": 4.15,
+      "2": 1.59
+    },
+    "lambdaBase": {
+      "casa": 0.76,
+      "trasferta": 1.92
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.02,
+        "under": 1.98
+      }
+    }
+  },
+  {
+    "id": "2026-bologna-frosinone",
+    "campionato": "Serie A",
+    "casa": "Bologna",
+    "trasferta": "Frosinone",
+    "data": "2027-05-16 00:00:00",
+    "quote": {
+      "1": 1.6,
+      "X": 3.98,
+      "2": 8.15
+    },
+    "lambdaBase": {
+      "casa": 1.8,
+      "trasferta": 0.68
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.25,
+        "under": 1.8
+      }
+    }
+  },
+  {
+    "id": "2026-cagliari-torino",
+    "campionato": "Serie A",
+    "casa": "Cagliari",
+    "trasferta": "Torino",
+    "data": "2027-05-16 00:00:00",
+    "quote": {
+      "1": 3.19,
+      "X": 3.36,
+      "2": 2.57
+    },
+    "lambdaBase": {
+      "casa": 1.21,
+      "trasferta": 1.38
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.1,
+        "under": 1.91
+      }
+    }
+  },
+  {
+    "id": "2026-como-atalanta",
+    "campionato": "Serie A",
+    "casa": "Como",
+    "trasferta": "Atalanta",
+    "data": "2027-05-16 00:00:00",
+    "quote": {
+      "1": 3.12,
+      "X": 3.44,
+      "2": 2.57
+    },
+    "lambdaBase": {
+      "casa": 1.27,
+      "trasferta": 1.42
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.99,
+        "under": 2.01
+      }
+    }
+  },
+  {
+    "id": "2026-juventus-inter",
+    "campionato": "Serie A",
+    "casa": "Juventus",
+    "trasferta": "Inter",
+    "data": "2027-05-16 00:00:00",
+    "quote": {
+      "1": 3.31,
+      "X": 3.34,
+      "2": 2.51
+    },
+    "lambdaBase": {
+      "casa": 1.17,
+      "trasferta": 1.37
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.15,
+        "under": 1.87
+      }
+    }
+  },
+  {
+    "id": "2026-lazio-udinese",
+    "campionato": "Serie A",
+    "casa": "Lazio",
+    "trasferta": "Udinese",
+    "data": "2027-05-16 00:00:00",
+    "quote": {
+      "1": 1.93,
+      "X": 3.84,
+      "2": 4.49
+    },
+    "lambdaBase": {
+      "casa": 1.82,
+      "trasferta": 1.13
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.78,
+        "under": 2.28
+      }
+    }
+  },
+  {
+    "id": "2026-lecce-fiorentina",
+    "campionato": "Serie A",
+    "casa": "Lecce",
+    "trasferta": "Fiorentina",
+    "data": "2027-05-16 00:00:00",
+    "quote": {
+      "1": 5.72,
+      "X": 3.49,
+      "2": 1.86
+    },
+    "lambdaBase": {
+      "casa": 0.79,
+      "trasferta": 1.56
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.41,
+        "under": 1.71
+      }
+    }
+  },
+  {
+    "id": "2026-milan-roma",
+    "campionato": "Serie A",
+    "casa": "Milan",
+    "trasferta": "Roma",
+    "data": "2027-05-16 00:00:00",
+    "quote": {
+      "1": 2.11,
+      "X": 3.42,
+      "2": 4.3
+    },
+    "lambdaBase": {
+      "casa": 1.51,
+      "trasferta": 0.99
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.21,
+        "under": 1.83
+      }
+    }
+  },
+  {
+    "id": "2026-monza-parma",
+    "campionato": "Serie A",
+    "casa": "Monza",
+    "trasferta": "Parma",
+    "data": "2027-05-16 00:00:00",
+    "quote": {
+      "1": 2.55,
+      "X": 2.95,
+      "2": 3.73
+    },
+    "lambdaBase": {
+      "casa": 1.13,
+      "trasferta": 0.89
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 3.06,
+        "under": 1.49
+      }
+    }
+  },
+  {
+    "id": "2026-napoli-genoa",
+    "campionato": "Serie A",
+    "casa": "Napoli",
+    "trasferta": "Genoa",
+    "data": "2027-05-16 00:00:00",
+    "quote": {
+      "1": 1.51,
+      "X": 4.3,
+      "2": 9.63
+    },
+    "lambdaBase": {
+      "casa": 1.93,
+      "trasferta": 0.64
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.15,
+        "under": 1.87
+      }
+    }
+  },
+  {
+    "id": "2026-sassuolo-venezia",
+    "campionato": "Serie A",
+    "casa": "Sassuolo",
+    "trasferta": "Venezia",
+    "data": "2027-05-16 00:00:00",
+    "quote": {
+      "1": 1.71,
+      "X": 3.95,
+      "2": 6.12
+    },
+    "lambdaBase": {
+      "casa": 1.86,
+      "trasferta": 0.89
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.95,
+        "under": 2.05
+      }
+    }
+  },
+  {
+    "id": "2026-atalanta-lecce",
+    "campionato": "Serie A",
+    "casa": "Atalanta",
+    "trasferta": "Lecce",
+    "data": "2027-05-23 00:00:00",
+    "quote": {
+      "1": 1.56,
+      "X": 4.14,
+      "2": 8.53
+    },
+    "lambdaBase": {
+      "casa": 1.88,
+      "trasferta": 0.69
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.14,
+        "under": 1.88
+      }
+    }
+  },
+  {
+    "id": "2026-fiorentina-monza",
+    "campionato": "Serie A",
+    "casa": "Fiorentina",
+    "trasferta": "Monza",
+    "data": "2027-05-23 00:00:00",
+    "quote": {
+      "1": 1.63,
+      "X": 4.26,
+      "2": 6.59
+    },
+    "lambdaBase": {
+      "casa": 2.04,
+      "trasferta": 0.92
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.78,
+        "under": 2.28
+      }
+    }
+  },
+  {
+    "id": "2026-frosinone-cagliari",
+    "campionato": "Serie A",
+    "casa": "Frosinone",
+    "trasferta": "Cagliari",
+    "data": "2027-05-23 00:00:00",
+    "quote": {
+      "1": 1.77,
+      "X": 4.25,
+      "2": 5.0
+    },
+    "lambdaBase": {
+      "casa": 2.12,
+      "trasferta": 1.2
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.57,
+        "under": 2.74
+      }
+    }
+  },
+  {
+    "id": "2026-genoa-bologna",
+    "campionato": "Serie A",
+    "casa": "Genoa",
+    "trasferta": "Bologna",
+    "data": "2027-05-23 00:00:00",
+    "quote": {
+      "1": 3.18,
+      "X": 3.39,
+      "2": 2.56
+    },
+    "lambdaBase": {
+      "casa": 1.23,
+      "trasferta": 1.4
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.05,
+        "under": 1.95
+      }
+    }
+  },
+  {
+    "id": "2026-inter-lazio",
+    "campionato": "Serie A",
+    "casa": "Inter",
+    "trasferta": "Lazio",
+    "data": "2027-05-23 00:00:00",
+    "quote": {
+      "1": 1.62,
+      "X": 4.28,
+      "2": 6.75
+    },
+    "lambdaBase": {
+      "casa": 2.05,
+      "trasferta": 0.91
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.79,
+        "under": 2.26
+      }
+    }
+  },
+  {
+    "id": "2026-parma-juventus",
+    "campionato": "Serie A",
+    "casa": "Parma",
+    "trasferta": "Juventus",
+    "data": "2027-05-23 00:00:00",
+    "quote": {
+      "1": 6.73,
+      "X": 3.73,
+      "2": 1.71
+    },
+    "lambdaBase": {
+      "casa": 0.75,
+      "trasferta": 1.7
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.29,
+        "under": 1.78
+      }
+    }
+  },
+  {
+    "id": "2026-roma-como",
+    "campionato": "Serie A",
+    "casa": "Roma",
+    "trasferta": "Como",
+    "data": "2027-05-23 00:00:00",
+    "quote": {
+      "1": 2.31,
+      "X": 3.1,
+      "2": 4.08
+    },
+    "lambdaBase": {
+      "casa": 1.26,
+      "trasferta": 0.89
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.76,
+        "under": 1.57
+      }
+    }
+  },
+  {
+    "id": "2026-torino-napoli",
+    "campionato": "Serie A",
+    "casa": "Torino",
+    "trasferta": "Napoli",
+    "data": "2027-05-23 00:00:00",
+    "quote": {
+      "1": 6.25,
+      "X": 3.21,
+      "2": 1.89
+    },
+    "lambdaBase": {
+      "casa": 0.64,
+      "trasferta": 1.37
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 3.08,
+        "under": 1.48
+      }
+    }
+  },
+  {
+    "id": "2026-udinese-sassuolo",
+    "campionato": "Serie A",
+    "casa": "Udinese",
+    "trasferta": "Sassuolo",
+    "data": "2027-05-23 00:00:00",
+    "quote": {
+      "1": 2.55,
+      "X": 3.83,
+      "2": 2.88
+    },
+    "lambdaBase": {
+      "casa": 1.68,
+      "trasferta": 1.58
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.59,
+        "under": 2.69
+      }
+    }
+  },
+  {
+    "id": "2026-venezia-milan",
+    "campionato": "Serie A",
+    "casa": "Venezia",
+    "trasferta": "Milan",
+    "data": "2027-05-23 00:00:00",
+    "quote": {
+      "1": 11.25,
+      "X": 5.43,
+      "2": 1.38
+    },
+    "lambdaBase": {
+      "casa": 0.76,
+      "trasferta": 2.46
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.64,
+        "under": 2.56
+      }
+    }
+  },
+  {
+    "id": "2026-bologna-parma",
+    "campionato": "Serie A",
+    "casa": "Bologna",
+    "trasferta": "Parma",
+    "data": "2027-05-30 00:00:00",
+    "quote": {
+      "1": 1.9,
+      "X": 3.15,
+      "2": 6.37
+    },
+    "lambdaBase": {
+      "casa": 1.33,
+      "trasferta": 0.61
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 3.26,
+        "under": 1.44
+      }
+    }
+  },
+  {
+    "id": "2026-cagliari-roma",
+    "campionato": "Serie A",
+    "casa": "Cagliari",
+    "trasferta": "Roma",
+    "data": "2027-05-30 00:00:00",
+    "quote": {
+      "1": 5.08,
+      "X": 3.65,
+      "2": 1.89
+    },
+    "lambdaBase": {
+      "casa": 0.94,
+      "trasferta": 1.68
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.07,
+        "under": 1.93
+      }
+    }
+  },
+  {
+    "id": "2026-como-genoa",
+    "campionato": "Serie A",
+    "casa": "Como",
+    "trasferta": "Genoa",
+    "data": "2027-05-30 00:00:00",
+    "quote": {
+      "1": 1.64,
+      "X": 3.84,
+      "2": 7.72
+    },
+    "lambdaBase": {
+      "casa": 1.73,
+      "trasferta": 0.68
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.34,
+        "under": 1.75
+      }
+    }
+  },
+  {
+    "id": "2026-juventus-frosinone",
+    "campionato": "Serie A",
+    "casa": "Juventus",
+    "trasferta": "Frosinone",
+    "data": "2027-05-30 00:00:00",
+    "quote": {
+      "1": 1.33,
+      "X": 5.51,
+      "2": 15.6
+    },
+    "lambdaBase": {
+      "casa": 2.3,
+      "trasferta": 0.55
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.89,
+        "under": 2.12
+      }
+    }
+  },
+  {
+    "id": "2026-lazio-fiorentina",
+    "campionato": "Serie A",
+    "casa": "Lazio",
+    "trasferta": "Fiorentina",
+    "data": "2027-05-30 00:00:00",
+    "quote": {
+      "1": 2.23,
+      "X": 3.58,
+      "2": 3.67
+    },
+    "lambdaBase": {
+      "casa": 1.6,
+      "trasferta": 1.2
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.89,
+        "under": 2.12
+      }
+    }
+  },
+  {
+    "id": "2026-lecce-venezia",
+    "campionato": "Serie A",
+    "casa": "Lecce",
+    "trasferta": "Venezia",
+    "data": "2027-05-30 00:00:00",
+    "quote": {
+      "1": 2.58,
+      "X": 2.83,
+      "2": 3.88
+    },
+    "lambdaBase": {
+      "casa": 1.05,
+      "trasferta": 0.81
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 3.51,
+        "under": 1.4
+      }
+    }
+  },
+  {
+    "id": "2026-milan-udinese",
+    "campionato": "Serie A",
+    "casa": "Milan",
+    "trasferta": "Udinese",
+    "data": "2027-05-30 00:00:00",
+    "quote": {
+      "1": 1.59,
+      "X": 4.26,
+      "2": 7.24
+    },
+    "lambdaBase": {
+      "casa": 2.01,
+      "trasferta": 0.85
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.86,
+        "under": 2.16
+      }
+    }
+  },
+  {
+    "id": "2026-monza-torino",
+    "campionato": "Serie A",
+    "casa": "Monza",
+    "trasferta": "Torino",
+    "data": "2027-05-30 00:00:00",
+    "quote": {
+      "1": 3.41,
+      "X": 3.12,
+      "2": 2.59
+    },
+    "lambdaBase": {
+      "casa": 1.03,
+      "trasferta": 1.22
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 2.55,
+        "under": 1.64
+      }
+    }
+  },
+  {
+    "id": "2026-napoli-atalanta",
+    "campionato": "Serie A",
+    "casa": "Napoli",
+    "trasferta": "Atalanta",
+    "data": "2027-05-30 00:00:00",
+    "quote": {
+      "1": 2.79,
+      "X": 3.48,
+      "2": 2.82
+    },
+    "lambdaBase": {
+      "casa": 1.39,
+      "trasferta": 1.38
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.92,
+        "under": 2.08
+      }
+    }
+  },
+  {
+    "id": "2026-sassuolo-inter",
+    "campionato": "Serie A",
+    "casa": "Sassuolo",
+    "trasferta": "Inter",
+    "data": "2027-05-30 00:00:00",
+    "quote": {
+      "1": 10.91,
+      "X": 5.84,
+      "2": 1.36
+    },
+    "lambdaBase": {
+      "casa": 0.87,
+      "trasferta": 2.71
+    },
+    "mercati": {
+      "goalNoGoal": {
+        "goal": 1.85,
+        "noGoal": 1.95
+      },
+      "overUnder25": {
+        "over": 1.48,
+        "under": 3.09
+      }
+    }
+  }
+]
