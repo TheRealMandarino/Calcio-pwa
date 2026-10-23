@@ -4,7 +4,7 @@ on:
   push:
   schedule:
     - cron: '0 8 * * *'  # Gira tutti i giorni alle 08:00 UTC
-  workflow_dispatch:     # Ti permette di avviarlo manualmente con un click
+  workflow_dispatch:     # Ti permette di avviarlo manualmente
 
 jobs:
   run-python-script:
@@ -23,7 +23,12 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Installa le librerie
+      - name: Installa Chromium (necessario per soccerdata)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y chromium-browser
+
+      - name: Installa le librerie Python
         run: |
           pip install soccerdata pandas
 
