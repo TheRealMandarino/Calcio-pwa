@@ -1,36 +1,37 @@
 name: Aggiorna Dati Calcio
 
 on:
+  push:
   schedule:
-      - cron: '0 8 * * *'  # Gira tutti i giorni alle 08:00 UTC
-        workflow_dispatch:     # Ti permette di avviarlo manualmente con un click
+    - cron: '0 8 * * *'  # Gira tutti i giorni alle 08:00 UTC
+  workflow_dispatch:     # Ti permette di avviarlo manualmente con un click
 
-        jobs:
-          run-python-script:
-              runs-on: ubuntu-latest
-                  
-                      permissions:
-                            contents: write  # Necessario per permettere al bot di salvare partite.json
+jobs:
+  run-python-script:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+      actions: write
 
-                                steps:
-                                      - name: Scarica il codice del progetto
-                                              uses: actions/checkout@v4
+    steps:
+      - name: Scarica il codice del progetto
+        uses: actions/checkout@v4
 
-                                                    - name: Configura Python
-                                                            uses: actions/setup-python@v5
-                                                                    with:
-                                                                              python-version: '3.10'
+      - name: Configura Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
 
-                                                                                    - name: Installa le librerie
-                                                                                            run: |
-                                                                                                      pip install soccerdata pandas
+      - name: Installa le librerie
+        run: |
+          pip install soccerdata pandas
 
-                                                                                                            - name: Esegui lo script Python
-                                                                                                                    run: python update_data.py
+      - name: Esegui lo script Python
+        run: python update_data.py
 
-                                                                                                                          - name: Salva e aggiorna partite.json nel repository
-                                                                                                                                  uses: stefanzweifel/git-auto-commit-action@v5
-                                                                                                                                          with:
-                                                                                                                                                    commit_message: "Aggiornamento automatico partite.json via GitHub Actions"
-                                                                                                                                                              file_pattern: partite.json
-                                                                                                                                                        
+      - name: Salva e aggiorna partite.json nel repository
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Aggiornamento automatico partite.json via GitHub Actions"
+          file_pattern: partite.json
