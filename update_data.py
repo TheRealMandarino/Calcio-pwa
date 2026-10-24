@@ -1,49 +1,49 @@
+import requests
+import csv
+import io
 import json
-import soccerdata as sd
-import pandas as pd
 
-stagioni = ["2122", "2223", "2324", "2425", "2526", "2627"]
+STAGIONI = ["2122", "2223", "2324", "2425", "2526", "2627"]
+
 tutte_le_partite = []
 
-for stagione in stagioni:
+for stagione in STAGIONI:
+    url = f"https://www.football-data.co.uk/mmz4281/{stagione}/I1.csv"
+    print(f"Scaricamento stagione {stagione}...")
+    
     try:
-        print(f"Scaricamento stagione {stagione}...")
-        sa = sd.FBref(leagues="ITA-Serie A", seasons=stagione)
-        schedule = sa.read_schedule()
-        
-        for idx, row in schedule.iterrows():
-            h_gol = None
-            a_gol = None
+        response = requests.get(url, timeout=15)
+        if response.status_code == 200:
+            f = io.StringIO(response.text)
+            reader = csv.DictReader(f)
             
-            # 1. Tentativo con colonne separate se presenti
-            if 'home_score' in schedule.columns and 'away_score' in schedule.columns:
-                h_gol = row.get('home_score')
-                a_gol = row.get('away_score')
+            count = 0
+            for row in reader:
+                data = row.get('Date', '')
+                home = row.get('HomeTeam', '')
+                away = row.get('AwayTeam', '')
+                h_gol = row.get('FTHG', None)
+                a_gol = row.get('FTAG', None)
+                
+                if home and away:
+                    tutte_le_partite.append({
+                        "stagione": stagione,
+                        "squadra_casa": home,
+                        "squadra_ospite": away,
+                        "data": data,
+                        "squadra_casa_gol": h_gol if h_gol != "" else None,
+                        "squadra_ospite_gol": a_gol if a_gol != "" else None
+                    })
+                    count += 1
+            print(f">>> Stagione {stagione}: importate {count} partite.")
+        else:
+            print(f">>> Stagione {stagione} non ancora disponibile o errore (HTTP {response.status_code})")
             
-            # 2. Tentativo se i gol sono dentro una colonna 'score' (es. "2-1" o "2–1")
-            if (pd.isna(h_gol) or pd.isna(a_gol)) and 'score' in schedule.columns:
-                score_val = row.get('score')
-                if pd.notna(score_val) and isinstance(score_val, str):
-                    # Gestisce trattini normali o unicode
-                    score_val = score_val.replace('–', '-')
-                    if '-' in score_val:
-                        parts = score_val.split('-')
-                        if len(parts) == 2 and parts[0].strip().isdigit():
-                            h_gol = parts[0].strip()
-                            a_gol = parts[1].strip()
-
-            tutte_le_partite.append({
-                "stagione": stagione,
-                "squadra_casa": str(row.get('home_team', 'Casa')),
-                "squadra_ospite": str(row.get('away_team', 'Ospite')),
-                "data": str(row.get('date', '')),
-                "squadra_casa_gol": h_gol,
-                "squadra_ospite_gol": a_gol
-            })
     except Exception as e:
-        print(f"Errore per la stagione {stagione}: {e}")
+        print(f">>> Errore per la stagione {stagione}: {e}")
 
+# Salvataggio nel file JSON finale compatibile con la PWA
 with open('partite.json', 'w', encoding='utf-8') as f:
     json.dump(tutte_le_partite, f, ensure_ascii=False, indent=4)
 
-print(f"Totale partite salvate: {len(tutte_le_partite)}")
+print(f"\nTotale partite salvate in partite.json: {len(tutte_le_partite)}")
