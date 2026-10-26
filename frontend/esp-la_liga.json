@@ -1,0 +1,5060 @@
+[
+    {
+        "date": "2026-10-26 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Sevilla",
+        "away_team": "Osasuna",
+        "lambda_home": 1.54,
+        "lambda_away": 1.1,
+        "probabilities": {
+            "1": 46.1,
+            "X": 28.1,
+            "2": 25.8
+        },
+        "odds": {
+            "1": 2.17,
+            "X": 3.55,
+            "2": 3.88
+        }
+    },
+    {
+        "date": "2026-10-30 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Villarreal",
+        "away_team": "Espanyol",
+        "lambda_home": 2.43,
+        "lambda_away": 1.0,
+        "probabilities": {
+            "1": 67.5,
+            "X": 19.4,
+            "2": 13.1
+        },
+        "odds": {
+            "1": 1.48,
+            "X": 5.16,
+            "2": 7.62
+        }
+    },
+    {
+        "date": "2026-10-31 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Barcelona",
+        "away_team": "Alavés",
+        "lambda_home": 3.06,
+        "lambda_away": 0.68,
+        "probabilities": {
+            "1": 83.0,
+            "X": 12.1,
+            "2": 4.9
+        },
+        "odds": {
+            "1": 1.21,
+            "X": 8.26,
+            "2": 20.0
+        }
+    },
+    {
+        "date": "2026-10-31 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Levante",
+        "away_team": "Atlético Madrid",
+        "lambda_home": 1.13,
+        "lambda_away": 1.92,
+        "probabilities": {
+            "1": 20.9,
+            "X": 24.4,
+            "2": 54.7
+        },
+        "odds": {
+            "1": 4.79,
+            "X": 4.09,
+            "2": 1.83
+        }
+    },
+    {
+        "date": "2026-10-31 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Rayo Vallecano",
+        "away_team": "Celta Vigo",
+        "lambda_home": 1.25,
+        "lambda_away": 1.16,
+        "probabilities": {
+            "1": 37.0,
+            "X": 30.5,
+            "2": 32.6
+        },
+        "odds": {
+            "1": 2.71,
+            "X": 3.28,
+            "2": 3.07
+        }
+    },
+    {
+        "date": "2026-10-31 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Real Betis",
+        "away_team": "Málaga",
+        "lambda_home": 2.47,
+        "lambda_away": 0.65,
+        "probabilities": {
+            "1": 76.2,
+            "X": 16.7,
+            "2": 7.1
+        },
+        "odds": {
+            "1": 1.31,
+            "X": 5.97,
+            "2": 14.06
+        }
+    },
+    {
+        "date": "2026-11-01 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Athletic Club",
+        "away_team": "Real Sociedad",
+        "lambda_home": 1.51,
+        "lambda_away": 1.02,
+        "probabilities": {
+            "1": 47.0,
+            "X": 28.6,
+            "2": 24.4
+        },
+        "odds": {
+            "1": 2.13,
+            "X": 3.49,
+            "2": 4.1
+        }
+    },
+    {
+        "date": "2026-11-01 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Elche",
+        "away_team": "Valencia",
+        "lambda_home": 1.39,
+        "lambda_away": 1.18,
+        "probabilities": {
+            "1": 40.3,
+            "X": 29.2,
+            "2": 30.5
+        },
+        "odds": {
+            "1": 2.48,
+            "X": 3.43,
+            "2": 3.28
+        }
+    },
+    {
+        "date": "2026-11-01 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Getafe",
+        "away_team": "Sevilla",
+        "lambda_home": 1.12,
+        "lambda_away": 0.95,
+        "probabilities": {
+            "1": 37.8,
+            "X": 33.0,
+            "2": 29.2
+        },
+        "odds": {
+            "1": 2.64,
+            "X": 3.03,
+            "2": 3.43
+        }
+    },
+    {
+        "date": "2026-11-01 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Racing Sant",
+        "away_team": "Real Madrid",
+        "lambda_home": 1.21,
+        "lambda_away": 3.6,
+        "probabilities": {
+            "1": 8.6,
+            "X": 12.4,
+            "2": 79.0
+        },
+        "odds": {
+            "1": 11.61,
+            "X": 8.05,
+            "2": 1.27
+        }
+    },
+    {
+        "date": "2026-11-02 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Dep. A Coruña",
+        "away_team": "Osasuna",
+        "lambda_home": 1.62,
+        "lambda_away": 0.99,
+        "probabilities": {
+            "1": 50.7,
+            "X": 27.5,
+            "2": 21.8
+        },
+        "odds": {
+            "1": 1.97,
+            "X": 3.64,
+            "2": 4.58
+        }
+    },
+    {
+        "date": "2026-11-06 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Sevilla",
+        "away_team": "Alavés",
+        "lambda_home": 1.51,
+        "lambda_away": 1.05,
+        "probabilities": {
+            "1": 46.4,
+            "X": 28.5,
+            "2": 25.1
+        },
+        "odds": {
+            "1": 2.16,
+            "X": 3.51,
+            "2": 3.98
+        }
+    },
+    {
+        "date": "2026-11-07 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Espanyol",
+        "away_team": "Dep. A Coruña",
+        "lambda_home": 1.37,
+        "lambda_away": 1.28,
+        "probabilities": {
+            "1": 37.8,
+            "X": 28.8,
+            "2": 33.4
+        },
+        "odds": {
+            "1": 2.65,
+            "X": 3.47,
+            "2": 3.0
+        }
+    },
+    {
+        "date": "2026-11-07 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Málaga",
+        "away_team": "Racing Sant",
+        "lambda_home": 1.66,
+        "lambda_away": 1.89,
+        "probabilities": {
+            "1": 33.4,
+            "X": 24.1,
+            "2": 42.6
+        },
+        "odds": {
+            "1": 3.0,
+            "X": 4.16,
+            "2": 2.35
+        }
+    },
+    {
+        "date": "2026-11-07 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Osasuna",
+        "away_team": "Athletic Club",
+        "lambda_home": 1.14,
+        "lambda_away": 1.19,
+        "probabilities": {
+            "1": 33.3,
+            "X": 31.1,
+            "2": 35.6
+        },
+        "odds": {
+            "1": 3.01,
+            "X": 3.22,
+            "2": 2.81
+        }
+    },
+    {
+        "date": "2026-11-07 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Valencia",
+        "away_team": "Real Madrid",
+        "lambda_home": 0.91,
+        "lambda_away": 1.95,
+        "probabilities": {
+            "1": 15.7,
+            "X": 23.7,
+            "2": 60.6
+        },
+        "odds": {
+            "1": 6.36,
+            "X": 4.23,
+            "2": 1.65
+        }
+    },
+    {
+        "date": "2026-11-08 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Atlético Madrid",
+        "away_team": "Barcelona",
+        "lambda_home": 1.52,
+        "lambda_away": 1.6,
+        "probabilities": {
+            "1": 35.2,
+            "X": 26.2,
+            "2": 38.6
+        },
+        "odds": {
+            "1": 2.84,
+            "X": 3.82,
+            "2": 2.59
+        }
+    },
+    {
+        "date": "2026-11-08 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Celta Vigo",
+        "away_team": "Levante",
+        "lambda_home": 2.01,
+        "lambda_away": 1.17,
+        "probabilities": {
+            "1": 55.5,
+            "X": 23.7,
+            "2": 20.8
+        },
+        "odds": {
+            "1": 1.8,
+            "X": 4.22,
+            "2": 4.81
+        }
+    },
+    {
+        "date": "2026-11-08 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Elche",
+        "away_team": "Real Betis",
+        "lambda_home": 1.27,
+        "lambda_away": 1.55,
+        "probabilities": {
+            "1": 30.1,
+            "X": 27.5,
+            "2": 42.3
+        },
+        "odds": {
+            "1": 3.32,
+            "X": 3.63,
+            "2": 2.36
+        }
+    },
+    {
+        "date": "2026-11-08 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Real Sociedad",
+        "away_team": "Rayo Vallecano",
+        "lambda_home": 1.64,
+        "lambda_away": 0.9,
+        "probabilities": {
+            "1": 53.4,
+            "X": 27.2,
+            "2": 19.4
+        },
+        "odds": {
+            "1": 1.87,
+            "X": 3.67,
+            "2": 5.16
+        }
+    },
+    {
+        "date": "2026-11-08 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Villarreal",
+        "away_team": "Getafe",
+        "lambda_home": 1.84,
+        "lambda_away": 0.75,
+        "probabilities": {
+            "1": 62.2,
+            "X": 24.3,
+            "2": 13.5
+        },
+        "odds": {
+            "1": 1.61,
+            "X": 4.11,
+            "2": 7.39
+        }
+    },
+    {
+        "date": "2026-11-20 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Athletic Club",
+        "away_team": "Espanyol",
+        "lambda_home": 1.75,
+        "lambda_away": 0.86,
+        "probabilities": {
+            "1": 57.1,
+            "X": 25.8,
+            "2": 17.1
+        },
+        "odds": {
+            "1": 1.75,
+            "X": 3.87,
+            "2": 5.86
+        }
+    },
+    {
+        "date": "2026-11-21 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Alavés",
+        "away_team": "Dep. A Coruña",
+        "lambda_home": 1.27,
+        "lambda_away": 1.14,
+        "probabilities": {
+            "1": 38.0,
+            "X": 30.3,
+            "2": 31.7
+        },
+        "odds": {
+            "1": 2.63,
+            "X": 3.29,
+            "2": 3.16
+        }
+    },
+    {
+        "date": "2026-11-21 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Rayo Vallecano",
+        "away_team": "Valencia",
+        "lambda_home": 1.28,
+        "lambda_away": 0.96,
+        "probabilities": {
+            "1": 42.3,
+            "X": 31.2,
+            "2": 26.5
+        },
+        "odds": {
+            "1": 2.37,
+            "X": 3.2,
+            "2": 3.77
+        }
+    },
+    {
+        "date": "2026-11-21 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Real Madrid",
+        "away_team": "Celta Vigo",
+        "lambda_home": 2.62,
+        "lambda_away": 0.79,
+        "probabilities": {
+            "1": 75.4,
+            "X": 16.4,
+            "2": 8.2
+        },
+        "odds": {
+            "1": 1.33,
+            "X": 6.11,
+            "2": 12.13
+        }
+    },
+    {
+        "date": "2026-11-21 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Sevilla",
+        "away_team": "Real Betis",
+        "lambda_home": 1.4,
+        "lambda_away": 1.37,
+        "probabilities": {
+            "1": 36.5,
+            "X": 28.1,
+            "2": 35.3
+        },
+        "odds": {
+            "1": 2.74,
+            "X": 3.56,
+            "2": 2.83
+        }
+    },
+    {
+        "date": "2026-11-22 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Barcelona",
+        "away_team": "Villarreal",
+        "lambda_home": 3.1,
+        "lambda_away": 1.13,
+        "probabilities": {
+            "1": 74.9,
+            "X": 14.9,
+            "2": 10.3
+        },
+        "odds": {
+            "1": 1.34,
+            "X": 6.72,
+            "2": 9.75
+        }
+    },
+    {
+        "date": "2026-11-22 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Getafe",
+        "away_team": "Atlético Madrid",
+        "lambda_home": 0.74,
+        "lambda_away": 1.39,
+        "probabilities": {
+            "1": 18.7,
+            "X": 30.4,
+            "2": 50.9
+        },
+        "odds": {
+            "1": 5.36,
+            "X": 3.29,
+            "2": 1.96
+        }
+    },
+    {
+        "date": "2026-11-22 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Osasuna",
+        "away_team": "Málaga",
+        "lambda_home": 1.97,
+        "lambda_away": 0.65,
+        "probabilities": {
+            "1": 67.5,
+            "X": 22.2,
+            "2": 10.3
+        },
+        "odds": {
+            "1": 1.48,
+            "X": 4.51,
+            "2": 9.69
+        }
+    },
+    {
+        "date": "2026-11-22 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Racing Sant",
+        "away_team": "Real Sociedad",
+        "lambda_home": 1.75,
+        "lambda_away": 2.38,
+        "probabilities": {
+            "1": 27.8,
+            "X": 21.3,
+            "2": 50.9
+        },
+        "odds": {
+            "1": 3.59,
+            "X": 4.7,
+            "2": 1.97
+        }
+    },
+    {
+        "date": "2026-11-23 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Levante",
+        "away_team": "Elche",
+        "lambda_home": 1.85,
+        "lambda_away": 1.24,
+        "probabilities": {
+            "1": 50.3,
+            "X": 25.1,
+            "2": 24.5
+        },
+        "odds": {
+            "1": 1.99,
+            "X": 3.98,
+            "2": 4.08
+        }
+    },
+    {
+        "date": "2026-11-29 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Celta Vigo",
+        "away_team": "Villarreal",
+        "lambda_home": 1.63,
+        "lambda_away": 1.62,
+        "probabilities": {
+            "1": 37.4,
+            "X": 25.6,
+            "2": 37.0
+        },
+        "odds": {
+            "1": 2.67,
+            "X": 3.91,
+            "2": 2.7
+        }
+    },
+    {
+        "date": "2026-11-29 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Dep. A Coruña",
+        "away_team": "Barcelona",
+        "lambda_home": 1.13,
+        "lambda_away": 2.14,
+        "probabilities": {
+            "1": 18.4,
+            "X": 22.5,
+            "2": 59.1
+        },
+        "odds": {
+            "1": 5.43,
+            "X": 4.44,
+            "2": 1.69
+        }
+    },
+    {
+        "date": "2026-11-29 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Elche",
+        "away_team": "Atlético Madrid",
+        "lambda_home": 0.98,
+        "lambda_away": 1.89,
+        "probabilities": {
+            "1": 18.0,
+            "X": 24.6,
+            "2": 57.4
+        },
+        "odds": {
+            "1": 5.54,
+            "X": 4.07,
+            "2": 1.74
+        }
+    },
+    {
+        "date": "2026-11-29 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Espanyol",
+        "away_team": "Getafe",
+        "lambda_home": 1.21,
+        "lambda_away": 0.84,
+        "probabilities": {
+            "1": 43.2,
+            "X": 32.5,
+            "2": 24.3
+        },
+        "odds": {
+            "1": 2.31,
+            "X": 3.07,
+            "2": 4.12
+        }
+    },
+    {
+        "date": "2026-11-29 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Levante",
+        "away_team": "Racing Sant",
+        "lambda_home": 3.07,
+        "lambda_away": 1.63,
+        "probabilities": {
+            "1": 64.9,
+            "X": 17.2,
+            "2": 17.9
+        },
+        "odds": {
+            "1": 1.54,
+            "X": 5.82,
+            "2": 5.59
+        }
+    },
+    {
+        "date": "2026-11-29 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Málaga",
+        "away_team": "Athletic Club",
+        "lambda_home": 0.71,
+        "lambda_away": 1.65,
+        "probabilities": {
+            "1": 14.7,
+            "X": 26.7,
+            "2": 58.5
+        },
+        "odds": {
+            "1": 6.8,
+            "X": 3.74,
+            "2": 1.71
+        }
+    },
+    {
+        "date": "2026-11-29 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Real Betis",
+        "away_team": "Rayo Vallecano",
+        "lambda_home": 1.69,
+        "lambda_away": 0.87,
+        "probabilities": {
+            "1": 55.4,
+            "X": 26.6,
+            "2": 18.0
+        },
+        "odds": {
+            "1": 1.8,
+            "X": 3.76,
+            "2": 5.56
+        }
+    },
+    {
+        "date": "2026-11-29 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Real Madrid",
+        "away_team": "Alavés",
+        "lambda_home": 2.59,
+        "lambda_away": 0.65,
+        "probabilities": {
+            "1": 78.0,
+            "X": 15.5,
+            "2": 6.5
+        },
+        "odds": {
+            "1": 1.28,
+            "X": 6.43,
+            "2": 15.47
+        }
+    },
+    {
+        "date": "2026-11-29 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Real Sociedad",
+        "away_team": "Sevilla",
+        "lambda_home": 1.82,
+        "lambda_away": 1.07,
+        "probabilities": {
+            "1": 53.6,
+            "X": 25.4,
+            "2": 21.0
+        },
+        "odds": {
+            "1": 1.87,
+            "X": 3.94,
+            "2": 4.76
+        }
+    },
+    {
+        "date": "2026-11-29 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Valencia",
+        "away_team": "Osasuna",
+        "lambda_home": 1.4,
+        "lambda_away": 1.04,
+        "probabilities": {
+            "1": 43.7,
+            "X": 29.7,
+            "2": 26.6
+        },
+        "odds": {
+            "1": 2.29,
+            "X": 3.37,
+            "2": 3.75
+        }
+    },
+    {
+        "date": "2026-12-06 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Alavés",
+        "away_team": "Espanyol",
+        "lambda_home": 1.46,
+        "lambda_away": 1.04,
+        "probabilities": {
+            "1": 45.4,
+            "X": 29.1,
+            "2": 25.5
+        },
+        "odds": {
+            "1": 2.2,
+            "X": 3.44,
+            "2": 3.92
+        }
+    },
+    {
+        "date": "2026-12-06 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Athletic Club",
+        "away_team": "Real Madrid",
+        "lambda_home": 1.03,
+        "lambda_away": 1.58,
+        "probabilities": {
+            "1": 23.5,
+            "X": 27.8,
+            "2": 48.7
+        },
+        "odds": {
+            "1": 4.26,
+            "X": 3.59,
+            "2": 2.05
+        }
+    },
+    {
+        "date": "2026-12-06 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Atlético Madrid",
+        "away_team": "Real Betis",
+        "lambda_home": 2.03,
+        "lambda_away": 0.9,
+        "probabilities": {
+            "1": 62.4,
+            "X": 22.8,
+            "2": 14.8
+        },
+        "odds": {
+            "1": 1.6,
+            "X": 4.38,
+            "2": 6.75
+        }
+    },
+    {
+        "date": "2026-12-06 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Barcelona",
+        "away_team": "Celta Vigo",
+        "lambda_home": 3.1,
+        "lambda_away": 0.86,
+        "probabilities": {
+            "1": 79.9,
+            "X": 13.2,
+            "2": 6.8
+        },
+        "odds": {
+            "1": 1.25,
+            "X": 7.55,
+            "2": 14.64
+        }
+    },
+    {
+        "date": "2026-12-06 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Getafe",
+        "away_team": "Valencia",
+        "lambda_home": 1.06,
+        "lambda_away": 0.88,
+        "probabilities": {
+            "1": 37.8,
+            "X": 34.1,
+            "2": 28.0
+        },
+        "odds": {
+            "1": 2.64,
+            "X": 2.93,
+            "2": 3.57
+        }
+    },
+    {
+        "date": "2026-12-06 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Osasuna",
+        "away_team": "Elche",
+        "lambda_home": 1.64,
+        "lambda_away": 1.03,
+        "probabilities": {
+            "1": 50.3,
+            "X": 27.2,
+            "2": 22.4
+        },
+        "odds": {
+            "1": 1.99,
+            "X": 3.67,
+            "2": 4.46
+        }
+    },
+    {
+        "date": "2026-12-06 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Racing Sant",
+        "away_team": "Dep. A Coruña",
+        "lambda_home": 1.77,
+        "lambda_away": 2.24,
+        "probabilities": {
+            "1": 30.2,
+            "X": 22.0,
+            "2": 47.7
+        },
+        "odds": {
+            "1": 3.31,
+            "X": 4.54,
+            "2": 2.09
+        }
+    },
+    {
+        "date": "2026-12-06 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Rayo Vallecano",
+        "away_team": "Levante",
+        "lambda_home": 1.58,
+        "lambda_away": 1.11,
+        "probabilities": {
+            "1": 46.9,
+            "X": 27.7,
+            "2": 25.4
+        },
+        "odds": {
+            "1": 2.13,
+            "X": 3.61,
+            "2": 3.94
+        }
+    },
+    {
+        "date": "2026-12-06 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Sevilla",
+        "away_team": "Málaga",
+        "lambda_home": 2.14,
+        "lambda_away": 0.68,
+        "probabilities": {
+            "1": 70.1,
+            "X": 20.4,
+            "2": 9.6
+        },
+        "odds": {
+            "1": 1.43,
+            "X": 4.91,
+            "2": 10.43
+        }
+    },
+    {
+        "date": "2026-12-06 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Villarreal",
+        "away_team": "Real Sociedad",
+        "lambda_home": 2.06,
+        "lambda_away": 1.21,
+        "probabilities": {
+            "1": 55.6,
+            "X": 23.3,
+            "2": 21.1
+        },
+        "odds": {
+            "1": 1.8,
+            "X": 4.29,
+            "2": 4.74
+        }
+    },
+    {
+        "date": "2026-12-13 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Atlético Madrid",
+        "away_team": "Valencia",
+        "lambda_home": 2.25,
+        "lambda_away": 0.71,
+        "probabilities": {
+            "1": 71.4,
+            "X": 19.3,
+            "2": 9.3
+        },
+        "odds": {
+            "1": 1.4,
+            "X": 5.18,
+            "2": 10.8
+        }
+    },
+    {
+        "date": "2026-12-13 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Dep. A Coruña",
+        "away_team": "Athletic Club",
+        "lambda_home": 1.31,
+        "lambda_away": 1.13,
+        "probabilities": {
+            "1": 39.2,
+            "X": 30.2,
+            "2": 30.6
+        },
+        "odds": {
+            "1": 2.55,
+            "X": 3.31,
+            "2": 3.27
+        }
+    },
+    {
+        "date": "2026-12-13 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Elche",
+        "away_team": "Sevilla",
+        "lambda_home": 1.48,
+        "lambda_away": 1.33,
+        "probabilities": {
+            "1": 39.4,
+            "X": 27.8,
+            "2": 32.8
+        },
+        "odds": {
+            "1": 2.54,
+            "X": 3.6,
+            "2": 3.05
+        }
+    },
+    {
+        "date": "2026-12-13 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Espanyol",
+        "away_team": "Celta Vigo",
+        "lambda_home": 1.44,
+        "lambda_away": 1.33,
+        "probabilities": {
+            "1": 38.6,
+            "X": 28.1,
+            "2": 33.4
+        },
+        "odds": {
+            "1": 2.59,
+            "X": 3.56,
+            "2": 3.0
+        }
+    },
+    {
+        "date": "2026-12-13 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Levante",
+        "away_team": "Alavés",
+        "lambda_home": 1.58,
+        "lambda_away": 1.18,
+        "probabilities": {
+            "1": 45.3,
+            "X": 27.5,
+            "2": 27.1
+        },
+        "odds": {
+            "1": 2.21,
+            "X": 3.63,
+            "2": 3.69
+        }
+    },
+    {
+        "date": "2026-12-13 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Málaga",
+        "away_team": "Barcelona",
+        "lambda_home": 0.7,
+        "lambda_away": 3.12,
+        "probabilities": {
+            "1": 4.9,
+            "X": 11.8,
+            "2": 83.2
+        },
+        "odds": {
+            "1": 20.0,
+            "X": 8.44,
+            "2": 1.2
+        }
+    },
+    {
+        "date": "2026-12-13 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Real Betis",
+        "away_team": "Racing Sant",
+        "lambda_home": 3.37,
+        "lambda_away": 1.25,
+        "probabilities": {
+            "1": 75.8,
+            "X": 13.9,
+            "2": 10.3
+        },
+        "odds": {
+            "1": 1.32,
+            "X": 7.2,
+            "2": 9.75
+        }
+    },
+    {
+        "date": "2026-12-13 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Real Madrid",
+        "away_team": "Osasuna",
+        "lambda_home": 2.66,
+        "lambda_away": 0.67,
+        "probabilities": {
+            "1": 78.5,
+            "X": 15.1,
+            "2": 6.4
+        },
+        "odds": {
+            "1": 1.27,
+            "X": 6.61,
+            "2": 15.63
+        }
+    },
+    {
+        "date": "2026-12-13 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Real Sociedad",
+        "away_team": "Getafe",
+        "lambda_home": 1.45,
+        "lambda_away": 0.74,
+        "probabilities": {
+            "1": 52.8,
+            "X": 29.5,
+            "2": 17.8
+        },
+        "odds": {
+            "1": 1.89,
+            "X": 3.4,
+            "2": 5.63
+        }
+    },
+    {
+        "date": "2026-12-13 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Villarreal",
+        "away_team": "Rayo Vallecano",
+        "lambda_home": 2.08,
+        "lambda_away": 0.91,
+        "probabilities": {
+            "1": 63.1,
+            "X": 22.4,
+            "2": 14.5
+        },
+        "odds": {
+            "1": 1.59,
+            "X": 4.47,
+            "2": 6.88
+        }
+    },
+    {
+        "date": "2026-12-20 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Alavés",
+        "away_team": "Elche",
+        "lambda_home": 1.55,
+        "lambda_away": 0.99,
+        "probabilities": {
+            "1": 48.9,
+            "X": 28.2,
+            "2": 22.9
+        },
+        "odds": {
+            "1": 2.04,
+            "X": 3.55,
+            "2": 4.36
+        }
+    },
+    {
+        "date": "2026-12-20 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Athletic Club",
+        "away_team": "Real Betis",
+        "lambda_home": 1.5,
+        "lambda_away": 1.06,
+        "probabilities": {
+            "1": 46.0,
+            "X": 28.6,
+            "2": 25.4
+        },
+        "odds": {
+            "1": 2.18,
+            "X": 3.49,
+            "2": 3.94
+        }
+    },
+    {
+        "date": "2026-12-20 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Barcelona",
+        "away_team": "Real Sociedad",
+        "lambda_home": 2.97,
+        "lambda_away": 0.87,
+        "probabilities": {
+            "1": 78.2,
+            "X": 14.2,
+            "2": 7.6
+        },
+        "odds": {
+            "1": 1.28,
+            "X": 7.03,
+            "2": 13.17
+        }
+    },
+    {
+        "date": "2026-12-20 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Celta Vigo",
+        "away_team": "Atlético Madrid",
+        "lambda_home": 1.14,
+        "lambda_away": 1.61,
+        "probabilities": {
+            "1": 25.7,
+            "X": 27.3,
+            "2": 47.0
+        },
+        "odds": {
+            "1": 3.89,
+            "X": 3.66,
+            "2": 2.13
+        }
+    },
+    {
+        "date": "2026-12-20 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Dep. A Coruña",
+        "away_team": "Real Madrid",
+        "lambda_home": 1.05,
+        "lambda_away": 1.8,
+        "probabilities": {
+            "1": 20.7,
+            "X": 25.6,
+            "2": 53.7
+        },
+        "odds": {
+            "1": 4.82,
+            "X": 3.91,
+            "2": 1.86
+        }
+    },
+    {
+        "date": "2026-12-20 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Getafe",
+        "away_team": "Levante",
+        "lambda_home": 1.27,
+        "lambda_away": 1.02,
+        "probabilities": {
+            "1": 40.6,
+            "X": 31.1,
+            "2": 28.3
+        },
+        "odds": {
+            "1": 2.46,
+            "X": 3.21,
+            "2": 3.53
+        }
+    },
+    {
+        "date": "2026-12-20 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Osasuna",
+        "away_team": "Villarreal",
+        "lambda_home": 1.36,
+        "lambda_away": 1.66,
+        "probabilities": {
+            "1": 30.3,
+            "X": 26.4,
+            "2": 43.3
+        },
+        "odds": {
+            "1": 3.3,
+            "X": 3.79,
+            "2": 2.31
+        }
+    },
+    {
+        "date": "2026-12-20 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Rayo Vallecano",
+        "away_team": "Málaga",
+        "lambda_home": 1.8,
+        "lambda_away": 0.65,
+        "probabilities": {
+            "1": 63.9,
+            "X": 24.4,
+            "2": 11.8
+        },
+        "odds": {
+            "1": 1.57,
+            "X": 4.1,
+            "2": 8.5
+        }
+    },
+    {
+        "date": "2026-12-20 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Sevilla",
+        "away_team": "Racing Sant",
+        "lambda_home": 2.93,
+        "lambda_away": 1.44,
+        "probabilities": {
+            "1": 66.4,
+            "X": 17.4,
+            "2": 16.2
+        },
+        "odds": {
+            "1": 1.51,
+            "X": 5.73,
+            "2": 6.17
+        }
+    },
+    {
+        "date": "2026-12-20 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Valencia",
+        "away_team": "Espanyol",
+        "lambda_home": 1.54,
+        "lambda_away": 1.08,
+        "probabilities": {
+            "1": 46.6,
+            "X": 28.2,
+            "2": 25.2
+        },
+        "odds": {
+            "1": 2.15,
+            "X": 3.55,
+            "2": 3.96
+        }
+    },
+    {
+        "date": "2027-01-03 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Celta Vigo",
+        "away_team": "Dep. A Coruña",
+        "lambda_home": 1.58,
+        "lambda_away": 1.16,
+        "probabilities": {
+            "1": 45.7,
+            "X": 27.6,
+            "2": 26.7
+        },
+        "odds": {
+            "1": 2.19,
+            "X": 3.62,
+            "2": 3.75
+        }
+    },
+    {
+        "date": "2027-01-03 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Espanyol",
+        "away_team": "Barcelona",
+        "lambda_home": 1.0,
+        "lambda_away": 2.55,
+        "probabilities": {
+            "1": 12.1,
+            "X": 18.3,
+            "2": 69.6
+        },
+        "odds": {
+            "1": 8.27,
+            "X": 5.45,
+            "2": 1.44
+        }
+    },
+    {
+        "date": "2027-01-03 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Levante",
+        "away_team": "Valencia",
+        "lambda_home": 1.59,
+        "lambda_away": 1.25,
+        "probabilities": {
+            "1": 44.1,
+            "X": 27.3,
+            "2": 28.6
+        },
+        "odds": {
+            "1": 2.27,
+            "X": 3.67,
+            "2": 3.5
+        }
+    },
+    {
+        "date": "2027-01-03 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Málaga",
+        "away_team": "Elche",
+        "lambda_home": 1.01,
+        "lambda_away": 1.43,
+        "probabilities": {
+            "1": 25.3,
+            "X": 29.5,
+            "2": 45.2
+        },
+        "odds": {
+            "1": 3.95,
+            "X": 3.39,
+            "2": 2.21
+        }
+    },
+    {
+        "date": "2027-01-03 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Racing Sant",
+        "away_team": "Athletic Club",
+        "lambda_home": 1.51,
+        "lambda_away": 2.25,
+        "probabilities": {
+            "1": 24.8,
+            "X": 22.1,
+            "2": 53.1
+        },
+        "odds": {
+            "1": 4.03,
+            "X": 4.53,
+            "2": 1.88
+        }
+    },
+    {
+        "date": "2027-01-03 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Rayo Vallecano",
+        "away_team": "Atlético Madrid",
+        "lambda_home": 0.91,
+        "lambda_away": 1.6,
+        "probabilities": {
+            "1": 20.1,
+            "X": 27.7,
+            "2": 52.2
+        },
+        "odds": {
+            "1": 4.99,
+            "X": 3.61,
+            "2": 1.91
+        }
+    },
+    {
+        "date": "2027-01-03 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Real Betis",
+        "away_team": "Alavés",
+        "lambda_home": 1.71,
+        "lambda_away": 0.9,
+        "probabilities": {
+            "1": 55.2,
+            "X": 26.4,
+            "2": 18.4
+        },
+        "odds": {
+            "1": 1.81,
+            "X": 3.79,
+            "2": 5.43
+        }
+    },
+    {
+        "date": "2027-01-03 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Real Madrid",
+        "away_team": "Getafe",
+        "lambda_home": 2.19,
+        "lambda_away": 0.65,
+        "probabilities": {
+            "1": 71.6,
+            "X": 19.6,
+            "2": 8.8
+        },
+        "odds": {
+            "1": 1.4,
+            "X": 5.09,
+            "2": 11.41
+        }
+    },
+    {
+        "date": "2027-01-03 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Real Sociedad",
+        "away_team": "Osasuna",
+        "lambda_home": 1.72,
+        "lambda_away": 0.97,
+        "probabilities": {
+            "1": 53.8,
+            "X": 26.3,
+            "2": 19.9
+        },
+        "odds": {
+            "1": 1.86,
+            "X": 3.8,
+            "2": 5.02
+        }
+    },
+    {
+        "date": "2027-01-03 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Villarreal",
+        "away_team": "Sevilla",
+        "lambda_home": 2.35,
+        "lambda_away": 1.1,
+        "probabilities": {
+            "1": 63.9,
+            "X": 20.5,
+            "2": 15.6
+        },
+        "odds": {
+            "1": 1.56,
+            "X": 4.88,
+            "2": 6.42
+        }
+    },
+    {
+        "date": "2027-01-10 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Alavés",
+        "away_team": "Real Sociedad",
+        "lambda_home": 1.25,
+        "lambda_away": 1.22,
+        "probabilities": {
+            "1": 35.6,
+            "X": 30.1,
+            "2": 34.3
+        },
+        "odds": {
+            "1": 2.81,
+            "X": 3.33,
+            "2": 2.91
+        }
+    },
+    {
+        "date": "2027-01-10 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Athletic Club",
+        "away_team": "Villarreal",
+        "lambda_home": 1.55,
+        "lambda_away": 1.3,
+        "probabilities": {
+            "1": 41.8,
+            "X": 27.4,
+            "2": 30.8
+        },
+        "odds": {
+            "1": 2.39,
+            "X": 3.65,
+            "2": 3.25
+        }
+    },
+    {
+        "date": "2027-01-10 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Atlético Madrid",
+        "away_team": "Racing Sant",
+        "lambda_home": 4.19,
+        "lambda_away": 0.96,
+        "probabilities": {
+            "1": 87.7,
+            "X": 8.2,
+            "2": 4.1
+        },
+        "odds": {
+            "1": 1.14,
+            "X": 12.2,
+            "2": 20.0
+        }
+    },
+    {
+        "date": "2027-01-10 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Dep. A Coruña",
+        "away_team": "Rayo Vallecano",
+        "lambda_home": 1.53,
+        "lambda_away": 0.9,
+        "probabilities": {
+            "1": 50.6,
+            "X": 28.5,
+            "2": 20.9
+        },
+        "odds": {
+            "1": 1.98,
+            "X": 3.51,
+            "2": 4.78
+        }
+    },
+    {
+        "date": "2027-01-10 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Elche",
+        "away_team": "Getafe",
+        "lambda_home": 1.17,
+        "lambda_away": 0.91,
+        "probabilities": {
+            "1": 40.2,
+            "X": 32.8,
+            "2": 27.1
+        },
+        "odds": {
+            "1": 2.49,
+            "X": 3.05,
+            "2": 3.69
+        }
+    },
+    {
+        "date": "2027-01-10 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Espanyol",
+        "away_team": "Real Betis",
+        "lambda_home": 1.3,
+        "lambda_away": 1.42,
+        "probabilities": {
+            "1": 33.1,
+            "X": 28.4,
+            "2": 38.5
+        },
+        "odds": {
+            "1": 3.02,
+            "X": 3.52,
+            "2": 2.59
+        }
+    },
+    {
+        "date": "2027-01-10 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Osasuna",
+        "away_team": "Barcelona",
+        "lambda_home": 0.98,
+        "lambda_away": 2.33,
+        "probabilities": {
+            "1": 13.6,
+            "X": 20.2,
+            "2": 66.2
+        },
+        "odds": {
+            "1": 7.37,
+            "X": 4.95,
+            "2": 1.51
+        }
+    },
+    {
+        "date": "2027-01-10 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Real Madrid",
+        "away_team": "Levante",
+        "lambda_home": 3.18,
+        "lambda_away": 0.77,
+        "probabilities": {
+            "1": 82.6,
+            "X": 12.0,
+            "2": 5.4
+        },
+        "odds": {
+            "1": 1.21,
+            "X": 8.36,
+            "2": 18.55
+        }
+    },
+    {
+        "date": "2027-01-10 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Sevilla",
+        "away_team": "Celta Vigo",
+        "lambda_home": 1.53,
+        "lambda_away": 1.31,
+        "probabilities": {
+            "1": 41.2,
+            "X": 27.5,
+            "2": 31.2
+        },
+        "odds": {
+            "1": 2.42,
+            "X": 3.63,
+            "2": 3.2
+        }
+    },
+    {
+        "date": "2027-01-10 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Valencia",
+        "away_team": "Málaga",
+        "lambda_home": 1.94,
+        "lambda_away": 0.65,
+        "probabilities": {
+            "1": 66.9,
+            "X": 22.6,
+            "2": 10.6
+        },
+        "odds": {
+            "1": 1.5,
+            "X": 4.43,
+            "2": 9.45
+        }
+    },
+    {
+        "date": "2027-01-17 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Atlético Madrid",
+        "away_team": "Real Sociedad",
+        "lambda_home": 2.12,
+        "lambda_away": 0.87,
+        "probabilities": {
+            "1": 65.0,
+            "X": 21.7,
+            "2": 13.3
+        },
+        "odds": {
+            "1": 1.54,
+            "X": 4.61,
+            "2": 7.51
+        }
+    },
+    {
+        "date": "2027-01-17 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Barcelona",
+        "away_team": "Elche",
+        "lambda_home": 3.71,
+        "lambda_away": 0.7,
+        "probabilities": {
+            "1": 88.2,
+            "X": 8.5,
+            "2": 3.3
+        },
+        "odds": {
+            "1": 1.13,
+            "X": 11.71,
+            "2": 20.0
+        }
+    },
+    {
+        "date": "2027-01-17 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Celta Vigo",
+        "away_team": "Valencia",
+        "lambda_home": 1.67,
+        "lambda_away": 1.02,
+        "probabilities": {
+            "1": 51.3,
+            "X": 26.9,
+            "2": 21.8
+        },
+        "odds": {
+            "1": 1.95,
+            "X": 3.71,
+            "2": 4.59
+        }
+    },
+    {
+        "date": "2027-01-17 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Getafe",
+        "away_team": "Athletic Club",
+        "lambda_home": 0.86,
+        "lambda_away": 1.02,
+        "probabilities": {
+            "1": 28.4,
+            "X": 34.8,
+            "2": 36.9
+        },
+        "odds": {
+            "1": 3.52,
+            "X": 2.88,
+            "2": 2.71
+        }
+    },
+    {
+        "date": "2027-01-17 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Levante",
+        "away_team": "Espanyol",
+        "lambda_home": 1.7,
+        "lambda_away": 1.27,
+        "probabilities": {
+            "1": 46.3,
+            "X": 26.3,
+            "2": 27.4
+        },
+        "odds": {
+            "1": 2.16,
+            "X": 3.8,
+            "2": 3.64
+        }
+    },
+    {
+        "date": "2027-01-17 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Málaga",
+        "away_team": "Real Madrid",
+        "lambda_home": 0.7,
+        "lambda_away": 2.63,
+        "probabilities": {
+            "1": 6.9,
+            "X": 15.6,
+            "2": 77.5
+        },
+        "odds": {
+            "1": 14.39,
+            "X": 6.41,
+            "2": 1.29
+        }
+    },
+    {
+        "date": "2027-01-17 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Racing Sant",
+        "away_team": "Osasuna",
+        "lambda_home": 1.87,
+        "lambda_away": 1.97,
+        "probabilities": {
+            "1": 36.5,
+            "X": 23.0,
+            "2": 40.5
+        },
+        "odds": {
+            "1": 2.74,
+            "X": 4.34,
+            "2": 2.47
+        }
+    },
+    {
+        "date": "2027-01-17 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Rayo Vallecano",
+        "away_team": "Sevilla",
+        "lambda_home": 1.35,
+        "lambda_away": 1.08,
+        "probabilities": {
+            "1": 41.6,
+            "X": 30.0,
+            "2": 28.4
+        },
+        "odds": {
+            "1": 2.4,
+            "X": 3.34,
+            "2": 3.52
+        }
+    },
+    {
+        "date": "2027-01-17 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Real Betis",
+        "away_team": "Dep. A Coruña",
+        "lambda_home": 1.69,
+        "lambda_away": 1.08,
+        "probabilities": {
+            "1": 50.2,
+            "X": 26.7,
+            "2": 23.1
+        },
+        "odds": {
+            "1": 1.99,
+            "X": 3.74,
+            "2": 4.33
+        }
+    },
+    {
+        "date": "2027-01-17 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Villarreal",
+        "away_team": "Alavés",
+        "lambda_home": 2.12,
+        "lambda_away": 0.94,
+        "probabilities": {
+            "1": 63.2,
+            "X": 22.0,
+            "2": 14.8
+        },
+        "odds": {
+            "1": 1.58,
+            "X": 4.54,
+            "2": 6.77
+        }
+    },
+    {
+        "date": "2027-01-24 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Alavés",
+        "away_team": "Barcelona",
+        "lambda_home": 0.93,
+        "lambda_away": 2.25,
+        "probabilities": {
+            "1": 13.2,
+            "X": 20.6,
+            "2": 66.2
+        },
+        "odds": {
+            "1": 7.57,
+            "X": 4.84,
+            "2": 1.51
+        }
+    },
+    {
+        "date": "2027-01-24 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Athletic Club",
+        "away_team": "Levante",
+        "lambda_home": 1.97,
+        "lambda_away": 0.97,
+        "probabilities": {
+            "1": 59.5,
+            "X": 23.7,
+            "2": 16.8
+        },
+        "odds": {
+            "1": 1.68,
+            "X": 4.23,
+            "2": 5.95
+        }
+    },
+    {
+        "date": "2027-01-24 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Dep. A Coruña",
+        "away_team": "Atlético Madrid",
+        "lambda_home": 1.13,
+        "lambda_away": 1.54,
+        "probabilities": {
+            "1": 26.6,
+            "X": 28.1,
+            "2": 45.3
+        },
+        "odds": {
+            "1": 3.76,
+            "X": 3.56,
+            "2": 2.21
+        }
+    },
+    {
+        "date": "2027-01-24 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Elche",
+        "away_team": "Rayo Vallecano",
+        "lambda_home": 1.38,
+        "lambda_away": 1.08,
+        "probabilities": {
+            "1": 42.3,
+            "X": 29.7,
+            "2": 28.0
+        },
+        "odds": {
+            "1": 2.36,
+            "X": 3.36,
+            "2": 3.58
+        }
+    },
+    {
+        "date": "2027-01-24 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Espanyol",
+        "away_team": "Villarreal",
+        "lambda_home": 1.36,
+        "lambda_away": 1.79,
+        "probabilities": {
+            "1": 28.2,
+            "X": 25.4,
+            "2": 46.3
+        },
+        "odds": {
+            "1": 3.54,
+            "X": 3.93,
+            "2": 2.16
+        }
+    },
+    {
+        "date": "2027-01-24 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Getafe",
+        "away_team": "Osasuna",
+        "lambda_home": 1.09,
+        "lambda_away": 0.88,
+        "probabilities": {
+            "1": 38.5,
+            "X": 33.9,
+            "2": 27.6
+        },
+        "odds": {
+            "1": 2.6,
+            "X": 2.95,
+            "2": 3.62
+        }
+    },
+    {
+        "date": "2027-01-24 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Racing Sant",
+        "away_team": "Celta Vigo",
+        "lambda_home": 1.83,
+        "lambda_away": 2.31,
+        "probabilities": {
+            "1": 30.4,
+            "X": 21.6,
+            "2": 48.0
+        },
+        "odds": {
+            "1": 3.29,
+            "X": 4.63,
+            "2": 2.08
+        }
+    },
+    {
+        "date": "2027-01-24 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Real Madrid",
+        "away_team": "Real Betis",
+        "lambda_home": 2.38,
+        "lambda_away": 0.84,
+        "probabilities": {
+            "1": 70.3,
+            "X": 19.0,
+            "2": 10.7
+        },
+        "odds": {
+            "1": 1.42,
+            "X": 5.27,
+            "2": 9.35
+        }
+    },
+    {
+        "date": "2027-01-24 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Real Sociedad",
+        "away_team": "Málaga",
+        "lambda_home": 2.38,
+        "lambda_away": 0.65,
+        "probabilities": {
+            "1": 74.8,
+            "X": 17.6,
+            "2": 7.6
+        },
+        "odds": {
+            "1": 1.34,
+            "X": 5.67,
+            "2": 13.14
+        }
+    },
+    {
+        "date": "2027-01-24 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Valencia",
+        "away_team": "Sevilla",
+        "lambda_home": 1.45,
+        "lambda_away": 1.12,
+        "probabilities": {
+            "1": 43.3,
+            "X": 28.9,
+            "2": 27.8
+        },
+        "odds": {
+            "1": 2.31,
+            "X": 3.46,
+            "2": 3.6
+        }
+    },
+    {
+        "date": "2027-01-31 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Atlético Madrid",
+        "away_team": "Espanyol",
+        "lambda_home": 2.41,
+        "lambda_away": 0.75,
+        "probabilities": {
+            "1": 73.1,
+            "X": 18.0,
+            "2": 8.9
+        },
+        "odds": {
+            "1": 1.37,
+            "X": 5.54,
+            "2": 11.22
+        }
+    },
+    {
+        "date": "2027-01-31 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Barcelona",
+        "away_team": "Valencia",
+        "lambda_home": 3.22,
+        "lambda_away": 0.72,
+        "probabilities": {
+            "1": 83.9,
+            "X": 11.3,
+            "2": 4.8
+        },
+        "odds": {
+            "1": 1.19,
+            "X": 8.82,
+            "2": 20.0
+        }
+    },
+    {
+        "date": "2027-01-31 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Celta Vigo",
+        "away_team": "Getafe",
+        "lambda_home": 1.39,
+        "lambda_away": 0.78,
+        "probabilities": {
+            "1": 50.2,
+            "X": 30.3,
+            "2": 19.5
+        },
+        "odds": {
+            "1": 1.99,
+            "X": 3.3,
+            "2": 5.13
+        }
+    },
+    {
+        "date": "2027-01-31 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Levante",
+        "away_team": "Real Sociedad",
+        "lambda_home": 1.5,
+        "lambda_away": 1.51,
+        "probabilities": {
+            "1": 36.4,
+            "X": 26.8,
+            "2": 36.8
+        },
+        "odds": {
+            "1": 2.75,
+            "X": 3.74,
+            "2": 2.71
+        }
+    },
+    {
+        "date": "2027-01-31 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Málaga",
+        "away_team": "Alavés",
+        "lambda_home": 0.85,
+        "lambda_away": 1.36,
+        "probabilities": {
+            "1": 22.0,
+            "X": 30.6,
+            "2": 47.4
+        },
+        "odds": {
+            "1": 4.54,
+            "X": 3.27,
+            "2": 2.11
+        }
+    },
+    {
+        "date": "2027-01-31 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Osasuna",
+        "away_team": "Dep. A Coruña",
+        "lambda_home": 1.35,
+        "lambda_away": 1.18,
+        "probabilities": {
+            "1": 39.1,
+            "X": 29.5,
+            "2": 31.4
+        },
+        "odds": {
+            "1": 2.55,
+            "X": 3.39,
+            "2": 3.19
+        }
+    },
+    {
+        "date": "2027-01-31 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Rayo Vallecano",
+        "away_team": "Real Madrid",
+        "lambda_home": 0.84,
+        "lambda_away": 1.84,
+        "probabilities": {
+            "1": 15.6,
+            "X": 24.7,
+            "2": 59.7
+        },
+        "odds": {
+            "1": 6.41,
+            "X": 4.04,
+            "2": 1.68
+        }
+    },
+    {
+        "date": "2027-01-31 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Real Betis",
+        "away_team": "Elche",
+        "lambda_home": 2.1,
+        "lambda_away": 0.94,
+        "probabilities": {
+            "1": 62.8,
+            "X": 22.3,
+            "2": 14.9
+        },
+        "odds": {
+            "1": 1.59,
+            "X": 4.49,
+            "2": 6.7
+        }
+    },
+    {
+        "date": "2027-01-31 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Sevilla",
+        "away_team": "Athletic Club",
+        "lambda_home": 1.24,
+        "lambda_away": 1.26,
+        "probabilities": {
+            "1": 34.6,
+            "X": 29.8,
+            "2": 35.6
+        },
+        "odds": {
+            "1": 2.89,
+            "X": 3.35,
+            "2": 2.81
+        }
+    },
+    {
+        "date": "2027-01-31 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Villarreal",
+        "away_team": "Racing Sant",
+        "lambda_home": 4.13,
+        "lambda_away": 1.31,
+        "probabilities": {
+            "1": 82.1,
+            "X": 10.5,
+            "2": 7.4
+        },
+        "odds": {
+            "1": 1.22,
+            "X": 9.51,
+            "2": 13.51
+        }
+    },
+    {
+        "date": "2027-02-07 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Alavés",
+        "away_team": "Celta Vigo",
+        "lambda_home": 1.32,
+        "lambda_away": 1.2,
+        "probabilities": {
+            "1": 38.0,
+            "X": 29.7,
+            "2": 32.4
+        },
+        "odds": {
+            "1": 2.63,
+            "X": 3.37,
+            "2": 3.09
+        }
+    },
+    {
+        "date": "2027-02-07 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Athletic Club",
+        "away_team": "Osasuna",
+        "lambda_home": 1.61,
+        "lambda_away": 0.84,
+        "probabilities": {
+            "1": 54.3,
+            "X": 27.5,
+            "2": 18.2
+        },
+        "odds": {
+            "1": 1.84,
+            "X": 3.64,
+            "2": 5.49
+        }
+    },
+    {
+        "date": "2027-02-07 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Barcelona",
+        "away_team": "Atlético Madrid",
+        "lambda_home": 2.17,
+        "lambda_away": 1.12,
+        "probabilities": {
+            "1": 60.0,
+            "X": 22.2,
+            "2": 17.8
+        },
+        "odds": {
+            "1": 1.67,
+            "X": 4.51,
+            "2": 5.61
+        }
+    },
+    {
+        "date": "2027-02-07 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Dep. A Coruña",
+        "away_team": "Málaga",
+        "lambda_home": 2.23,
+        "lambda_away": 0.65,
+        "probabilities": {
+            "1": 72.4,
+            "X": 19.1,
+            "2": 8.5
+        },
+        "odds": {
+            "1": 1.38,
+            "X": 5.23,
+            "2": 11.82
+        }
+    },
+    {
+        "date": "2027-02-07 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Elche",
+        "away_team": "Levante",
+        "lambda_home": 1.69,
+        "lambda_away": 1.36,
+        "probabilities": {
+            "1": 43.9,
+            "X": 26.2,
+            "2": 29.9
+        },
+        "odds": {
+            "1": 2.28,
+            "X": 3.82,
+            "2": 3.34
+        }
+    },
+    {
+        "date": "2027-02-07 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Espanyol",
+        "away_team": "Rayo Vallecano",
+        "lambda_home": 1.38,
+        "lambda_away": 1.03,
+        "probabilities": {
+            "1": 43.5,
+            "X": 29.9,
+            "2": 26.5
+        },
+        "odds": {
+            "1": 2.3,
+            "X": 3.34,
+            "2": 3.77
+        }
+    },
+    {
+        "date": "2027-02-07 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Getafe",
+        "away_team": "Villarreal",
+        "lambda_home": 1.02,
+        "lambda_away": 1.36,
+        "probabilities": {
+            "1": 26.7,
+            "X": 30.2,
+            "2": 43.2
+        },
+        "odds": {
+            "1": 3.75,
+            "X": 3.32,
+            "2": 2.32
+        }
+    },
+    {
+        "date": "2027-02-07 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Real Betis",
+        "away_team": "Sevilla",
+        "lambda_home": 1.86,
+        "lambda_away": 1.03,
+        "probabilities": {
+            "1": 55.5,
+            "X": 24.9,
+            "2": 19.5
+        },
+        "odds": {
+            "1": 1.8,
+            "X": 4.01,
+            "2": 5.12
+        }
+    },
+    {
+        "date": "2027-02-07 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Real Sociedad",
+        "away_team": "Real Madrid",
+        "lambda_home": 1.09,
+        "lambda_away": 1.81,
+        "probabilities": {
+            "1": 21.6,
+            "X": 25.5,
+            "2": 52.8
+        },
+        "odds": {
+            "1": 4.62,
+            "X": 3.92,
+            "2": 1.89
+        }
+    },
+    {
+        "date": "2027-02-07 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Valencia",
+        "away_team": "Racing Sant",
+        "lambda_home": 2.65,
+        "lambda_away": 1.36,
+        "probabilities": {
+            "1": 63.5,
+            "X": 19.0,
+            "2": 17.4
+        },
+        "odds": {
+            "1": 1.57,
+            "X": 5.26,
+            "2": 5.74
+        }
+    },
+    {
+        "date": "2027-02-14 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Celta Vigo",
+        "away_team": "Rayo Vallecano",
+        "lambda_home": 1.57,
+        "lambda_away": 0.92,
+        "probabilities": {
+            "1": 51.2,
+            "X": 28.0,
+            "2": 20.8
+        },
+        "odds": {
+            "1": 1.95,
+            "X": 3.57,
+            "2": 4.82
+        }
+    },
+    {
+        "date": "2027-02-14 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Elche",
+        "away_team": "Dep. A Coruña",
+        "lambda_home": 1.33,
+        "lambda_away": 1.36,
+        "probabilities": {
+            "1": 35.2,
+            "X": 28.6,
+            "2": 36.3
+        },
+        "odds": {
+            "1": 2.84,
+            "X": 3.5,
+            "2": 2.76
+        }
+    },
+    {
+        "date": "2027-02-14 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Levante",
+        "away_team": "Málaga",
+        "lambda_home": 2.25,
+        "lambda_away": 0.77,
+        "probabilities": {
+            "1": 69.9,
+            "X": 19.8,
+            "2": 10.4
+        },
+        "odds": {
+            "1": 1.43,
+            "X": 5.05,
+            "2": 9.65
+        }
+    },
+    {
+        "date": "2027-02-14 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Osasuna",
+        "away_team": "Atlético Madrid",
+        "lambda_home": 0.98,
+        "lambda_away": 1.66,
+        "probabilities": {
+            "1": 21.1,
+            "X": 27.0,
+            "2": 51.9
+        },
+        "odds": {
+            "1": 4.75,
+            "X": 3.7,
+            "2": 1.93
+        }
+    },
+    {
+        "date": "2027-02-14 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Racing Sant",
+        "away_team": "Getafe",
+        "lambda_home": 1.58,
+        "lambda_away": 1.5,
+        "probabilities": {
+            "1": 38.5,
+            "X": 26.4,
+            "2": 35.1
+        },
+        "odds": {
+            "1": 2.6,
+            "X": 3.79,
+            "2": 2.85
+        }
+    },
+    {
+        "date": "2027-02-14 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Real Madrid",
+        "away_team": "Athletic Club",
+        "lambda_home": 2.15,
+        "lambda_away": 0.76,
+        "probabilities": {
+            "1": 68.1,
+            "X": 20.9,
+            "2": 11.1
+        },
+        "odds": {
+            "1": 1.47,
+            "X": 4.79,
+            "2": 9.05
+        }
+    },
+    {
+        "date": "2027-02-14 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Real Sociedad",
+        "away_team": "Real Betis",
+        "lambda_home": 1.56,
+        "lambda_away": 1.22,
+        "probabilities": {
+            "1": 43.7,
+            "X": 27.6,
+            "2": 28.7
+        },
+        "odds": {
+            "1": 2.29,
+            "X": 3.62,
+            "2": 3.49
+        }
+    },
+    {
+        "date": "2027-02-14 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Sevilla",
+        "away_team": "Espanyol",
+        "lambda_home": 1.7,
+        "lambda_away": 1.12,
+        "probabilities": {
+            "1": 49.5,
+            "X": 26.6,
+            "2": 24.0
+        },
+        "odds": {
+            "1": 2.02,
+            "X": 3.76,
+            "2": 4.17
+        }
+    },
+    {
+        "date": "2027-02-14 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Valencia",
+        "away_team": "Alavés",
+        "lambda_home": 1.34,
+        "lambda_away": 0.98,
+        "probabilities": {
+            "1": 43.6,
+            "X": 30.5,
+            "2": 26.0
+        },
+        "odds": {
+            "1": 2.29,
+            "X": 3.28,
+            "2": 3.85
+        }
+    },
+    {
+        "date": "2027-02-14 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Villarreal",
+        "away_team": "Barcelona",
+        "lambda_home": 1.53,
+        "lambda_away": 2.27,
+        "probabilities": {
+            "1": 25.0,
+            "X": 21.9,
+            "2": 53.1
+        },
+        "odds": {
+            "1": 4.0,
+            "X": 4.56,
+            "2": 1.88
+        }
+    },
+    {
+        "date": "2027-02-21 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Alavés",
+        "away_team": "Racing Sant",
+        "lambda_home": 2.54,
+        "lambda_away": 1.32,
+        "probabilities": {
+            "1": 62.5,
+            "X": 19.7,
+            "2": 17.8
+        },
+        "odds": {
+            "1": 1.6,
+            "X": 5.08,
+            "2": 5.63
+        }
+    },
+    {
+        "date": "2027-02-21 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Athletic Club",
+        "away_team": "Celta Vigo",
+        "lambda_home": 1.59,
+        "lambda_away": 0.99,
+        "probabilities": {
+            "1": 50.0,
+            "X": 27.7,
+            "2": 22.3
+        },
+        "odds": {
+            "1": 2.0,
+            "X": 3.61,
+            "2": 4.49
+        }
+    },
+    {
+        "date": "2027-02-21 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Atlético Madrid",
+        "away_team": "Elche",
+        "lambda_home": 2.56,
+        "lambda_away": 0.72,
+        "probabilities": {
+            "1": 76.0,
+            "X": 16.4,
+            "2": 7.6
+        },
+        "odds": {
+            "1": 1.32,
+            "X": 6.09,
+            "2": 13.13
+        }
+    },
+    {
+        "date": "2027-02-21 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Barcelona",
+        "away_team": "Levante",
+        "lambda_home": 3.83,
+        "lambda_away": 0.84,
+        "probabilities": {
+            "1": 86.9,
+            "X": 9.0,
+            "2": 4.1
+        },
+        "odds": {
+            "1": 1.15,
+            "X": 11.16,
+            "2": 20.0
+        }
+    },
+    {
+        "date": "2027-02-21 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Dep. A Coruña",
+        "away_team": "Real Sociedad",
+        "lambda_home": 1.51,
+        "lambda_away": 1.19,
+        "probabilities": {
+            "1": 43.3,
+            "X": 28.1,
+            "2": 28.6
+        },
+        "odds": {
+            "1": 2.31,
+            "X": 3.56,
+            "2": 3.49
+        }
+    },
+    {
+        "date": "2027-02-21 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Espanyol",
+        "away_team": "Osasuna",
+        "lambda_home": 1.43,
+        "lambda_away": 1.11,
+        "probabilities": {
+            "1": 42.9,
+            "X": 29.1,
+            "2": 28.0
+        },
+        "odds": {
+            "1": 2.33,
+            "X": 3.44,
+            "2": 3.58
+        }
+    },
+    {
+        "date": "2027-02-21 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Málaga",
+        "away_team": "Real Betis",
+        "lambda_home": 0.8,
+        "lambda_away": 1.81,
+        "probabilities": {
+            "1": 15.1,
+            "X": 25.0,
+            "2": 59.9
+        },
+        "odds": {
+            "1": 6.63,
+            "X": 4.0,
+            "2": 1.67
+        }
+    },
+    {
+        "date": "2027-02-21 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Rayo Vallecano",
+        "away_team": "Getafe",
+        "lambda_home": 1.08,
+        "lambda_away": 0.73,
+        "probabilities": {
+            "1": 42.1,
+            "X": 34.8,
+            "2": 23.1
+        },
+        "odds": {
+            "1": 2.37,
+            "X": 2.87,
+            "2": 4.33
+        }
+    },
+    {
+        "date": "2027-02-21 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Sevilla",
+        "away_team": "Real Madrid",
+        "lambda_home": 0.99,
+        "lambda_away": 2.07,
+        "probabilities": {
+            "1": 16.3,
+            "X": 22.8,
+            "2": 60.9
+        },
+        "odds": {
+            "1": 6.14,
+            "X": 4.39,
+            "2": 1.64
+        }
+    },
+    {
+        "date": "2027-02-21 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Villarreal",
+        "away_team": "Valencia",
+        "lambda_home": 2.19,
+        "lambda_away": 0.98,
+        "probabilities": {
+            "1": 63.5,
+            "X": 21.6,
+            "2": 15.0
+        },
+        "odds": {
+            "1": 1.57,
+            "X": 4.64,
+            "2": 6.69
+        }
+    },
+    {
+        "date": "2027-02-28 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Athletic Club",
+        "away_team": "Barcelona",
+        "lambda_home": 1.1,
+        "lambda_away": 1.88,
+        "probabilities": {
+            "1": 21.0,
+            "X": 24.9,
+            "2": 54.1
+        },
+        "odds": {
+            "1": 4.76,
+            "X": 4.02,
+            "2": 1.85
+        }
+    },
+    {
+        "date": "2027-02-28 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Celta Vigo",
+        "away_team": "Espanyol",
+        "lambda_home": 1.8,
+        "lambda_away": 1.06,
+        "probabilities": {
+            "1": 53.4,
+            "X": 25.6,
+            "2": 21.1
+        },
+        "odds": {
+            "1": 1.87,
+            "X": 3.91,
+            "2": 4.75
+        }
+    },
+    {
+        "date": "2027-02-28 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Getafe",
+        "away_team": "Alavés",
+        "lambda_home": 1.03,
+        "lambda_away": 0.82,
+        "probabilities": {
+            "1": 38.2,
+            "X": 35.0,
+            "2": 26.8
+        },
+        "odds": {
+            "1": 2.62,
+            "X": 2.85,
+            "2": 3.73
+        }
+    },
+    {
+        "date": "2027-02-28 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Levante",
+        "away_team": "Dep. A Coruña",
+        "lambda_home": 1.54,
+        "lambda_away": 1.41,
+        "probabilities": {
+            "1": 39.4,
+            "X": 27.0,
+            "2": 33.6
+        },
+        "odds": {
+            "1": 2.54,
+            "X": 3.7,
+            "2": 2.98
+        }
+    },
+    {
+        "date": "2027-02-28 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Málaga",
+        "away_team": "Atlético Madrid",
+        "lambda_home": 0.7,
+        "lambda_away": 2.25,
+        "probabilities": {
+            "1": 9.2,
+            "X": 19.4,
+            "2": 71.4
+        },
+        "odds": {
+            "1": 10.83,
+            "X": 5.16,
+            "2": 1.4
+        }
+    },
+    {
+        "date": "2027-02-28 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Osasuna",
+        "away_team": "Sevilla",
+        "lambda_home": 1.49,
+        "lambda_away": 1.13,
+        "probabilities": {
+            "1": 44.0,
+            "X": 28.5,
+            "2": 27.5
+        },
+        "odds": {
+            "1": 2.27,
+            "X": 3.51,
+            "2": 3.64
+        }
+    },
+    {
+        "date": "2027-02-28 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Racing Sant",
+        "away_team": "Rayo Vallecano",
+        "lambda_home": 1.77,
+        "lambda_away": 1.8,
+        "probabilities": {
+            "1": 37.3,
+            "X": 24.1,
+            "2": 38.6
+        },
+        "odds": {
+            "1": 2.68,
+            "X": 4.15,
+            "2": 2.59
+        }
+    },
+    {
+        "date": "2027-02-28 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Real Betis",
+        "away_team": "Villarreal",
+        "lambda_home": 1.73,
+        "lambda_away": 1.47,
+        "probabilities": {
+            "1": 42.7,
+            "X": 25.6,
+            "2": 31.7
+        },
+        "odds": {
+            "1": 2.34,
+            "X": 3.9,
+            "2": 3.16
+        }
+    },
+    {
+        "date": "2027-02-28 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Real Madrid",
+        "away_team": "Valencia",
+        "lambda_home": 2.65,
+        "lambda_away": 0.67,
+        "probabilities": {
+            "1": 78.4,
+            "X": 15.2,
+            "2": 6.4
+        },
+        "odds": {
+            "1": 1.28,
+            "X": 6.59,
+            "2": 15.59
+        }
+    },
+    {
+        "date": "2027-02-28 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Real Sociedad",
+        "away_team": "Elche",
+        "lambda_home": 2.02,
+        "lambda_away": 0.95,
+        "probabilities": {
+            "1": 60.9,
+            "X": 23.1,
+            "2": 16.0
+        },
+        "odds": {
+            "1": 1.64,
+            "X": 4.33,
+            "2": 6.27
+        }
+    },
+    {
+        "date": "2027-03-07 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Alavés",
+        "away_team": "Athletic Club",
+        "lambda_home": 1.06,
+        "lambda_away": 1.15,
+        "probabilities": {
+            "1": 31.9,
+            "X": 31.9,
+            "2": 36.2
+        },
+        "odds": {
+            "1": 3.14,
+            "X": 3.13,
+            "2": 2.76
+        }
+    },
+    {
+        "date": "2027-03-07 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Atlético Madrid",
+        "away_team": "Celta Vigo",
+        "lambda_home": 2.19,
+        "lambda_away": 0.84,
+        "probabilities": {
+            "1": 66.9,
+            "X": 20.9,
+            "2": 12.2
+        },
+        "odds": {
+            "1": 1.49,
+            "X": 4.79,
+            "2": 8.2
+        }
+    },
+    {
+        "date": "2027-03-07 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Barcelona",
+        "away_team": "Real Betis",
+        "lambda_home": 2.95,
+        "lambda_away": 0.92,
+        "probabilities": {
+            "1": 77.0,
+            "X": 14.7,
+            "2": 8.3
+        },
+        "odds": {
+            "1": 1.3,
+            "X": 6.82,
+            "2": 12.04
+        }
+    },
+    {
+        "date": "2027-03-07 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Dep. A Coruña",
+        "away_team": "Getafe",
+        "lambda_home": 1.36,
+        "lambda_away": 0.75,
+        "probabilities": {
+            "1": 50.0,
+            "X": 30.7,
+            "2": 19.2
+        },
+        "odds": {
+            "1": 2.0,
+            "X": 3.26,
+            "2": 5.2
+        }
+    },
+    {
+        "date": "2027-03-07 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Elche",
+        "away_team": "Málaga",
+        "lambda_home": 1.95,
+        "lambda_away": 0.74,
+        "probabilities": {
+            "1": 64.7,
+            "X": 23.0,
+            "2": 12.3
+        },
+        "odds": {
+            "1": 1.55,
+            "X": 4.35,
+            "2": 8.12
+        }
+    },
+    {
+        "date": "2027-03-07 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Espanyol",
+        "away_team": "Racing Sant",
+        "lambda_home": 2.74,
+        "lambda_away": 1.48,
+        "probabilities": {
+            "1": 62.7,
+            "X": 18.8,
+            "2": 18.5
+        },
+        "odds": {
+            "1": 1.59,
+            "X": 5.33,
+            "2": 5.4
+        }
+    },
+    {
+        "date": "2027-03-07 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Rayo Vallecano",
+        "away_team": "Osasuna",
+        "lambda_home": 1.3,
+        "lambda_away": 1.0,
+        "probabilities": {
+            "1": 42.0,
+            "X": 30.8,
+            "2": 27.2
+        },
+        "odds": {
+            "1": 2.38,
+            "X": 3.24,
+            "2": 3.68
+        }
+    },
+    {
+        "date": "2027-03-07 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Sevilla",
+        "away_team": "Real Sociedad",
+        "lambda_home": 1.45,
+        "lambda_away": 1.34,
+        "probabilities": {
+            "1": 38.6,
+            "X": 27.9,
+            "2": 33.5
+        },
+        "odds": {
+            "1": 2.59,
+            "X": 3.58,
+            "2": 2.99
+        }
+    },
+    {
+        "date": "2027-03-07 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Valencia",
+        "away_team": "Levante",
+        "lambda_home": 1.69,
+        "lambda_away": 1.17,
+        "probabilities": {
+            "1": 48.1,
+            "X": 26.6,
+            "2": 25.3
+        },
+        "odds": {
+            "1": 2.08,
+            "X": 3.76,
+            "2": 3.95
+        }
+    },
+    {
+        "date": "2027-03-07 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Villarreal",
+        "away_team": "Real Madrid",
+        "lambda_home": 1.42,
+        "lambda_away": 1.89,
+        "probabilities": {
+            "1": 28.0,
+            "X": 24.6,
+            "2": 47.3
+        },
+        "odds": {
+            "1": 3.57,
+            "X": 4.06,
+            "2": 2.11
+        }
+    },
+    {
+        "date": "2027-03-14 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Alavés",
+        "away_team": "Sevilla",
+        "lambda_home": 1.43,
+        "lambda_away": 1.11,
+        "probabilities": {
+            "1": 42.9,
+            "X": 29.1,
+            "2": 28.0
+        },
+        "odds": {
+            "1": 2.33,
+            "X": 3.44,
+            "2": 3.57
+        }
+    },
+    {
+        "date": "2027-03-14 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Athletic Club",
+        "away_team": "Valencia",
+        "lambda_home": 1.6,
+        "lambda_away": 0.83,
+        "probabilities": {
+            "1": 54.3,
+            "X": 27.6,
+            "2": 18.0
+        },
+        "odds": {
+            "1": 1.84,
+            "X": 3.62,
+            "2": 5.54
+        }
+    },
+    {
+        "date": "2027-03-14 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Barcelona",
+        "away_team": "Dep. A Coruña",
+        "lambda_home": 2.92,
+        "lambda_away": 0.83,
+        "probabilities": {
+            "1": 78.5,
+            "X": 14.3,
+            "2": 7.2
+        },
+        "odds": {
+            "1": 1.27,
+            "X": 7.0,
+            "2": 13.8
+        }
+    },
+    {
+        "date": "2027-03-14 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Elche",
+        "away_team": "Villarreal",
+        "lambda_home": 1.34,
+        "lambda_away": 1.87,
+        "probabilities": {
+            "1": 26.4,
+            "X": 24.9,
+            "2": 48.7
+        },
+        "odds": {
+            "1": 3.78,
+            "X": 4.02,
+            "2": 2.05
+        }
+    },
+    {
+        "date": "2027-03-14 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Getafe",
+        "away_team": "Real Sociedad",
+        "lambda_home": 1.01,
+        "lambda_away": 1.07,
+        "probabilities": {
+            "1": 31.8,
+            "X": 33.1,
+            "2": 35.1
+        },
+        "odds": {
+            "1": 3.15,
+            "X": 3.02,
+            "2": 2.85
+        }
+    },
+    {
+        "date": "2027-03-14 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Málaga",
+        "away_team": "Rayo Vallecano",
+        "lambda_home": 0.83,
+        "lambda_away": 1.32,
+        "probabilities": {
+            "1": 22.2,
+            "X": 31.2,
+            "2": 46.6
+        },
+        "odds": {
+            "1": 4.5,
+            "X": 3.21,
+            "2": 2.15
+        }
+    },
+    {
+        "date": "2027-03-14 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Osasuna",
+        "away_team": "Celta Vigo",
+        "lambda_home": 1.4,
+        "lambda_away": 1.23,
+        "probabilities": {
+            "1": 39.6,
+            "X": 28.9,
+            "2": 31.6
+        },
+        "odds": {
+            "1": 2.53,
+            "X": 3.47,
+            "2": 3.17
+        }
+    },
+    {
+        "date": "2027-03-14 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Racing Sant",
+        "away_team": "Atlético Madrid",
+        "lambda_home": 1.31,
+        "lambda_away": 3.07,
+        "probabilities": {
+            "1": 13.0,
+            "X": 16.0,
+            "2": 71.0
+        },
+        "odds": {
+            "1": 7.7,
+            "X": 6.25,
+            "2": 1.41
+        }
+    },
+    {
+        "date": "2027-03-14 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Real Betis",
+        "away_team": "Levante",
+        "lambda_home": 2.18,
+        "lambda_away": 1.13,
+        "probabilities": {
+            "1": 59.9,
+            "X": 22.1,
+            "2": 17.9
+        },
+        "odds": {
+            "1": 1.67,
+            "X": 4.52,
+            "2": 5.57
+        }
+    },
+    {
+        "date": "2027-03-14 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Real Madrid",
+        "away_team": "Espanyol",
+        "lambda_home": 2.89,
+        "lambda_away": 0.68,
+        "probabilities": {
+            "1": 81.1,
+            "X": 13.4,
+            "2": 5.6
+        },
+        "odds": {
+            "1": 1.23,
+            "X": 7.48,
+            "2": 17.95
+        }
+    },
+    {
+        "date": "2027-03-21 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Atlético Madrid",
+        "away_team": "Getafe",
+        "lambda_home": 1.88,
+        "lambda_away": 0.65,
+        "probabilities": {
+            "1": 65.6,
+            "X": 23.3,
+            "2": 11.1
+        },
+        "odds": {
+            "1": 1.52,
+            "X": 4.29,
+            "2": 9.03
+        }
+    },
+    {
+        "date": "2027-03-21 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Celta Vigo",
+        "away_team": "Real Madrid",
+        "lambda_home": 1.07,
+        "lambda_away": 1.93,
+        "probabilities": {
+            "1": 19.5,
+            "X": 24.3,
+            "2": 56.2
+        },
+        "odds": {
+            "1": 5.13,
+            "X": 4.12,
+            "2": 1.78
+        }
+    },
+    {
+        "date": "2027-03-21 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Espanyol",
+        "away_team": "Athletic Club",
+        "lambda_home": 1.17,
+        "lambda_away": 1.29,
+        "probabilities": {
+            "1": 32.1,
+            "X": 30.0,
+            "2": 37.8
+        },
+        "odds": {
+            "1": 3.11,
+            "X": 3.33,
+            "2": 2.64
+        }
+    },
+    {
+        "date": "2027-03-21 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Levante",
+        "away_team": "Osasuna",
+        "lambda_home": 1.62,
+        "lambda_away": 1.25,
+        "probabilities": {
+            "1": 44.9,
+            "X": 27.0,
+            "2": 28.1
+        },
+        "odds": {
+            "1": 2.23,
+            "X": 3.7,
+            "2": 3.56
+        }
+    },
+    {
+        "date": "2027-03-21 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Racing Sant",
+        "away_team": "Real Betis",
+        "lambda_home": 1.7,
+        "lambda_away": 2.47,
+        "probabilities": {
+            "1": 25.8,
+            "X": 20.8,
+            "2": 53.4
+        },
+        "odds": {
+            "1": 3.87,
+            "X": 4.81,
+            "2": 1.87
+        }
+    },
+    {
+        "date": "2027-03-21 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Rayo Vallecano",
+        "away_team": "Barcelona",
+        "lambda_home": 0.9,
+        "lambda_away": 2.17,
+        "probabilities": {
+            "1": 13.4,
+            "X": 21.3,
+            "2": 65.3
+        },
+        "odds": {
+            "1": 7.47,
+            "X": 4.69,
+            "2": 1.53
+        }
+    },
+    {
+        "date": "2027-03-21 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Real Sociedad",
+        "away_team": "Alavés",
+        "lambda_home": 1.66,
+        "lambda_away": 0.92,
+        "probabilities": {
+            "1": 53.4,
+            "X": 27.0,
+            "2": 19.6
+        },
+        "odds": {
+            "1": 1.87,
+            "X": 3.7,
+            "2": 5.11
+        }
+    },
+    {
+        "date": "2027-03-21 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Sevilla",
+        "away_team": "Elche",
+        "lambda_home": 1.81,
+        "lambda_away": 1.09,
+        "probabilities": {
+            "1": 52.8,
+            "X": 25.5,
+            "2": 21.6
+        },
+        "odds": {
+            "1": 1.89,
+            "X": 3.92,
+            "2": 4.63
+        }
+    },
+    {
+        "date": "2027-03-21 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Valencia",
+        "away_team": "Dep. A Coruña",
+        "lambda_home": 1.33,
+        "lambda_away": 1.18,
+        "probabilities": {
+            "1": 38.7,
+            "X": 29.7,
+            "2": 31.6
+        },
+        "odds": {
+            "1": 2.58,
+            "X": 3.37,
+            "2": 3.16
+        }
+    },
+    {
+        "date": "2027-03-21 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Villarreal",
+        "away_team": "Málaga",
+        "lambda_home": 3.02,
+        "lambda_away": 0.65,
+        "probabilities": {
+            "1": 83.2,
+            "X": 12.1,
+            "2": 4.7
+        },
+        "odds": {
+            "1": 1.2,
+            "X": 8.27,
+            "2": 20.0
+        }
+    },
+    {
+        "date": "2027-04-04 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Athletic Club",
+        "away_team": "Racing Sant",
+        "lambda_home": 3.07,
+        "lambda_away": 1.11,
+        "probabilities": {
+            "1": 74.9,
+            "X": 15.0,
+            "2": 10.1
+        },
+        "odds": {
+            "1": 1.34,
+            "X": 6.68,
+            "2": 9.88
+        }
+    },
+    {
+        "date": "2027-04-04 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Barcelona",
+        "away_team": "Sevilla",
+        "lambda_home": 3.38,
+        "lambda_away": 0.79,
+        "probabilities": {
+            "1": 84.1,
+            "X": 10.9,
+            "2": 5.0
+        },
+        "odds": {
+            "1": 1.19,
+            "X": 9.17,
+            "2": 20.0
+        }
+    },
+    {
+        "date": "2027-04-04 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Dep. A Coruña",
+        "away_team": "Villarreal",
+        "lambda_home": 1.55,
+        "lambda_away": 1.52,
+        "probabilities": {
+            "1": 37.5,
+            "X": 26.5,
+            "2": 36.0
+        },
+        "odds": {
+            "1": 2.67,
+            "X": 3.78,
+            "2": 2.77
+        }
+    },
+    {
+        "date": "2027-04-04 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Elche",
+        "away_team": "Alavés",
+        "lambda_home": 1.35,
+        "lambda_away": 1.14,
+        "probabilities": {
+            "1": 40.0,
+            "X": 29.7,
+            "2": 30.3
+        },
+        "odds": {
+            "1": 2.5,
+            "X": 3.37,
+            "2": 3.3
+        }
+    },
+    {
+        "date": "2027-04-04 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Getafe",
+        "away_team": "Espanyol",
+        "lambda_home": 1.14,
+        "lambda_away": 0.89,
+        "probabilities": {
+            "1": 40.0,
+            "X": 33.1,
+            "2": 26.9
+        },
+        "odds": {
+            "1": 2.5,
+            "X": 3.02,
+            "2": 3.71
+        }
+    },
+    {
+        "date": "2027-04-04 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Levante",
+        "away_team": "Rayo Vallecano",
+        "lambda_home": 1.5,
+        "lambda_away": 1.16,
+        "probabilities": {
+            "1": 43.7,
+            "X": 28.3,
+            "2": 28.1
+        },
+        "odds": {
+            "1": 2.29,
+            "X": 3.54,
+            "2": 3.56
+        }
+    },
+    {
+        "date": "2027-04-04 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Málaga",
+        "away_team": "Osasuna",
+        "lambda_home": 0.88,
+        "lambda_away": 1.44,
+        "probabilities": {
+            "1": 21.6,
+            "X": 29.5,
+            "2": 48.9
+        },
+        "odds": {
+            "1": 4.63,
+            "X": 3.39,
+            "2": 2.05
+        }
+    },
+    {
+        "date": "2027-04-04 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Real Betis",
+        "away_team": "Celta Vigo",
+        "lambda_home": 1.76,
+        "lambda_away": 1.13,
+        "probabilities": {
+            "1": 50.7,
+            "X": 26.0,
+            "2": 23.3
+        },
+        "odds": {
+            "1": 1.97,
+            "X": 3.85,
+            "2": 4.29
+        }
+    },
+    {
+        "date": "2027-04-04 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Real Madrid",
+        "away_team": "Atlético Madrid",
+        "lambda_home": 1.83,
+        "lambda_away": 1.07,
+        "probabilities": {
+            "1": 53.7,
+            "X": 25.3,
+            "2": 20.9
+        },
+        "odds": {
+            "1": 1.86,
+            "X": 3.95,
+            "2": 4.78
+        }
+    },
+    {
+        "date": "2027-04-04 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Real Sociedad",
+        "away_team": "Valencia",
+        "lambda_home": 1.71,
+        "lambda_away": 0.96,
+        "probabilities": {
+            "1": 53.7,
+            "X": 26.4,
+            "2": 19.9
+        },
+        "odds": {
+            "1": 1.86,
+            "X": 3.79,
+            "2": 5.03
+        }
+    },
+    {
+        "date": "2027-04-11 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Alavés",
+        "away_team": "Real Betis",
+        "lambda_home": 1.22,
+        "lambda_away": 1.26,
+        "probabilities": {
+            "1": 34.0,
+            "X": 30.0,
+            "2": 36.0
+        },
+        "odds": {
+            "1": 2.94,
+            "X": 3.33,
+            "2": 2.78
+        }
+    },
+    {
+        "date": "2027-04-11 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Atlético Madrid",
+        "away_team": "Levante",
+        "lambda_home": 2.61,
+        "lambda_away": 0.83,
+        "probabilities": {
+            "1": 74.3,
+            "X": 16.8,
+            "2": 8.9
+        },
+        "odds": {
+            "1": 1.35,
+            "X": 5.97,
+            "2": 11.18
+        }
+    },
+    {
+        "date": "2027-04-11 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Celta Vigo",
+        "away_team": "Elche",
+        "lambda_home": 1.92,
+        "lambda_away": 1.0,
+        "probabilities": {
+            "1": 57.6,
+            "X": 24.3,
+            "2": 18.1
+        },
+        "odds": {
+            "1": 1.74,
+            "X": 4.12,
+            "2": 5.52
+        }
+    },
+    {
+        "date": "2027-04-11 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Espanyol",
+        "away_team": "Málaga",
+        "lambda_home": 2.0,
+        "lambda_away": 0.69,
+        "probabilities": {
+            "1": 67.0,
+            "X": 22.1,
+            "2": 10.9
+        },
+        "odds": {
+            "1": 1.49,
+            "X": 4.53,
+            "2": 9.14
+        }
+    },
+    {
+        "date": "2027-04-11 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Osasuna",
+        "away_team": "Real Madrid",
+        "lambda_home": 0.91,
+        "lambda_away": 1.96,
+        "probabilities": {
+            "1": 15.7,
+            "X": 23.6,
+            "2": 60.7
+        },
+        "odds": {
+            "1": 6.37,
+            "X": 4.23,
+            "2": 1.65
+        }
+    },
+    {
+        "date": "2027-04-11 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Racing Sant",
+        "away_team": "Barcelona",
+        "lambda_home": 1.31,
+        "lambda_away": 4.26,
+        "probabilities": {
+            "1": 6.9,
+            "X": 10.0,
+            "2": 83.2
+        },
+        "odds": {
+            "1": 14.55,
+            "X": 10.04,
+            "2": 1.2
+        }
+    },
+    {
+        "date": "2027-04-11 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Rayo Vallecano",
+        "away_team": "Real Sociedad",
+        "lambda_home": 1.22,
+        "lambda_away": 1.21,
+        "probabilities": {
+            "1": 35.2,
+            "X": 30.4,
+            "2": 34.5
+        },
+        "odds": {
+            "1": 2.84,
+            "X": 3.29,
+            "2": 2.9
+        }
+    },
+    {
+        "date": "2027-04-11 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Sevilla",
+        "away_team": "Dep. A Coruña",
+        "lambda_home": 1.47,
+        "lambda_away": 1.25,
+        "probabilities": {
+            "1": 40.9,
+            "X": 28.3,
+            "2": 30.8
+        },
+        "odds": {
+            "1": 2.45,
+            "X": 3.54,
+            "2": 3.24
+        }
+    },
+    {
+        "date": "2027-04-11 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Valencia",
+        "away_team": "Getafe",
+        "lambda_home": 1.19,
+        "lambda_away": 0.78,
+        "probabilities": {
+            "1": 44.2,
+            "X": 33.0,
+            "2": 22.8
+        },
+        "odds": {
+            "1": 2.26,
+            "X": 3.03,
+            "2": 4.38
+        }
+    },
+    {
+        "date": "2027-04-11 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Villarreal",
+        "away_team": "Athletic Club",
+        "lambda_home": 1.77,
+        "lambda_away": 1.14,
+        "probabilities": {
+            "1": 50.7,
+            "X": 25.9,
+            "2": 23.4
+        },
+        "odds": {
+            "1": 1.97,
+            "X": 3.86,
+            "2": 4.28
+        }
+    },
+    {
+        "date": "2027-04-18 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Alavés",
+        "away_team": "Rayo Vallecano",
+        "lambda_home": 1.24,
+        "lambda_away": 0.93,
+        "probabilities": {
+            "1": 42.0,
+            "X": 31.8,
+            "2": 26.2
+        },
+        "odds": {
+            "1": 2.38,
+            "X": 3.14,
+            "2": 3.82
+        }
+    },
+    {
+        "date": "2027-04-18 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Atlético Madrid",
+        "away_team": "Sevilla",
+        "lambda_home": 2.4,
+        "lambda_away": 0.79,
+        "probabilities": {
+            "1": 71.9,
+            "X": 18.5,
+            "2": 9.7
+        },
+        "odds": {
+            "1": 1.39,
+            "X": 5.42,
+            "2": 10.32
+        }
+    },
+    {
+        "date": "2027-04-18 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Barcelona",
+        "away_team": "Espanyol",
+        "lambda_home": 3.46,
+        "lambda_away": 0.74,
+        "probabilities": {
+            "1": 85.7,
+            "X": 10.1,
+            "2": 4.2
+        },
+        "odds": {
+            "1": 1.17,
+            "X": 9.92,
+            "2": 20.0
+        }
+    },
+    {
+        "date": "2027-04-18 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Dep. A Coruña",
+        "away_team": "Celta Vigo",
+        "lambda_home": 1.58,
+        "lambda_away": 1.16,
+        "probabilities": {
+            "1": 45.8,
+            "X": 27.6,
+            "2": 26.6
+        },
+        "odds": {
+            "1": 2.18,
+            "X": 3.62,
+            "2": 3.76
+        }
+    },
+    {
+        "date": "2027-04-18 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Elche",
+        "away_team": "Osasuna",
+        "lambda_home": 1.39,
+        "lambda_away": 1.21,
+        "probabilities": {
+            "1": 39.8,
+            "X": 29.0,
+            "2": 31.2
+        },
+        "odds": {
+            "1": 2.51,
+            "X": 3.44,
+            "2": 3.21
+        }
+    },
+    {
+        "date": "2027-04-18 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Getafe",
+        "away_team": "Real Madrid",
+        "lambda_home": 0.7,
+        "lambda_away": 1.61,
+        "probabilities": {
+            "1": 14.8,
+            "X": 27.2,
+            "2": 58.0
+        },
+        "odds": {
+            "1": 6.75,
+            "X": 3.68,
+            "2": 1.72
+        }
+    },
+    {
+        "date": "2027-04-18 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Levante",
+        "away_team": "Villarreal",
+        "lambda_home": 1.54,
+        "lambda_away": 2.0,
+        "probabilities": {
+            "1": 28.9,
+            "X": 23.7,
+            "2": 47.4
+        },
+        "odds": {
+            "1": 3.46,
+            "X": 4.22,
+            "2": 2.11
+        }
+    },
+    {
+        "date": "2027-04-18 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Málaga",
+        "away_team": "Valencia",
+        "lambda_home": 0.88,
+        "lambda_away": 1.42,
+        "probabilities": {
+            "1": 21.8,
+            "X": 29.8,
+            "2": 48.3
+        },
+        "odds": {
+            "1": 4.58,
+            "X": 3.35,
+            "2": 2.07
+        }
+    },
+    {
+        "date": "2027-04-18 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Real Betis",
+        "away_team": "Athletic Club",
+        "lambda_home": 1.43,
+        "lambda_away": 1.1,
+        "probabilities": {
+            "1": 43.2,
+            "X": 29.1,
+            "2": 27.7
+        },
+        "odds": {
+            "1": 2.31,
+            "X": 3.43,
+            "2": 3.61
+        }
+    },
+    {
+        "date": "2027-04-18 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Real Sociedad",
+        "away_team": "Racing Sant",
+        "lambda_home": 3.24,
+        "lambda_away": 1.28,
+        "probabilities": {
+            "1": 73.8,
+            "X": 14.8,
+            "2": 11.4
+        },
+        "odds": {
+            "1": 1.35,
+            "X": 6.77,
+            "2": 8.76
+        }
+    },
+    {
+        "date": "2027-04-21 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Athletic Club",
+        "away_team": "Dep. A Coruña",
+        "lambda_home": 1.54,
+        "lambda_away": 0.96,
+        "probabilities": {
+            "1": 49.4,
+            "X": 28.4,
+            "2": 22.2
+        },
+        "odds": {
+            "1": 2.02,
+            "X": 3.52,
+            "2": 4.51
+        }
+    },
+    {
+        "date": "2027-04-21 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Celta Vigo",
+        "away_team": "Barcelona",
+        "lambda_home": 1.17,
+        "lambda_away": 2.28,
+        "probabilities": {
+            "1": 17.6,
+            "X": 21.3,
+            "2": 61.0
+        },
+        "odds": {
+            "1": 5.68,
+            "X": 4.69,
+            "2": 1.64
+        }
+    },
+    {
+        "date": "2027-04-21 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Espanyol",
+        "away_team": "Real Sociedad",
+        "lambda_home": 1.35,
+        "lambda_away": 1.39,
+        "probabilities": {
+            "1": 35.0,
+            "X": 28.3,
+            "2": 36.7
+        },
+        "odds": {
+            "1": 2.86,
+            "X": 3.53,
+            "2": 2.72
+        }
+    },
+    {
+        "date": "2027-04-21 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Getafe",
+        "away_team": "Real Betis",
+        "lambda_home": 0.98,
+        "lambda_away": 1.1,
+        "probabilities": {
+            "1": 30.2,
+            "X": 33.0,
+            "2": 36.8
+        },
+        "odds": {
+            "1": 3.31,
+            "X": 3.03,
+            "2": 2.72
+        }
+    },
+    {
+        "date": "2027-04-21 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Osasuna",
+        "away_team": "Alavés",
+        "lambda_home": 1.39,
+        "lambda_away": 0.99,
+        "probabilities": {
+            "1": 44.8,
+            "X": 29.9,
+            "2": 25.3
+        },
+        "odds": {
+            "1": 2.23,
+            "X": 3.35,
+            "2": 3.95
+        }
+    },
+    {
+        "date": "2027-04-21 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Racing Sant",
+        "away_team": "Málaga",
+        "lambda_home": 2.58,
+        "lambda_away": 1.22,
+        "probabilities": {
+            "1": 65.5,
+            "X": 19.0,
+            "2": 15.5
+        },
+        "odds": {
+            "1": 1.53,
+            "X": 5.26,
+            "2": 6.45
+        }
+    },
+    {
+        "date": "2027-04-21 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Real Madrid",
+        "away_team": "Elche",
+        "lambda_home": 3.11,
+        "lambda_away": 0.67,
+        "probabilities": {
+            "1": 83.7,
+            "X": 11.7,
+            "2": 4.6
+        },
+        "odds": {
+            "1": 1.19,
+            "X": 8.58,
+            "2": 20.0
+        }
+    },
+    {
+        "date": "2027-04-21 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Sevilla",
+        "away_team": "Levante",
+        "lambda_home": 1.83,
+        "lambda_away": 1.27,
+        "probabilities": {
+            "1": 49.1,
+            "X": 25.3,
+            "2": 25.6
+        },
+        "odds": {
+            "1": 2.04,
+            "X": 3.95,
+            "2": 3.9
+        }
+    },
+    {
+        "date": "2027-04-21 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Valencia",
+        "away_team": "Rayo Vallecano",
+        "lambda_home": 1.31,
+        "lambda_away": 0.94,
+        "probabilities": {
+            "1": 43.5,
+            "X": 31.0,
+            "2": 25.5
+        },
+        "odds": {
+            "1": 2.3,
+            "X": 3.23,
+            "2": 3.92
+        }
+    },
+    {
+        "date": "2027-04-21 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Villarreal",
+        "away_team": "Atlético Madrid",
+        "lambda_home": 1.54,
+        "lambda_away": 1.58,
+        "probabilities": {
+            "1": 36.0,
+            "X": 26.2,
+            "2": 37.8
+        },
+        "odds": {
+            "1": 2.78,
+            "X": 3.81,
+            "2": 2.65
+        }
+    },
+    {
+        "date": "2027-05-02 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Atlético Madrid",
+        "away_team": "Alavés",
+        "lambda_home": 2.14,
+        "lambda_away": 0.68,
+        "probabilities": {
+            "1": 69.9,
+            "X": 20.4,
+            "2": 9.7
+        },
+        "odds": {
+            "1": 1.43,
+            "X": 4.89,
+            "2": 10.33
+        }
+    },
+    {
+        "date": "2027-05-02 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Barcelona",
+        "away_team": "Osasuna",
+        "lambda_home": 3.16,
+        "lambda_away": 0.72,
+        "probabilities": {
+            "1": 83.2,
+            "X": 11.8,
+            "2": 5.0
+        },
+        "odds": {
+            "1": 1.2,
+            "X": 8.49,
+            "2": 19.96
+        }
+    },
+    {
+        "date": "2027-05-02 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Celta Vigo",
+        "away_team": "Sevilla",
+        "lambda_home": 1.77,
+        "lambda_away": 1.13,
+        "probabilities": {
+            "1": 51.2,
+            "X": 25.9,
+            "2": 23.0
+        },
+        "odds": {
+            "1": 1.95,
+            "X": 3.87,
+            "2": 4.36
+        }
+    },
+    {
+        "date": "2027-05-02 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Dep. A Coruña",
+        "away_team": "Racing Sant",
+        "lambda_home": 3.05,
+        "lambda_away": 1.29,
+        "probabilities": {
+            "1": 71.0,
+            "X": 16.0,
+            "2": 12.9
+        },
+        "odds": {
+            "1": 1.41,
+            "X": 6.23,
+            "2": 7.73
+        }
+    },
+    {
+        "date": "2027-05-02 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Elche",
+        "away_team": "Espanyol",
+        "lambda_home": 1.52,
+        "lambda_away": 1.23,
+        "probabilities": {
+            "1": 42.8,
+            "X": 27.9,
+            "2": 29.4
+        },
+        "odds": {
+            "1": 2.34,
+            "X": 3.59,
+            "2": 3.4
+        }
+    },
+    {
+        "date": "2027-05-02 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Levante",
+        "away_team": "Real Madrid",
+        "lambda_home": 1.04,
+        "lambda_away": 2.34,
+        "probabilities": {
+            "1": 14.5,
+            "X": 20.3,
+            "2": 65.2
+        },
+        "odds": {
+            "1": 6.89,
+            "X": 4.92,
+            "2": 1.53
+        }
+    },
+    {
+        "date": "2027-05-02 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Málaga",
+        "away_team": "Getafe",
+        "lambda_home": 0.74,
+        "lambda_away": 1.1,
+        "probabilities": {
+            "1": 23.2,
+            "X": 34.6,
+            "2": 42.2
+        },
+        "odds": {
+            "1": 4.31,
+            "X": 2.89,
+            "2": 2.37
+        }
+    },
+    {
+        "date": "2027-05-02 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Rayo Vallecano",
+        "away_team": "Villarreal",
+        "lambda_home": 1.23,
+        "lambda_away": 1.53,
+        "probabilities": {
+            "1": 29.4,
+            "X": 27.8,
+            "2": 42.8
+        },
+        "odds": {
+            "1": 3.4,
+            "X": 3.59,
+            "2": 2.34
+        }
+    },
+    {
+        "date": "2027-05-02 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Real Betis",
+        "away_team": "Valencia",
+        "lambda_home": 1.79,
+        "lambda_away": 0.94,
+        "probabilities": {
+            "1": 56.0,
+            "X": 25.6,
+            "2": 18.5
+        },
+        "odds": {
+            "1": 1.79,
+            "X": 3.91,
+            "2": 5.42
+        }
+    },
+    {
+        "date": "2027-05-02 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Real Sociedad",
+        "away_team": "Athletic Club",
+        "lambda_home": 1.39,
+        "lambda_away": 1.11,
+        "probabilities": {
+            "1": 41.9,
+            "X": 29.5,
+            "2": 28.6
+        },
+        "odds": {
+            "1": 2.39,
+            "X": 3.39,
+            "2": 3.49
+        }
+    },
+    {
+        "date": "2027-05-09 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Alavés",
+        "away_team": "Levante",
+        "lambda_home": 1.6,
+        "lambda_away": 1.16,
+        "probabilities": {
+            "1": 46.0,
+            "X": 27.4,
+            "2": 26.5
+        },
+        "odds": {
+            "1": 2.17,
+            "X": 3.65,
+            "2": 3.77
+        }
+    },
+    {
+        "date": "2027-05-09 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Athletic Club",
+        "away_team": "Málaga",
+        "lambda_home": 2.25,
+        "lambda_away": 0.65,
+        "probabilities": {
+            "1": 72.6,
+            "X": 19.0,
+            "2": 8.4
+        },
+        "odds": {
+            "1": 1.38,
+            "X": 5.27,
+            "2": 11.93
+        }
+    },
+    {
+        "date": "2027-05-09 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Getafe",
+        "away_team": "Elche",
+        "lambda_home": 1.24,
+        "lambda_away": 0.86,
+        "probabilities": {
+            "1": 43.5,
+            "X": 32.2,
+            "2": 24.3
+        },
+        "odds": {
+            "1": 2.3,
+            "X": 3.11,
+            "2": 4.11
+        }
+    },
+    {
+        "date": "2027-05-09 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Osasuna",
+        "away_team": "Real Sociedad",
+        "lambda_home": 1.32,
+        "lambda_away": 1.27,
+        "probabilities": {
+            "1": 36.5,
+            "X": 29.2,
+            "2": 34.3
+        },
+        "odds": {
+            "1": 2.74,
+            "X": 3.42,
+            "2": 2.92
+        }
+    },
+    {
+        "date": "2027-05-09 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Racing Sant",
+        "away_team": "Sevilla",
+        "lambda_home": 1.97,
+        "lambda_away": 2.14,
+        "probabilities": {
+            "1": 35.7,
+            "X": 22.1,
+            "2": 42.2
+        },
+        "odds": {
+            "1": 2.8,
+            "X": 4.53,
+            "2": 2.37
+        }
+    },
+    {
+        "date": "2027-05-09 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Rayo Vallecano",
+        "away_team": "Dep. A Coruña",
+        "lambda_home": 1.23,
+        "lambda_away": 1.12,
+        "probabilities": {
+            "1": 37.3,
+            "X": 30.8,
+            "2": 31.9
+        },
+        "odds": {
+            "1": 2.68,
+            "X": 3.24,
+            "2": 3.14
+        }
+    },
+    {
+        "date": "2027-05-09 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Real Betis",
+        "away_team": "Espanyol",
+        "lambda_home": 1.92,
+        "lambda_away": 0.96,
+        "probabilities": {
+            "1": 58.7,
+            "X": 24.1,
+            "2": 17.2
+        },
+        "odds": {
+            "1": 1.7,
+            "X": 4.14,
+            "2": 5.83
+        }
+    },
+    {
+        "date": "2027-05-09 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Real Madrid",
+        "away_team": "Barcelona",
+        "lambda_home": 1.85,
+        "lambda_away": 1.5,
+        "probabilities": {
+            "1": 45.0,
+            "X": 24.7,
+            "2": 30.3
+        },
+        "odds": {
+            "1": 2.22,
+            "X": 4.05,
+            "2": 3.3
+        }
+    },
+    {
+        "date": "2027-05-09 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Valencia",
+        "away_team": "Atlético Madrid",
+        "lambda_home": 0.96,
+        "lambda_away": 1.66,
+        "probabilities": {
+            "1": 20.5,
+            "X": 27.0,
+            "2": 52.5
+        },
+        "odds": {
+            "1": 4.89,
+            "X": 3.7,
+            "2": 1.9
+        }
+    },
+    {
+        "date": "2027-05-09 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Villarreal",
+        "away_team": "Celta Vigo",
+        "lambda_home": 2.2,
+        "lambda_away": 1.2,
+        "probabilities": {
+            "1": 58.8,
+            "X": 22.1,
+            "2": 19.1
+        },
+        "odds": {
+            "1": 1.7,
+            "X": 4.52,
+            "2": 5.23
+        }
+    },
+    {
+        "date": "2027-05-16 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Atlético Madrid",
+        "away_team": "Rayo Vallecano",
+        "lambda_home": 2.17,
+        "lambda_away": 0.67,
+        "probabilities": {
+            "1": 70.8,
+            "X": 20.0,
+            "2": 9.2
+        },
+        "odds": {
+            "1": 1.41,
+            "X": 5.0,
+            "2": 10.87
+        }
+    },
+    {
+        "date": "2027-05-16 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Dep. A Coruña",
+        "away_team": "Alavés",
+        "lambda_home": 1.56,
+        "lambda_away": 0.93,
+        "probabilities": {
+            "1": 50.6,
+            "X": 28.1,
+            "2": 21.2
+        },
+        "odds": {
+            "1": 1.97,
+            "X": 3.56,
+            "2": 4.71
+        }
+    },
+    {
+        "date": "2027-05-16 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Elche",
+        "away_team": "Athletic Club",
+        "lambda_home": 1.12,
+        "lambda_away": 1.37,
+        "probabilities": {
+            "1": 29.4,
+            "X": 29.6,
+            "2": 40.9
+        },
+        "odds": {
+            "1": 3.4,
+            "X": 3.37,
+            "2": 2.44
+        }
+    },
+    {
+        "date": "2027-05-16 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Espanyol",
+        "away_team": "Valencia",
+        "lambda_home": 1.46,
+        "lambda_away": 1.13,
+        "probabilities": {
+            "1": 43.2,
+            "X": 28.8,
+            "2": 28.0
+        },
+        "odds": {
+            "1": 2.31,
+            "X": 3.48,
+            "2": 3.57
+        }
+    },
+    {
+        "date": "2027-05-16 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Levante",
+        "away_team": "Getafe",
+        "lambda_home": 1.38,
+        "lambda_away": 0.93,
+        "probabilities": {
+            "1": 45.8,
+            "X": 30.2,
+            "2": 24.0
+        },
+        "odds": {
+            "1": 2.18,
+            "X": 3.31,
+            "2": 4.17
+        }
+    },
+    {
+        "date": "2027-05-16 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Málaga",
+        "away_team": "Celta Vigo",
+        "lambda_home": 0.86,
+        "lambda_away": 1.69,
+        "probabilities": {
+            "1": 17.8,
+            "X": 26.6,
+            "2": 55.7
+        },
+        "odds": {
+            "1": 5.63,
+            "X": 3.76,
+            "2": 1.8
+        }
+    },
+    {
+        "date": "2027-05-16 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Osasuna",
+        "away_team": "Real Betis",
+        "lambda_home": 1.28,
+        "lambda_away": 1.34,
+        "probabilities": {
+            "1": 34.2,
+            "X": 29.0,
+            "2": 36.8
+        },
+        "odds": {
+            "1": 2.93,
+            "X": 3.45,
+            "2": 2.72
+        }
+    },
+    {
+        "date": "2027-05-16 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Real Madrid",
+        "away_team": "Racing Sant",
+        "lambda_home": 4.91,
+        "lambda_away": 0.89,
+        "probabilities": {
+            "1": 91.5,
+            "X": 5.5,
+            "2": 3.0
+        },
+        "odds": {
+            "1": 1.09,
+            "X": 18.21,
+            "2": 20.0
+        }
+    },
+    {
+        "date": "2027-05-16 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Real Sociedad",
+        "away_team": "Barcelona",
+        "lambda_home": 1.19,
+        "lambda_away": 2.19,
+        "probabilities": {
+            "1": 19.0,
+            "X": 22.2,
+            "2": 58.8
+        },
+        "odds": {
+            "1": 5.26,
+            "X": 4.51,
+            "2": 1.7
+        }
+    },
+    {
+        "date": "2027-05-16 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Sevilla",
+        "away_team": "Villarreal",
+        "lambda_home": 1.49,
+        "lambda_away": 1.73,
+        "probabilities": {
+            "1": 32.2,
+            "X": 25.5,
+            "2": 42.3
+        },
+        "odds": {
+            "1": 3.1,
+            "X": 3.92,
+            "2": 2.37
+        }
+    },
+    {
+        "date": "2027-05-23 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Alavés",
+        "away_team": "Real Madrid",
+        "lambda_home": 0.86,
+        "lambda_away": 1.91,
+        "probabilities": {
+            "1": 15.3,
+            "X": 24.0,
+            "2": 60.7
+        },
+        "odds": {
+            "1": 6.55,
+            "X": 4.17,
+            "2": 1.65
+        }
+    },
+    {
+        "date": "2027-05-23 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Atlético Madrid",
+        "away_team": "Athletic Club",
+        "lambda_home": 1.79,
+        "lambda_away": 0.83,
+        "probabilities": {
+            "1": 58.7,
+            "X": 25.3,
+            "2": 15.9
+        },
+        "odds": {
+            "1": 1.7,
+            "X": 3.95,
+            "2": 6.27
+        }
+    },
+    {
+        "date": "2027-05-23 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Barcelona",
+        "away_team": "Málaga",
+        "lambda_home": 4.26,
+        "lambda_away": 0.65,
+        "probabilities": {
+            "1": 91.1,
+            "X": 5.9,
+            "2": 3.0
+        },
+        "odds": {
+            "1": 1.1,
+            "X": 16.85,
+            "2": 20.0
+        }
+    },
+    {
+        "date": "2027-05-23 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Celta Vigo",
+        "away_team": "Real Sociedad",
+        "lambda_home": 1.54,
+        "lambda_away": 1.24,
+        "probabilities": {
+            "1": 42.9,
+            "X": 27.7,
+            "2": 29.4
+        },
+        "odds": {
+            "1": 2.33,
+            "X": 3.61,
+            "2": 3.41
+        }
+    },
+    {
+        "date": "2027-05-23 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Dep. A Coruña",
+        "away_team": "Espanyol",
+        "lambda_home": 1.74,
+        "lambda_away": 1.0,
+        "probabilities": {
+            "1": 53.4,
+            "X": 26.1,
+            "2": 20.5
+        },
+        "odds": {
+            "1": 1.87,
+            "X": 3.82,
+            "2": 4.88
+        }
+    },
+    {
+        "date": "2027-05-23 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Racing Sant",
+        "away_team": "Levante",
+        "lambda_home": 2.22,
+        "lambda_away": 2.25,
+        "probabilities": {
+            "1": 39.0,
+            "X": 21.1,
+            "2": 40.0
+        },
+        "odds": {
+            "1": 2.57,
+            "X": 4.74,
+            "2": 2.5
+        }
+    },
+    {
+        "date": "2027-05-23 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Rayo Vallecano",
+        "away_team": "Real Betis",
+        "lambda_home": 1.18,
+        "lambda_away": 1.24,
+        "probabilities": {
+            "1": 33.3,
+            "X": 30.4,
+            "2": 36.4
+        },
+        "odds": {
+            "1": 3.01,
+            "X": 3.29,
+            "2": 2.75
+        }
+    },
+    {
+        "date": "2027-05-23 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Sevilla",
+        "away_team": "Getafe",
+        "lambda_home": 1.3,
+        "lambda_away": 0.83,
+        "probabilities": {
+            "1": 46.1,
+            "X": 31.5,
+            "2": 22.4
+        },
+        "odds": {
+            "1": 2.17,
+            "X": 3.17,
+            "2": 4.46
+        }
+    },
+    {
+        "date": "2027-05-23 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Valencia",
+        "away_team": "Elche",
+        "lambda_home": 1.6,
+        "lambda_away": 1.03,
+        "probabilities": {
+            "1": 49.5,
+            "X": 27.6,
+            "2": 22.9
+        },
+        "odds": {
+            "1": 2.02,
+            "X": 3.62,
+            "2": 4.36
+        }
+    },
+    {
+        "date": "2027-05-23 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Villarreal",
+        "away_team": "Osasuna",
+        "lambda_home": 2.25,
+        "lambda_away": 1.0,
+        "probabilities": {
+            "1": 64.3,
+            "X": 21.0,
+            "2": 14.7
+        },
+        "odds": {
+            "1": 1.55,
+            "X": 4.76,
+            "2": 6.81
+        }
+    },
+    {
+        "date": "2027-05-30 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Athletic Club",
+        "away_team": "Rayo Vallecano",
+        "lambda_home": 1.56,
+        "lambda_away": 0.76,
+        "probabilities": {
+            "1": 55.0,
+            "X": 28.1,
+            "2": 16.9
+        },
+        "odds": {
+            "1": 1.82,
+            "X": 3.56,
+            "2": 5.91
+        }
+    },
+    {
+        "date": "2027-05-30 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Elche",
+        "away_team": "Racing Sant",
+        "lambda_home": 2.66,
+        "lambda_away": 1.57,
+        "probabilities": {
+            "1": 59.6,
+            "X": 19.5,
+            "2": 21.0
+        },
+        "odds": {
+            "1": 1.68,
+            "X": 5.14,
+            "2": 4.76
+        }
+    },
+    {
+        "date": "2027-05-30 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Espanyol",
+        "away_team": "Alavés",
+        "lambda_home": 1.41,
+        "lambda_away": 1.08,
+        "probabilities": {
+            "1": 43.2,
+            "X": 29.4,
+            "2": 27.4
+        },
+        "odds": {
+            "1": 2.32,
+            "X": 3.4,
+            "2": 3.65
+        }
+    },
+    {
+        "date": "2027-05-30 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Getafe",
+        "away_team": "Barcelona",
+        "lambda_home": 0.74,
+        "lambda_away": 1.94,
+        "probabilities": {
+            "1": 12.3,
+            "X": 23.0,
+            "2": 64.7
+        },
+        "odds": {
+            "1": 8.15,
+            "X": 4.34,
+            "2": 1.55
+        }
+    },
+    {
+        "date": "2027-05-30 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Levante",
+        "away_team": "Celta Vigo",
+        "lambda_home": 1.59,
+        "lambda_away": 1.48,
+        "probabilities": {
+            "1": 39.1,
+            "X": 26.4,
+            "2": 34.5
+        },
+        "odds": {
+            "1": 2.56,
+            "X": 3.79,
+            "2": 2.9
+        }
+    },
+    {
+        "date": "2027-05-30 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Málaga",
+        "away_team": "Sevilla",
+        "lambda_home": 0.93,
+        "lambda_away": 1.57,
+        "probabilities": {
+            "1": 21.0,
+            "X": 28.0,
+            "2": 51.0
+        },
+        "odds": {
+            "1": 4.77,
+            "X": 3.57,
+            "2": 1.96
+        }
+    },
+    {
+        "date": "2027-05-30 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Osasuna",
+        "away_team": "Valencia",
+        "lambda_home": 1.41,
+        "lambda_away": 1.03,
+        "probabilities": {
+            "1": 44.4,
+            "X": 29.6,
+            "2": 26.1
+        },
+        "odds": {
+            "1": 2.25,
+            "X": 3.38,
+            "2": 3.84
+        }
+    },
+    {
+        "date": "2027-05-30 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Real Betis",
+        "away_team": "Atlético Madrid",
+        "lambda_home": 1.22,
+        "lambda_away": 1.49,
+        "probabilities": {
+            "1": 29.6,
+            "X": 28.1,
+            "2": 42.2
+        },
+        "odds": {
+            "1": 3.37,
+            "X": 3.55,
+            "2": 2.37
+        }
+    },
+    {
+        "date": "2027-05-30 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Real Madrid",
+        "away_team": "Dep. A Coruña",
+        "lambda_home": 2.46,
+        "lambda_away": 0.77,
+        "probabilities": {
+            "1": 73.4,
+            "X": 17.7,
+            "2": 8.9
+        },
+        "odds": {
+            "1": 1.36,
+            "X": 5.65,
+            "2": 11.19
+        }
+    },
+    {
+        "date": "2027-05-30 00:00:00",
+        "league": "ESP-La Liga",
+        "home_team": "Real Sociedad",
+        "away_team": "Villarreal",
+        "lambda_home": 1.65,
+        "lambda_away": 1.52,
+        "probabilities": {
+            "1": 39.8,
+            "X": 25.9,
+            "2": 34.3
+        },
+        "odds": {
+            "1": 2.51,
+            "X": 3.86,
+            "2": 2.92
+        }
+    }
+]

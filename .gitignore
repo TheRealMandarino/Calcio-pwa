@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.vscode/
+data/database.db  *(opzionale: se non vuoi metterlo pubblico)*

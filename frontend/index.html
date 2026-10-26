@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calcio PWA - Match Analytics</title>
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen p-4 md:p-8">
+    <div class="max-w-5xl mx-auto">
+        <header class="mb-8 border-b border-slate-800 pb-4 flex flex-col md:flex-row justify-between items-center gap-4">
+            <div>
+                <h1 class="text-3xl font-black tracking-tight text-emerald-400">CALCIO PWA ANALYTICS</h1>
+                <p class="text-sm text-slate-400">Modello Statistico Poisson & Dixon-Coles</p>
+            </div>
+            
+            <!-- Selettore Campionato -->
+            <div class="flex items-center gap-3">
+                <select id="leagueSelect" onchange="loadMatches()" class="bg-slate-900 border border-slate-800 text-slate-200 text-sm rounded-lg px-3 py-2 outline-none focus:border-emerald-500 cursor-pointer">
+                    <option value="ita-serie_a.json">🇮🇹 Serie A</option>
+                    <option value="eng-premier_league.json">🇬🇧 Premier League</option>
+                    <option value="esp-la_liga.json">🇪🇸 La Liga</option>
+                    <option value="ger-bundesliga.json">🇩🇪 Bundesliga</option>
+                    <option value="fra-ligue_1.json">🇫🇷 Ligue 1</option>
+                </select>
+                <span class="bg-emerald-950 text-emerald-400 border border-emerald-800 text-xs px-3 py-1 rounded-full font-mono">Live Engine v1.0</span>
+            </div>
+        </header>
+
+        <!-- Contenitore Principale delle Partite -->
+        <div id="matches-container" class="space-y-6">
+            <!-- Popolato dinamicamente da JavaScript -->
+        </div>
+    </div>
+
+    <script>
+        async function loadMatches() {
+            const selectElement = document.getElementById('leagueSelect');
+            const fileName = selectElement ? selectElement.value : 'ita-serie_a.json';
+            
+            const container = document.getElementById('matches-container');
+            container.innerHTML = `
+                <div class="p-8 text-center text-slate-500 animate-pulse">
+                    Caricamento partite in corso...
+                </div>
+            `;
+
+            try {
+                const response = await fetch(fileName);
+                if (!response.ok) throw new Error("File non trovato");
+                const matches = await response.json();
+                renderDashboard(matches);
+            } catch (error) {
+                container.innerHTML = `
+                    <div class="p-4 bg-red-950 border border-red-800 text-red-300 rounded-lg text-center">
+                        Impossibile caricare il file <strong>${fileName}</strong>. Assicurati di aver eseguito il batch analyzer sul backend.
+                    </div>
+                `;
+            }
+        }
+
+        function renderDashboard(matches) {
+            const container = document.getElementById('matches-container');
+            container.innerHTML = '';
+
+            if (matches.length === 0) {
+                container.innerHTML = `
+                    <div class="p-8 text-center text-slate-500 bg-slate-900 border border-slate-800 rounded-xl">
+                        Nessuna partita futura trovata per questo campionato.
+                    </div>
+                `;
+                return;
+            }
+
+            matches.forEach((match, index) => {
+                const card = document.createElement('div');
+                card.className = "bg-slate-900 border border-slate-800 rounded-xl p-6 shadow-xl transition-all";
+                
+                card.innerHTML = `
+                    <div class="flex justify-between items-center mb-4 text-xs text-slate-400 border-b border-slate-800 pb-2">
+                        <span>📅 ${match.date}</span>
+                        <span class="font-mono">Expected Goals (λ) - H: <strong id="lam-h-${index}">${match.lambda_home}</strong> | A: <strong id="lam-a-${index}">${match.lambda_away}</strong></span>
+                    </div>
+
+                    <div class="grid grid-cols-1 md:grid-cols-3 gap-4 items-center mb-6">
+                        <div class="text-center md:text-left">
+                            <h3 class="text-xl font-bold text-white">${match.home_team}</h3>
+                            <span class="text-xs text-emerald-400">Casa</span>
+                        </div>
+                        <div class="text-center font-mono text-slate-500 font-bold">VS</div>
+                        <div class="text-center md:text-right">
+                            <h3 class="text-xl font-bold text-white">${match.away_team}</h3>
+                            <span class="text-xs text-sky-400">Trasferta</span>
+                        </div>
+                    </div>
+
+                    <!-- Cursori Interattivi di Scenario (Fatica / Boost) -->
+                    <div class="bg-slate-950/60 p-4 rounded-lg mb-6 grid grid-cols-1 md:grid-cols-2 gap-4 border border-slate-800/60">
+                        <div>
+                            <label class="text-xs text-slate-400 flex justify-between mb-1">
+                                <span>Boost/Fatica Casa</span>
+                                <span id="val-boost-h-${index}" class="text-emerald-400 font-mono">1.00x</span>
+                            </label>
+                            <input type="range" min="0.7" max="1.3" step="0.05" value="1.0" 
+                                class="w-full accent-emerald-500 cursor-pointer" id="slider-h-${index}"
+                                oninput="updateSimulation(${index}, ${match.lambda_home}, ${match.lambda_away})">
+                        </div>
+                        <div>
+                            <label class="text-xs text-slate-400 flex justify-between mb-1">
+                                <span>Boost/Fatica Trasferta</span>
+                                <span id="val-boost-a-${index}" class="text-sky-400 font-mono">1.00x</span>
+                            </label>
+                            <input type="range" min="0.7" max="1.3" step="0.05" value="1.0" 
+                                class="w-full accent-sky-500 cursor-pointer" id="slider-a-${index}"
+                                oninput="updateSimulation(${index}, ${match.lambda_home}, ${match.lambda_away})">
+                        </div>
+                    </div>
+
+                    <!-- Quote e Probabilità -->
+                    <div class="grid grid-cols-3 gap-3 text-center" id="odds-box-${index}">
+                        <div class="bg-slate-950 p-3 rounded-lg border border-slate-800">
+                            <span class="block text-xs text-slate-400 mb-1">1 (Casa)</span>
+                            <span class="text-lg font-black text-white" id="odd-1-${index}">${match.odds["1"]}</span>
+                            <span class="block text-[10px] text-emerald-400 mt-1" id="prob-1-${index}">${match.probabilities["1"]}%</span>
+                        </div>
+                        <div class="bg-slate-950 p-3 rounded-lg border border-slate-800">
+                            <span class="block text-xs text-slate-400 mb-1">X (Pareggio)</span>
+                            <span class="text-lg font-black text-white" id="odd-X-${index}">${match.odds["X"]}</span>
+                            <span class="block text-[10px] text-amber-400 mt-1" id="prob-X-${index}">${match.probabilities["X"]}%</span>
+                        </div>
+                        <div class="bg-slate-950 p-3 rounded-lg border border-slate-800">
+                            <span class="block text-xs text-slate-400 mb-1">2 (Ospite)</span>
+                            <span class="text-lg font-black text-white" id="odd-2-${index}">${match.odds["2"]}</span>
+                            <span class="block text-[10px] text-sky-400 mt-1" id="prob-2-${index}">${match.probabilities["2"]}%</span>
+                        </div>
+                    </div>
+                `;
+                container.appendChild(card);
+            });
+        }
+
+        function updateSimulation(index, baseLamH, baseLamA) {
+            const boostH = parseFloat(document.getElementById(`slider-h-${index}`).value);
+            const boostA = parseFloat(document.getElementById(`slider-a-${index}`).value);
+
+            document.getElementById(`val-boost-h-${index}`).innerText = boostH.toFixed(2) + 'x';
+            document.getElementById(`val-boost-a-${index}`).innerText = boostA.toFixed(2) + 'x';
+
+            const newLamH = Math.max(baseLamH * boostH, 0.70);
+            const newLamA = Math.max(baseLamA * boostA, 0.65);
+
+            document.getElementById(`lam-h-${index}`).innerText = newLamH.toFixed(2);
+            document.getElementById(`lam-a-${index}`).innerText = newLamA.toFixed(2);
+
+            const maxG = 6;
+            let matrixSum = 0;
+            let pPoisson = (lambda, k) => Math.exp(-lambda) * Math.pow(lambda, k) / factorial(k);
+
+            let matrix = Array(maxG + 1).fill(0).map(() => Array(maxG + 1).fill(0));
+            for(let i=0; i<=maxG; i++) {
+                for(let j=0; j<=maxG; j++) {
+                    let prob = pPoisson(newLamH, i) * pPoisson(newLamA, j);
+                    matrix[i][j] = prob;
+                    matrixSum += prob;
+                }
+            }
+
+            let probHome = 0, probDraw = 0, probAway = 0;
+            for(let i=0; i<=maxG; i++) {
+                for(let j=0; j<=maxG; j++) {
+                    let normalizedProb = matrix[i][j] / matrixSum;
+                    if(i > j) probHome += normalizedProb;
+                    else if(i === j) probDraw += normalizedProb;
+                    else probAway += normalizedProb;
+                }
+            }
+
+            let finalP1 = Math.max(probHome, 0.035);
+            let finalPX = Math.max(probDraw, 0.035);
+            let finalP2 = Math.max(probAway, 0.035);
+            let totalP = finalP1 + finalPX + finalP2;
+
+            finalP1 /= totalP;
+            finalPX /= totalP;
+            finalP2 /= totalP;
+
+            let odd1 = Math.min(1 / finalP1, 28.5).toFixed(2);
+            let oddX = Math.min(1 / finalPX, 28.5).toFixed(2);
+            let odd2 = Math.min(1 / finalP2, 28.5).toFixed(2);
+
+            document.getElementById(`odd-1-${index}`).innerText = odd1;
+            document.getElementById(`odd-X-${index}`).innerText = oddX;
+            document.getElementById(`odd-2-${index}`).innerText = odd2;
+
+            document.getElementById(`prob-1-${index}`).innerText = (finalP1 * 100).toFixed(1) + '%';
+            document.getElementById(`prob-X-${index}`).innerText = (finalPX * 100).toFixed(1) + '%';
+            document.getElementById(`prob-2-${index}`).innerText = (finalP2 * 100).toFixed(1) + '%';
+        }
+
+        function factorial(n) {
+            return n <= 1 ? 1 : n * factorial(n - 1);
+        }
+
+        window.onload = loadMatches;
+    </script>
+</body>
+</html>

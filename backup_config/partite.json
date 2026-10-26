@@ -1,0 +1,5102 @@
+[
+    {
+        "date": "2026-10-27 00:00:00",
+        "home_team": "Roma",
+        "away_team": "Cagliari",
+        "lambda_home": 2.07,
+        "lambda_away": 0.81,
+        "probabilities": {
+            "1": 65.3,
+            "X": 22.0,
+            "2": 12.7
+        },
+        "odds": {
+            "1": 1.53,
+            "X": 4.54,
+            "2": 7.89
+        }
+    },
+    {
+        "date": "2026-10-27 00:00:00",
+        "home_team": "Sassuolo",
+        "away_team": "Lazio",
+        "lambda_home": 1.23,
+        "lambda_away": 1.65,
+        "probabilities": {
+            "1": 27.4,
+            "X": 26.9,
+            "2": 45.8
+        },
+        "odds": {
+            "1": 3.66,
+            "X": 3.72,
+            "2": 2.18
+        }
+    },
+    {
+        "date": "2026-10-27 00:00:00",
+        "home_team": "Torino",
+        "away_team": "Como",
+        "lambda_home": 1.0,
+        "lambda_away": 1.43,
+        "probabilities": {
+            "1": 25.0,
+            "X": 29.5,
+            "2": 45.6
+        },
+        "odds": {
+            "1": 4.01,
+            "X": 3.39,
+            "2": 2.19
+        }
+    },
+    {
+        "date": "2026-10-28 00:00:00",
+        "home_team": "Genoa",
+        "away_team": "Juventus",
+        "lambda_home": 0.84,
+        "lambda_away": 1.52,
+        "probabilities": {
+            "1": 19.5,
+            "X": 28.7,
+            "2": 51.9
+        },
+        "odds": {
+            "1": 5.14,
+            "X": 3.49,
+            "2": 1.93
+        }
+    },
+    {
+        "date": "2026-10-28 00:00:00",
+        "home_team": "Milan",
+        "away_team": "Bologna",
+        "lambda_home": 1.84,
+        "lambda_away": 1.06,
+        "probabilities": {
+            "1": 54.3,
+            "X": 25.2,
+            "2": 20.5
+        },
+        "odds": {
+            "1": 1.84,
+            "X": 3.97,
+            "2": 4.88
+        }
+    },
+    {
+        "date": "2026-10-28 00:00:00",
+        "home_team": "Monza",
+        "away_team": "Napoli",
+        "lambda_home": 0.86,
+        "lambda_away": 1.92,
+        "probabilities": {
+            "1": 15.2,
+            "X": 23.9,
+            "2": 61.0
+        },
+        "odds": {
+            "1": 6.6,
+            "X": 4.19,
+            "2": 1.64
+        }
+    },
+    {
+        "date": "2026-10-28 00:00:00",
+        "home_team": "Parma",
+        "away_team": "Udinese",
+        "lambda_home": 1.14,
+        "lambda_away": 1.3,
+        "probabilities": {
+            "1": 31.1,
+            "X": 30.2,
+            "2": 38.7
+        },
+        "odds": {
+            "1": 3.22,
+            "X": 3.31,
+            "2": 2.58
+        }
+    },
+    {
+        "date": "2026-10-28 00:00:00",
+        "home_team": "Venezia",
+        "away_team": "Inter",
+        "lambda_home": 0.7,
+        "lambda_away": 2.47,
+        "probabilities": {
+            "1": 7.8,
+            "X": 17.1,
+            "2": 75.1
+        },
+        "odds": {
+            "1": 12.8,
+            "X": 5.86,
+            "2": 1.33
+        }
+    },
+    {
+        "date": "2026-10-29 00:00:00",
+        "home_team": "Fiorentina",
+        "away_team": "Atalanta",
+        "lambda_home": 1.31,
+        "lambda_away": 1.71,
+        "probabilities": {
+            "1": 28.2,
+            "X": 26.1,
+            "2": 45.6
+        },
+        "odds": {
+            "1": 3.54,
+            "X": 3.83,
+            "2": 2.19
+        }
+    },
+    {
+        "date": "2026-10-29 00:00:00",
+        "home_team": "Frosinone",
+        "away_team": "Lecce",
+        "lambda_home": 1.55,
+        "lambda_away": 1.01,
+        "probabilities": {
+            "1": 48.5,
+            "X": 28.2,
+            "2": 23.3
+        },
+        "odds": {
+            "1": 2.06,
+            "X": 3.55,
+            "2": 4.29
+        }
+    },
+    {
+        "date": "2026-10-31 00:00:00",
+        "home_team": "Bologna",
+        "away_team": "Monza",
+        "lambda_home": 1.8,
+        "lambda_away": 0.94,
+        "probabilities": {
+            "1": 56.4,
+            "X": 25.4,
+            "2": 18.2
+        },
+        "odds": {
+            "1": 1.77,
+            "X": 3.94,
+            "2": 5.49
+        }
+    },
+    {
+        "date": "2026-10-31 00:00:00",
+        "home_team": "Milan",
+        "away_team": "Inter",
+        "lambda_home": 1.32,
+        "lambda_away": 1.72,
+        "probabilities": {
+            "1": 28.5,
+            "X": 26.1,
+            "2": 45.4
+        },
+        "odds": {
+            "1": 3.51,
+            "X": 3.83,
+            "2": 2.2
+        }
+    },
+    {
+        "date": "2026-10-31 00:00:00",
+        "home_team": "Udinese",
+        "away_team": "Roma",
+        "lambda_home": 1.02,
+        "lambda_away": 1.59,
+        "probabilities": {
+            "1": 22.9,
+            "X": 27.7,
+            "2": 49.4
+        },
+        "odds": {
+            "1": 4.37,
+            "X": 3.61,
+            "2": 2.02
+        }
+    },
+    {
+        "date": "2026-11-01 00:00:00",
+        "home_team": "Como",
+        "away_team": "Venezia",
+        "lambda_home": 2.04,
+        "lambda_away": 0.65,
+        "probabilities": {
+            "1": 68.8,
+            "X": 21.4,
+            "2": 9.8
+        },
+        "odds": {
+            "1": 1.45,
+            "X": 4.68,
+            "2": 10.18
+        }
+    },
+    {
+        "date": "2026-11-01 00:00:00",
+        "home_team": "Frosinone",
+        "away_team": "Torino",
+        "lambda_home": 1.5,
+        "lambda_away": 1.41,
+        "probabilities": {
+            "1": 38.2,
+            "X": 27.3,
+            "2": 34.6
+        },
+        "odds": {
+            "1": 2.62,
+            "X": 3.67,
+            "2": 2.89
+        }
+    },
+    {
+        "date": "2026-11-01 00:00:00",
+        "home_team": "Juventus",
+        "away_team": "Napoli",
+        "lambda_home": 1.29,
+        "lambda_away": 1.11,
+        "probabilities": {
+            "1": 39.2,
+            "X": 30.3,
+            "2": 30.5
+        },
+        "odds": {
+            "1": 2.55,
+            "X": 3.3,
+            "2": 3.28
+        }
+    },
+    {
+        "date": "2026-11-01 00:00:00",
+        "home_team": "Lazio",
+        "away_team": "Cagliari",
+        "lambda_home": 1.88,
+        "lambda_away": 0.83,
+        "probabilities": {
+            "1": 60.9,
+            "X": 24.2,
+            "2": 14.8
+        },
+        "odds": {
+            "1": 1.64,
+            "X": 4.12,
+            "2": 6.75
+        }
+    },
+    {
+        "date": "2026-11-01 00:00:00",
+        "home_team": "Lecce",
+        "away_team": "Genoa",
+        "lambda_home": 0.92,
+        "lambda_away": 1.07,
+        "probabilities": {
+            "1": 29.1,
+            "X": 33.8,
+            "2": 37.1
+        },
+        "odds": {
+            "1": 3.44,
+            "X": 2.96,
+            "2": 2.69
+        }
+    },
+    {
+        "date": "2026-11-02 00:00:00",
+        "home_team": "Atalanta",
+        "away_team": "Parma",
+        "lambda_home": 2.61,
+        "lambda_away": 0.76,
+        "probabilities": {
+            "1": 75.9,
+            "X": 16.2,
+            "2": 7.9
+        },
+        "odds": {
+            "1": 1.32,
+            "X": 6.16,
+            "2": 12.7
+        }
+    },
+    {
+        "date": "2026-11-02 00:00:00",
+        "home_team": "Sassuolo",
+        "away_team": "Fiorentina",
+        "lambda_home": 1.45,
+        "lambda_away": 1.55,
+        "probabilities": {
+            "1": 34.6,
+            "X": 26.8,
+            "2": 38.7
+        },
+        "odds": {
+            "1": 2.89,
+            "X": 3.74,
+            "2": 2.59
+        }
+    },
+    {
+        "date": "2026-11-06 00:00:00",
+        "home_team": "Venezia",
+        "away_team": "Udinese",
+        "lambda_home": 0.99,
+        "lambda_away": 1.24,
+        "probabilities": {
+            "1": 27.9,
+            "X": 31.5,
+            "2": 40.6
+        },
+        "odds": {
+            "1": 3.58,
+            "X": 3.17,
+            "2": 2.46
+        }
+    },
+    {
+        "date": "2026-11-07 00:00:00",
+        "home_team": "Cagliari",
+        "away_team": "Frosinone",
+        "lambda_home": 1.61,
+        "lambda_away": 1.42,
+        "probabilities": {
+            "1": 40.7,
+            "X": 26.5,
+            "2": 32.8
+        },
+        "odds": {
+            "1": 2.46,
+            "X": 3.77,
+            "2": 3.05
+        }
+    },
+    {
+        "date": "2026-11-07 00:00:00",
+        "home_team": "Parma",
+        "away_team": "Bologna",
+        "lambda_home": 1.01,
+        "lambda_away": 1.6,
+        "probabilities": {
+            "1": 22.6,
+            "X": 27.7,
+            "2": 49.7
+        },
+        "odds": {
+            "1": 4.42,
+            "X": 3.61,
+            "2": 2.01
+        }
+    },
+    {
+        "date": "2026-11-07 00:00:00",
+        "home_team": "Roma",
+        "away_team": "Sassuolo",
+        "lambda_home": 2.18,
+        "lambda_away": 1.0,
+        "probabilities": {
+            "1": 62.8,
+            "X": 21.8,
+            "2": 15.5
+        },
+        "odds": {
+            "1": 1.59,
+            "X": 4.6,
+            "2": 6.46
+        }
+    },
+    {
+        "date": "2026-11-07 00:00:00",
+        "home_team": "Torino",
+        "away_team": "Lecce",
+        "lambda_home": 1.32,
+        "lambda_away": 0.76,
+        "probabilities": {
+            "1": 48.7,
+            "X": 31.3,
+            "2": 20.0
+        },
+        "odds": {
+            "1": 2.05,
+            "X": 3.2,
+            "2": 5.0
+        }
+    },
+    {
+        "date": "2026-11-08 00:00:00",
+        "home_team": "Fiorentina",
+        "away_team": "Juventus",
+        "lambda_home": 1.04,
+        "lambda_away": 1.46,
+        "probabilities": {
+            "1": 25.6,
+            "X": 29.0,
+            "2": 45.4
+        },
+        "odds": {
+            "1": 3.91,
+            "X": 3.45,
+            "2": 2.2
+        }
+    },
+    {
+        "date": "2026-11-08 00:00:00",
+        "home_team": "Genoa",
+        "away_team": "Milan",
+        "lambda_home": 1.02,
+        "lambda_away": 1.65,
+        "probabilities": {
+            "1": 22.2,
+            "X": 27.2,
+            "2": 50.6
+        },
+        "odds": {
+            "1": 4.5,
+            "X": 3.68,
+            "2": 1.98
+        }
+    },
+    {
+        "date": "2026-11-08 00:00:00",
+        "home_team": "Inter",
+        "away_team": "Como",
+        "lambda_home": 1.96,
+        "lambda_away": 0.97,
+        "probabilities": {
+            "1": 59.3,
+            "X": 23.8,
+            "2": 16.9
+        },
+        "odds": {
+            "1": 1.69,
+            "X": 4.21,
+            "2": 5.9
+        }
+    },
+    {
+        "date": "2026-11-08 00:00:00",
+        "home_team": "Monza",
+        "away_team": "Atalanta",
+        "lambda_home": 1.02,
+        "lambda_away": 2.05,
+        "probabilities": {
+            "1": 17.1,
+            "X": 23.1,
+            "2": 59.8
+        },
+        "odds": {
+            "1": 5.83,
+            "X": 4.34,
+            "2": 1.67
+        }
+    },
+    {
+        "date": "2026-11-08 00:00:00",
+        "home_team": "Napoli",
+        "away_team": "Lazio",
+        "lambda_home": 1.63,
+        "lambda_away": 0.98,
+        "probabilities": {
+            "1": 51.3,
+            "X": 27.3,
+            "2": 21.4
+        },
+        "odds": {
+            "1": 1.95,
+            "X": 3.66,
+            "2": 4.67
+        }
+    },
+    {
+        "date": "2026-11-21 00:00:00",
+        "home_team": "Como",
+        "away_team": "Cagliari",
+        "lambda_home": 1.97,
+        "lambda_away": 0.79,
+        "probabilities": {
+            "1": 63.9,
+            "X": 23.0,
+            "2": 13.1
+        },
+        "odds": {
+            "1": 1.57,
+            "X": 4.34,
+            "2": 7.64
+        }
+    },
+    {
+        "date": "2026-11-21 00:00:00",
+        "home_team": "Lazio",
+        "away_team": "Lecce",
+        "lambda_home": 1.7,
+        "lambda_away": 0.65,
+        "probabilities": {
+            "1": 61.6,
+            "X": 25.7,
+            "2": 12.7
+        },
+        "odds": {
+            "1": 1.62,
+            "X": 3.89,
+            "2": 7.87
+        }
+    },
+    {
+        "date": "2026-11-21 00:00:00",
+        "home_team": "Napoli",
+        "away_team": "Torino",
+        "lambda_home": 1.98,
+        "lambda_away": 0.76,
+        "probabilities": {
+            "1": 64.8,
+            "X": 22.7,
+            "2": 12.5
+        },
+        "odds": {
+            "1": 1.54,
+            "X": 4.4,
+            "2": 8.03
+        }
+    },
+    {
+        "date": "2026-11-21 00:00:00",
+        "home_team": "Parma",
+        "away_team": "Roma",
+        "lambda_home": 0.87,
+        "lambda_away": 1.86,
+        "probabilities": {
+            "1": 15.9,
+            "X": 24.6,
+            "2": 59.5
+        },
+        "odds": {
+            "1": 6.29,
+            "X": 4.07,
+            "2": 1.68
+        }
+    },
+    {
+        "date": "2026-11-22 00:00:00",
+        "home_team": "Atalanta",
+        "away_team": "Inter",
+        "lambda_home": 1.43,
+        "lambda_away": 1.77,
+        "probabilities": {
+            "1": 30.0,
+            "X": 25.4,
+            "2": 44.5
+        },
+        "odds": {
+            "1": 3.33,
+            "X": 3.93,
+            "2": 2.24
+        }
+    },
+    {
+        "date": "2026-11-22 00:00:00",
+        "home_team": "Bologna",
+        "away_team": "Udinese",
+        "lambda_home": 1.64,
+        "lambda_away": 0.98,
+        "probabilities": {
+            "1": 51.4,
+            "X": 27.2,
+            "2": 21.4
+        },
+        "odds": {
+            "1": 1.94,
+            "X": 3.68,
+            "2": 4.68
+        }
+    },
+    {
+        "date": "2026-11-22 00:00:00",
+        "home_team": "Juventus",
+        "away_team": "Venezia",
+        "lambda_home": 2.14,
+        "lambda_away": 0.65,
+        "probabilities": {
+            "1": 70.8,
+            "X": 20.2,
+            "2": 9.1
+        },
+        "odds": {
+            "1": 1.41,
+            "X": 4.96,
+            "2": 11.01
+        }
+    },
+    {
+        "date": "2026-11-22 00:00:00",
+        "home_team": "Milan",
+        "away_team": "Frosinone",
+        "lambda_home": 2.61,
+        "lambda_away": 1.02,
+        "probabilities": {
+            "1": 70.0,
+            "X": 17.9,
+            "2": 12.0
+        },
+        "odds": {
+            "1": 1.43,
+            "X": 5.57,
+            "2": 8.32
+        }
+    },
+    {
+        "date": "2026-11-22 00:00:00",
+        "home_team": "Sassuolo",
+        "away_team": "Genoa",
+        "lambda_home": 1.51,
+        "lambda_away": 1.24,
+        "probabilities": {
+            "1": 42.0,
+            "X": 28.0,
+            "2": 30.1
+        },
+        "odds": {
+            "1": 2.38,
+            "X": 3.58,
+            "2": 3.33
+        }
+    },
+    {
+        "date": "2026-11-23 00:00:00",
+        "home_team": "Monza",
+        "away_team": "Fiorentina",
+        "lambda_home": 1.17,
+        "lambda_away": 1.5,
+        "probabilities": {
+            "1": 28.4,
+            "X": 28.3,
+            "2": 43.3
+        },
+        "odds": {
+            "1": 3.53,
+            "X": 3.53,
+            "2": 2.31
+        }
+    },
+    {
+        "date": "2026-11-27 00:00:00",
+        "home_team": "Venezia",
+        "away_team": "Bologna",
+        "lambda_home": 0.88,
+        "lambda_away": 1.53,
+        "probabilities": {
+            "1": 20.2,
+            "X": 28.5,
+            "2": 51.3
+        },
+        "odds": {
+            "1": 4.94,
+            "X": 3.51,
+            "2": 1.95
+        }
+    },
+    {
+        "date": "2026-11-28 00:00:00",
+        "home_team": "Frosinone",
+        "away_team": "Parma",
+        "lambda_home": 1.85,
+        "lambda_away": 1.19,
+        "probabilities": {
+            "1": 51.6,
+            "X": 25.1,
+            "2": 23.3
+        },
+        "odds": {
+            "1": 1.94,
+            "X": 3.98,
+            "2": 4.29
+        }
+    },
+    {
+        "date": "2026-11-28 00:00:00",
+        "home_team": "Inter",
+        "away_team": "Genoa",
+        "lambda_home": 2.53,
+        "lambda_away": 0.7,
+        "probabilities": {
+            "1": 76.0,
+            "X": 16.5,
+            "2": 7.5
+        },
+        "odds": {
+            "1": 1.32,
+            "X": 6.05,
+            "2": 13.38
+        }
+    },
+    {
+        "date": "2026-11-28 00:00:00",
+        "home_team": "Torino",
+        "away_team": "Lazio",
+        "lambda_home": 1.05,
+        "lambda_away": 1.37,
+        "probabilities": {
+            "1": 27.4,
+            "X": 30.0,
+            "2": 42.6
+        },
+        "odds": {
+            "1": 3.65,
+            "X": 3.34,
+            "2": 2.35
+        }
+    },
+    {
+        "date": "2026-11-29 00:00:00",
+        "home_team": "Como",
+        "away_team": "Juventus",
+        "lambda_home": 1.16,
+        "lambda_away": 1.18,
+        "probabilities": {
+            "1": 34.1,
+            "X": 31.0,
+            "2": 34.9
+        },
+        "odds": {
+            "1": 2.93,
+            "X": 3.22,
+            "2": 2.87
+        }
+    },
+    {
+        "date": "2026-11-29 00:00:00",
+        "home_team": "Roma",
+        "away_team": "Monza",
+        "lambda_home": 2.1,
+        "lambda_away": 0.81,
+        "probabilities": {
+            "1": 66.0,
+            "X": 21.6,
+            "2": 12.3
+        },
+        "odds": {
+            "1": 1.51,
+            "X": 4.62,
+            "2": 8.11
+        }
+    },
+    {
+        "date": "2026-11-29 00:00:00",
+        "home_team": "Sassuolo",
+        "away_team": "Napoli",
+        "lambda_home": 1.07,
+        "lambda_away": 1.99,
+        "probabilities": {
+            "1": 18.9,
+            "X": 23.8,
+            "2": 57.3
+        },
+        "odds": {
+            "1": 5.29,
+            "X": 4.21,
+            "2": 1.74
+        }
+    },
+    {
+        "date": "2026-11-29 00:00:00",
+        "home_team": "Udinese",
+        "away_team": "Fiorentina",
+        "lambda_home": 1.23,
+        "lambda_away": 1.36,
+        "probabilities": {
+            "1": 32.2,
+            "X": 29.2,
+            "2": 38.6
+        },
+        "odds": {
+            "1": 3.1,
+            "X": 3.43,
+            "2": 2.59
+        }
+    },
+    {
+        "date": "2026-11-30 00:00:00",
+        "home_team": "Cagliari",
+        "away_team": "Milan",
+        "lambda_home": 0.99,
+        "lambda_away": 1.87,
+        "probabilities": {
+            "1": 18.6,
+            "X": 24.8,
+            "2": 56.6
+        },
+        "odds": {
+            "1": 5.37,
+            "X": 4.03,
+            "2": 1.77
+        }
+    },
+    {
+        "date": "2026-11-30 00:00:00",
+        "home_team": "Lecce",
+        "away_team": "Atalanta",
+        "lambda_home": 0.77,
+        "lambda_away": 1.82,
+        "probabilities": {
+            "1": 14.2,
+            "X": 24.7,
+            "2": 61.1
+        },
+        "odds": {
+            "1": 7.04,
+            "X": 4.05,
+            "2": 1.64
+        }
+    },
+    {
+        "date": "2026-12-04 00:00:00",
+        "home_team": "Bologna",
+        "away_team": "Roma",
+        "lambda_home": 1.25,
+        "lambda_away": 1.41,
+        "probabilities": {
+            "1": 31.9,
+            "X": 28.7,
+            "2": 39.4
+        },
+        "odds": {
+            "1": 3.13,
+            "X": 3.49,
+            "2": 2.54
+        }
+    },
+    {
+        "date": "2026-12-05 00:00:00",
+        "home_team": "Frosinone",
+        "away_team": "Inter",
+        "lambda_home": 1.01,
+        "lambda_away": 2.78,
+        "probabilities": {
+            "1": 10.6,
+            "X": 16.5,
+            "2": 72.9
+        },
+        "odds": {
+            "1": 9.44,
+            "X": 6.05,
+            "2": 1.37
+        }
+    },
+    {
+        "date": "2026-12-05 00:00:00",
+        "home_team": "Monza",
+        "away_team": "Como",
+        "lambda_home": 0.94,
+        "lambda_away": 1.66,
+        "probabilities": {
+            "1": 20.0,
+            "X": 26.9,
+            "2": 53.1
+        },
+        "odds": {
+            "1": 5.0,
+            "X": 3.71,
+            "2": 1.88
+        }
+    },
+    {
+        "date": "2026-12-05 00:00:00",
+        "home_team": "Napoli",
+        "away_team": "Lecce",
+        "lambda_home": 2.05,
+        "lambda_away": 0.65,
+        "probabilities": {
+            "1": 69.1,
+            "X": 21.2,
+            "2": 9.7
+        },
+        "odds": {
+            "1": 1.45,
+            "X": 4.73,
+            "2": 10.32
+        }
+    },
+    {
+        "date": "2026-12-06 00:00:00",
+        "home_team": "Genoa",
+        "away_team": "Torino",
+        "lambda_home": 1.24,
+        "lambda_away": 1.07,
+        "probabilities": {
+            "1": 38.6,
+            "X": 31.1,
+            "2": 30.3
+        },
+        "odds": {
+            "1": 2.59,
+            "X": 3.22,
+            "2": 3.3
+        }
+    },
+    {
+        "date": "2026-12-06 00:00:00",
+        "home_team": "Juventus",
+        "away_team": "Udinese",
+        "lambda_home": 1.91,
+        "lambda_away": 0.71,
+        "probabilities": {
+            "1": 64.8,
+            "X": 23.2,
+            "2": 12.0
+        },
+        "odds": {
+            "1": 1.54,
+            "X": 4.3,
+            "2": 8.35
+        }
+    },
+    {
+        "date": "2026-12-06 00:00:00",
+        "home_team": "Lazio",
+        "away_team": "Atalanta",
+        "lambda_home": 1.39,
+        "lambda_away": 1.45,
+        "probabilities": {
+            "1": 34.9,
+            "X": 27.7,
+            "2": 37.4
+        },
+        "odds": {
+            "1": 2.86,
+            "X": 3.61,
+            "2": 2.68
+        }
+    },
+    {
+        "date": "2026-12-06 00:00:00",
+        "home_team": "Milan",
+        "away_team": "Parma",
+        "lambda_home": 2.42,
+        "lambda_away": 0.73,
+        "probabilities": {
+            "1": 73.6,
+            "X": 17.8,
+            "2": 8.6
+        },
+        "odds": {
+            "1": 1.36,
+            "X": 5.62,
+            "2": 11.58
+        }
+    },
+    {
+        "date": "2026-12-07 00:00:00",
+        "home_team": "Fiorentina",
+        "away_team": "Cagliari",
+        "lambda_home": 1.77,
+        "lambda_away": 0.98,
+        "probabilities": {
+            "1": 54.6,
+            "X": 25.9,
+            "2": 19.5
+        },
+        "odds": {
+            "1": 1.83,
+            "X": 3.87,
+            "2": 5.12
+        }
+    },
+    {
+        "date": "2026-12-07 00:00:00",
+        "home_team": "Venezia",
+        "away_team": "Sassuolo",
+        "lambda_home": 1.12,
+        "lambda_away": 1.48,
+        "probabilities": {
+            "1": 27.5,
+            "X": 28.7,
+            "2": 43.9
+        },
+        "odds": {
+            "1": 3.64,
+            "X": 3.49,
+            "2": 2.28
+        }
+    },
+    {
+        "date": "2026-12-11 00:00:00",
+        "home_team": "Udinese",
+        "away_team": "Frosinone",
+        "lambda_home": 1.68,
+        "lambda_away": 1.32,
+        "probabilities": {
+            "1": 44.6,
+            "X": 26.4,
+            "2": 29.1
+        },
+        "odds": {
+            "1": 2.24,
+            "X": 3.79,
+            "2": 3.44
+        }
+    },
+    {
+        "date": "2026-12-12 00:00:00",
+        "home_team": "Cagliari",
+        "away_team": "Venezia",
+        "lambda_home": 1.43,
+        "lambda_away": 0.89,
+        "probabilities": {
+            "1": 48.3,
+            "X": 29.7,
+            "2": 22.0
+        },
+        "odds": {
+            "1": 2.07,
+            "X": 3.37,
+            "2": 4.55
+        }
+    },
+    {
+        "date": "2026-12-12 00:00:00",
+        "home_team": "Como",
+        "away_team": "Bologna",
+        "lambda_home": 1.61,
+        "lambda_away": 1.01,
+        "probabilities": {
+            "1": 50.1,
+            "X": 27.5,
+            "2": 22.4
+        },
+        "odds": {
+            "1": 2.0,
+            "X": 3.64,
+            "2": 4.47
+        }
+    },
+    {
+        "date": "2026-12-12 00:00:00",
+        "home_team": "Lecce",
+        "away_team": "Sassuolo",
+        "lambda_home": 1.1,
+        "lambda_away": 1.29,
+        "probabilities": {
+            "1": 30.1,
+            "X": 30.5,
+            "2": 39.5
+        },
+        "odds": {
+            "1": 3.33,
+            "X": 3.28,
+            "2": 2.53
+        }
+    },
+    {
+        "date": "2026-12-13 00:00:00",
+        "home_team": "Inter",
+        "away_team": "Torino",
+        "lambda_home": 2.51,
+        "lambda_away": 0.72,
+        "probabilities": {
+            "1": 75.2,
+            "X": 16.9,
+            "2": 7.9
+        },
+        "odds": {
+            "1": 1.33,
+            "X": 5.92,
+            "2": 12.68
+        }
+    },
+    {
+        "date": "2026-12-13 00:00:00",
+        "home_team": "Lazio",
+        "away_team": "Roma",
+        "lambda_home": 1.32,
+        "lambda_away": 1.24,
+        "probabilities": {
+            "1": 37.4,
+            "X": 29.4,
+            "2": 33.2
+        },
+        "odds": {
+            "1": 2.68,
+            "X": 3.4,
+            "2": 3.01
+        }
+    },
+    {
+        "date": "2026-12-13 00:00:00",
+        "home_team": "Napoli",
+        "away_team": "Milan",
+        "lambda_home": 1.63,
+        "lambda_away": 1.17,
+        "probabilities": {
+            "1": 46.8,
+            "X": 27.1,
+            "2": 26.1
+        },
+        "odds": {
+            "1": 2.14,
+            "X": 3.69,
+            "2": 3.83
+        }
+    },
+    {
+        "date": "2026-12-13 00:00:00",
+        "home_team": "Parma",
+        "away_team": "Fiorentina",
+        "lambda_home": 1.04,
+        "lambda_away": 1.59,
+        "probabilities": {
+            "1": 23.6,
+            "X": 27.7,
+            "2": 48.7
+        },
+        "odds": {
+            "1": 4.23,
+            "X": 3.61,
+            "2": 2.06
+        }
+    },
+    {
+        "date": "2026-12-14 00:00:00",
+        "home_team": "Atalanta",
+        "away_team": "Genoa",
+        "lambda_home": 2.13,
+        "lambda_away": 0.88,
+        "probabilities": {
+            "1": 65.0,
+            "X": 21.7,
+            "2": 13.4
+        },
+        "odds": {
+            "1": 1.54,
+            "X": 4.62,
+            "2": 7.47
+        }
+    },
+    {
+        "date": "2026-12-14 00:00:00",
+        "home_team": "Juventus",
+        "away_team": "Monza",
+        "lambda_home": 2.1,
+        "lambda_away": 0.68,
+        "probabilities": {
+            "1": 69.4,
+            "X": 20.8,
+            "2": 9.8
+        },
+        "odds": {
+            "1": 1.44,
+            "X": 4.81,
+            "2": 10.17
+        }
+    },
+    {
+        "date": "2026-12-18 00:00:00",
+        "home_team": "Frosinone",
+        "away_team": "Lazio",
+        "lambda_home": 1.23,
+        "lambda_away": 1.82,
+        "probabilities": {
+            "1": 24.7,
+            "X": 25.4,
+            "2": 49.9
+        },
+        "odds": {
+            "1": 4.05,
+            "X": 3.94,
+            "2": 2.0
+        }
+    },
+    {
+        "date": "2026-12-18 00:00:00",
+        "home_team": "Lecce",
+        "away_team": "Inter",
+        "lambda_home": 0.7,
+        "lambda_away": 2.16,
+        "probabilities": {
+            "1": 9.8,
+            "X": 20.3,
+            "2": 69.9
+        },
+        "odds": {
+            "1": 10.19,
+            "X": 4.93,
+            "2": 1.43
+        }
+    },
+    {
+        "date": "2026-12-19 00:00:00",
+        "home_team": "Milan",
+        "away_team": "Como",
+        "lambda_home": 1.53,
+        "lambda_away": 1.18,
+        "probabilities": {
+            "1": 44.2,
+            "X": 28.0,
+            "2": 27.9
+        },
+        "odds": {
+            "1": 2.26,
+            "X": 3.58,
+            "2": 3.59
+        }
+    },
+    {
+        "date": "2026-12-19 00:00:00",
+        "home_team": "Roma",
+        "away_team": "Juventus",
+        "lambda_home": 1.22,
+        "lambda_away": 1.21,
+        "probabilities": {
+            "1": 35.0,
+            "X": 30.3,
+            "2": 34.7
+        },
+        "odds": {
+            "1": 2.86,
+            "X": 3.3,
+            "2": 2.88
+        }
+    },
+    {
+        "date": "2026-12-19 00:00:00",
+        "home_team": "Sassuolo",
+        "away_team": "Parma",
+        "lambda_home": 1.85,
+        "lambda_away": 1.08,
+        "probabilities": {
+            "1": 54.1,
+            "X": 25.1,
+            "2": 20.7
+        },
+        "odds": {
+            "1": 1.85,
+            "X": 3.98,
+            "2": 4.82
+        }
+    },
+    {
+        "date": "2026-12-20 00:00:00",
+        "home_team": "Atalanta",
+        "away_team": "Napoli",
+        "lambda_home": 1.52,
+        "lambda_away": 1.4,
+        "probabilities": {
+            "1": 38.9,
+            "X": 27.2,
+            "2": 33.9
+        },
+        "odds": {
+            "1": 2.57,
+            "X": 3.67,
+            "2": 2.95
+        }
+    },
+    {
+        "date": "2026-12-20 00:00:00",
+        "home_team": "Fiorentina",
+        "away_team": "Bologna",
+        "lambda_home": 1.45,
+        "lambda_away": 1.26,
+        "probabilities": {
+            "1": 40.3,
+            "X": 28.4,
+            "2": 31.4
+        },
+        "odds": {
+            "1": 2.48,
+            "X": 3.53,
+            "2": 3.19
+        }
+    },
+    {
+        "date": "2026-12-20 00:00:00",
+        "home_team": "Genoa",
+        "away_team": "Udinese",
+        "lambda_home": 1.32,
+        "lambda_away": 1.06,
+        "probabilities": {
+            "1": 41.1,
+            "X": 30.4,
+            "2": 28.5
+        },
+        "odds": {
+            "1": 2.44,
+            "X": 3.29,
+            "2": 3.51
+        }
+    },
+    {
+        "date": "2026-12-20 00:00:00",
+        "home_team": "Torino",
+        "away_team": "Cagliari",
+        "lambda_home": 1.46,
+        "lambda_away": 1.0,
+        "probabilities": {
+            "1": 46.2,
+            "X": 29.1,
+            "2": 24.6
+        },
+        "odds": {
+            "1": 2.16,
+            "X": 3.43,
+            "2": 4.06
+        }
+    },
+    {
+        "date": "2026-12-20 00:00:00",
+        "home_team": "Venezia",
+        "away_team": "Monza",
+        "lambda_home": 1.08,
+        "lambda_away": 1.19,
+        "probabilities": {
+            "1": 31.7,
+            "X": 31.5,
+            "2": 36.8
+        },
+        "odds": {
+            "1": 3.15,
+            "X": 3.18,
+            "2": 2.72
+        }
+    },
+    {
+        "date": "2027-01-02 00:00:00",
+        "home_team": "Cagliari",
+        "away_team": "Genoa",
+        "lambda_home": 1.22,
+        "lambda_away": 1.18,
+        "probabilities": {
+            "1": 35.5,
+            "X": 30.6,
+            "2": 33.9
+        },
+        "odds": {
+            "1": 2.81,
+            "X": 3.27,
+            "2": 2.95
+        }
+    },
+    {
+        "date": "2027-01-02 00:00:00",
+        "home_team": "Fiorentina",
+        "away_team": "Lazio",
+        "lambda_home": 1.27,
+        "lambda_away": 1.33,
+        "probabilities": {
+            "1": 34.0,
+            "X": 29.2,
+            "2": 36.8
+        },
+        "odds": {
+            "1": 2.94,
+            "X": 3.43,
+            "2": 2.72
+        }
+    },
+    {
+        "date": "2027-01-02 00:00:00",
+        "home_team": "Monza",
+        "away_team": "Milan",
+        "lambda_home": 0.99,
+        "lambda_away": 1.9,
+        "probabilities": {
+            "1": 18.2,
+            "X": 24.5,
+            "2": 57.3
+        },
+        "odds": {
+            "1": 5.51,
+            "X": 4.08,
+            "2": 1.74
+        }
+    },
+    {
+        "date": "2027-01-02 00:00:00",
+        "home_team": "Roma",
+        "away_team": "Frosinone",
+        "lambda_home": 2.4,
+        "lambda_away": 1.01,
+        "probabilities": {
+            "1": 67.0,
+            "X": 19.6,
+            "2": 13.4
+        },
+        "odds": {
+            "1": 1.49,
+            "X": 5.1,
+            "2": 7.49
+        }
+    },
+    {
+        "date": "2027-01-02 00:00:00",
+        "home_team": "Torino",
+        "away_team": "Venezia",
+        "lambda_home": 1.51,
+        "lambda_away": 0.78,
+        "probabilities": {
+            "1": 53.4,
+            "X": 28.7,
+            "2": 17.9
+        },
+        "odds": {
+            "1": 1.87,
+            "X": 3.49,
+            "2": 5.59
+        }
+    },
+    {
+        "date": "2027-01-03 00:00:00",
+        "home_team": "Bologna",
+        "away_team": "Juventus",
+        "lambda_home": 1.05,
+        "lambda_away": 1.41,
+        "probabilities": {
+            "1": 26.5,
+            "X": 29.5,
+            "2": 44.0
+        },
+        "odds": {
+            "1": 3.77,
+            "X": 3.39,
+            "2": 2.28
+        }
+    },
+    {
+        "date": "2027-01-03 00:00:00",
+        "home_team": "Como",
+        "away_team": "Lecce",
+        "lambda_home": 1.78,
+        "lambda_away": 0.65,
+        "probabilities": {
+            "1": 63.4,
+            "X": 24.6,
+            "2": 11.9
+        },
+        "odds": {
+            "1": 1.58,
+            "X": 4.06,
+            "2": 8.37
+        }
+    },
+    {
+        "date": "2027-01-03 00:00:00",
+        "home_team": "Inter",
+        "away_team": "Sassuolo",
+        "lambda_home": 3.02,
+        "lambda_away": 0.84,
+        "probabilities": {
+            "1": 79.5,
+            "X": 13.6,
+            "2": 6.9
+        },
+        "odds": {
+            "1": 1.26,
+            "X": 7.34,
+            "2": 14.46
+        }
+    },
+    {
+        "date": "2027-01-03 00:00:00",
+        "home_team": "Parma",
+        "away_team": "Napoli",
+        "lambda_home": 0.77,
+        "lambda_away": 2.04,
+        "probabilities": {
+            "1": 12.1,
+            "X": 22.1,
+            "2": 65.8
+        },
+        "odds": {
+            "1": 8.28,
+            "X": 4.53,
+            "2": 1.52
+        }
+    },
+    {
+        "date": "2027-01-03 00:00:00",
+        "home_team": "Udinese",
+        "away_team": "Atalanta",
+        "lambda_home": 1.07,
+        "lambda_away": 1.87,
+        "probabilities": {
+            "1": 20.4,
+            "X": 24.9,
+            "2": 54.7
+        },
+        "odds": {
+            "1": 4.91,
+            "X": 4.01,
+            "2": 1.83
+        }
+    },
+    {
+        "date": "2027-01-05 00:00:00",
+        "home_team": "Genoa",
+        "away_team": "Monza",
+        "lambda_home": 1.44,
+        "lambda_away": 1.01,
+        "probabilities": {
+            "1": 45.7,
+            "X": 29.3,
+            "2": 25.0
+        },
+        "odds": {
+            "1": 2.19,
+            "X": 3.41,
+            "2": 4.0
+        }
+    },
+    {
+        "date": "2027-01-05 00:00:00",
+        "home_team": "Milan",
+        "away_team": "Fiorentina",
+        "lambda_home": 1.91,
+        "lambda_away": 1.06,
+        "probabilities": {
+            "1": 55.9,
+            "X": 24.5,
+            "2": 19.6
+        },
+        "odds": {
+            "1": 1.79,
+            "X": 4.08,
+            "2": 5.11
+        }
+    },
+    {
+        "date": "2027-01-05 00:00:00",
+        "home_team": "Venezia",
+        "away_team": "Roma",
+        "lambda_home": 0.75,
+        "lambda_away": 1.78,
+        "probabilities": {
+            "1": 14.2,
+            "X": 25.1,
+            "2": 60.7
+        },
+        "odds": {
+            "1": 7.04,
+            "X": 3.98,
+            "2": 1.65
+        }
+    },
+    {
+        "date": "2027-01-06 00:00:00",
+        "home_team": "Atalanta",
+        "away_team": "Como",
+        "lambda_home": 1.65,
+        "lambda_away": 1.21,
+        "probabilities": {
+            "1": 46.3,
+            "X": 26.8,
+            "2": 26.9
+        },
+        "odds": {
+            "1": 2.16,
+            "X": 3.73,
+            "2": 3.72
+        }
+    },
+    {
+        "date": "2027-01-06 00:00:00",
+        "home_team": "Frosinone",
+        "away_team": "Bologna",
+        "lambda_home": 1.41,
+        "lambda_away": 1.72,
+        "probabilities": {
+            "1": 30.4,
+            "X": 25.9,
+            "2": 43.7
+        },
+        "odds": {
+            "1": 3.29,
+            "X": 3.87,
+            "2": 2.29
+        }
+    },
+    {
+        "date": "2027-01-06 00:00:00",
+        "home_team": "Juventus",
+        "away_team": "Torino",
+        "lambda_home": 1.81,
+        "lambda_away": 0.72,
+        "probabilities": {
+            "1": 62.2,
+            "X": 24.7,
+            "2": 13.2
+        },
+        "odds": {
+            "1": 1.61,
+            "X": 4.06,
+            "2": 7.58
+        }
+    },
+    {
+        "date": "2027-01-06 00:00:00",
+        "home_team": "Lazio",
+        "away_team": "Inter",
+        "lambda_home": 1.11,
+        "lambda_away": 1.72,
+        "probabilities": {
+            "1": 23.3,
+            "X": 26.4,
+            "2": 50.3
+        },
+        "odds": {
+            "1": 4.29,
+            "X": 3.79,
+            "2": 1.99
+        }
+    },
+    {
+        "date": "2027-01-06 00:00:00",
+        "home_team": "Lecce",
+        "away_team": "Parma",
+        "lambda_home": 1.12,
+        "lambda_away": 0.93,
+        "probabilities": {
+            "1": 38.6,
+            "X": 33.1,
+            "2": 28.3
+        },
+        "odds": {
+            "1": 2.59,
+            "X": 3.02,
+            "2": 3.54
+        }
+    },
+    {
+        "date": "2027-01-07 00:00:00",
+        "home_team": "Napoli",
+        "away_team": "Cagliari",
+        "lambda_home": 2.27,
+        "lambda_away": 0.72,
+        "probabilities": {
+            "1": 71.3,
+            "X": 19.3,
+            "2": 9.4
+        },
+        "odds": {
+            "1": 1.4,
+            "X": 5.19,
+            "2": 10.62
+        }
+    },
+    {
+        "date": "2027-01-07 00:00:00",
+        "home_team": "Sassuolo",
+        "away_team": "Udinese",
+        "lambda_home": 1.58,
+        "lambda_away": 1.26,
+        "probabilities": {
+            "1": 43.5,
+            "X": 27.3,
+            "2": 29.2
+        },
+        "odds": {
+            "1": 2.3,
+            "X": 3.67,
+            "2": 3.43
+        }
+    },
+    {
+        "date": "2027-01-09 00:00:00",
+        "home_team": "Bologna",
+        "away_team": "Genoa",
+        "lambda_home": 1.56,
+        "lambda_away": 0.97,
+        "probabilities": {
+            "1": 49.7,
+            "X": 28.1,
+            "2": 22.2
+        },
+        "odds": {
+            "1": 2.01,
+            "X": 3.56,
+            "2": 4.51
+        }
+    },
+    {
+        "date": "2027-01-09 00:00:00",
+        "home_team": "Monza",
+        "away_team": "Frosinone",
+        "lambda_home": 1.6,
+        "lambda_away": 1.45,
+        "probabilities": {
+            "1": 40.1,
+            "X": 26.5,
+            "2": 33.5
+        },
+        "odds": {
+            "1": 2.5,
+            "X": 3.78,
+            "2": 2.99
+        }
+    },
+    {
+        "date": "2027-01-09 00:00:00",
+        "home_team": "Roma",
+        "away_team": "Milan",
+        "lambda_home": 1.49,
+        "lambda_away": 1.32,
+        "probabilities": {
+            "1": 39.9,
+            "X": 27.8,
+            "2": 32.3
+        },
+        "odds": {
+            "1": 2.51,
+            "X": 3.6,
+            "2": 3.1
+        }
+    },
+    {
+        "date": "2027-01-10 00:00:00",
+        "home_team": "Como",
+        "away_team": "Lazio",
+        "lambda_home": 1.41,
+        "lambda_away": 1.07,
+        "probabilities": {
+            "1": 43.5,
+            "X": 29.4,
+            "2": 27.1
+        },
+        "odds": {
+            "1": 2.3,
+            "X": 3.4,
+            "2": 3.69
+        }
+    },
+    {
+        "date": "2027-01-10 00:00:00",
+        "home_team": "Fiorentina",
+        "away_team": "Lecce",
+        "lambda_home": 1.6,
+        "lambda_away": 0.74,
+        "probabilities": {
+            "1": 56.7,
+            "X": 27.4,
+            "2": 15.8
+        },
+        "odds": {
+            "1": 1.76,
+            "X": 3.65,
+            "2": 6.31
+        }
+    },
+    {
+        "date": "2027-01-10 00:00:00",
+        "home_team": "Inter",
+        "away_team": "Juventus",
+        "lambda_home": 1.69,
+        "lambda_away": 1.02,
+        "probabilities": {
+            "1": 51.9,
+            "X": 26.7,
+            "2": 21.4
+        },
+        "odds": {
+            "1": 1.93,
+            "X": 3.75,
+            "2": 4.67
+        }
+    },
+    {
+        "date": "2027-01-10 00:00:00",
+        "home_team": "Parma",
+        "away_team": "Venezia",
+        "lambda_home": 1.27,
+        "lambda_away": 0.96,
+        "probabilities": {
+            "1": 42.1,
+            "X": 31.3,
+            "2": 26.6
+        },
+        "odds": {
+            "1": 2.38,
+            "X": 3.19,
+            "2": 3.76
+        }
+    },
+    {
+        "date": "2027-01-10 00:00:00",
+        "home_team": "Torino",
+        "away_team": "Atalanta",
+        "lambda_home": 1.08,
+        "lambda_away": 1.76,
+        "probabilities": {
+            "1": 22.1,
+            "X": 26.0,
+            "2": 51.9
+        },
+        "odds": {
+            "1": 4.52,
+            "X": 3.85,
+            "2": 1.93
+        }
+    },
+    {
+        "date": "2027-01-11 00:00:00",
+        "home_team": "Cagliari",
+        "away_team": "Sassuolo",
+        "lambda_home": 1.45,
+        "lambda_away": 1.42,
+        "probabilities": {
+            "1": 36.9,
+            "X": 27.5,
+            "2": 35.6
+        },
+        "odds": {
+            "1": 2.71,
+            "X": 3.64,
+            "2": 2.81
+        }
+    },
+    {
+        "date": "2027-01-11 00:00:00",
+        "home_team": "Udinese",
+        "away_team": "Napoli",
+        "lambda_home": 0.9,
+        "lambda_away": 1.75,
+        "probabilities": {
+            "1": 18.0,
+            "X": 25.9,
+            "2": 56.1
+        },
+        "odds": {
+            "1": 5.55,
+            "X": 3.86,
+            "2": 1.78
+        }
+    },
+    {
+        "date": "2027-01-17 00:00:00",
+        "home_team": "Atalanta",
+        "away_team": "Roma",
+        "lambda_home": 1.71,
+        "lambda_away": 1.28,
+        "probabilities": {
+            "1": 46.2,
+            "X": 26.3,
+            "2": 27.5
+        },
+        "odds": {
+            "1": 2.16,
+            "X": 3.81,
+            "2": 3.64
+        }
+    },
+    {
+        "date": "2027-01-17 00:00:00",
+        "home_team": "Cagliari",
+        "away_team": "Como",
+        "lambda_home": 0.94,
+        "lambda_away": 1.64,
+        "probabilities": {
+            "1": 20.4,
+            "X": 27.3,
+            "2": 52.3
+        },
+        "odds": {
+            "1": 4.89,
+            "X": 3.67,
+            "2": 1.91
+        }
+    },
+    {
+        "date": "2027-01-17 00:00:00",
+        "home_team": "Juventus",
+        "away_team": "Genoa",
+        "lambda_home": 1.82,
+        "lambda_away": 0.7,
+        "probabilities": {
+            "1": 63.0,
+            "X": 24.4,
+            "2": 12.6
+        },
+        "odds": {
+            "1": 1.59,
+            "X": 4.11,
+            "2": 7.93
+        }
+    },
+    {
+        "date": "2027-01-17 00:00:00",
+        "home_team": "Lazio",
+        "away_team": "Bologna",
+        "lambda_home": 1.54,
+        "lambda_away": 1.06,
+        "probabilities": {
+            "1": 47.0,
+            "X": 28.2,
+            "2": 24.8
+        },
+        "odds": {
+            "1": 2.13,
+            "X": 3.55,
+            "2": 4.03
+        }
+    },
+    {
+        "date": "2027-01-17 00:00:00",
+        "home_team": "Lecce",
+        "away_team": "Udinese",
+        "lambda_home": 0.96,
+        "lambda_away": 1.09,
+        "probabilities": {
+            "1": 30.2,
+            "X": 33.3,
+            "2": 36.5
+        },
+        "odds": {
+            "1": 3.31,
+            "X": 3.0,
+            "2": 2.74
+        }
+    },
+    {
+        "date": "2027-01-17 00:00:00",
+        "home_team": "Milan",
+        "away_team": "Torino",
+        "lambda_home": 1.96,
+        "lambda_away": 0.87,
+        "probabilities": {
+            "1": 61.5,
+            "X": 23.5,
+            "2": 15.0
+        },
+        "odds": {
+            "1": 1.63,
+            "X": 4.26,
+            "2": 6.67
+        }
+    },
+    {
+        "date": "2027-01-17 00:00:00",
+        "home_team": "Napoli",
+        "away_team": "Fiorentina",
+        "lambda_home": 1.93,
+        "lambda_away": 0.92,
+        "probabilities": {
+            "1": 59.7,
+            "X": 24.0,
+            "2": 16.3
+        },
+        "odds": {
+            "1": 1.68,
+            "X": 4.17,
+            "2": 6.12
+        }
+    },
+    {
+        "date": "2027-01-17 00:00:00",
+        "home_team": "Parma",
+        "away_team": "Inter",
+        "lambda_home": 0.72,
+        "lambda_away": 2.58,
+        "probabilities": {
+            "1": 7.6,
+            "X": 16.3,
+            "2": 76.2
+        },
+        "odds": {
+            "1": 13.21,
+            "X": 6.15,
+            "2": 1.31
+        }
+    },
+    {
+        "date": "2027-01-17 00:00:00",
+        "home_team": "Sassuolo",
+        "away_team": "Monza",
+        "lambda_home": 1.74,
+        "lambda_away": 1.21,
+        "probabilities": {
+            "1": 48.6,
+            "X": 26.1,
+            "2": 25.3
+        },
+        "odds": {
+            "1": 2.06,
+            "X": 3.83,
+            "2": 3.95
+        }
+    },
+    {
+        "date": "2027-01-17 00:00:00",
+        "home_team": "Venezia",
+        "away_team": "Frosinone",
+        "lambda_home": 1.24,
+        "lambda_away": 1.48,
+        "probabilities": {
+            "1": 30.5,
+            "X": 28.2,
+            "2": 41.3
+        },
+        "odds": {
+            "1": 3.28,
+            "X": 3.54,
+            "2": 2.42
+        }
+    },
+    {
+        "date": "2027-01-24 00:00:00",
+        "home_team": "Bologna",
+        "away_team": "Atalanta",
+        "lambda_home": 1.32,
+        "lambda_away": 1.65,
+        "probabilities": {
+            "1": 29.3,
+            "X": 26.6,
+            "2": 44.1
+        },
+        "odds": {
+            "1": 3.41,
+            "X": 3.76,
+            "2": 2.27
+        }
+    },
+    {
+        "date": "2027-01-24 00:00:00",
+        "home_team": "Como",
+        "away_team": "Napoli",
+        "lambda_home": 1.23,
+        "lambda_away": 1.29,
+        "probabilities": {
+            "1": 33.8,
+            "X": 29.7,
+            "2": 36.6
+        },
+        "odds": {
+            "1": 2.96,
+            "X": 3.37,
+            "2": 2.73
+        }
+    },
+    {
+        "date": "2027-01-24 00:00:00",
+        "home_team": "Fiorentina",
+        "away_team": "Sassuolo",
+        "lambda_home": 1.86,
+        "lambda_away": 1.21,
+        "probabilities": {
+            "1": 51.3,
+            "X": 25.0,
+            "2": 23.7
+        },
+        "odds": {
+            "1": 1.95,
+            "X": 3.99,
+            "2": 4.22
+        }
+    },
+    {
+        "date": "2027-01-24 00:00:00",
+        "home_team": "Frosinone",
+        "away_team": "Milan",
+        "lambda_home": 1.23,
+        "lambda_away": 2.17,
+        "probabilities": {
+            "1": 20.0,
+            "X": 22.4,
+            "2": 57.6
+        },
+        "odds": {
+            "1": 4.99,
+            "X": 4.47,
+            "2": 1.74
+        }
+    },
+    {
+        "date": "2027-01-24 00:00:00",
+        "home_team": "Genoa",
+        "away_team": "Parma",
+        "lambda_home": 1.53,
+        "lambda_away": 0.9,
+        "probabilities": {
+            "1": 50.8,
+            "X": 28.4,
+            "2": 20.8
+        },
+        "odds": {
+            "1": 1.97,
+            "X": 3.52,
+            "2": 4.81
+        }
+    },
+    {
+        "date": "2027-01-24 00:00:00",
+        "home_team": "Inter",
+        "away_team": "Venezia",
+        "lambda_home": 2.97,
+        "lambda_away": 0.65,
+        "probabilities": {
+            "1": 82.6,
+            "X": 12.5,
+            "2": 4.9
+        },
+        "odds": {
+            "1": 1.21,
+            "X": 8.02,
+            "2": 20.0
+        }
+    },
+    {
+        "date": "2027-01-24 00:00:00",
+        "home_team": "Juventus",
+        "away_team": "Cagliari",
+        "lambda_home": 2.07,
+        "lambda_away": 0.68,
+        "probabilities": {
+            "1": 68.6,
+            "X": 21.2,
+            "2": 10.1
+        },
+        "odds": {
+            "1": 1.46,
+            "X": 4.71,
+            "2": 9.87
+        }
+    },
+    {
+        "date": "2027-01-24 00:00:00",
+        "home_team": "Lecce",
+        "away_team": "Torino",
+        "lambda_home": 0.91,
+        "lambda_away": 1.1,
+        "probabilities": {
+            "1": 28.2,
+            "X": 33.5,
+            "2": 38.2
+        },
+        "odds": {
+            "1": 3.54,
+            "X": 2.98,
+            "2": 2.61
+        }
+    },
+    {
+        "date": "2027-01-24 00:00:00",
+        "home_team": "Monza",
+        "away_team": "Lazio",
+        "lambda_home": 0.99,
+        "lambda_away": 1.59,
+        "probabilities": {
+            "1": 22.2,
+            "X": 27.8,
+            "2": 50.0
+        },
+        "odds": {
+            "1": 4.5,
+            "X": 3.6,
+            "2": 2.0
+        }
+    },
+    {
+        "date": "2027-01-24 00:00:00",
+        "home_team": "Roma",
+        "away_team": "Udinese",
+        "lambda_home": 1.91,
+        "lambda_away": 0.85,
+        "probabilities": {
+            "1": 61.2,
+            "X": 23.9,
+            "2": 14.9
+        },
+        "odds": {
+            "1": 1.63,
+            "X": 4.19,
+            "2": 6.72
+        }
+    },
+    {
+        "date": "2027-01-31 00:00:00",
+        "home_team": "Atalanta",
+        "away_team": "Fiorentina",
+        "lambda_home": 2.06,
+        "lambda_away": 1.09,
+        "probabilities": {
+            "1": 58.4,
+            "X": 23.1,
+            "2": 18.5
+        },
+        "odds": {
+            "1": 1.71,
+            "X": 4.32,
+            "2": 5.4
+        }
+    },
+    {
+        "date": "2027-01-31 00:00:00",
+        "home_team": "Cagliari",
+        "away_team": "Parma",
+        "lambda_home": 1.49,
+        "lambda_away": 1.02,
+        "probabilities": {
+            "1": 46.6,
+            "X": 28.8,
+            "2": 24.6
+        },
+        "odds": {
+            "1": 2.14,
+            "X": 3.48,
+            "2": 4.07
+        }
+    },
+    {
+        "date": "2027-01-31 00:00:00",
+        "home_team": "Genoa",
+        "away_team": "Lecce",
+        "lambda_home": 1.29,
+        "lambda_away": 0.76,
+        "probabilities": {
+            "1": 47.5,
+            "X": 31.8,
+            "2": 20.8
+        },
+        "odds": {
+            "1": 2.11,
+            "X": 3.15,
+            "2": 4.82
+        }
+    },
+    {
+        "date": "2027-01-31 00:00:00",
+        "home_team": "Lazio",
+        "away_team": "Venezia",
+        "lambda_home": 1.95,
+        "lambda_away": 0.65,
+        "probabilities": {
+            "1": 67.0,
+            "X": 22.5,
+            "2": 10.5
+        },
+        "odds": {
+            "1": 1.49,
+            "X": 4.44,
+            "2": 9.49
+        }
+    },
+    {
+        "date": "2027-01-31 00:00:00",
+        "home_team": "Milan",
+        "away_team": "Juventus",
+        "lambda_home": 1.32,
+        "lambda_away": 1.24,
+        "probabilities": {
+            "1": 37.3,
+            "X": 29.4,
+            "2": 33.3
+        },
+        "odds": {
+            "1": 2.68,
+            "X": 3.4,
+            "2": 3.01
+        }
+    },
+    {
+        "date": "2027-01-31 00:00:00",
+        "home_team": "Monza",
+        "away_team": "Roma",
+        "lambda_home": 0.97,
+        "lambda_away": 1.75,
+        "probabilities": {
+            "1": 19.6,
+            "X": 26.0,
+            "2": 54.4
+        },
+        "odds": {
+            "1": 5.1,
+            "X": 3.84,
+            "2": 1.84
+        }
+    },
+    {
+        "date": "2027-01-31 00:00:00",
+        "home_team": "Napoli",
+        "away_team": "Inter",
+        "lambda_home": 1.34,
+        "lambda_away": 1.5,
+        "probabilities": {
+            "1": 32.7,
+            "X": 27.6,
+            "2": 39.7
+        },
+        "odds": {
+            "1": 3.06,
+            "X": 3.62,
+            "2": 2.52
+        }
+    },
+    {
+        "date": "2027-01-31 00:00:00",
+        "home_team": "Sassuolo",
+        "away_team": "Como",
+        "lambda_home": 1.17,
+        "lambda_away": 1.72,
+        "probabilities": {
+            "1": 24.7,
+            "X": 26.3,
+            "2": 49.0
+        },
+        "odds": {
+            "1": 4.05,
+            "X": 3.8,
+            "2": 2.04
+        }
+    },
+    {
+        "date": "2027-01-31 00:00:00",
+        "home_team": "Torino",
+        "away_team": "Frosinone",
+        "lambda_home": 1.7,
+        "lambda_away": 1.25,
+        "probabilities": {
+            "1": 46.7,
+            "X": 26.4,
+            "2": 26.9
+        },
+        "odds": {
+            "1": 2.14,
+            "X": 3.79,
+            "2": 3.72
+        }
+    },
+    {
+        "date": "2027-01-31 00:00:00",
+        "home_team": "Udinese",
+        "away_team": "Bologna",
+        "lambda_home": 1.18,
+        "lambda_away": 1.37,
+        "probabilities": {
+            "1": 31.0,
+            "X": 29.4,
+            "2": 39.7
+        },
+        "odds": {
+            "1": 3.23,
+            "X": 3.41,
+            "2": 2.52
+        }
+    },
+    {
+        "date": "2027-02-07 00:00:00",
+        "home_team": "Atalanta",
+        "away_team": "Lazio",
+        "lambda_home": 1.74,
+        "lambda_away": 1.16,
+        "probabilities": {
+            "1": 49.6,
+            "X": 26.2,
+            "2": 24.2
+        },
+        "odds": {
+            "1": 2.02,
+            "X": 3.82,
+            "2": 4.13
+        }
+    },
+    {
+        "date": "2027-02-07 00:00:00",
+        "home_team": "Bologna",
+        "away_team": "Milan",
+        "lambda_home": 1.27,
+        "lambda_away": 1.53,
+        "probabilities": {
+            "1": 30.4,
+            "X": 27.6,
+            "2": 42.0
+        },
+        "odds": {
+            "1": 3.29,
+            "X": 3.62,
+            "2": 2.38
+        }
+    },
+    {
+        "date": "2027-02-07 00:00:00",
+        "home_team": "Como",
+        "away_team": "Monza",
+        "lambda_home": 2.0,
+        "lambda_away": 0.78,
+        "probabilities": {
+            "1": 64.6,
+            "X": 22.6,
+            "2": 12.7
+        },
+        "odds": {
+            "1": 1.55,
+            "X": 4.42,
+            "2": 7.85
+        }
+    },
+    {
+        "date": "2027-02-07 00:00:00",
+        "home_team": "Fiorentina",
+        "away_team": "Udinese",
+        "lambda_home": 1.64,
+        "lambda_away": 1.02,
+        "probabilities": {
+            "1": 50.4,
+            "X": 27.3,
+            "2": 22.3
+        },
+        "odds": {
+            "1": 1.98,
+            "X": 3.67,
+            "2": 4.48
+        }
+    },
+    {
+        "date": "2027-02-07 00:00:00",
+        "home_team": "Inter",
+        "away_team": "Cagliari",
+        "lambda_home": 2.87,
+        "lambda_away": 0.68,
+        "probabilities": {
+            "1": 80.9,
+            "X": 13.5,
+            "2": 5.6
+        },
+        "odds": {
+            "1": 1.24,
+            "X": 7.41,
+            "2": 17.82
+        }
+    },
+    {
+        "date": "2027-02-07 00:00:00",
+        "home_team": "Juventus",
+        "away_team": "Sassuolo",
+        "lambda_home": 2.18,
+        "lambda_away": 0.84,
+        "probabilities": {
+            "1": 66.7,
+            "X": 21.0,
+            "2": 12.3
+        },
+        "odds": {
+            "1": 1.5,
+            "X": 4.76,
+            "2": 8.13
+        }
+    },
+    {
+        "date": "2027-02-07 00:00:00",
+        "home_team": "Lecce",
+        "away_team": "Napoli",
+        "lambda_home": 0.7,
+        "lambda_away": 1.71,
+        "probabilities": {
+            "1": 13.8,
+            "X": 25.8,
+            "2": 60.4
+        },
+        "odds": {
+            "1": 7.27,
+            "X": 3.87,
+            "2": 1.65
+        }
+    },
+    {
+        "date": "2027-02-07 00:00:00",
+        "home_team": "Parma",
+        "away_team": "Frosinone",
+        "lambda_home": 1.43,
+        "lambda_away": 1.54,
+        "probabilities": {
+            "1": 34.1,
+            "X": 26.9,
+            "2": 39.0
+        },
+        "odds": {
+            "1": 2.94,
+            "X": 3.71,
+            "2": 2.56
+        }
+    },
+    {
+        "date": "2027-02-07 00:00:00",
+        "home_team": "Roma",
+        "away_team": "Torino",
+        "lambda_home": 1.81,
+        "lambda_away": 0.86,
+        "probabilities": {
+            "1": 58.5,
+            "X": 25.2,
+            "2": 16.3
+        },
+        "odds": {
+            "1": 1.71,
+            "X": 3.97,
+            "2": 6.13
+        }
+    },
+    {
+        "date": "2027-02-07 00:00:00",
+        "home_team": "Venezia",
+        "away_team": "Genoa",
+        "lambda_home": 0.94,
+        "lambda_away": 1.22,
+        "probabilities": {
+            "1": 26.8,
+            "X": 31.9,
+            "2": 41.2
+        },
+        "odds": {
+            "1": 3.72,
+            "X": 3.13,
+            "2": 2.43
+        }
+    },
+    {
+        "date": "2027-02-14 00:00:00",
+        "home_team": "Bologna",
+        "away_team": "Como",
+        "lambda_home": 1.21,
+        "lambda_away": 1.34,
+        "probabilities": {
+            "1": 32.2,
+            "X": 29.4,
+            "2": 38.4
+        },
+        "odds": {
+            "1": 3.1,
+            "X": 3.4,
+            "2": 2.6
+        }
+    },
+    {
+        "date": "2027-02-14 00:00:00",
+        "home_team": "Cagliari",
+        "away_team": "Lazio",
+        "lambda_home": 0.99,
+        "lambda_away": 1.56,
+        "probabilities": {
+            "1": 22.7,
+            "X": 28.1,
+            "2": 49.2
+        },
+        "odds": {
+            "1": 4.4,
+            "X": 3.56,
+            "2": 2.03
+        }
+    },
+    {
+        "date": "2027-02-14 00:00:00",
+        "home_team": "Frosinone",
+        "away_team": "Fiorentina",
+        "lambda_home": 1.46,
+        "lambda_away": 1.71,
+        "probabilities": {
+            "1": 31.7,
+            "X": 25.7,
+            "2": 42.6
+        },
+        "odds": {
+            "1": 3.15,
+            "X": 3.88,
+            "2": 2.35
+        }
+    },
+    {
+        "date": "2027-02-14 00:00:00",
+        "home_team": "Genoa",
+        "away_team": "Atalanta",
+        "lambda_home": 1.05,
+        "lambda_away": 1.77,
+        "probabilities": {
+            "1": 21.2,
+            "X": 25.8,
+            "2": 53.0
+        },
+        "odds": {
+            "1": 4.71,
+            "X": 3.87,
+            "2": 1.89
+        }
+    },
+    {
+        "date": "2027-02-14 00:00:00",
+        "home_team": "Inter",
+        "away_team": "Milan",
+        "lambda_home": 2.06,
+        "lambda_away": 1.1,
+        "probabilities": {
+            "1": 58.2,
+            "X": 23.1,
+            "2": 18.7
+        },
+        "odds": {
+            "1": 1.72,
+            "X": 4.33,
+            "2": 5.35
+        }
+    },
+    {
+        "date": "2027-02-14 00:00:00",
+        "home_team": "Monza",
+        "away_team": "Lecce",
+        "lambda_home": 1.25,
+        "lambda_away": 0.88,
+        "probabilities": {
+            "1": 43.3,
+            "X": 32.0,
+            "2": 24.8
+        },
+        "odds": {
+            "1": 2.31,
+            "X": 3.13,
+            "2": 4.04
+        }
+    },
+    {
+        "date": "2027-02-14 00:00:00",
+        "home_team": "Napoli",
+        "away_team": "Juventus",
+        "lambda_home": 1.34,
+        "lambda_away": 1.08,
+        "probabilities": {
+            "1": 41.2,
+            "X": 30.1,
+            "2": 28.7
+        },
+        "odds": {
+            "1": 2.43,
+            "X": 3.32,
+            "2": 3.49
+        }
+    },
+    {
+        "date": "2027-02-14 00:00:00",
+        "home_team": "Roma",
+        "away_team": "Parma",
+        "lambda_home": 2.23,
+        "lambda_away": 0.72,
+        "probabilities": {
+            "1": 70.7,
+            "X": 19.7,
+            "2": 9.7
+        },
+        "odds": {
+            "1": 1.42,
+            "X": 5.09,
+            "2": 10.33
+        }
+    },
+    {
+        "date": "2027-02-14 00:00:00",
+        "home_team": "Torino",
+        "away_team": "Sassuolo",
+        "lambda_home": 1.54,
+        "lambda_away": 1.24,
+        "probabilities": {
+            "1": 42.8,
+            "X": 27.7,
+            "2": 29.5
+        },
+        "odds": {
+            "1": 2.34,
+            "X": 3.61,
+            "2": 3.39
+        }
+    },
+    {
+        "date": "2027-02-14 00:00:00",
+        "home_team": "Udinese",
+        "away_team": "Venezia",
+        "lambda_home": 1.49,
+        "lambda_away": 0.82,
+        "probabilities": {
+            "1": 51.7,
+            "X": 29.0,
+            "2": 19.4
+        },
+        "odds": {
+            "1": 1.94,
+            "X": 3.45,
+            "2": 5.16
+        }
+    },
+    {
+        "date": "2027-02-21 00:00:00",
+        "home_team": "Atalanta",
+        "away_team": "Monza",
+        "lambda_home": 2.46,
+        "lambda_away": 0.85,
+        "probabilities": {
+            "1": 71.5,
+            "X": 18.3,
+            "2": 10.3
+        },
+        "odds": {
+            "1": 1.4,
+            "X": 5.48,
+            "2": 9.75
+        }
+    },
+    {
+        "date": "2027-02-21 00:00:00",
+        "home_team": "Como",
+        "away_team": "Torino",
+        "lambda_home": 1.72,
+        "lambda_away": 0.83,
+        "probabilities": {
+            "1": 57.1,
+            "X": 26.2,
+            "2": 16.7
+        },
+        "odds": {
+            "1": 1.75,
+            "X": 3.82,
+            "2": 5.98
+        }
+    },
+    {
+        "date": "2027-02-21 00:00:00",
+        "home_team": "Fiorentina",
+        "away_team": "Inter",
+        "lambda_home": 1.04,
+        "lambda_away": 2.03,
+        "probabilities": {
+            "1": 17.8,
+            "X": 23.3,
+            "2": 58.9
+        },
+        "odds": {
+            "1": 5.62,
+            "X": 4.3,
+            "2": 1.7
+        }
+    },
+    {
+        "date": "2027-02-21 00:00:00",
+        "home_team": "Juventus",
+        "away_team": "Bologna",
+        "lambda_home": 1.7,
+        "lambda_away": 0.87,
+        "probabilities": {
+            "1": 55.6,
+            "X": 26.5,
+            "2": 17.9
+        },
+        "odds": {
+            "1": 1.8,
+            "X": 3.77,
+            "2": 5.58
+        }
+    },
+    {
+        "date": "2027-02-21 00:00:00",
+        "home_team": "Lazio",
+        "away_team": "Napoli",
+        "lambda_home": 1.18,
+        "lambda_away": 1.36,
+        "probabilities": {
+            "1": 31.0,
+            "X": 29.5,
+            "2": 39.5
+        },
+        "odds": {
+            "1": 3.23,
+            "X": 3.39,
+            "2": 2.53
+        }
+    },
+    {
+        "date": "2027-02-21 00:00:00",
+        "home_team": "Lecce",
+        "away_team": "Frosinone",
+        "lambda_home": 1.21,
+        "lambda_away": 1.29,
+        "probabilities": {
+            "1": 33.2,
+            "X": 29.8,
+            "2": 37.0
+        },
+        "odds": {
+            "1": 3.01,
+            "X": 3.36,
+            "2": 2.7
+        }
+    },
+    {
+        "date": "2027-02-21 00:00:00",
+        "home_team": "Milan",
+        "away_team": "Genoa",
+        "lambda_home": 1.98,
+        "lambda_away": 0.85,
+        "probabilities": {
+            "1": 62.5,
+            "X": 23.2,
+            "2": 14.3
+        },
+        "odds": {
+            "1": 1.6,
+            "X": 4.31,
+            "2": 6.98
+        }
+    },
+    {
+        "date": "2027-02-21 00:00:00",
+        "home_team": "Sassuolo",
+        "away_team": "Roma",
+        "lambda_home": 1.21,
+        "lambda_away": 1.81,
+        "probabilities": {
+            "1": 24.3,
+            "X": 25.5,
+            "2": 50.2
+        },
+        "odds": {
+            "1": 4.12,
+            "X": 3.93,
+            "2": 1.99
+        }
+    },
+    {
+        "date": "2027-02-21 00:00:00",
+        "home_team": "Udinese",
+        "away_team": "Parma",
+        "lambda_home": 1.56,
+        "lambda_away": 0.95,
+        "probabilities": {
+            "1": 50.2,
+            "X": 28.2,
+            "2": 21.6
+        },
+        "odds": {
+            "1": 1.99,
+            "X": 3.55,
+            "2": 4.62
+        }
+    },
+    {
+        "date": "2027-02-21 00:00:00",
+        "home_team": "Venezia",
+        "away_team": "Cagliari",
+        "lambda_home": 1.07,
+        "lambda_away": 1.19,
+        "probabilities": {
+            "1": 31.1,
+            "X": 31.6,
+            "2": 37.3
+        },
+        "odds": {
+            "1": 3.21,
+            "X": 3.17,
+            "2": 2.68
+        }
+    },
+    {
+        "date": "2027-02-28 00:00:00",
+        "home_team": "Bologna",
+        "away_team": "Lecce",
+        "lambda_home": 1.61,
+        "lambda_away": 0.71,
+        "probabilities": {
+            "1": 57.6,
+            "X": 27.3,
+            "2": 15.2
+        },
+        "odds": {
+            "1": 1.74,
+            "X": 3.67,
+            "2": 6.6
+        }
+    },
+    {
+        "date": "2027-02-28 00:00:00",
+        "home_team": "Cagliari",
+        "away_team": "Udinese",
+        "lambda_home": 1.28,
+        "lambda_away": 1.2,
+        "probabilities": {
+            "1": 36.9,
+            "X": 30.0,
+            "2": 33.1
+        },
+        "odds": {
+            "1": 2.71,
+            "X": 3.34,
+            "2": 3.02
+        }
+    },
+    {
+        "date": "2027-02-28 00:00:00",
+        "home_team": "Como",
+        "away_team": "Milan",
+        "lambda_home": 1.41,
+        "lambda_away": 1.28,
+        "probabilities": {
+            "1": 38.9,
+            "X": 28.5,
+            "2": 32.6
+        },
+        "odds": {
+            "1": 2.57,
+            "X": 3.51,
+            "2": 3.07
+        }
+    },
+    {
+        "date": "2027-02-28 00:00:00",
+        "home_team": "Frosinone",
+        "away_team": "Napoli",
+        "lambda_home": 1.07,
+        "lambda_away": 2.2,
+        "probabilities": {
+            "1": 16.6,
+            "X": 21.8,
+            "2": 61.7
+        },
+        "odds": {
+            "1": 6.03,
+            "X": 4.59,
+            "2": 1.62
+        }
+    },
+    {
+        "date": "2027-02-28 00:00:00",
+        "home_team": "Genoa",
+        "away_team": "Lazio",
+        "lambda_home": 1.02,
+        "lambda_away": 1.38,
+        "probabilities": {
+            "1": 26.4,
+            "X": 30.0,
+            "2": 43.6
+        },
+        "odds": {
+            "1": 3.78,
+            "X": 3.34,
+            "2": 2.29
+        }
+    },
+    {
+        "date": "2027-02-28 00:00:00",
+        "home_team": "Inter",
+        "away_team": "Atalanta",
+        "lambda_home": 2.13,
+        "lambda_away": 1.19,
+        "probabilities": {
+            "1": 57.6,
+            "X": 22.7,
+            "2": 19.7
+        },
+        "odds": {
+            "1": 1.74,
+            "X": 4.41,
+            "2": 5.07
+        }
+    },
+    {
+        "date": "2027-02-28 00:00:00",
+        "home_team": "Monza",
+        "away_team": "Juventus",
+        "lambda_home": 0.81,
+        "lambda_away": 1.75,
+        "probabilities": {
+            "1": 15.9,
+            "X": 25.7,
+            "2": 58.4
+        },
+        "odds": {
+            "1": 6.29,
+            "X": 3.89,
+            "2": 1.71
+        }
+    },
+    {
+        "date": "2027-02-28 00:00:00",
+        "home_team": "Parma",
+        "away_team": "Sassuolo",
+        "lambda_home": 1.29,
+        "lambda_away": 1.54,
+        "probabilities": {
+            "1": 30.7,
+            "X": 27.5,
+            "2": 41.8
+        },
+        "odds": {
+            "1": 3.26,
+            "X": 3.63,
+            "2": 2.39
+        }
+    },
+    {
+        "date": "2027-02-28 00:00:00",
+        "home_team": "Roma",
+        "away_team": "Venezia",
+        "lambda_home": 2.14,
+        "lambda_away": 0.65,
+        "probabilities": {
+            "1": 70.8,
+            "X": 20.2,
+            "2": 9.1
+        },
+        "odds": {
+            "1": 1.41,
+            "X": 4.96,
+            "2": 11.01
+        }
+    },
+    {
+        "date": "2027-02-28 00:00:00",
+        "home_team": "Torino",
+        "away_team": "Fiorentina",
+        "lambda_home": 1.24,
+        "lambda_away": 1.29,
+        "probabilities": {
+            "1": 34.2,
+            "X": 29.7,
+            "2": 36.2
+        },
+        "odds": {
+            "1": 2.93,
+            "X": 3.37,
+            "2": 2.76
+        }
+    },
+    {
+        "date": "2027-03-07 00:00:00",
+        "home_team": "Atalanta",
+        "away_team": "Torino",
+        "lambda_home": 2.11,
+        "lambda_away": 0.9,
+        "probabilities": {
+            "1": 64.0,
+            "X": 22.0,
+            "2": 14.0
+        },
+        "odds": {
+            "1": 1.56,
+            "X": 4.55,
+            "2": 7.12
+        }
+    },
+    {
+        "date": "2027-03-07 00:00:00",
+        "home_team": "Fiorentina",
+        "away_team": "Venezia",
+        "lambda_home": 1.83,
+        "lambda_away": 0.76,
+        "probabilities": {
+            "1": 61.7,
+            "X": 24.5,
+            "2": 13.8
+        },
+        "odds": {
+            "1": 1.62,
+            "X": 4.08,
+            "2": 7.26
+        }
+    },
+    {
+        "date": "2027-03-07 00:00:00",
+        "home_team": "Juventus",
+        "away_team": "Roma",
+        "lambda_home": 1.46,
+        "lambda_away": 1.02,
+        "probabilities": {
+            "1": 45.9,
+            "X": 29.1,
+            "2": 24.9
+        },
+        "odds": {
+            "1": 2.18,
+            "X": 3.43,
+            "2": 4.01
+        }
+    },
+    {
+        "date": "2027-03-07 00:00:00",
+        "home_team": "Lazio",
+        "away_team": "Frosinone",
+        "lambda_home": 2.18,
+        "lambda_away": 1.02,
+        "probabilities": {
+            "1": 62.5,
+            "X": 21.7,
+            "2": 15.8
+        },
+        "odds": {
+            "1": 1.6,
+            "X": 4.6,
+            "2": 6.35
+        }
+    },
+    {
+        "date": "2027-03-07 00:00:00",
+        "home_team": "Lecce",
+        "away_team": "Como",
+        "lambda_home": 0.71,
+        "lambda_away": 1.48,
+        "probabilities": {
+            "1": 16.6,
+            "X": 29.0,
+            "2": 54.4
+        },
+        "odds": {
+            "1": 6.02,
+            "X": 3.45,
+            "2": 1.84
+        }
+    },
+    {
+        "date": "2027-03-07 00:00:00",
+        "home_team": "Milan",
+        "away_team": "Cagliari",
+        "lambda_home": 2.24,
+        "lambda_away": 0.83,
+        "probabilities": {
+            "1": 68.3,
+            "X": 20.2,
+            "2": 11.5
+        },
+        "odds": {
+            "1": 1.46,
+            "X": 4.94,
+            "2": 8.71
+        }
+    },
+    {
+        "date": "2027-03-07 00:00:00",
+        "home_team": "Monza",
+        "away_team": "Genoa",
+        "lambda_home": 1.21,
+        "lambda_away": 1.2,
+        "probabilities": {
+            "1": 35.0,
+            "X": 30.5,
+            "2": 34.5
+        },
+        "odds": {
+            "1": 2.85,
+            "X": 3.28,
+            "2": 2.9
+        }
+    },
+    {
+        "date": "2027-03-07 00:00:00",
+        "home_team": "Napoli",
+        "away_team": "Parma",
+        "lambda_home": 2.45,
+        "lambda_away": 0.65,
+        "probabilities": {
+            "1": 75.9,
+            "X": 16.9,
+            "2": 7.2
+        },
+        "odds": {
+            "1": 1.32,
+            "X": 5.93,
+            "2": 13.92
+        }
+    },
+    {
+        "date": "2027-03-07 00:00:00",
+        "home_team": "Sassuolo",
+        "away_team": "Bologna",
+        "lambda_home": 1.4,
+        "lambda_away": 1.55,
+        "probabilities": {
+            "1": 33.2,
+            "X": 27.0,
+            "2": 39.8
+        },
+        "odds": {
+            "1": 3.01,
+            "X": 3.71,
+            "2": 2.51
+        }
+    },
+    {
+        "date": "2027-03-07 00:00:00",
+        "home_team": "Udinese",
+        "away_team": "Inter",
+        "lambda_home": 0.85,
+        "lambda_away": 2.21,
+        "probabilities": {
+            "1": 12.2,
+            "X": 20.7,
+            "2": 67.1
+        },
+        "odds": {
+            "1": 8.21,
+            "X": 4.84,
+            "2": 1.49
+        }
+    },
+    {
+        "date": "2027-03-14 00:00:00",
+        "home_team": "Bologna",
+        "away_team": "Napoli",
+        "lambda_home": 1.11,
+        "lambda_away": 1.55,
+        "probabilities": {
+            "1": 25.9,
+            "X": 28.0,
+            "2": 46.1
+        },
+        "odds": {
+            "1": 3.86,
+            "X": 3.57,
+            "2": 2.17
+        }
+    },
+    {
+        "date": "2027-03-14 00:00:00",
+        "home_team": "Cagliari",
+        "away_team": "Fiorentina",
+        "lambda_home": 1.17,
+        "lambda_away": 1.47,
+        "probabilities": {
+            "1": 28.9,
+            "X": 28.5,
+            "2": 42.6
+        },
+        "odds": {
+            "1": 3.46,
+            "X": 3.51,
+            "2": 2.35
+        }
+    },
+    {
+        "date": "2027-03-14 00:00:00",
+        "home_team": "Como",
+        "away_team": "Udinese",
+        "lambda_home": 1.82,
+        "lambda_away": 0.82,
+        "probabilities": {
+            "1": 59.8,
+            "X": 24.9,
+            "2": 15.3
+        },
+        "odds": {
+            "1": 1.67,
+            "X": 4.02,
+            "2": 6.54
+        }
+    },
+    {
+        "date": "2027-03-14 00:00:00",
+        "home_team": "Frosinone",
+        "away_team": "Monza",
+        "lambda_home": 1.74,
+        "lambda_away": 1.33,
+        "probabilities": {
+            "1": 45.8,
+            "X": 25.9,
+            "2": 28.3
+        },
+        "odds": {
+            "1": 2.18,
+            "X": 3.86,
+            "2": 3.53
+        }
+    },
+    {
+        "date": "2027-03-14 00:00:00",
+        "home_team": "Genoa",
+        "away_team": "Roma",
+        "lambda_home": 1.0,
+        "lambda_away": 1.52,
+        "probabilities": {
+            "1": 23.7,
+            "X": 28.5,
+            "2": 47.8
+        },
+        "odds": {
+            "1": 4.22,
+            "X": 3.5,
+            "2": 2.09
+        }
+    },
+    {
+        "date": "2027-03-14 00:00:00",
+        "home_team": "Lazio",
+        "away_team": "Juventus",
+        "lambda_home": 1.11,
+        "lambda_away": 1.24,
+        "probabilities": {
+            "1": 31.4,
+            "X": 30.9,
+            "2": 37.7
+        },
+        "odds": {
+            "1": 3.18,
+            "X": 3.24,
+            "2": 2.65
+        }
+    },
+    {
+        "date": "2027-03-14 00:00:00",
+        "home_team": "Milan",
+        "away_team": "Sassuolo",
+        "lambda_home": 2.36,
+        "lambda_away": 1.02,
+        "probabilities": {
+            "1": 65.8,
+            "X": 20.1,
+            "2": 14.1
+        },
+        "odds": {
+            "1": 1.52,
+            "X": 4.98,
+            "2": 7.11
+        }
+    },
+    {
+        "date": "2027-03-14 00:00:00",
+        "home_team": "Parma",
+        "away_team": "Lecce",
+        "lambda_home": 1.11,
+        "lambda_away": 0.94,
+        "probabilities": {
+            "1": 37.9,
+            "X": 33.2,
+            "2": 28.9
+        },
+        "odds": {
+            "1": 2.64,
+            "X": 3.01,
+            "2": 3.46
+        }
+    },
+    {
+        "date": "2027-03-14 00:00:00",
+        "home_team": "Torino",
+        "away_team": "Inter",
+        "lambda_home": 0.86,
+        "lambda_away": 2.09,
+        "probabilities": {
+            "1": 13.5,
+            "X": 22.1,
+            "2": 64.4
+        },
+        "odds": {
+            "1": 7.4,
+            "X": 4.53,
+            "2": 1.55
+        }
+    },
+    {
+        "date": "2027-03-14 00:00:00",
+        "home_team": "Venezia",
+        "away_team": "Atalanta",
+        "lambda_home": 0.79,
+        "lambda_away": 2.09,
+        "probabilities": {
+            "1": 12.1,
+            "X": 21.7,
+            "2": 66.2
+        },
+        "odds": {
+            "1": 8.25,
+            "X": 4.61,
+            "2": 1.51
+        }
+    },
+    {
+        "date": "2027-03-21 00:00:00",
+        "home_team": "Atalanta",
+        "away_team": "Milan",
+        "lambda_home": 1.74,
+        "lambda_away": 1.38,
+        "probabilities": {
+            "1": 44.7,
+            "X": 25.8,
+            "2": 29.6
+        },
+        "odds": {
+            "1": 2.24,
+            "X": 3.88,
+            "2": 3.38
+        }
+    },
+    {
+        "date": "2027-03-21 00:00:00",
+        "home_team": "Fiorentina",
+        "away_team": "Genoa",
+        "lambda_home": 1.56,
+        "lambda_away": 1.01,
+        "probabilities": {
+            "1": 48.7,
+            "X": 28.1,
+            "2": 23.1
+        },
+        "odds": {
+            "1": 2.05,
+            "X": 3.56,
+            "2": 4.32
+        }
+    },
+    {
+        "date": "2027-03-21 00:00:00",
+        "home_team": "Inter",
+        "away_team": "Frosinone",
+        "lambda_home": 3.34,
+        "lambda_away": 0.84,
+        "probabilities": {
+            "1": 82.8,
+            "X": 11.5,
+            "2": 5.6
+        },
+        "odds": {
+            "1": 1.21,
+            "X": 8.67,
+            "2": 17.81
+        }
+    },
+    {
+        "date": "2027-03-21 00:00:00",
+        "home_team": "Juventus",
+        "away_team": "Como",
+        "lambda_home": 1.41,
+        "lambda_away": 0.97,
+        "probabilities": {
+            "1": 45.9,
+            "X": 29.7,
+            "2": 24.4
+        },
+        "odds": {
+            "1": 2.18,
+            "X": 3.36,
+            "2": 4.1
+        }
+    },
+    {
+        "date": "2027-03-21 00:00:00",
+        "home_team": "Monza",
+        "away_team": "Bologna",
+        "lambda_home": 1.13,
+        "lambda_away": 1.5,
+        "probabilities": {
+            "1": 27.2,
+            "X": 28.4,
+            "2": 44.4
+        },
+        "odds": {
+            "1": 3.67,
+            "X": 3.52,
+            "2": 2.25
+        }
+    },
+    {
+        "date": "2027-03-21 00:00:00",
+        "home_team": "Napoli",
+        "away_team": "Venezia",
+        "lambda_home": 2.35,
+        "lambda_away": 0.65,
+        "probabilities": {
+            "1": 74.4,
+            "X": 17.9,
+            "2": 7.8
+        },
+        "odds": {
+            "1": 1.34,
+            "X": 5.59,
+            "2": 12.9
+        }
+    },
+    {
+        "date": "2027-03-21 00:00:00",
+        "home_team": "Parma",
+        "away_team": "Lazio",
+        "lambda_home": 0.88,
+        "lambda_away": 1.69,
+        "probabilities": {
+            "1": 18.3,
+            "X": 26.6,
+            "2": 55.1
+        },
+        "odds": {
+            "1": 5.47,
+            "X": 3.76,
+            "2": 1.81
+        }
+    },
+    {
+        "date": "2027-03-21 00:00:00",
+        "home_team": "Roma",
+        "away_team": "Lecce",
+        "lambda_home": 1.87,
+        "lambda_away": 0.65,
+        "probabilities": {
+            "1": 65.4,
+            "X": 23.4,
+            "2": 11.1
+        },
+        "odds": {
+            "1": 1.53,
+            "X": 4.27,
+            "2": 8.97
+        }
+    },
+    {
+        "date": "2027-03-21 00:00:00",
+        "home_team": "Sassuolo",
+        "away_team": "Cagliari",
+        "lambda_home": 1.71,
+        "lambda_away": 1.21,
+        "probabilities": {
+            "1": 47.8,
+            "X": 26.4,
+            "2": 25.8
+        },
+        "odds": {
+            "1": 2.09,
+            "X": 3.79,
+            "2": 3.87
+        }
+    },
+    {
+        "date": "2027-03-21 00:00:00",
+        "home_team": "Udinese",
+        "away_team": "Torino",
+        "lambda_home": 1.26,
+        "lambda_away": 1.13,
+        "probabilities": {
+            "1": 37.9,
+            "X": 30.6,
+            "2": 31.5
+        },
+        "odds": {
+            "1": 2.64,
+            "X": 3.27,
+            "2": 3.17
+        }
+    },
+    {
+        "date": "2027-04-04 00:00:00",
+        "home_team": "Cagliari",
+        "away_team": "Napoli",
+        "lambda_home": 0.86,
+        "lambda_away": 1.89,
+        "probabilities": {
+            "1": 15.5,
+            "X": 24.3,
+            "2": 60.2
+        },
+        "odds": {
+            "1": 6.43,
+            "X": 4.12,
+            "2": 1.66
+        }
+    },
+    {
+        "date": "2027-04-04 00:00:00",
+        "home_team": "Como",
+        "away_team": "Fiorentina",
+        "lambda_home": 1.67,
+        "lambda_away": 1.01,
+        "probabilities": {
+            "1": 51.7,
+            "X": 26.9,
+            "2": 21.5
+        },
+        "odds": {
+            "1": 1.94,
+            "X": 3.72,
+            "2": 4.66
+        }
+    },
+    {
+        "date": "2027-04-04 00:00:00",
+        "home_team": "Frosinone",
+        "away_team": "Udinese",
+        "lambda_home": 1.59,
+        "lambda_away": 1.4,
+        "probabilities": {
+            "1": 40.8,
+            "X": 26.8,
+            "2": 32.4
+        },
+        "odds": {
+            "1": 2.45,
+            "X": 3.73,
+            "2": 3.08
+        }
+    },
+    {
+        "date": "2027-04-04 00:00:00",
+        "home_team": "Genoa",
+        "away_team": "Inter",
+        "lambda_home": 0.84,
+        "lambda_away": 2.1,
+        "probabilities": {
+            "1": 12.9,
+            "X": 21.7,
+            "2": 65.4
+        },
+        "odds": {
+            "1": 7.77,
+            "X": 4.6,
+            "2": 1.53
+        }
+    },
+    {
+        "date": "2027-04-04 00:00:00",
+        "home_team": "Lecce",
+        "away_team": "Lazio",
+        "lambda_home": 0.75,
+        "lambda_away": 1.42,
+        "probabilities": {
+            "1": 18.5,
+            "X": 30.0,
+            "2": 51.6
+        },
+        "odds": {
+            "1": 5.42,
+            "X": 3.34,
+            "2": 1.94
+        }
+    },
+    {
+        "date": "2027-04-04 00:00:00",
+        "home_team": "Milan",
+        "away_team": "Monza",
+        "lambda_home": 2.28,
+        "lambda_away": 0.82,
+        "probabilities": {
+            "1": 69.0,
+            "X": 19.8,
+            "2": 11.1
+        },
+        "odds": {
+            "1": 1.45,
+            "X": 5.04,
+            "2": 8.98
+        }
+    },
+    {
+        "date": "2027-04-04 00:00:00",
+        "home_team": "Roma",
+        "away_team": "Bologna",
+        "lambda_home": 1.7,
+        "lambda_away": 1.04,
+        "probabilities": {
+            "1": 51.4,
+            "X": 26.6,
+            "2": 22.0
+        },
+        "odds": {
+            "1": 1.95,
+            "X": 3.76,
+            "2": 4.54
+        }
+    },
+    {
+        "date": "2027-04-04 00:00:00",
+        "home_team": "Sassuolo",
+        "away_team": "Atalanta",
+        "lambda_home": 1.27,
+        "lambda_away": 2.12,
+        "probabilities": {
+            "1": 21.5,
+            "X": 22.9,
+            "2": 55.6
+        },
+        "odds": {
+            "1": 4.65,
+            "X": 4.37,
+            "2": 1.8
+        }
+    },
+    {
+        "date": "2027-04-04 00:00:00",
+        "home_team": "Torino",
+        "away_team": "Juventus",
+        "lambda_home": 0.86,
+        "lambda_away": 1.5,
+        "probabilities": {
+            "1": 20.2,
+            "X": 28.8,
+            "2": 50.9
+        },
+        "odds": {
+            "1": 4.94,
+            "X": 3.47,
+            "2": 1.96
+        }
+    },
+    {
+        "date": "2027-04-04 00:00:00",
+        "home_team": "Venezia",
+        "away_team": "Parma",
+        "lambda_home": 1.15,
+        "lambda_away": 1.06,
+        "probabilities": {
+            "1": 36.4,
+            "X": 32.0,
+            "2": 31.7
+        },
+        "odds": {
+            "1": 2.75,
+            "X": 3.13,
+            "2": 3.16
+        }
+    },
+    {
+        "date": "2027-04-11 00:00:00",
+        "home_team": "Bologna",
+        "away_team": "Venezia",
+        "lambda_home": 1.84,
+        "lambda_away": 0.73,
+        "probabilities": {
+            "1": 62.6,
+            "X": 24.3,
+            "2": 13.1
+        },
+        "odds": {
+            "1": 1.6,
+            "X": 4.11,
+            "2": 7.61
+        }
+    },
+    {
+        "date": "2027-04-11 00:00:00",
+        "home_team": "Cagliari",
+        "away_team": "Atalanta",
+        "lambda_home": 1.02,
+        "lambda_away": 2.01,
+        "probabilities": {
+            "1": 17.6,
+            "X": 23.4,
+            "2": 59.0
+        },
+        "odds": {
+            "1": 5.69,
+            "X": 4.27,
+            "2": 1.69
+        }
+    },
+    {
+        "date": "2027-04-11 00:00:00",
+        "home_team": "Fiorentina",
+        "away_team": "Milan",
+        "lambda_home": 1.27,
+        "lambda_away": 1.59,
+        "probabilities": {
+            "1": 29.3,
+            "X": 27.2,
+            "2": 43.5
+        },
+        "odds": {
+            "1": 3.41,
+            "X": 3.67,
+            "2": 2.3
+        }
+    },
+    {
+        "date": "2027-04-11 00:00:00",
+        "home_team": "Frosinone",
+        "away_team": "Genoa",
+        "lambda_home": 1.51,
+        "lambda_away": 1.38,
+        "probabilities": {
+            "1": 39.3,
+            "X": 27.4,
+            "2": 33.3
+        },
+        "odds": {
+            "1": 2.55,
+            "X": 3.65,
+            "2": 3.0
+        }
+    },
+    {
+        "date": "2027-04-11 00:00:00",
+        "home_team": "Inter",
+        "away_team": "Roma",
+        "lambda_home": 2.02,
+        "lambda_away": 1.02,
+        "probabilities": {
+            "1": 59.4,
+            "X": 23.3,
+            "2": 17.3
+        },
+        "odds": {
+            "1": 1.68,
+            "X": 4.3,
+            "2": 5.78
+        }
+    },
+    {
+        "date": "2027-04-11 00:00:00",
+        "home_team": "Juventus",
+        "away_team": "Lecce",
+        "lambda_home": 1.87,
+        "lambda_away": 0.65,
+        "probabilities": {
+            "1": 65.4,
+            "X": 23.4,
+            "2": 11.1
+        },
+        "odds": {
+            "1": 1.53,
+            "X": 4.27,
+            "2": 8.97
+        }
+    },
+    {
+        "date": "2027-04-11 00:00:00",
+        "home_team": "Lazio",
+        "away_team": "Torino",
+        "lambda_home": 1.64,
+        "lambda_away": 0.87,
+        "probabilities": {
+            "1": 54.1,
+            "X": 27.2,
+            "2": 18.7
+        },
+        "odds": {
+            "1": 1.85,
+            "X": 3.68,
+            "2": 5.35
+        }
+    },
+    {
+        "date": "2027-04-11 00:00:00",
+        "home_team": "Napoli",
+        "away_team": "Sassuolo",
+        "lambda_home": 2.39,
+        "lambda_away": 0.89,
+        "probabilities": {
+            "1": 69.3,
+            "X": 19.2,
+            "2": 11.5
+        },
+        "odds": {
+            "1": 1.44,
+            "X": 5.21,
+            "2": 8.7
+        }
+    },
+    {
+        "date": "2027-04-11 00:00:00",
+        "home_team": "Parma",
+        "away_team": "Como",
+        "lambda_home": 0.84,
+        "lambda_away": 1.77,
+        "probabilities": {
+            "1": 16.3,
+            "X": 25.6,
+            "2": 58.1
+        },
+        "odds": {
+            "1": 6.13,
+            "X": 3.91,
+            "2": 1.72
+        }
+    },
+    {
+        "date": "2027-04-11 00:00:00",
+        "home_team": "Udinese",
+        "away_team": "Monza",
+        "lambda_home": 1.46,
+        "lambda_away": 1.06,
+        "probabilities": {
+            "1": 45.0,
+            "X": 28.9,
+            "2": 26.0
+        },
+        "odds": {
+            "1": 2.22,
+            "X": 3.45,
+            "2": 3.84
+        }
+    },
+    {
+        "date": "2027-04-18 00:00:00",
+        "home_team": "Atalanta",
+        "away_team": "Udinese",
+        "lambda_home": 2.24,
+        "lambda_away": 0.89,
+        "probabilities": {
+            "1": 66.7,
+            "X": 20.6,
+            "2": 12.7
+        },
+        "odds": {
+            "1": 1.5,
+            "X": 4.85,
+            "2": 7.9
+        }
+    },
+    {
+        "date": "2027-04-18 00:00:00",
+        "home_team": "Bologna",
+        "away_team": "Cagliari",
+        "lambda_home": 1.77,
+        "lambda_away": 0.94,
+        "probabilities": {
+            "1": 55.6,
+            "X": 25.7,
+            "2": 18.7
+        },
+        "odds": {
+            "1": 1.8,
+            "X": 3.88,
+            "2": 5.36
+        }
+    },
+    {
+        "date": "2027-04-18 00:00:00",
+        "home_team": "Como",
+        "away_team": "Frosinone",
+        "lambda_home": 2.29,
+        "lambda_away": 0.97,
+        "probabilities": {
+            "1": 65.6,
+            "X": 20.5,
+            "2": 13.8
+        },
+        "odds": {
+            "1": 1.52,
+            "X": 4.87,
+            "2": 7.24
+        }
+    },
+    {
+        "date": "2027-04-18 00:00:00",
+        "home_team": "Fiorentina",
+        "away_team": "Parma",
+        "lambda_home": 1.91,
+        "lambda_away": 0.87,
+        "probabilities": {
+            "1": 60.5,
+            "X": 24.0,
+            "2": 15.4
+        },
+        "odds": {
+            "1": 1.65,
+            "X": 4.16,
+            "2": 6.48
+        }
+    },
+    {
+        "date": "2027-04-18 00:00:00",
+        "home_team": "Milan",
+        "away_team": "Napoli",
+        "lambda_home": 1.4,
+        "lambda_away": 1.36,
+        "probabilities": {
+            "1": 37.0,
+            "X": 28.2,
+            "2": 34.8
+        },
+        "odds": {
+            "1": 2.7,
+            "X": 3.55,
+            "2": 2.87
+        }
+    },
+    {
+        "date": "2027-04-18 00:00:00",
+        "home_team": "Monza",
+        "away_team": "Inter",
+        "lambda_home": 0.81,
+        "lambda_away": 2.43,
+        "probabilities": {
+            "1": 9.9,
+            "X": 18.3,
+            "2": 71.8
+        },
+        "odds": {
+            "1": 10.14,
+            "X": 5.46,
+            "2": 1.39
+        }
+    },
+    {
+        "date": "2027-04-18 00:00:00",
+        "home_team": "Roma",
+        "away_team": "Lazio",
+        "lambda_home": 1.49,
+        "lambda_away": 1.1,
+        "probabilities": {
+            "1": 44.6,
+            "X": 28.6,
+            "2": 26.8
+        },
+        "odds": {
+            "1": 2.24,
+            "X": 3.49,
+            "2": 3.73
+        }
+    },
+    {
+        "date": "2027-04-18 00:00:00",
+        "home_team": "Sassuolo",
+        "away_team": "Lecce",
+        "lambda_home": 1.55,
+        "lambda_away": 0.91,
+        "probabilities": {
+            "1": 50.8,
+            "X": 28.3,
+            "2": 20.9
+        },
+        "odds": {
+            "1": 1.97,
+            "X": 3.54,
+            "2": 4.79
+        }
+    },
+    {
+        "date": "2027-04-18 00:00:00",
+        "home_team": "Torino",
+        "away_team": "Genoa",
+        "lambda_home": 1.29,
+        "lambda_away": 1.03,
+        "probabilities": {
+            "1": 40.8,
+            "X": 30.8,
+            "2": 28.4
+        },
+        "odds": {
+            "1": 2.45,
+            "X": 3.24,
+            "2": 3.53
+        }
+    },
+    {
+        "date": "2027-04-18 00:00:00",
+        "home_team": "Venezia",
+        "away_team": "Juventus",
+        "lambda_home": 0.7,
+        "lambda_away": 1.78,
+        "probabilities": {
+            "1": 13.0,
+            "X": 24.9,
+            "2": 62.1
+        },
+        "odds": {
+            "1": 7.67,
+            "X": 4.02,
+            "2": 1.61
+        }
+    },
+    {
+        "date": "2027-04-25 00:00:00",
+        "home_team": "Cagliari",
+        "away_team": "Monza",
+        "lambda_home": 1.4,
+        "lambda_away": 1.14,
+        "probabilities": {
+            "1": 41.4,
+            "X": 29.2,
+            "2": 29.3
+        },
+        "odds": {
+            "1": 2.41,
+            "X": 3.42,
+            "2": 3.41
+        }
+    },
+    {
+        "date": "2027-04-25 00:00:00",
+        "home_team": "Frosinone",
+        "away_team": "Roma",
+        "lambda_home": 1.21,
+        "lambda_away": 2.0,
+        "probabilities": {
+            "1": 21.7,
+            "X": 23.8,
+            "2": 54.5
+        },
+        "odds": {
+            "1": 4.61,
+            "X": 4.2,
+            "2": 1.83
+        }
+    },
+    {
+        "date": "2027-04-25 00:00:00",
+        "home_team": "Genoa",
+        "away_team": "Sassuolo",
+        "lambda_home": 1.49,
+        "lambda_away": 1.25,
+        "probabilities": {
+            "1": 41.4,
+            "X": 28.0,
+            "2": 30.5
+        },
+        "odds": {
+            "1": 2.41,
+            "X": 3.57,
+            "2": 3.27
+        }
+    },
+    {
+        "date": "2027-04-25 00:00:00",
+        "home_team": "Inter",
+        "away_team": "Bologna",
+        "lambda_home": 2.35,
+        "lambda_away": 0.87,
+        "probabilities": {
+            "1": 69.2,
+            "X": 19.4,
+            "2": 11.4
+        },
+        "odds": {
+            "1": 1.44,
+            "X": 5.16,
+            "2": 8.77
+        }
+    },
+    {
+        "date": "2027-04-25 00:00:00",
+        "home_team": "Juventus",
+        "away_team": "Fiorentina",
+        "lambda_home": 1.76,
+        "lambda_away": 0.87,
+        "probabilities": {
+            "1": 57.1,
+            "X": 25.8,
+            "2": 17.1
+        },
+        "odds": {
+            "1": 1.75,
+            "X": 3.88,
+            "2": 5.85
+        }
+    },
+    {
+        "date": "2027-04-25 00:00:00",
+        "home_team": "Lazio",
+        "away_team": "Como",
+        "lambda_home": 1.28,
+        "lambda_away": 1.18,
+        "probabilities": {
+            "1": 37.5,
+            "X": 30.1,
+            "2": 32.4
+        },
+        "odds": {
+            "1": 2.66,
+            "X": 3.33,
+            "2": 3.09
+        }
+    },
+    {
+        "date": "2027-04-25 00:00:00",
+        "home_team": "Lecce",
+        "away_team": "Milan",
+        "lambda_home": 0.75,
+        "lambda_away": 1.69,
+        "probabilities": {
+            "1": 15.1,
+            "X": 26.3,
+            "2": 58.7
+        },
+        "odds": {
+            "1": 6.63,
+            "X": 3.81,
+            "2": 1.7
+        }
+    },
+    {
+        "date": "2027-04-25 00:00:00",
+        "home_team": "Napoli",
+        "away_team": "Udinese",
+        "lambda_home": 2.1,
+        "lambda_away": 0.75,
+        "probabilities": {
+            "1": 67.5,
+            "X": 21.3,
+            "2": 11.2
+        },
+        "odds": {
+            "1": 1.48,
+            "X": 4.7,
+            "2": 8.9
+        }
+    },
+    {
+        "date": "2027-04-25 00:00:00",
+        "home_team": "Parma",
+        "away_team": "Atalanta",
+        "lambda_home": 0.91,
+        "lambda_away": 2.18,
+        "probabilities": {
+            "1": 13.6,
+            "X": 21.4,
+            "2": 65.0
+        },
+        "odds": {
+            "1": 7.34,
+            "X": 4.68,
+            "2": 1.54
+        }
+    },
+    {
+        "date": "2027-04-25 00:00:00",
+        "home_team": "Venezia",
+        "away_team": "Torino",
+        "lambda_home": 0.93,
+        "lambda_away": 1.26,
+        "probabilities": {
+            "1": 26.0,
+            "X": 31.6,
+            "2": 42.4
+        },
+        "odds": {
+            "1": 3.85,
+            "X": 3.17,
+            "2": 2.36
+        }
+    },
+    {
+        "date": "2027-05-02 00:00:00",
+        "home_team": "Atalanta",
+        "away_team": "Juventus",
+        "lambda_home": 1.43,
+        "lambda_away": 1.28,
+        "probabilities": {
+            "1": 39.3,
+            "X": 28.4,
+            "2": 32.3
+        },
+        "odds": {
+            "1": 2.55,
+            "X": 3.52,
+            "2": 3.09
+        }
+    },
+    {
+        "date": "2027-05-02 00:00:00",
+        "home_team": "Bologna",
+        "away_team": "Fiorentina",
+        "lambda_home": 1.51,
+        "lambda_away": 1.21,
+        "probabilities": {
+            "1": 42.8,
+            "X": 28.1,
+            "2": 29.1
+        },
+        "odds": {
+            "1": 2.34,
+            "X": 3.56,
+            "2": 3.44
+        }
+    },
+    {
+        "date": "2027-05-02 00:00:00",
+        "home_team": "Como",
+        "away_team": "Inter",
+        "lambda_home": 1.16,
+        "lambda_away": 1.63,
+        "probabilities": {
+            "1": 25.9,
+            "X": 27.1,
+            "2": 47.0
+        },
+        "odds": {
+            "1": 3.87,
+            "X": 3.69,
+            "2": 2.13
+        }
+    },
+    {
+        "date": "2027-05-02 00:00:00",
+        "home_team": "Lecce",
+        "away_team": "Cagliari",
+        "lambda_home": 1.04,
+        "lambda_away": 1.04,
+        "probabilities": {
+            "1": 33.4,
+            "X": 33.1,
+            "2": 33.4
+        },
+        "odds": {
+            "1": 2.99,
+            "X": 3.02,
+            "2": 2.99
+        }
+    },
+    {
+        "date": "2027-05-02 00:00:00",
+        "home_team": "Milan",
+        "away_team": "Lazio",
+        "lambda_home": 1.61,
+        "lambda_away": 1.12,
+        "probabilities": {
+            "1": 47.3,
+            "X": 27.4,
+            "2": 25.3
+        },
+        "odds": {
+            "1": 2.11,
+            "X": 3.65,
+            "2": 3.96
+        }
+    },
+    {
+        "date": "2027-05-02 00:00:00",
+        "home_team": "Monza",
+        "away_team": "Venezia",
+        "lambda_home": 1.42,
+        "lambda_away": 0.9,
+        "probabilities": {
+            "1": 47.8,
+            "X": 29.7,
+            "2": 22.5
+        },
+        "odds": {
+            "1": 2.09,
+            "X": 3.36,
+            "2": 4.45
+        }
+    },
+    {
+        "date": "2027-05-02 00:00:00",
+        "home_team": "Roma",
+        "away_team": "Napoli",
+        "lambda_home": 1.29,
+        "lambda_away": 1.33,
+        "probabilities": {
+            "1": 34.6,
+            "X": 29.0,
+            "2": 36.4
+        },
+        "odds": {
+            "1": 2.89,
+            "X": 3.45,
+            "2": 2.75
+        }
+    },
+    {
+        "date": "2027-05-02 00:00:00",
+        "home_team": "Sassuolo",
+        "away_team": "Frosinone",
+        "lambda_home": 1.99,
+        "lambda_away": 1.5,
+        "probabilities": {
+            "1": 48.0,
+            "X": 23.8,
+            "2": 28.2
+        },
+        "odds": {
+            "1": 2.09,
+            "X": 4.2,
+            "2": 3.54
+        }
+    },
+    {
+        "date": "2027-05-02 00:00:00",
+        "home_team": "Torino",
+        "away_team": "Parma",
+        "lambda_home": 1.58,
+        "lambda_away": 0.89,
+        "probabilities": {
+            "1": 52.1,
+            "X": 27.9,
+            "2": 20.0
+        },
+        "odds": {
+            "1": 1.92,
+            "X": 3.58,
+            "2": 5.0
+        }
+    },
+    {
+        "date": "2027-05-02 00:00:00",
+        "home_team": "Udinese",
+        "away_team": "Genoa",
+        "lambda_home": 1.27,
+        "lambda_away": 1.1,
+        "probabilities": {
+            "1": 38.9,
+            "X": 30.7,
+            "2": 30.4
+        },
+        "odds": {
+            "1": 2.57,
+            "X": 3.26,
+            "2": 3.29
+        }
+    },
+    {
+        "date": "2027-05-09 00:00:00",
+        "home_team": "Fiorentina",
+        "away_team": "Roma",
+        "lambda_home": 1.25,
+        "lambda_away": 1.46,
+        "probabilities": {
+            "1": 30.9,
+            "X": 28.3,
+            "2": 40.8
+        },
+        "odds": {
+            "1": 3.24,
+            "X": 3.53,
+            "2": 2.45
+        }
+    },
+    {
+        "date": "2027-05-09 00:00:00",
+        "home_team": "Frosinone",
+        "away_team": "Atalanta",
+        "lambda_home": 1.27,
+        "lambda_away": 2.34,
+        "probabilities": {
+            "1": 18.9,
+            "X": 21.1,
+            "2": 60.0
+        },
+        "odds": {
+            "1": 5.3,
+            "X": 4.75,
+            "2": 1.67
+        }
+    },
+    {
+        "date": "2027-05-09 00:00:00",
+        "home_team": "Genoa",
+        "away_team": "Cagliari",
+        "lambda_home": 1.42,
+        "lambda_away": 1.01,
+        "probabilities": {
+            "1": 45.0,
+            "X": 29.5,
+            "2": 25.5
+        },
+        "odds": {
+            "1": 2.22,
+            "X": 3.38,
+            "2": 3.92
+        }
+    },
+    {
+        "date": "2027-05-09 00:00:00",
+        "home_team": "Inter",
+        "away_team": "Lecce",
+        "lambda_home": 2.6,
+        "lambda_away": 0.65,
+        "probabilities": {
+            "1": 78.1,
+            "X": 15.5,
+            "2": 6.4
+        },
+        "odds": {
+            "1": 1.28,
+            "X": 6.45,
+            "2": 15.52
+        }
+    },
+    {
+        "date": "2027-05-09 00:00:00",
+        "home_team": "Lazio",
+        "away_team": "Sassuolo",
+        "lambda_home": 1.98,
+        "lambda_away": 1.02,
+        "probabilities": {
+            "1": 58.2,
+            "X": 23.8,
+            "2": 18.0
+        },
+        "odds": {
+            "1": 1.72,
+            "X": 4.21,
+            "2": 5.55
+        }
+    },
+    {
+        "date": "2027-05-09 00:00:00",
+        "home_team": "Napoli",
+        "away_team": "Monza",
+        "lambda_home": 2.31,
+        "lambda_away": 0.72,
+        "probabilities": {
+            "1": 72.0,
+            "X": 18.9,
+            "2": 9.1
+        },
+        "odds": {
+            "1": 1.39,
+            "X": 5.3,
+            "2": 10.97
+        }
+    },
+    {
+        "date": "2027-05-09 00:00:00",
+        "home_team": "Parma",
+        "away_team": "Milan",
+        "lambda_home": 0.88,
+        "lambda_away": 2.02,
+        "probabilities": {
+            "1": 14.6,
+            "X": 22.9,
+            "2": 62.5
+        },
+        "odds": {
+            "1": 6.86,
+            "X": 4.37,
+            "2": 1.6
+        }
+    },
+    {
+        "date": "2027-05-09 00:00:00",
+        "home_team": "Torino",
+        "away_team": "Bologna",
+        "lambda_home": 1.2,
+        "lambda_away": 1.29,
+        "probabilities": {
+            "1": 32.9,
+            "X": 29.9,
+            "2": 37.2
+        },
+        "odds": {
+            "1": 3.04,
+            "X": 3.35,
+            "2": 2.69
+        }
+    },
+    {
+        "date": "2027-05-09 00:00:00",
+        "home_team": "Udinese",
+        "away_team": "Juventus",
+        "lambda_home": 0.85,
+        "lambda_away": 1.59,
+        "probabilities": {
+            "1": 18.7,
+            "X": 27.7,
+            "2": 53.6
+        },
+        "odds": {
+            "1": 5.34,
+            "X": 3.61,
+            "2": 1.87
+        }
+    },
+    {
+        "date": "2027-05-09 00:00:00",
+        "home_team": "Venezia",
+        "away_team": "Como",
+        "lambda_home": 0.73,
+        "lambda_away": 1.7,
+        "probabilities": {
+            "1": 14.6,
+            "X": 26.1,
+            "2": 59.3
+        },
+        "odds": {
+            "1": 6.86,
+            "X": 3.83,
+            "2": 1.69
+        }
+    },
+    {
+        "date": "2027-05-16 00:00:00",
+        "home_team": "Bologna",
+        "away_team": "Frosinone",
+        "lambda_home": 2.06,
+        "lambda_away": 1.17,
+        "probabilities": {
+            "1": 56.7,
+            "X": 23.2,
+            "2": 20.1
+        },
+        "odds": {
+            "1": 1.76,
+            "X": 4.31,
+            "2": 4.98
+        }
+    },
+    {
+        "date": "2027-05-16 00:00:00",
+        "home_team": "Cagliari",
+        "away_team": "Torino",
+        "lambda_home": 1.21,
+        "lambda_away": 1.22,
+        "probabilities": {
+            "1": 34.6,
+            "X": 30.4,
+            "2": 35.0
+        },
+        "odds": {
+            "1": 2.89,
+            "X": 3.29,
+            "2": 2.85
+        }
+    },
+    {
+        "date": "2027-05-16 00:00:00",
+        "home_team": "Como",
+        "away_team": "Atalanta",
+        "lambda_home": 1.46,
+        "lambda_away": 1.38,
+        "probabilities": {
+            "1": 38.0,
+            "X": 27.7,
+            "2": 34.3
+        },
+        "odds": {
+            "1": 2.63,
+            "X": 3.61,
+            "2": 2.91
+        }
+    },
+    {
+        "date": "2027-05-16 00:00:00",
+        "home_team": "Juventus",
+        "away_team": "Inter",
+        "lambda_home": 1.22,
+        "lambda_away": 1.41,
+        "probabilities": {
+            "1": 31.2,
+            "X": 28.8,
+            "2": 40.0
+        },
+        "odds": {
+            "1": 3.21,
+            "X": 3.47,
+            "2": 2.5
+        }
+    },
+    {
+        "date": "2027-05-16 00:00:00",
+        "home_team": "Lazio",
+        "away_team": "Udinese",
+        "lambda_home": 1.74,
+        "lambda_away": 0.86,
+        "probabilities": {
+            "1": 56.8,
+            "X": 26.0,
+            "2": 17.2
+        },
+        "odds": {
+            "1": 1.76,
+            "X": 3.85,
+            "2": 5.82
+        }
+    },
+    {
+        "date": "2027-05-16 00:00:00",
+        "home_team": "Lecce",
+        "away_team": "Fiorentina",
+        "lambda_home": 0.89,
+        "lambda_away": 1.33,
+        "probabilities": {
+            "1": 23.5,
+            "X": 30.9,
+            "2": 45.6
+        },
+        "odds": {
+            "1": 4.26,
+            "X": 3.24,
+            "2": 2.19
+        }
+    },
+    {
+        "date": "2027-05-16 00:00:00",
+        "home_team": "Milan",
+        "away_team": "Roma",
+        "lambda_home": 1.58,
+        "lambda_away": 1.24,
+        "probabilities": {
+            "1": 44.1,
+            "X": 27.4,
+            "2": 28.6
+        },
+        "odds": {
+            "1": 2.27,
+            "X": 3.65,
+            "2": 3.5
+        }
+    },
+    {
+        "date": "2027-05-16 00:00:00",
+        "home_team": "Monza",
+        "away_team": "Parma",
+        "lambda_home": 1.49,
+        "lambda_away": 1.04,
+        "probabilities": {
+            "1": 46.1,
+            "X": 28.8,
+            "2": 25.1
+        },
+        "odds": {
+            "1": 2.17,
+            "X": 3.47,
+            "2": 3.98
+        }
+    },
+    {
+        "date": "2027-05-16 00:00:00",
+        "home_team": "Napoli",
+        "away_team": "Genoa",
+        "lambda_home": 2.0,
+        "lambda_away": 0.74,
+        "probabilities": {
+            "1": 65.7,
+            "X": 22.4,
+            "2": 11.9
+        },
+        "odds": {
+            "1": 1.52,
+            "X": 4.46,
+            "2": 8.41
+        }
+    },
+    {
+        "date": "2027-05-16 00:00:00",
+        "home_team": "Sassuolo",
+        "away_team": "Venezia",
+        "lambda_home": 1.77,
+        "lambda_away": 0.93,
+        "probabilities": {
+            "1": 55.8,
+            "X": 25.7,
+            "2": 18.5
+        },
+        "odds": {
+            "1": 1.79,
+            "X": 3.88,
+            "2": 5.41
+        }
+    },
+    {
+        "date": "2027-05-23 00:00:00",
+        "home_team": "Atalanta",
+        "away_team": "Lecce",
+        "lambda_home": 2.19,
+        "lambda_away": 0.65,
+        "probabilities": {
+            "1": 71.7,
+            "X": 19.6,
+            "2": 8.7
+        },
+        "odds": {
+            "1": 1.4,
+            "X": 5.1,
+            "2": 11.44
+        }
+    },
+    {
+        "date": "2027-05-23 00:00:00",
+        "home_team": "Fiorentina",
+        "away_team": "Monza",
+        "lambda_home": 1.8,
+        "lambda_away": 0.97,
+        "probabilities": {
+            "1": 55.4,
+            "X": 25.5,
+            "2": 19.1
+        },
+        "odds": {
+            "1": 1.81,
+            "X": 3.92,
+            "2": 5.24
+        }
+    },
+    {
+        "date": "2027-05-23 00:00:00",
+        "home_team": "Frosinone",
+        "away_team": "Cagliari",
+        "lambda_home": 1.71,
+        "lambda_away": 1.34,
+        "probabilities": {
+            "1": 45.0,
+            "X": 26.1,
+            "2": 28.9
+        },
+        "odds": {
+            "1": 2.22,
+            "X": 3.83,
+            "2": 3.46
+        }
+    },
+    {
+        "date": "2027-05-23 00:00:00",
+        "home_team": "Genoa",
+        "away_team": "Bologna",
+        "lambda_home": 1.17,
+        "lambda_away": 1.3,
+        "probabilities": {
+            "1": 31.8,
+            "X": 30.0,
+            "2": 38.2
+        },
+        "odds": {
+            "1": 3.15,
+            "X": 3.33,
+            "2": 2.62
+        }
+    },
+    {
+        "date": "2027-05-23 00:00:00",
+        "home_team": "Inter",
+        "away_team": "Lazio",
+        "lambda_home": 2.06,
+        "lambda_away": 0.92,
+        "probabilities": {
+            "1": 62.5,
+            "X": 22.6,
+            "2": 15.0
+        },
+        "odds": {
+            "1": 1.6,
+            "X": 4.43,
+            "2": 6.68
+        }
+    },
+    {
+        "date": "2027-05-23 00:00:00",
+        "home_team": "Parma",
+        "away_team": "Juventus",
+        "lambda_home": 0.72,
+        "lambda_away": 1.86,
+        "probabilities": {
+            "1": 12.8,
+            "X": 24.0,
+            "2": 63.2
+        },
+        "odds": {
+            "1": 7.8,
+            "X": 4.17,
+            "2": 1.58
+        }
+    },
+    {
+        "date": "2027-05-23 00:00:00",
+        "home_team": "Roma",
+        "away_team": "Como",
+        "lambda_home": 1.41,
+        "lambda_away": 1.16,
+        "probabilities": {
+            "1": 41.5,
+            "X": 29.1,
+            "2": 29.4
+        },
+        "odds": {
+            "1": 2.41,
+            "X": 3.44,
+            "2": 3.4
+        }
+    },
+    {
+        "date": "2027-05-23 00:00:00",
+        "home_team": "Torino",
+        "away_team": "Napoli",
+        "lambda_home": 0.91,
+        "lambda_away": 1.65,
+        "probabilities": {
+            "1": 19.6,
+            "X": 27.1,
+            "2": 53.3
+        },
+        "odds": {
+            "1": 5.11,
+            "X": 3.69,
+            "2": 1.87
+        }
+    },
+    {
+        "date": "2027-05-23 00:00:00",
+        "home_team": "Udinese",
+        "away_team": "Sassuolo",
+        "lambda_home": 1.52,
+        "lambda_away": 1.32,
+        "probabilities": {
+            "1": 40.6,
+            "X": 27.6,
+            "2": 31.8
+        },
+        "odds": {
+            "1": 2.46,
+            "X": 3.63,
+            "2": 3.15
+        }
+    },
+    {
+        "date": "2027-05-23 00:00:00",
+        "home_team": "Venezia",
+        "away_team": "Milan",
+        "lambda_home": 0.77,
+        "lambda_away": 1.93,
+        "probabilities": {
+            "1": 13.0,
+            "X": 23.3,
+            "2": 63.7
+        },
+        "odds": {
+            "1": 7.69,
+            "X": 4.29,
+            "2": 1.57
+        }
+    },
+    {
+        "date": "2027-05-30 00:00:00",
+        "home_team": "Bologna",
+        "away_team": "Parma",
+        "lambda_home": 1.92,
+        "lambda_away": 0.84,
+        "probabilities": {
+            "1": 61.5,
+            "X": 23.8,
+            "2": 14.7
+        },
+        "odds": {
+            "1": 1.63,
+            "X": 4.2,
+            "2": 6.8
+        }
+    },
+    {
+        "date": "2027-05-30 00:00:00",
+        "home_team": "Cagliari",
+        "away_team": "Roma",
+        "lambda_home": 0.97,
+        "lambda_away": 1.72,
+        "probabilities": {
+            "1": 20.1,
+            "X": 26.4,
+            "2": 53.6
+        },
+        "odds": {
+            "1": 4.99,
+            "X": 3.79,
+            "2": 1.87
+        }
+    },
+    {
+        "date": "2027-05-30 00:00:00",
+        "home_team": "Como",
+        "away_team": "Genoa",
+        "lambda_home": 1.73,
+        "lambda_away": 0.81,
+        "probabilities": {
+            "1": 58.1,
+            "X": 25.9,
+            "2": 16.0
+        },
+        "odds": {
+            "1": 1.72,
+            "X": 3.86,
+            "2": 6.25
+        }
+    },
+    {
+        "date": "2027-05-30 00:00:00",
+        "home_team": "Juventus",
+        "away_team": "Frosinone",
+        "lambda_home": 2.4,
+        "lambda_away": 0.84,
+        "probabilities": {
+            "1": 70.8,
+            "X": 18.7,
+            "2": 10.5
+        },
+        "odds": {
+            "1": 1.41,
+            "X": 5.34,
+            "2": 9.52
+        }
+    },
+    {
+        "date": "2027-05-30 00:00:00",
+        "home_team": "Lazio",
+        "away_team": "Fiorentina",
+        "lambda_home": 1.6,
+        "lambda_away": 1.06,
+        "probabilities": {
+            "1": 48.5,
+            "X": 27.6,
+            "2": 23.8
+        },
+        "odds": {
+            "1": 2.06,
+            "X": 3.62,
+            "2": 4.19
+        }
+    },
+    {
+        "date": "2027-05-30 00:00:00",
+        "home_team": "Lecce",
+        "away_team": "Venezia",
+        "lambda_home": 1.08,
+        "lambda_away": 0.8,
+        "probabilities": {
+            "1": 40.1,
+            "X": 34.5,
+            "2": 25.4
+        },
+        "odds": {
+            "1": 2.49,
+            "X": 2.9,
+            "2": 3.93
+        }
+    },
+    {
+        "date": "2027-05-30 00:00:00",
+        "home_team": "Milan",
+        "away_team": "Udinese",
+        "lambda_home": 2.08,
+        "lambda_away": 0.86,
+        "probabilities": {
+            "1": 64.3,
+            "X": 22.2,
+            "2": 13.6
+        },
+        "odds": {
+            "1": 1.56,
+            "X": 4.51,
+            "2": 7.35
+        }
+    },
+    {
+        "date": "2027-05-30 00:00:00",
+        "home_team": "Monza",
+        "away_team": "Torino",
+        "lambda_home": 1.2,
+        "lambda_away": 1.24,
+        "probabilities": {
+            "1": 34.0,
+            "X": 30.3,
+            "2": 35.7
+        },
+        "odds": {
+            "1": 2.94,
+            "X": 3.3,
+            "2": 2.8
+        }
+    },
+    {
+        "date": "2027-05-30 00:00:00",
+        "home_team": "Napoli",
+        "away_team": "Atalanta",
+        "lambda_home": 1.68,
+        "lambda_away": 1.26,
+        "probabilities": {
+            "1": 46.0,
+            "X": 26.5,
+            "2": 27.5
+        },
+        "odds": {
+            "1": 2.17,
+            "X": 3.78,
+            "2": 3.63
+        }
+    },
+    {
+        "date": "2027-05-30 00:00:00",
+        "home_team": "Sassuolo",
+        "away_team": "Inter",
+        "lambda_home": 1.01,
+        "lambda_away": 2.51,
+        "probabilities": {
+            "1": 12.5,
+            "X": 18.7,
+            "2": 68.8
+        },
+        "odds": {
+            "1": 7.99,
+            "X": 5.35,
+            "2": 1.45
+        }
+    }
+]
