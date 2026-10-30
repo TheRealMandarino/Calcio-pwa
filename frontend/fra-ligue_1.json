@@ -1,0 +1,4232 @@
+[
+    {
+        "date": "2026-10-26 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Paris SG",
+        "away_team": "Lyon",
+        "lambda_home": 2.46,
+        "lambda_away": 1.08,
+        "probabilities": {
+            "1": 66.4,
+            "X": 19.4,
+            "2": 14.1
+        },
+        "odds": {
+            "1": 1.51,
+            "X": 5.14,
+            "2": 7.09
+        }
+    },
+    {
+        "date": "2026-10-30 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Le Havre",
+        "away_team": "Paris SG",
+        "lambda_home": 0.78,
+        "lambda_away": 2.55,
+        "probabilities": {
+            "1": 8.6,
+            "X": 17.0,
+            "2": 74.4
+        },
+        "odds": {
+            "1": 11.6,
+            "X": 5.88,
+            "2": 1.34
+        }
+    },
+    {
+        "date": "2026-10-30 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lille",
+        "away_team": "Lens",
+        "lambda_home": 1.39,
+        "lambda_away": 1.04,
+        "probabilities": {
+            "1": 43.5,
+            "X": 29.8,
+            "2": 26.8
+        },
+        "odds": {
+            "1": 2.3,
+            "X": 3.36,
+            "2": 3.74
+        }
+    },
+    {
+        "date": "2026-10-30 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Nice",
+        "away_team": "Rennes",
+        "lambda_home": 1.46,
+        "lambda_away": 1.41,
+        "probabilities": {
+            "1": 37.3,
+            "X": 27.5,
+            "2": 35.2
+        },
+        "odds": {
+            "1": 2.68,
+            "X": 3.63,
+            "2": 2.84
+        }
+    },
+    {
+        "date": "2026-10-31 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Troyes",
+        "away_team": "Le Mans",
+        "lambda_home": 1.56,
+        "lambda_away": 1.86,
+        "probabilities": {
+            "1": 31.6,
+            "X": 24.5,
+            "2": 43.9
+        },
+        "odds": {
+            "1": 3.16,
+            "X": 4.09,
+            "2": 2.28
+        }
+    },
+    {
+        "date": "2026-11-01 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lyon",
+        "away_team": "Angers",
+        "lambda_home": 2.31,
+        "lambda_away": 0.75,
+        "probabilities": {
+            "1": 71.2,
+            "X": 19.1,
+            "2": 9.7
+        },
+        "odds": {
+            "1": 1.4,
+            "X": 5.24,
+            "2": 10.33
+        }
+    },
+    {
+        "date": "2026-11-01 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Marseille",
+        "away_team": "Toulouse",
+        "lambda_home": 2.05,
+        "lambda_away": 1.14,
+        "probabilities": {
+            "1": 57.3,
+            "X": 23.2,
+            "2": 19.5
+        },
+        "odds": {
+            "1": 1.75,
+            "X": 4.3,
+            "2": 5.13
+        }
+    },
+    {
+        "date": "2026-11-01 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Paris FC",
+        "away_team": "Monaco",
+        "lambda_home": 1.58,
+        "lambda_away": 1.62,
+        "probabilities": {
+            "1": 36.3,
+            "X": 25.8,
+            "2": 38.0
+        },
+        "odds": {
+            "1": 2.76,
+            "X": 3.88,
+            "2": 2.63
+        }
+    },
+    {
+        "date": "2026-11-01 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Strasbourg",
+        "away_team": "Auxerre",
+        "lambda_home": 1.81,
+        "lambda_away": 1.1,
+        "probabilities": {
+            "1": 52.5,
+            "X": 25.5,
+            "2": 22.0
+        },
+        "odds": {
+            "1": 1.9,
+            "X": 3.92,
+            "2": 4.55
+        }
+    },
+    {
+        "date": "2026-11-02 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lorient",
+        "away_team": "Brest",
+        "lambda_home": 1.56,
+        "lambda_away": 1.44,
+        "probabilities": {
+            "1": 39.4,
+            "X": 26.8,
+            "2": 33.8
+        },
+        "odds": {
+            "1": 2.54,
+            "X": 3.74,
+            "2": 2.96
+        }
+    },
+    {
+        "date": "2026-11-06 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Toulouse",
+        "away_team": "Strasbourg",
+        "lambda_home": 1.57,
+        "lambda_away": 1.32,
+        "probabilities": {
+            "1": 42.0,
+            "X": 27.2,
+            "2": 30.8
+        },
+        "odds": {
+            "1": 2.38,
+            "X": 3.68,
+            "2": 3.25
+        }
+    },
+    {
+        "date": "2026-11-07 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Auxerre",
+        "away_team": "Paris FC",
+        "lambda_home": 1.25,
+        "lambda_away": 1.41,
+        "probabilities": {
+            "1": 32.2,
+            "X": 28.7,
+            "2": 39.2
+        },
+        "odds": {
+            "1": 3.11,
+            "X": 3.49,
+            "2": 2.55
+        }
+    },
+    {
+        "date": "2026-11-07 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Paris SG",
+        "away_team": "Troyes",
+        "lambda_home": 4.09,
+        "lambda_away": 0.65,
+        "probabilities": {
+            "1": 90.5,
+            "X": 6.5,
+            "2": 3.0
+        },
+        "odds": {
+            "1": 1.11,
+            "X": 15.32,
+            "2": 20.0
+        }
+    },
+    {
+        "date": "2026-11-08 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Angers",
+        "away_team": "Nice",
+        "lambda_home": 0.92,
+        "lambda_away": 1.48,
+        "probabilities": {
+            "1": 22.0,
+            "X": 29.1,
+            "2": 48.9
+        },
+        "odds": {
+            "1": 4.54,
+            "X": 3.44,
+            "2": 2.05
+        }
+    },
+    {
+        "date": "2026-11-08 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Brest",
+        "away_team": "Lyon",
+        "lambda_home": 1.43,
+        "lambda_away": 1.72,
+        "probabilities": {
+            "1": 31.0,
+            "X": 25.8,
+            "2": 43.2
+        },
+        "odds": {
+            "1": 3.22,
+            "X": 3.88,
+            "2": 2.31
+        }
+    },
+    {
+        "date": "2026-11-08 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Le Havre",
+        "away_team": "Lorient",
+        "lambda_home": 1.3,
+        "lambda_away": 1.36,
+        "probabilities": {
+            "1": 34.4,
+            "X": 28.8,
+            "2": 36.8
+        },
+        "odds": {
+            "1": 2.91,
+            "X": 3.47,
+            "2": 2.71
+        }
+    },
+    {
+        "date": "2026-11-08 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Le Mans",
+        "away_team": "Monaco",
+        "lambda_home": 1.45,
+        "lambda_away": 2.39,
+        "probabilities": {
+            "1": 21.9,
+            "X": 21.1,
+            "2": 57.1
+        },
+        "odds": {
+            "1": 4.57,
+            "X": 4.75,
+            "2": 1.75
+        }
+    },
+    {
+        "date": "2026-11-08 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lens",
+        "away_team": "Marseille",
+        "lambda_home": 1.67,
+        "lambda_away": 1.33,
+        "probabilities": {
+            "1": 44.3,
+            "X": 26.4,
+            "2": 29.3
+        },
+        "odds": {
+            "1": 2.26,
+            "X": 3.79,
+            "2": 3.41
+        }
+    },
+    {
+        "date": "2026-11-08 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Rennes",
+        "away_team": "Lille",
+        "lambda_home": 1.32,
+        "lambda_away": 1.4,
+        "probabilities": {
+            "1": 34.0,
+            "X": 28.4,
+            "2": 37.6
+        },
+        "odds": {
+            "1": 2.94,
+            "X": 3.52,
+            "2": 2.66
+        }
+    },
+    {
+        "date": "2026-11-20 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Troyes",
+        "away_team": "Le Havre",
+        "lambda_home": 1.25,
+        "lambda_away": 1.41,
+        "probabilities": {
+            "1": 31.8,
+            "X": 28.7,
+            "2": 39.5
+        },
+        "odds": {
+            "1": 3.14,
+            "X": 3.49,
+            "2": 2.53
+        }
+    },
+    {
+        "date": "2026-11-21 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lens",
+        "away_team": "Toulouse",
+        "lambda_home": 1.78,
+        "lambda_away": 0.95,
+        "probabilities": {
+            "1": 55.5,
+            "X": 25.7,
+            "2": 18.8
+        },
+        "odds": {
+            "1": 1.8,
+            "X": 3.89,
+            "2": 5.33
+        }
+    },
+    {
+        "date": "2026-11-21 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lille",
+        "away_team": "Lyon",
+        "lambda_home": 1.59,
+        "lambda_away": 1.13,
+        "probabilities": {
+            "1": 46.6,
+            "X": 27.6,
+            "2": 25.9
+        },
+        "odds": {
+            "1": 2.15,
+            "X": 3.63,
+            "2": 3.87
+        }
+    },
+    {
+        "date": "2026-11-21 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Monaco",
+        "away_team": "Auxerre",
+        "lambda_home": 2.32,
+        "lambda_away": 1.03,
+        "probabilities": {
+            "1": 65.0,
+            "X": 20.5,
+            "2": 14.5
+        },
+        "odds": {
+            "1": 1.54,
+            "X": 4.88,
+            "2": 6.89
+        }
+    },
+    {
+        "date": "2026-11-21 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Nice",
+        "away_team": "Paris SG",
+        "lambda_home": 1.02,
+        "lambda_away": 2.0,
+        "probabilities": {
+            "1": 17.7,
+            "X": 23.5,
+            "2": 58.8
+        },
+        "odds": {
+            "1": 5.66,
+            "X": 4.25,
+            "2": 1.7
+        }
+    },
+    {
+        "date": "2026-11-21 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Strasbourg",
+        "away_team": "Brest",
+        "lambda_home": 1.76,
+        "lambda_away": 1.37,
+        "probabilities": {
+            "1": 45.6,
+            "X": 25.6,
+            "2": 28.8
+        },
+        "odds": {
+            "1": 2.19,
+            "X": 3.9,
+            "2": 3.48
+        }
+    },
+    {
+        "date": "2026-11-22 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lorient",
+        "away_team": "Rennes",
+        "lambda_home": 1.44,
+        "lambda_away": 1.67,
+        "probabilities": {
+            "1": 32.0,
+            "X": 26.1,
+            "2": 41.9
+        },
+        "odds": {
+            "1": 3.12,
+            "X": 3.83,
+            "2": 2.39
+        }
+    },
+    {
+        "date": "2026-11-22 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Marseille",
+        "away_team": "Le Mans",
+        "lambda_home": 2.93,
+        "lambda_away": 1.16,
+        "probabilities": {
+            "1": 71.9,
+            "X": 16.2,
+            "2": 11.8
+        },
+        "odds": {
+            "1": 1.39,
+            "X": 6.16,
+            "2": 8.46
+        }
+    },
+    {
+        "date": "2026-11-22 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Paris FC",
+        "away_team": "Angers",
+        "lambda_home": 1.81,
+        "lambda_away": 0.82,
+        "probabilities": {
+            "1": 59.6,
+            "X": 25.0,
+            "2": 15.4
+        },
+        "odds": {
+            "1": 1.68,
+            "X": 4.0,
+            "2": 6.5
+        }
+    },
+    {
+        "date": "2026-11-27 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Brest",
+        "away_team": "Paris FC",
+        "lambda_home": 1.51,
+        "lambda_away": 1.49,
+        "probabilities": {
+            "1": 37.0,
+            "X": 26.9,
+            "2": 36.2
+        },
+        "odds": {
+            "1": 2.7,
+            "X": 3.72,
+            "2": 2.77
+        }
+    },
+    {
+        "date": "2026-11-28 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Angers",
+        "away_team": "Lens",
+        "lambda_home": 0.81,
+        "lambda_away": 1.79,
+        "probabilities": {
+            "1": 15.3,
+            "X": 25.2,
+            "2": 59.5
+        },
+        "odds": {
+            "1": 6.53,
+            "X": 3.97,
+            "2": 1.68
+        }
+    },
+    {
+        "date": "2026-11-28 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Le Havre",
+        "away_team": "Strasbourg",
+        "lambda_home": 1.23,
+        "lambda_away": 1.57,
+        "probabilities": {
+            "1": 28.7,
+            "X": 27.5,
+            "2": 43.8
+        },
+        "odds": {
+            "1": 3.49,
+            "X": 3.64,
+            "2": 2.28
+        }
+    },
+    {
+        "date": "2026-11-28 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Le Mans",
+        "away_team": "Lille",
+        "lambda_home": 1.09,
+        "lambda_away": 2.03,
+        "probabilities": {
+            "1": 18.8,
+            "X": 23.4,
+            "2": 57.9
+        },
+        "odds": {
+            "1": 5.33,
+            "X": 4.28,
+            "2": 1.73
+        }
+    },
+    {
+        "date": "2026-11-28 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Nice",
+        "away_team": "Troyes",
+        "lambda_home": 2.29,
+        "lambda_away": 0.81,
+        "probabilities": {
+            "1": 69.4,
+            "X": 19.7,
+            "2": 10.9
+        },
+        "odds": {
+            "1": 1.44,
+            "X": 5.07,
+            "2": 9.16
+        }
+    },
+    {
+        "date": "2026-11-28 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Paris SG",
+        "away_team": "Lorient",
+        "lambda_home": 2.9,
+        "lambda_away": 0.82,
+        "probabilities": {
+            "1": 78.4,
+            "X": 14.4,
+            "2": 7.3
+        },
+        "odds": {
+            "1": 1.28,
+            "X": 6.96,
+            "2": 13.74
+        }
+    },
+    {
+        "date": "2026-11-29 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Auxerre",
+        "away_team": "Marseille",
+        "lambda_home": 1.2,
+        "lambda_away": 1.83,
+        "probabilities": {
+            "1": 23.9,
+            "X": 25.3,
+            "2": 50.8
+        },
+        "odds": {
+            "1": 4.19,
+            "X": 3.95,
+            "2": 1.97
+        }
+    },
+    {
+        "date": "2026-11-29 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lyon",
+        "away_team": "Monaco",
+        "lambda_home": 1.85,
+        "lambda_away": 1.55,
+        "probabilities": {
+            "1": 43.9,
+            "X": 24.6,
+            "2": 31.5
+        },
+        "odds": {
+            "1": 2.28,
+            "X": 4.06,
+            "2": 3.17
+        }
+    },
+    {
+        "date": "2026-11-29 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Toulouse",
+        "away_team": "Rennes",
+        "lambda_home": 1.46,
+        "lambda_away": 1.48,
+        "probabilities": {
+            "1": 36.0,
+            "X": 27.2,
+            "2": 36.9
+        },
+        "odds": {
+            "1": 2.78,
+            "X": 3.68,
+            "2": 2.71
+        }
+    },
+    {
+        "date": "2026-12-04 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Toulouse",
+        "away_team": "Paris SG",
+        "lambda_home": 1.02,
+        "lambda_away": 2.16,
+        "probabilities": {
+            "1": 15.8,
+            "X": 21.9,
+            "2": 62.3
+        },
+        "odds": {
+            "1": 6.33,
+            "X": 4.57,
+            "2": 1.6
+        }
+    },
+    {
+        "date": "2026-12-05 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lens",
+        "away_team": "Le Havre",
+        "lambda_home": 2.07,
+        "lambda_away": 0.75,
+        "probabilities": {
+            "1": 66.9,
+            "X": 21.7,
+            "2": 11.5
+        },
+        "odds": {
+            "1": 1.5,
+            "X": 4.62,
+            "2": 8.71
+        }
+    },
+    {
+        "date": "2026-12-05 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lille",
+        "away_team": "Auxerre",
+        "lambda_home": 1.92,
+        "lambda_away": 0.77,
+        "probabilities": {
+            "1": 63.5,
+            "X": 23.4,
+            "2": 13.1
+        },
+        "odds": {
+            "1": 1.58,
+            "X": 4.27,
+            "2": 7.64
+        }
+    },
+    {
+        "date": "2026-12-05 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Monaco",
+        "away_team": "Angers",
+        "lambda_home": 2.42,
+        "lambda_away": 0.79,
+        "probabilities": {
+            "1": 72.3,
+            "X": 18.2,
+            "2": 9.5
+        },
+        "odds": {
+            "1": 1.38,
+            "X": 5.49,
+            "2": 10.51
+        }
+    },
+    {
+        "date": "2026-12-05 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Paris FC",
+        "away_team": "Le Mans",
+        "lambda_home": 2.29,
+        "lambda_away": 1.24,
+        "probabilities": {
+            "1": 59.9,
+            "X": 21.4,
+            "2": 18.8
+        },
+        "odds": {
+            "1": 1.67,
+            "X": 4.68,
+            "2": 5.33
+        }
+    },
+    {
+        "date": "2026-12-05 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Strasbourg",
+        "away_team": "Lorient",
+        "lambda_home": 1.81,
+        "lambda_away": 1.28,
+        "probabilities": {
+            "1": 48.4,
+            "X": 25.4,
+            "2": 26.2
+        },
+        "odds": {
+            "1": 2.07,
+            "X": 3.93,
+            "2": 3.82
+        }
+    },
+    {
+        "date": "2026-12-06 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Marseille",
+        "away_team": "Nice",
+        "lambda_home": 1.88,
+        "lambda_away": 1.16,
+        "probabilities": {
+            "1": 53.1,
+            "X": 24.8,
+            "2": 22.1
+        },
+        "odds": {
+            "1": 1.88,
+            "X": 4.03,
+            "2": 4.53
+        }
+    },
+    {
+        "date": "2026-12-06 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Rennes",
+        "away_team": "Brest",
+        "lambda_home": 2.06,
+        "lambda_away": 1.27,
+        "probabilities": {
+            "1": 54.5,
+            "X": 23.3,
+            "2": 22.2
+        },
+        "odds": {
+            "1": 1.83,
+            "X": 4.28,
+            "2": 4.51
+        }
+    },
+    {
+        "date": "2026-12-06 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Troyes",
+        "away_team": "Lyon",
+        "lambda_home": 0.99,
+        "lambda_away": 2.45,
+        "probabilities": {
+            "1": 12.7,
+            "X": 19.2,
+            "2": 68.1
+        },
+        "odds": {
+            "1": 7.85,
+            "X": 5.22,
+            "2": 1.47
+        }
+    },
+    {
+        "date": "2026-12-11 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Auxerre",
+        "away_team": "Toulouse",
+        "lambda_home": 1.24,
+        "lambda_away": 1.35,
+        "probabilities": {
+            "1": 32.7,
+            "X": 29.2,
+            "2": 38.1
+        },
+        "odds": {
+            "1": 3.05,
+            "X": 3.42,
+            "2": 2.63
+        }
+    },
+    {
+        "date": "2026-12-12 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Angers",
+        "away_team": "Strasbourg",
+        "lambda_home": 1.08,
+        "lambda_away": 1.63,
+        "probabilities": {
+            "1": 23.9,
+            "X": 27.3,
+            "2": 48.8
+        },
+        "odds": {
+            "1": 4.18,
+            "X": 3.66,
+            "2": 2.05
+        }
+    },
+    {
+        "date": "2026-12-12 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Brest",
+        "away_team": "Troyes",
+        "lambda_home": 2.38,
+        "lambda_away": 0.98,
+        "probabilities": {
+            "1": 67.2,
+            "X": 19.7,
+            "2": 13.1
+        },
+        "odds": {
+            "1": 1.49,
+            "X": 5.07,
+            "2": 7.64
+        }
+    },
+    {
+        "date": "2026-12-12 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Le Havre",
+        "away_team": "Le Mans",
+        "lambda_home": 1.65,
+        "lambda_away": 1.43,
+        "probabilities": {
+            "1": 41.8,
+            "X": 26.2,
+            "2": 32.0
+        },
+        "odds": {
+            "1": 2.39,
+            "X": 3.81,
+            "2": 3.12
+        }
+    },
+    {
+        "date": "2026-12-12 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Nice",
+        "away_team": "Lens",
+        "lambda_home": 1.18,
+        "lambda_away": 1.32,
+        "probabilities": {
+            "1": 31.8,
+            "X": 29.8,
+            "2": 38.4
+        },
+        "odds": {
+            "1": 3.14,
+            "X": 3.36,
+            "2": 2.6
+        }
+    },
+    {
+        "date": "2026-12-12 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Paris SG",
+        "away_team": "Paris FC",
+        "lambda_home": 2.6,
+        "lambda_away": 0.91,
+        "probabilities": {
+            "1": 72.3,
+            "X": 17.4,
+            "2": 10.3
+        },
+        "odds": {
+            "1": 1.38,
+            "X": 5.74,
+            "2": 9.69
+        }
+    },
+    {
+        "date": "2026-12-13 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lorient",
+        "away_team": "Lille",
+        "lambda_home": 1.04,
+        "lambda_away": 1.63,
+        "probabilities": {
+            "1": 22.8,
+            "X": 27.3,
+            "2": 50.0
+        },
+        "odds": {
+            "1": 4.39,
+            "X": 3.67,
+            "2": 2.0
+        }
+    },
+    {
+        "date": "2026-12-13 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lyon",
+        "away_team": "Marseille",
+        "lambda_home": 1.76,
+        "lambda_away": 1.56,
+        "probabilities": {
+            "1": 41.5,
+            "X": 25.1,
+            "2": 33.4
+        },
+        "odds": {
+            "1": 2.41,
+            "X": 3.98,
+            "2": 3.0
+        }
+    },
+    {
+        "date": "2026-12-13 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Rennes",
+        "away_team": "Monaco",
+        "lambda_home": 1.78,
+        "lambda_away": 1.66,
+        "probabilities": {
+            "1": 40.2,
+            "X": 24.6,
+            "2": 35.1
+        },
+        "odds": {
+            "1": 2.49,
+            "X": 4.06,
+            "2": 2.85
+        }
+    },
+    {
+        "date": "2027-01-02 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Brest",
+        "away_team": "Marseille",
+        "lambda_home": 1.44,
+        "lambda_away": 1.87,
+        "probabilities": {
+            "1": 28.8,
+            "X": 24.8,
+            "2": 46.5
+        },
+        "odds": {
+            "1": 3.47,
+            "X": 4.04,
+            "2": 2.15
+        }
+    },
+    {
+        "date": "2027-01-02 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lorient",
+        "away_team": "Auxerre",
+        "lambda_home": 1.58,
+        "lambda_away": 1.17,
+        "probabilities": {
+            "1": 45.4,
+            "X": 27.6,
+            "2": 27.0
+        },
+        "odds": {
+            "1": 2.2,
+            "X": 3.63,
+            "2": 3.7
+        }
+    },
+    {
+        "date": "2027-01-02 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Monaco",
+        "away_team": "Nice",
+        "lambda_home": 1.85,
+        "lambda_away": 1.18,
+        "probabilities": {
+            "1": 51.9,
+            "X": 25.1,
+            "2": 23.0
+        },
+        "odds": {
+            "1": 1.93,
+            "X": 3.98,
+            "2": 4.34
+        }
+    },
+    {
+        "date": "2027-01-02 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Paris FC",
+        "away_team": "Le Havre",
+        "lambda_home": 1.84,
+        "lambda_away": 0.93,
+        "probabilities": {
+            "1": 57.4,
+            "X": 25.0,
+            "2": 17.6
+        },
+        "odds": {
+            "1": 1.74,
+            "X": 4.0,
+            "2": 5.68
+        }
+    },
+    {
+        "date": "2027-01-02 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Toulouse",
+        "away_team": "Angers",
+        "lambda_home": 1.77,
+        "lambda_away": 0.81,
+        "probabilities": {
+            "1": 58.8,
+            "X": 25.5,
+            "2": 15.7
+        },
+        "odds": {
+            "1": 1.7,
+            "X": 3.92,
+            "2": 6.36
+        }
+    },
+    {
+        "date": "2027-01-02 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Troyes",
+        "away_team": "Rennes",
+        "lambda_home": 1.04,
+        "lambda_away": 2.38,
+        "probabilities": {
+            "1": 14.2,
+            "X": 20.0,
+            "2": 65.8
+        },
+        "odds": {
+            "1": 7.03,
+            "X": 5.0,
+            "2": 1.52
+        }
+    },
+    {
+        "date": "2027-01-03 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Le Mans",
+        "away_team": "Lyon",
+        "lambda_home": 1.4,
+        "lambda_away": 2.24,
+        "probabilities": {
+            "1": 22.6,
+            "X": 22.1,
+            "2": 55.3
+        },
+        "odds": {
+            "1": 4.42,
+            "X": 4.53,
+            "2": 1.81
+        }
+    },
+    {
+        "date": "2027-01-03 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lens",
+        "away_team": "Paris SG",
+        "lambda_home": 1.22,
+        "lambda_away": 1.73,
+        "probabilities": {
+            "1": 25.8,
+            "X": 26.2,
+            "2": 48.0
+        },
+        "odds": {
+            "1": 3.88,
+            "X": 3.82,
+            "2": 2.08
+        }
+    },
+    {
+        "date": "2027-01-03 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lille",
+        "away_team": "Strasbourg",
+        "lambda_home": 1.85,
+        "lambda_away": 0.97,
+        "probabilities": {
+            "1": 56.7,
+            "X": 24.9,
+            "2": 18.4
+        },
+        "odds": {
+            "1": 1.76,
+            "X": 4.01,
+            "2": 5.43
+        }
+    },
+    {
+        "date": "2027-01-15 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Marseille",
+        "away_team": "Lille",
+        "lambda_home": 1.44,
+        "lambda_away": 1.33,
+        "probabilities": {
+            "1": 38.5,
+            "X": 28.1,
+            "2": 33.5
+        },
+        "odds": {
+            "1": 2.6,
+            "X": 3.56,
+            "2": 2.99
+        }
+    },
+    {
+        "date": "2027-01-16 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Angers",
+        "away_team": "Paris SG",
+        "lambda_home": 0.7,
+        "lambda_away": 2.62,
+        "probabilities": {
+            "1": 7.0,
+            "X": 15.7,
+            "2": 77.3
+        },
+        "odds": {
+            "1": 14.28,
+            "X": 6.37,
+            "2": 1.29
+        }
+    },
+    {
+        "date": "2027-01-16 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Auxerre",
+        "away_team": "Troyes",
+        "lambda_home": 1.92,
+        "lambda_away": 0.96,
+        "probabilities": {
+            "1": 58.6,
+            "X": 24.2,
+            "2": 17.2
+        },
+        "odds": {
+            "1": 1.71,
+            "X": 4.14,
+            "2": 5.8
+        }
+    },
+    {
+        "date": "2027-01-16 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Nice",
+        "away_team": "Le Havre",
+        "lambda_home": 1.72,
+        "lambda_away": 0.87,
+        "probabilities": {
+            "1": 56.2,
+            "X": 26.2,
+            "2": 17.6
+        },
+        "odds": {
+            "1": 1.78,
+            "X": 3.82,
+            "2": 5.67
+        }
+    },
+    {
+        "date": "2027-01-16 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Rennes",
+        "away_team": "Lens",
+        "lambda_home": 1.44,
+        "lambda_away": 1.44,
+        "probabilities": {
+            "1": 36.1,
+            "X": 27.5,
+            "2": 36.4
+        },
+        "odds": {
+            "1": 2.77,
+            "X": 3.64,
+            "2": 2.75
+        }
+    },
+    {
+        "date": "2027-01-16 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Strasbourg",
+        "away_team": "Le Mans",
+        "lambda_home": 2.36,
+        "lambda_away": 1.33,
+        "probabilities": {
+            "1": 59.2,
+            "X": 21.1,
+            "2": 19.8
+        },
+        "odds": {
+            "1": 1.69,
+            "X": 4.75,
+            "2": 5.06
+        }
+    },
+    {
+        "date": "2027-01-17 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lyon",
+        "away_team": "Lorient",
+        "lambda_home": 2.11,
+        "lambda_away": 1.09,
+        "probabilities": {
+            "1": 59.5,
+            "X": 22.6,
+            "2": 17.9
+        },
+        "odds": {
+            "1": 1.68,
+            "X": 4.42,
+            "2": 5.58
+        }
+    },
+    {
+        "date": "2027-01-17 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Monaco",
+        "away_team": "Brest",
+        "lambda_home": 2.21,
+        "lambda_away": 1.2,
+        "probabilities": {
+            "1": 58.8,
+            "X": 22.0,
+            "2": 19.1
+        },
+        "odds": {
+            "1": 1.7,
+            "X": 4.54,
+            "2": 5.23
+        }
+    },
+    {
+        "date": "2027-01-17 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Paris FC",
+        "away_team": "Toulouse",
+        "lambda_home": 1.52,
+        "lambda_away": 1.24,
+        "probabilities": {
+            "1": 42.4,
+            "X": 27.9,
+            "2": 29.7
+        },
+        "odds": {
+            "1": 2.36,
+            "X": 3.59,
+            "2": 3.37
+        }
+    },
+    {
+        "date": "2027-01-22 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Troyes",
+        "away_team": "Monaco",
+        "lambda_home": 1.09,
+        "lambda_away": 2.56,
+        "probabilities": {
+            "1": 13.6,
+            "X": 18.7,
+            "2": 67.7
+        },
+        "odds": {
+            "1": 7.37,
+            "X": 5.35,
+            "2": 1.48
+        }
+    },
+    {
+        "date": "2027-01-23 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Le Mans",
+        "away_team": "Angers",
+        "lambda_home": 1.79,
+        "lambda_away": 1.21,
+        "probabilities": {
+            "1": 49.8,
+            "X": 25.6,
+            "2": 24.6
+        },
+        "odds": {
+            "1": 2.01,
+            "X": 3.9,
+            "2": 4.07
+        }
+    },
+    {
+        "date": "2027-01-23 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lens",
+        "away_team": "Brest",
+        "lambda_home": 1.98,
+        "lambda_away": 1.02,
+        "probabilities": {
+            "1": 58.6,
+            "X": 23.7,
+            "2": 17.7
+        },
+        "odds": {
+            "1": 1.71,
+            "X": 4.23,
+            "2": 5.64
+        }
+    },
+    {
+        "date": "2027-01-23 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lille",
+        "away_team": "Paris FC",
+        "lambda_home": 1.77,
+        "lambda_away": 0.94,
+        "probabilities": {
+            "1": 55.8,
+            "X": 25.7,
+            "2": 18.5
+        },
+        "odds": {
+            "1": 1.79,
+            "X": 3.89,
+            "2": 5.41
+        }
+    },
+    {
+        "date": "2027-01-23 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Paris SG",
+        "away_team": "Auxerre",
+        "lambda_home": 2.92,
+        "lambda_away": 0.71,
+        "probabilities": {
+            "1": 80.7,
+            "X": 13.4,
+            "2": 5.8
+        },
+        "odds": {
+            "1": 1.24,
+            "X": 7.46,
+            "2": 17.11
+        }
+    },
+    {
+        "date": "2027-01-23 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Toulouse",
+        "away_team": "Nice",
+        "lambda_home": 1.36,
+        "lambda_away": 1.18,
+        "probabilities": {
+            "1": 39.4,
+            "X": 29.5,
+            "2": 31.1
+        },
+        "odds": {
+            "1": 2.54,
+            "X": 3.39,
+            "2": 3.21
+        }
+    },
+    {
+        "date": "2027-01-24 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Le Havre",
+        "away_team": "Rennes",
+        "lambda_home": 1.12,
+        "lambda_away": 1.79,
+        "probabilities": {
+            "1": 22.4,
+            "X": 25.7,
+            "2": 51.9
+        },
+        "odds": {
+            "1": 4.46,
+            "X": 3.9,
+            "2": 1.93
+        }
+    },
+    {
+        "date": "2027-01-24 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lorient",
+        "away_team": "Marseille",
+        "lambda_home": 1.34,
+        "lambda_away": 1.9,
+        "probabilities": {
+            "1": 25.9,
+            "X": 24.6,
+            "2": 49.5
+        },
+        "odds": {
+            "1": 3.86,
+            "X": 4.06,
+            "2": 2.02
+        }
+    },
+    {
+        "date": "2027-01-24 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Strasbourg",
+        "away_team": "Lyon",
+        "lambda_home": 1.54,
+        "lambda_away": 1.71,
+        "probabilities": {
+            "1": 33.7,
+            "X": 25.5,
+            "2": 40.8
+        },
+        "odds": {
+            "1": 2.97,
+            "X": 3.92,
+            "2": 2.45
+        }
+    },
+    {
+        "date": "2027-01-29 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Brest",
+        "away_team": "Strasbourg",
+        "lambda_home": 1.66,
+        "lambda_away": 1.46,
+        "probabilities": {
+            "1": 41.3,
+            "X": 26.1,
+            "2": 32.6
+        },
+        "odds": {
+            "1": 2.42,
+            "X": 3.83,
+            "2": 3.07
+        }
+    },
+    {
+        "date": "2027-01-30 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Angers",
+        "away_team": "Le Havre",
+        "lambda_home": 1.16,
+        "lambda_away": 1.1,
+        "probabilities": {
+            "1": 35.5,
+            "X": 31.6,
+            "2": 32.9
+        },
+        "odds": {
+            "1": 2.81,
+            "X": 3.17,
+            "2": 3.04
+        }
+    },
+    {
+        "date": "2027-01-30 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Le Mans",
+        "away_team": "Nice",
+        "lambda_home": 1.39,
+        "lambda_away": 1.76,
+        "probabilities": {
+            "1": 29.3,
+            "X": 25.6,
+            "2": 45.1
+        },
+        "odds": {
+            "1": 3.42,
+            "X": 3.9,
+            "2": 2.22
+        }
+    },
+    {
+        "date": "2027-01-30 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Monaco",
+        "away_team": "Paris SG",
+        "lambda_home": 1.42,
+        "lambda_away": 2.08,
+        "probabilities": {
+            "1": 25.2,
+            "X": 23.3,
+            "2": 51.5
+        },
+        "odds": {
+            "1": 3.96,
+            "X": 4.3,
+            "2": 1.94
+        }
+    },
+    {
+        "date": "2027-01-30 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Paris FC",
+        "away_team": "Auxerre",
+        "lambda_home": 1.7,
+        "lambda_away": 1.04,
+        "probabilities": {
+            "1": 51.7,
+            "X": 26.5,
+            "2": 21.7
+        },
+        "odds": {
+            "1": 1.93,
+            "X": 3.77,
+            "2": 4.6
+        }
+    },
+    {
+        "date": "2027-01-30 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Toulouse",
+        "away_team": "Lens",
+        "lambda_home": 1.15,
+        "lambda_away": 1.47,
+        "probabilities": {
+            "1": 28.4,
+            "X": 28.7,
+            "2": 43.0
+        },
+        "odds": {
+            "1": 3.53,
+            "X": 3.49,
+            "2": 2.33
+        }
+    },
+    {
+        "date": "2027-01-31 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lyon",
+        "away_team": "Lille",
+        "lambda_home": 1.37,
+        "lambda_away": 1.31,
+        "probabilities": {
+            "1": 37.1,
+            "X": 28.6,
+            "2": 34.2
+        },
+        "odds": {
+            "1": 2.69,
+            "X": 3.49,
+            "2": 2.92
+        }
+    },
+    {
+        "date": "2027-01-31 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Marseille",
+        "away_team": "Troyes",
+        "lambda_home": 3.15,
+        "lambda_away": 0.81,
+        "probabilities": {
+            "1": 81.4,
+            "X": 12.5,
+            "2": 6.0
+        },
+        "odds": {
+            "1": 1.23,
+            "X": 7.97,
+            "2": 16.54
+        }
+    },
+    {
+        "date": "2027-01-31 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Rennes",
+        "away_team": "Lorient",
+        "lambda_home": 2.02,
+        "lambda_away": 1.19,
+        "probabilities": {
+            "1": 55.4,
+            "X": 23.6,
+            "2": 21.0
+        },
+        "odds": {
+            "1": 1.8,
+            "X": 4.23,
+            "2": 4.77
+        }
+    },
+    {
+        "date": "2027-02-06 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Auxerre",
+        "away_team": "Monaco",
+        "lambda_home": 1.25,
+        "lambda_away": 1.91,
+        "probabilities": {
+            "1": 23.8,
+            "X": 24.6,
+            "2": 51.6
+        },
+        "odds": {
+            "1": 4.21,
+            "X": 4.06,
+            "2": 1.94
+        }
+    },
+    {
+        "date": "2027-02-06 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Le Havre",
+        "away_team": "Toulouse",
+        "lambda_home": 1.12,
+        "lambda_away": 1.41,
+        "probabilities": {
+            "1": 28.4,
+            "X": 29.3,
+            "2": 42.3
+        },
+        "odds": {
+            "1": 3.52,
+            "X": 3.42,
+            "2": 2.36
+        }
+    },
+    {
+        "date": "2027-02-06 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lens",
+        "away_team": "Angers",
+        "lambda_home": 2.17,
+        "lambda_away": 0.66,
+        "probabilities": {
+            "1": 70.9,
+            "X": 19.9,
+            "2": 9.1
+        },
+        "odds": {
+            "1": 1.41,
+            "X": 5.01,
+            "2": 10.94
+        }
+    },
+    {
+        "date": "2027-02-06 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lorient",
+        "away_team": "Le Mans",
+        "lambda_home": 2.08,
+        "lambda_away": 1.37,
+        "probabilities": {
+            "1": 52.6,
+            "X": 23.2,
+            "2": 24.2
+        },
+        "odds": {
+            "1": 1.9,
+            "X": 4.3,
+            "2": 4.14
+        }
+    },
+    {
+        "date": "2027-02-06 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Nice",
+        "away_team": "Brest",
+        "lambda_home": 1.62,
+        "lambda_away": 1.16,
+        "probabilities": {
+            "1": 46.7,
+            "X": 27.2,
+            "2": 26.1
+        },
+        "odds": {
+            "1": 2.14,
+            "X": 3.68,
+            "2": 3.83
+        }
+    },
+    {
+        "date": "2027-02-06 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Rennes",
+        "away_team": "Lyon",
+        "lambda_home": 1.72,
+        "lambda_away": 1.57,
+        "probabilities": {
+            "1": 40.5,
+            "X": 25.3,
+            "2": 34.2
+        },
+        "odds": {
+            "1": 2.47,
+            "X": 3.96,
+            "2": 2.92
+        }
+    },
+    {
+        "date": "2027-02-06 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Strasbourg",
+        "away_team": "Paris FC",
+        "lambda_home": 1.63,
+        "lambda_away": 1.4,
+        "probabilities": {
+            "1": 41.7,
+            "X": 26.4,
+            "2": 31.8
+        },
+        "odds": {
+            "1": 2.4,
+            "X": 3.78,
+            "2": 3.14
+        }
+    },
+    {
+        "date": "2027-02-06 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Troyes",
+        "away_team": "Lille",
+        "lambda_home": 0.77,
+        "lambda_away": 2.22,
+        "probabilities": {
+            "1": 10.6,
+            "X": 20.1,
+            "2": 69.3
+        },
+        "odds": {
+            "1": 9.44,
+            "X": 4.97,
+            "2": 1.44
+        }
+    },
+    {
+        "date": "2027-02-07 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Paris SG",
+        "away_team": "Marseille",
+        "lambda_home": 2.49,
+        "lambda_away": 1.13,
+        "probabilities": {
+            "1": 65.9,
+            "X": 19.4,
+            "2": 14.7
+        },
+        "odds": {
+            "1": 1.52,
+            "X": 5.16,
+            "2": 6.8
+        }
+    },
+    {
+        "date": "2027-02-13 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Auxerre",
+        "away_team": "Strasbourg",
+        "lambda_home": 1.34,
+        "lambda_away": 1.49,
+        "probabilities": {
+            "1": 32.8,
+            "X": 27.7,
+            "2": 39.6
+        },
+        "odds": {
+            "1": 3.05,
+            "X": 3.61,
+            "2": 2.53
+        }
+    },
+    {
+        "date": "2027-02-13 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Brest",
+        "away_team": "Rennes",
+        "lambda_home": 1.53,
+        "lambda_away": 1.7,
+        "probabilities": {
+            "1": 33.7,
+            "X": 25.5,
+            "2": 40.7
+        },
+        "odds": {
+            "1": 2.96,
+            "X": 3.92,
+            "2": 2.46
+        }
+    },
+    {
+        "date": "2027-02-13 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Le Mans",
+        "away_team": "Paris SG",
+        "lambda_home": 1.05,
+        "lambda_away": 3.06,
+        "probabilities": {
+            "1": 9.3,
+            "X": 14.7,
+            "2": 76.0
+        },
+        "odds": {
+            "1": 10.71,
+            "X": 6.82,
+            "2": 1.32
+        }
+    },
+    {
+        "date": "2027-02-13 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lille",
+        "away_team": "Nice",
+        "lambda_home": 1.57,
+        "lambda_away": 0.88,
+        "probabilities": {
+            "1": 52.0,
+            "X": 28.1,
+            "2": 19.9
+        },
+        "odds": {
+            "1": 1.92,
+            "X": 3.56,
+            "2": 5.02
+        }
+    },
+    {
+        "date": "2027-02-13 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lorient",
+        "away_team": "Le Havre",
+        "lambda_home": 1.64,
+        "lambda_away": 1.07,
+        "probabilities": {
+            "1": 49.3,
+            "X": 27.1,
+            "2": 23.6
+        },
+        "odds": {
+            "1": 2.03,
+            "X": 3.69,
+            "2": 4.24
+        }
+    },
+    {
+        "date": "2027-02-13 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lyon",
+        "away_team": "Lens",
+        "lambda_home": 1.49,
+        "lambda_away": 1.38,
+        "probabilities": {
+            "1": 38.8,
+            "X": 27.5,
+            "2": 33.7
+        },
+        "odds": {
+            "1": 2.58,
+            "X": 3.64,
+            "2": 2.97
+        }
+    },
+    {
+        "date": "2027-02-13 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Marseille",
+        "away_team": "Angers",
+        "lambda_home": 2.51,
+        "lambda_away": 0.79,
+        "probabilities": {
+            "1": 73.7,
+            "X": 17.4,
+            "2": 8.9
+        },
+        "odds": {
+            "1": 1.36,
+            "X": 5.76,
+            "2": 11.18
+        }
+    },
+    {
+        "date": "2027-02-13 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Paris FC",
+        "away_team": "Troyes",
+        "lambda_home": 2.39,
+        "lambda_away": 0.89,
+        "probabilities": {
+            "1": 69.5,
+            "X": 19.1,
+            "2": 11.4
+        },
+        "odds": {
+            "1": 1.44,
+            "X": 5.24,
+            "2": 8.8
+        }
+    },
+    {
+        "date": "2027-02-13 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Toulouse",
+        "away_team": "Monaco",
+        "lambda_home": 1.41,
+        "lambda_away": 1.64,
+        "probabilities": {
+            "1": 31.8,
+            "X": 26.4,
+            "2": 41.9
+        },
+        "odds": {
+            "1": 3.15,
+            "X": 3.79,
+            "2": 2.39
+        }
+    },
+    {
+        "date": "2027-02-20 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Angers",
+        "away_team": "Paris FC",
+        "lambda_home": 0.99,
+        "lambda_away": 1.5,
+        "probabilities": {
+            "1": 23.8,
+            "X": 28.8,
+            "2": 47.4
+        },
+        "odds": {
+            "1": 4.2,
+            "X": 3.47,
+            "2": 2.11
+        }
+    },
+    {
+        "date": "2027-02-20 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Le Havre",
+        "away_team": "Lyon",
+        "lambda_home": 1.04,
+        "lambda_away": 1.81,
+        "probabilities": {
+            "1": 20.5,
+            "X": 25.5,
+            "2": 54.0
+        },
+        "odds": {
+            "1": 4.87,
+            "X": 3.93,
+            "2": 1.85
+        }
+    },
+    {
+        "date": "2027-02-20 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lens",
+        "away_team": "Troyes",
+        "lambda_home": 2.72,
+        "lambda_away": 0.7,
+        "probabilities": {
+            "1": 78.6,
+            "X": 14.9,
+            "2": 6.5
+        },
+        "odds": {
+            "1": 1.27,
+            "X": 6.72,
+            "2": 15.31
+        }
+    },
+    {
+        "date": "2027-02-20 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lille",
+        "away_team": "Lorient",
+        "lambda_home": 1.99,
+        "lambda_away": 0.86,
+        "probabilities": {
+            "1": 62.7,
+            "X": 23.0,
+            "2": 14.3
+        },
+        "odds": {
+            "1": 1.6,
+            "X": 4.34,
+            "2": 7.01
+        }
+    },
+    {
+        "date": "2027-02-20 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Monaco",
+        "away_team": "Le Mans",
+        "lambda_home": 2.91,
+        "lambda_away": 1.19,
+        "probabilities": {
+            "1": 71.2,
+            "X": 16.5,
+            "2": 12.4
+        },
+        "odds": {
+            "1": 1.41,
+            "X": 6.07,
+            "2": 8.08
+        }
+    },
+    {
+        "date": "2027-02-20 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Nice",
+        "away_team": "Auxerre",
+        "lambda_home": 1.63,
+        "lambda_away": 0.98,
+        "probabilities": {
+            "1": 51.2,
+            "X": 27.4,
+            "2": 21.4
+        },
+        "odds": {
+            "1": 1.95,
+            "X": 3.65,
+            "2": 4.68
+        }
+    },
+    {
+        "date": "2027-02-20 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Paris SG",
+        "away_team": "Brest",
+        "lambda_home": 2.9,
+        "lambda_away": 0.87,
+        "probabilities": {
+            "1": 77.5,
+            "X": 14.7,
+            "2": 7.8
+        },
+        "odds": {
+            "1": 1.29,
+            "X": 6.81,
+            "2": 12.74
+        }
+    },
+    {
+        "date": "2027-02-20 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Rennes",
+        "away_team": "Toulouse",
+        "lambda_home": 1.79,
+        "lambda_away": 1.2,
+        "probabilities": {
+            "1": 49.9,
+            "X": 25.6,
+            "2": 24.5
+        },
+        "odds": {
+            "1": 2.0,
+            "X": 3.9,
+            "2": 4.09
+        }
+    },
+    {
+        "date": "2027-02-20 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Strasbourg",
+        "away_team": "Marseille",
+        "lambda_home": 1.52,
+        "lambda_away": 1.8,
+        "probabilities": {
+            "1": 31.7,
+            "X": 25.0,
+            "2": 43.4
+        },
+        "odds": {
+            "1": 3.16,
+            "X": 4.01,
+            "2": 2.31
+        }
+    },
+    {
+        "date": "2027-02-27 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Auxerre",
+        "away_team": "Lille",
+        "lambda_home": 0.93,
+        "lambda_away": 1.59,
+        "probabilities": {
+            "1": 20.8,
+            "X": 27.8,
+            "2": 51.4
+        },
+        "odds": {
+            "1": 4.81,
+            "X": 3.59,
+            "2": 1.95
+        }
+    },
+    {
+        "date": "2027-02-27 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Brest",
+        "away_team": "Monaco",
+        "lambda_home": 1.46,
+        "lambda_away": 1.82,
+        "probabilities": {
+            "1": 30.0,
+            "X": 25.0,
+            "2": 45.0
+        },
+        "odds": {
+            "1": 3.34,
+            "X": 4.0,
+            "2": 2.22
+        }
+    },
+    {
+        "date": "2027-02-27 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Le Mans",
+        "away_team": "Paris FC",
+        "lambda_home": 1.51,
+        "lambda_away": 1.88,
+        "probabilities": {
+            "1": 30.1,
+            "X": 24.5,
+            "2": 45.4
+        },
+        "odds": {
+            "1": 3.32,
+            "X": 4.08,
+            "2": 2.2
+        }
+    },
+    {
+        "date": "2027-02-27 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lorient",
+        "away_team": "Angers",
+        "lambda_home": 1.69,
+        "lambda_away": 0.92,
+        "probabilities": {
+            "1": 54.2,
+            "X": 26.7,
+            "2": 19.1
+        },
+        "odds": {
+            "1": 1.84,
+            "X": 3.75,
+            "2": 5.24
+        }
+    },
+    {
+        "date": "2027-02-27 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lyon",
+        "away_team": "Toulouse",
+        "lambda_home": 1.87,
+        "lambda_away": 1.11,
+        "probabilities": {
+            "1": 53.7,
+            "X": 24.9,
+            "2": 21.3
+        },
+        "odds": {
+            "1": 1.86,
+            "X": 4.01,
+            "2": 4.69
+        }
+    },
+    {
+        "date": "2027-02-27 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Marseille",
+        "away_team": "Rennes",
+        "lambda_home": 2.0,
+        "lambda_away": 1.42,
+        "probabilities": {
+            "1": 49.9,
+            "X": 23.8,
+            "2": 26.3
+        },
+        "odds": {
+            "1": 2.0,
+            "X": 4.19,
+            "2": 3.81
+        }
+    },
+    {
+        "date": "2027-02-27 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Strasbourg",
+        "away_team": "Le Havre",
+        "lambda_home": 1.9,
+        "lambda_away": 1.02,
+        "probabilities": {
+            "1": 56.8,
+            "X": 24.5,
+            "2": 18.7
+        },
+        "odds": {
+            "1": 1.76,
+            "X": 4.08,
+            "2": 5.34
+        }
+    },
+    {
+        "date": "2027-02-27 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Troyes",
+        "away_team": "Nice",
+        "lambda_home": 0.99,
+        "lambda_away": 1.89,
+        "probabilities": {
+            "1": 18.3,
+            "X": 24.6,
+            "2": 57.1
+        },
+        "odds": {
+            "1": 5.48,
+            "X": 4.06,
+            "2": 1.75
+        }
+    },
+    {
+        "date": "2027-02-28 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Paris SG",
+        "away_team": "Lens",
+        "lambda_home": 2.09,
+        "lambda_away": 1.0,
+        "probabilities": {
+            "1": 61.1,
+            "X": 22.6,
+            "2": 16.3
+        },
+        "odds": {
+            "1": 1.64,
+            "X": 4.43,
+            "2": 6.13
+        }
+    },
+    {
+        "date": "2027-03-06 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Angers",
+        "away_team": "Auxerre",
+        "lambda_home": 1.13,
+        "lambda_away": 1.25,
+        "probabilities": {
+            "1": 31.7,
+            "X": 30.6,
+            "2": 37.7
+        },
+        "odds": {
+            "1": 3.16,
+            "X": 3.27,
+            "2": 2.65
+        }
+    },
+    {
+        "date": "2027-03-06 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Le Havre",
+        "away_team": "Nice",
+        "lambda_home": 1.06,
+        "lambda_away": 1.42,
+        "probabilities": {
+            "1": 26.7,
+            "X": 29.4,
+            "2": 43.9
+        },
+        "odds": {
+            "1": 3.75,
+            "X": 3.4,
+            "2": 2.28
+        }
+    },
+    {
+        "date": "2027-03-06 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lens",
+        "away_team": "Strasbourg",
+        "lambda_home": 1.91,
+        "lambda_away": 1.07,
+        "probabilities": {
+            "1": 55.7,
+            "X": 24.5,
+            "2": 19.8
+        },
+        "odds": {
+            "1": 1.79,
+            "X": 4.09,
+            "2": 5.05
+        }
+    },
+    {
+        "date": "2027-03-06 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lille",
+        "away_team": "Marseille",
+        "lambda_home": 1.61,
+        "lambda_away": 1.19,
+        "probabilities": {
+            "1": 45.9,
+            "X": 27.3,
+            "2": 26.9
+        },
+        "odds": {
+            "1": 2.18,
+            "X": 3.67,
+            "2": 3.72
+        }
+    },
+    {
+        "date": "2027-03-06 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Monaco",
+        "away_team": "Lyon",
+        "lambda_home": 1.88,
+        "lambda_away": 1.53,
+        "probabilities": {
+            "1": 44.9,
+            "X": 24.5,
+            "2": 30.6
+        },
+        "odds": {
+            "1": 2.23,
+            "X": 4.08,
+            "2": 3.27
+        }
+    },
+    {
+        "date": "2027-03-06 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Paris FC",
+        "away_team": "Brest",
+        "lambda_home": 1.81,
+        "lambda_away": 1.24,
+        "probabilities": {
+            "1": 49.5,
+            "X": 25.4,
+            "2": 25.1
+        },
+        "odds": {
+            "1": 2.02,
+            "X": 3.93,
+            "2": 3.99
+        }
+    },
+    {
+        "date": "2027-03-06 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Paris SG",
+        "away_team": "Rennes",
+        "lambda_home": 2.61,
+        "lambda_away": 1.05,
+        "probabilities": {
+            "1": 69.4,
+            "X": 18.1,
+            "2": 12.5
+        },
+        "odds": {
+            "1": 1.44,
+            "X": 5.52,
+            "2": 8.0
+        }
+    },
+    {
+        "date": "2027-03-06 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Toulouse",
+        "away_team": "Le Mans",
+        "lambda_home": 2.13,
+        "lambda_away": 1.21,
+        "probabilities": {
+            "1": 57.1,
+            "X": 22.7,
+            "2": 20.2
+        },
+        "odds": {
+            "1": 1.75,
+            "X": 4.4,
+            "2": 4.95
+        }
+    },
+    {
+        "date": "2027-03-06 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Troyes",
+        "away_team": "Lorient",
+        "lambda_home": 1.2,
+        "lambda_away": 1.81,
+        "probabilities": {
+            "1": 24.2,
+            "X": 25.5,
+            "2": 50.3
+        },
+        "odds": {
+            "1": 4.14,
+            "X": 3.92,
+            "2": 1.99
+        }
+    },
+    {
+        "date": "2027-03-13 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Auxerre",
+        "away_team": "Paris SG",
+        "lambda_home": 0.87,
+        "lambda_away": 2.41,
+        "probabilities": {
+            "1": 10.9,
+            "X": 18.9,
+            "2": 70.2
+        },
+        "odds": {
+            "1": 9.16,
+            "X": 5.3,
+            "2": 1.42
+        }
+    },
+    {
+        "date": "2027-03-13 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Brest",
+        "away_team": "Lille",
+        "lambda_home": 1.11,
+        "lambda_away": 1.54,
+        "probabilities": {
+            "1": 26.1,
+            "X": 28.1,
+            "2": 45.7
+        },
+        "odds": {
+            "1": 3.83,
+            "X": 3.56,
+            "2": 2.19
+        }
+    },
+    {
+        "date": "2027-03-13 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Le Havre",
+        "away_team": "Lens",
+        "lambda_home": 0.91,
+        "lambda_away": 1.71,
+        "probabilities": {
+            "1": 18.7,
+            "X": 26.4,
+            "2": 54.9
+        },
+        "odds": {
+            "1": 5.35,
+            "X": 3.78,
+            "2": 1.82
+        }
+    },
+    {
+        "date": "2027-03-13 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Le Mans",
+        "away_team": "Rennes",
+        "lambda_home": 1.49,
+        "lambda_away": 2.19,
+        "probabilities": {
+            "1": 25.1,
+            "X": 22.5,
+            "2": 52.4
+        },
+        "odds": {
+            "1": 3.98,
+            "X": 4.45,
+            "2": 1.91
+        }
+    },
+    {
+        "date": "2027-03-13 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lyon",
+        "away_team": "Troyes",
+        "lambda_home": 2.99,
+        "lambda_away": 0.82,
+        "probabilities": {
+            "1": 79.5,
+            "X": 13.7,
+            "2": 6.8
+        },
+        "odds": {
+            "1": 1.26,
+            "X": 7.31,
+            "2": 14.71
+        }
+    },
+    {
+        "date": "2027-03-13 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Marseille",
+        "away_team": "Monaco",
+        "lambda_home": 1.95,
+        "lambda_away": 1.58,
+        "probabilities": {
+            "1": 45.4,
+            "X": 23.9,
+            "2": 30.7
+        },
+        "odds": {
+            "1": 2.2,
+            "X": 4.18,
+            "2": 3.26
+        }
+    },
+    {
+        "date": "2027-03-13 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Nice",
+        "away_team": "Toulouse",
+        "lambda_home": 1.43,
+        "lambda_away": 1.12,
+        "probabilities": {
+            "1": 42.8,
+            "X": 29.1,
+            "2": 28.1
+        },
+        "odds": {
+            "1": 2.34,
+            "X": 3.44,
+            "2": 3.55
+        }
+    },
+    {
+        "date": "2027-03-13 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Paris FC",
+        "away_team": "Lorient",
+        "lambda_home": 1.74,
+        "lambda_away": 1.16,
+        "probabilities": {
+            "1": 49.6,
+            "X": 26.1,
+            "2": 24.3
+        },
+        "odds": {
+            "1": 2.01,
+            "X": 3.83,
+            "2": 4.12
+        }
+    },
+    {
+        "date": "2027-03-13 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Strasbourg",
+        "away_team": "Angers",
+        "lambda_home": 1.97,
+        "lambda_away": 0.89,
+        "probabilities": {
+            "1": 61.4,
+            "X": 23.4,
+            "2": 15.2
+        },
+        "odds": {
+            "1": 1.63,
+            "X": 4.27,
+            "2": 6.58
+        }
+    },
+    {
+        "date": "2027-03-20 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Angers",
+        "away_team": "Le Mans",
+        "lambda_home": 1.47,
+        "lambda_away": 1.47,
+        "probabilities": {
+            "1": 36.5,
+            "X": 27.1,
+            "2": 36.4
+        },
+        "odds": {
+            "1": 2.74,
+            "X": 3.69,
+            "2": 2.75
+        }
+    },
+    {
+        "date": "2027-03-20 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lens",
+        "away_team": "Lille",
+        "lambda_home": 1.26,
+        "lambda_away": 1.14,
+        "probabilities": {
+            "1": 37.5,
+            "X": 30.5,
+            "2": 32.0
+        },
+        "odds": {
+            "1": 2.66,
+            "X": 3.28,
+            "2": 3.13
+        }
+    },
+    {
+        "date": "2027-03-20 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lorient",
+        "away_team": "Nice",
+        "lambda_home": 1.32,
+        "lambda_away": 1.37,
+        "probabilities": {
+            "1": 34.7,
+            "X": 28.6,
+            "2": 36.7
+        },
+        "odds": {
+            "1": 2.88,
+            "X": 3.5,
+            "2": 2.72
+        }
+    },
+    {
+        "date": "2027-03-20 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Monaco",
+        "away_team": "Le Havre",
+        "lambda_home": 2.32,
+        "lambda_away": 0.89,
+        "probabilities": {
+            "1": 68.3,
+            "X": 19.8,
+            "2": 11.9
+        },
+        "odds": {
+            "1": 1.46,
+            "X": 5.06,
+            "2": 8.38
+        }
+    },
+    {
+        "date": "2027-03-20 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Paris SG",
+        "away_team": "Strasbourg",
+        "lambda_home": 2.88,
+        "lambda_away": 0.93,
+        "probabilities": {
+            "1": 75.9,
+            "X": 15.2,
+            "2": 8.8
+        },
+        "odds": {
+            "1": 1.32,
+            "X": 6.56,
+            "2": 11.36
+        }
+    },
+    {
+        "date": "2027-03-20 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Rennes",
+        "away_team": "Paris FC",
+        "lambda_home": 1.88,
+        "lambda_away": 1.3,
+        "probabilities": {
+            "1": 49.7,
+            "X": 24.8,
+            "2": 25.5
+        },
+        "odds": {
+            "1": 2.01,
+            "X": 4.03,
+            "2": 3.93
+        }
+    },
+    {
+        "date": "2027-03-20 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Toulouse",
+        "away_team": "Brest",
+        "lambda_home": 1.6,
+        "lambda_away": 1.27,
+        "probabilities": {
+            "1": 43.8,
+            "X": 27.2,
+            "2": 29.0
+        },
+        "odds": {
+            "1": 2.28,
+            "X": 3.68,
+            "2": 3.44
+        }
+    },
+    {
+        "date": "2027-03-20 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Troyes",
+        "away_team": "Auxerre",
+        "lambda_home": 1.16,
+        "lambda_away": 1.59,
+        "probabilities": {
+            "1": 26.7,
+            "X": 27.5,
+            "2": 45.8
+        },
+        "odds": {
+            "1": 3.75,
+            "X": 3.63,
+            "2": 2.18
+        }
+    },
+    {
+        "date": "2027-03-21 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Marseille",
+        "away_team": "Lyon",
+        "lambda_home": 1.9,
+        "lambda_away": 1.45,
+        "probabilities": {
+            "1": 46.9,
+            "X": 24.5,
+            "2": 28.6
+        },
+        "odds": {
+            "1": 2.13,
+            "X": 4.08,
+            "2": 3.5
+        }
+    },
+    {
+        "date": "2027-04-03 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Angers",
+        "away_team": "Monaco",
+        "lambda_home": 0.95,
+        "lambda_away": 2.0,
+        "probabilities": {
+            "1": 16.3,
+            "X": 23.4,
+            "2": 60.3
+        },
+        "odds": {
+            "1": 6.13,
+            "X": 4.28,
+            "2": 1.66
+        }
+    },
+    {
+        "date": "2027-04-03 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Auxerre",
+        "away_team": "Lens",
+        "lambda_home": 1.03,
+        "lambda_away": 1.65,
+        "probabilities": {
+            "1": 22.4,
+            "X": 27.1,
+            "2": 50.5
+        },
+        "odds": {
+            "1": 4.47,
+            "X": 3.69,
+            "2": 1.98
+        }
+    },
+    {
+        "date": "2027-04-03 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Brest",
+        "away_team": "Lorient",
+        "lambda_home": 1.74,
+        "lambda_away": 1.29,
+        "probabilities": {
+            "1": 46.8,
+            "X": 26.0,
+            "2": 27.3
+        },
+        "odds": {
+            "1": 2.14,
+            "X": 3.85,
+            "2": 3.67
+        }
+    },
+    {
+        "date": "2027-04-03 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Le Havre",
+        "away_team": "Troyes",
+        "lambda_home": 1.72,
+        "lambda_away": 1.02,
+        "probabilities": {
+            "1": 52.5,
+            "X": 26.3,
+            "2": 21.2
+        },
+        "odds": {
+            "1": 1.91,
+            "X": 3.8,
+            "2": 4.72
+        }
+    },
+    {
+        "date": "2027-04-03 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Le Mans",
+        "away_team": "Marseille",
+        "lambda_home": 1.41,
+        "lambda_away": 2.4,
+        "probabilities": {
+            "1": 21.0,
+            "X": 20.9,
+            "2": 58.0
+        },
+        "odds": {
+            "1": 4.75,
+            "X": 4.78,
+            "2": 1.72
+        }
+    },
+    {
+        "date": "2027-04-03 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lille",
+        "away_team": "Rennes",
+        "lambda_home": 1.7,
+        "lambda_away": 1.09,
+        "probabilities": {
+            "1": 50.3,
+            "X": 26.6,
+            "2": 23.1
+        },
+        "odds": {
+            "1": 1.99,
+            "X": 3.76,
+            "2": 4.32
+        }
+    },
+    {
+        "date": "2027-04-03 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Nice",
+        "away_team": "Lyon",
+        "lambda_home": 1.37,
+        "lambda_away": 1.46,
+        "probabilities": {
+            "1": 34.1,
+            "X": 27.8,
+            "2": 38.1
+        },
+        "odds": {
+            "1": 2.93,
+            "X": 3.6,
+            "2": 2.62
+        }
+    },
+    {
+        "date": "2027-04-03 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Paris FC",
+        "away_team": "Paris SG",
+        "lambda_home": 1.11,
+        "lambda_away": 2.14,
+        "probabilities": {
+            "1": 17.9,
+            "X": 22.4,
+            "2": 59.8
+        },
+        "odds": {
+            "1": 5.6,
+            "X": 4.47,
+            "2": 1.67
+        }
+    },
+    {
+        "date": "2027-04-03 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Strasbourg",
+        "away_team": "Toulouse",
+        "lambda_home": 1.6,
+        "lambda_away": 1.29,
+        "probabilities": {
+            "1": 43.2,
+            "X": 27.1,
+            "2": 29.8
+        },
+        "odds": {
+            "1": 2.32,
+            "X": 3.69,
+            "2": 3.36
+        }
+    },
+    {
+        "date": "2027-04-10 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Le Mans",
+        "away_team": "Auxerre",
+        "lambda_home": 1.66,
+        "lambda_away": 1.52,
+        "probabilities": {
+            "1": 40.0,
+            "X": 25.8,
+            "2": 34.2
+        },
+        "odds": {
+            "1": 2.5,
+            "X": 3.87,
+            "2": 2.92
+        }
+    },
+    {
+        "date": "2027-04-10 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lille",
+        "away_team": "Toulouse",
+        "lambda_home": 1.71,
+        "lambda_away": 0.87,
+        "probabilities": {
+            "1": 56.0,
+            "X": 26.3,
+            "2": 17.6
+        },
+        "odds": {
+            "1": 1.79,
+            "X": 3.8,
+            "2": 5.67
+        }
+    },
+    {
+        "date": "2027-04-10 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lorient",
+        "away_team": "Lens",
+        "lambda_home": 1.14,
+        "lambda_away": 1.68,
+        "probabilities": {
+            "1": 24.6,
+            "X": 26.7,
+            "2": 48.7
+        },
+        "odds": {
+            "1": 4.07,
+            "X": 3.74,
+            "2": 2.05
+        }
+    },
+    {
+        "date": "2027-04-10 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lyon",
+        "away_team": "Strasbourg",
+        "lambda_home": 2.07,
+        "lambda_away": 1.27,
+        "probabilities": {
+            "1": 54.6,
+            "X": 23.3,
+            "2": 22.1
+        },
+        "odds": {
+            "1": 1.83,
+            "X": 4.3,
+            "2": 4.53
+        }
+    },
+    {
+        "date": "2027-04-10 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Marseille",
+        "away_team": "Brest",
+        "lambda_home": 2.26,
+        "lambda_away": 1.19,
+        "probabilities": {
+            "1": 60.3,
+            "X": 21.5,
+            "2": 18.2
+        },
+        "odds": {
+            "1": 1.66,
+            "X": 4.64,
+            "2": 5.51
+        }
+    },
+    {
+        "date": "2027-04-10 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Monaco",
+        "away_team": "Rennes",
+        "lambda_home": 2.01,
+        "lambda_away": 1.47,
+        "probabilities": {
+            "1": 49.0,
+            "X": 23.7,
+            "2": 27.3
+        },
+        "odds": {
+            "1": 2.04,
+            "X": 4.22,
+            "2": 3.66
+        }
+    },
+    {
+        "date": "2027-04-10 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Nice",
+        "away_team": "Paris FC",
+        "lambda_home": 1.44,
+        "lambda_away": 1.22,
+        "probabilities": {
+            "1": 40.9,
+            "X": 28.6,
+            "2": 30.5
+        },
+        "odds": {
+            "1": 2.45,
+            "X": 3.5,
+            "2": 3.27
+        }
+    },
+    {
+        "date": "2027-04-10 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Paris SG",
+        "away_team": "Le Havre",
+        "lambda_home": 3.09,
+        "lambda_away": 0.65,
+        "probabilities": {
+            "1": 83.8,
+            "X": 11.7,
+            "2": 4.5
+        },
+        "odds": {
+            "1": 1.19,
+            "X": 8.58,
+            "2": 20.0
+        }
+    },
+    {
+        "date": "2027-04-10 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Troyes",
+        "away_team": "Angers",
+        "lambda_home": 1.29,
+        "lambda_away": 1.28,
+        "probabilities": {
+            "1": 35.4,
+            "X": 29.4,
+            "2": 35.2
+        },
+        "odds": {
+            "1": 2.82,
+            "X": 3.4,
+            "2": 2.84
+        }
+    },
+    {
+        "date": "2027-04-17 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Angers",
+        "away_team": "Lyon",
+        "lambda_home": 0.91,
+        "lambda_away": 1.9,
+        "probabilities": {
+            "1": 16.4,
+            "X": 24.2,
+            "2": 59.4
+        },
+        "odds": {
+            "1": 6.1,
+            "X": 4.12,
+            "2": 1.68
+        }
+    },
+    {
+        "date": "2027-04-17 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Auxerre",
+        "away_team": "Lorient",
+        "lambda_home": 1.42,
+        "lambda_away": 1.3,
+        "probabilities": {
+            "1": 38.6,
+            "X": 28.3,
+            "2": 33.1
+        },
+        "odds": {
+            "1": 2.59,
+            "X": 3.53,
+            "2": 3.02
+        }
+    },
+    {
+        "date": "2027-04-17 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Brest",
+        "away_team": "Le Mans",
+        "lambda_home": 2.23,
+        "lambda_away": 1.35,
+        "probabilities": {
+            "1": 56.2,
+            "X": 22.1,
+            "2": 21.7
+        },
+        "odds": {
+            "1": 1.78,
+            "X": 4.53,
+            "2": 4.61
+        }
+    },
+    {
+        "date": "2027-04-17 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Le Havre",
+        "away_team": "Marseille",
+        "lambda_home": 1.07,
+        "lambda_away": 2.01,
+        "probabilities": {
+            "1": 18.5,
+            "X": 23.5,
+            "2": 57.9
+        },
+        "odds": {
+            "1": 5.39,
+            "X": 4.25,
+            "2": 1.73
+        }
+    },
+    {
+        "date": "2027-04-17 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lens",
+        "away_team": "Nice",
+        "lambda_home": 1.6,
+        "lambda_away": 0.97,
+        "probabilities": {
+            "1": 50.6,
+            "X": 27.7,
+            "2": 21.7
+        },
+        "odds": {
+            "1": 1.98,
+            "X": 3.61,
+            "2": 4.6
+        }
+    },
+    {
+        "date": "2027-04-17 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Monaco",
+        "away_team": "Strasbourg",
+        "lambda_home": 2.22,
+        "lambda_away": 1.3,
+        "probabilities": {
+            "1": 56.9,
+            "X": 22.1,
+            "2": 21.0
+        },
+        "odds": {
+            "1": 1.76,
+            "X": 4.52,
+            "2": 4.77
+        }
+    },
+    {
+        "date": "2027-04-17 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Paris SG",
+        "away_team": "Lille",
+        "lambda_home": 1.94,
+        "lambda_away": 0.97,
+        "probabilities": {
+            "1": 58.5,
+            "X": 24.1,
+            "2": 17.4
+        },
+        "odds": {
+            "1": 1.71,
+            "X": 4.15,
+            "2": 5.74
+        }
+    },
+    {
+        "date": "2027-04-17 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Rennes",
+        "away_team": "Troyes",
+        "lambda_home": 2.88,
+        "lambda_away": 0.86,
+        "probabilities": {
+            "1": 77.4,
+            "X": 14.7,
+            "2": 7.8
+        },
+        "odds": {
+            "1": 1.29,
+            "X": 6.78,
+            "2": 12.79
+        }
+    },
+    {
+        "date": "2027-04-17 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Toulouse",
+        "away_team": "Paris FC",
+        "lambda_home": 1.5,
+        "lambda_away": 1.25,
+        "probabilities": {
+            "1": 41.7,
+            "X": 28.0,
+            "2": 30.4
+        },
+        "odds": {
+            "1": 2.4,
+            "X": 3.58,
+            "2": 3.29
+        }
+    },
+    {
+        "date": "2027-04-24 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Le Mans",
+        "away_team": "Le Havre",
+        "lambda_home": 1.74,
+        "lambda_away": 1.36,
+        "probabilities": {
+            "1": 45.3,
+            "X": 25.8,
+            "2": 28.9
+        },
+        "odds": {
+            "1": 2.21,
+            "X": 3.87,
+            "2": 3.47
+        }
+    },
+    {
+        "date": "2027-04-24 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lille",
+        "away_team": "Monaco",
+        "lambda_home": 1.64,
+        "lambda_away": 1.18,
+        "probabilities": {
+            "1": 46.9,
+            "X": 27.0,
+            "2": 26.1
+        },
+        "odds": {
+            "1": 2.13,
+            "X": 3.7,
+            "2": 3.83
+        }
+    },
+    {
+        "date": "2027-04-24 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lorient",
+        "away_team": "Paris SG",
+        "lambda_home": 1.0,
+        "lambda_away": 2.39,
+        "probabilities": {
+            "1": 13.3,
+            "X": 19.7,
+            "2": 67.0
+        },
+        "odds": {
+            "1": 7.49,
+            "X": 5.08,
+            "2": 1.49
+        }
+    },
+    {
+        "date": "2027-04-24 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lyon",
+        "away_team": "Brest",
+        "lambda_home": 2.08,
+        "lambda_away": 1.18,
+        "probabilities": {
+            "1": 56.8,
+            "X": 23.1,
+            "2": 20.1
+        },
+        "odds": {
+            "1": 1.76,
+            "X": 4.34,
+            "2": 4.98
+        }
+    },
+    {
+        "date": "2027-04-24 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Marseille",
+        "away_team": "Auxerre",
+        "lambda_home": 2.22,
+        "lambda_away": 0.99,
+        "probabilities": {
+            "1": 63.9,
+            "X": 21.3,
+            "2": 14.8
+        },
+        "odds": {
+            "1": 1.56,
+            "X": 4.7,
+            "2": 6.76
+        }
+    },
+    {
+        "date": "2027-04-24 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Nice",
+        "away_team": "Angers",
+        "lambda_home": 1.79,
+        "lambda_away": 0.76,
+        "probabilities": {
+            "1": 60.8,
+            "X": 25.0,
+            "2": 14.2
+        },
+        "odds": {
+            "1": 1.64,
+            "X": 4.0,
+            "2": 7.05
+        }
+    },
+    {
+        "date": "2027-04-24 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Paris FC",
+        "away_team": "Lens",
+        "lambda_home": 1.24,
+        "lambda_away": 1.53,
+        "probabilities": {
+            "1": 29.5,
+            "X": 27.8,
+            "2": 42.7
+        },
+        "odds": {
+            "1": 3.38,
+            "X": 3.6,
+            "2": 2.34
+        }
+    },
+    {
+        "date": "2027-04-24 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Strasbourg",
+        "away_team": "Rennes",
+        "lambda_home": 1.58,
+        "lambda_away": 1.66,
+        "probabilities": {
+            "1": 35.6,
+            "X": 25.5,
+            "2": 38.8
+        },
+        "odds": {
+            "1": 2.81,
+            "X": 3.91,
+            "2": 2.57
+        }
+    },
+    {
+        "date": "2027-04-24 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Troyes",
+        "away_team": "Toulouse",
+        "lambda_home": 1.03,
+        "lambda_away": 1.89,
+        "probabilities": {
+            "1": 19.2,
+            "X": 24.7,
+            "2": 56.1
+        },
+        "odds": {
+            "1": 5.2,
+            "X": 4.05,
+            "2": 1.78
+        }
+    },
+    {
+        "date": "2027-05-01 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Auxerre",
+        "away_team": "Lyon",
+        "lambda_home": 1.19,
+        "lambda_away": 1.75,
+        "probabilities": {
+            "1": 24.8,
+            "X": 26.0,
+            "2": 49.2
+        },
+        "odds": {
+            "1": 4.03,
+            "X": 3.84,
+            "2": 2.03
+        }
+    },
+    {
+        "date": "2027-05-01 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Le Havre",
+        "away_team": "Paris FC",
+        "lambda_home": 1.13,
+        "lambda_away": 1.52,
+        "probabilities": {
+            "1": 27.0,
+            "X": 28.2,
+            "2": 44.8
+        },
+        "odds": {
+            "1": 3.71,
+            "X": 3.54,
+            "2": 2.23
+        }
+    },
+    {
+        "date": "2027-05-01 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lens",
+        "away_team": "Le Mans",
+        "lambda_home": 2.58,
+        "lambda_away": 0.99,
+        "probabilities": {
+            "1": 70.3,
+            "X": 18.0,
+            "2": 11.7
+        },
+        "odds": {
+            "1": 1.42,
+            "X": 5.55,
+            "2": 8.58
+        }
+    },
+    {
+        "date": "2027-05-01 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Monaco",
+        "away_team": "Lorient",
+        "lambda_home": 2.28,
+        "lambda_away": 1.17,
+        "probabilities": {
+            "1": 61.1,
+            "X": 21.3,
+            "2": 17.5
+        },
+        "odds": {
+            "1": 1.64,
+            "X": 4.69,
+            "2": 5.7
+        }
+    },
+    {
+        "date": "2027-05-01 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Paris SG",
+        "away_team": "Angers",
+        "lambda_home": 3.18,
+        "lambda_away": 0.65,
+        "probabilities": {
+            "1": 84.7,
+            "X": 11.0,
+            "2": 4.2
+        },
+        "odds": {
+            "1": 1.18,
+            "X": 9.06,
+            "2": 20.0
+        }
+    },
+    {
+        "date": "2027-05-01 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Rennes",
+        "away_team": "Nice",
+        "lambda_home": 1.71,
+        "lambda_away": 1.2,
+        "probabilities": {
+            "1": 48.0,
+            "X": 26.3,
+            "2": 25.7
+        },
+        "odds": {
+            "1": 2.08,
+            "X": 3.8,
+            "2": 3.9
+        }
+    },
+    {
+        "date": "2027-05-01 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Strasbourg",
+        "away_team": "Lille",
+        "lambda_home": 1.18,
+        "lambda_away": 1.53,
+        "probabilities": {
+            "1": 28.1,
+            "X": 28.0,
+            "2": 43.9
+        },
+        "odds": {
+            "1": 3.56,
+            "X": 3.57,
+            "2": 2.28
+        }
+    },
+    {
+        "date": "2027-05-01 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Toulouse",
+        "away_team": "Marseille",
+        "lambda_home": 1.38,
+        "lambda_away": 1.69,
+        "probabilities": {
+            "1": 30.1,
+            "X": 26.1,
+            "2": 43.8
+        },
+        "odds": {
+            "1": 3.32,
+            "X": 3.83,
+            "2": 2.28
+        }
+    },
+    {
+        "date": "2027-05-01 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Troyes",
+        "away_team": "Brest",
+        "lambda_home": 1.18,
+        "lambda_away": 1.96,
+        "probabilities": {
+            "1": 21.7,
+            "X": 24.2,
+            "2": 54.1
+        },
+        "odds": {
+            "1": 4.61,
+            "X": 4.14,
+            "2": 1.85
+        }
+    },
+    {
+        "date": "2027-05-08 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Angers",
+        "away_team": "Toulouse",
+        "lambda_home": 0.98,
+        "lambda_away": 1.46,
+        "probabilities": {
+            "1": 24.1,
+            "X": 29.2,
+            "2": 46.7
+        },
+        "odds": {
+            "1": 4.14,
+            "X": 3.42,
+            "2": 2.14
+        }
+    },
+    {
+        "date": "2027-05-08 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Brest",
+        "away_team": "Auxerre",
+        "lambda_home": 1.68,
+        "lambda_away": 1.16,
+        "probabilities": {
+            "1": 48.2,
+            "X": 26.7,
+            "2": 25.2
+        },
+        "odds": {
+            "1": 2.08,
+            "X": 3.75,
+            "2": 3.97
+        }
+    },
+    {
+        "date": "2027-05-08 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Le Mans",
+        "away_team": "Troyes",
+        "lambda_home": 2.27,
+        "lambda_away": 1.28,
+        "probabilities": {
+            "1": 58.4,
+            "X": 21.6,
+            "2": 19.9
+        },
+        "odds": {
+            "1": 1.71,
+            "X": 4.62,
+            "2": 5.02
+        }
+    },
+    {
+        "date": "2027-05-08 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lens",
+        "away_team": "Monaco",
+        "lambda_home": 1.76,
+        "lambda_away": 1.33,
+        "probabilities": {
+            "1": 46.4,
+            "X": 25.7,
+            "2": 27.8
+        },
+        "odds": {
+            "1": 2.15,
+            "X": 3.89,
+            "2": 3.59
+        }
+    },
+    {
+        "date": "2027-05-08 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lorient",
+        "away_team": "Strasbourg",
+        "lambda_home": 1.56,
+        "lambda_away": 1.49,
+        "probabilities": {
+            "1": 38.2,
+            "X": 26.6,
+            "2": 35.3
+        },
+        "odds": {
+            "1": 2.62,
+            "X": 3.77,
+            "2": 2.84
+        }
+    },
+    {
+        "date": "2027-05-08 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Nice",
+        "away_team": "Marseille",
+        "lambda_home": 1.4,
+        "lambda_away": 1.55,
+        "probabilities": {
+            "1": 33.1,
+            "X": 27.0,
+            "2": 39.9
+        },
+        "odds": {
+            "1": 3.02,
+            "X": 3.71,
+            "2": 2.51
+        }
+    },
+    {
+        "date": "2027-05-08 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Paris FC",
+        "away_team": "Lille",
+        "lambda_home": 1.14,
+        "lambda_away": 1.46,
+        "probabilities": {
+            "1": 28.0,
+            "X": 28.7,
+            "2": 43.3
+        },
+        "odds": {
+            "1": 3.57,
+            "X": 3.48,
+            "2": 2.31
+        }
+    },
+    {
+        "date": "2027-05-08 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Rennes",
+        "away_team": "Le Havre",
+        "lambda_home": 2.17,
+        "lambda_away": 0.92,
+        "probabilities": {
+            "1": 64.7,
+            "X": 21.4,
+            "2": 13.9
+        },
+        "odds": {
+            "1": 1.55,
+            "X": 4.67,
+            "2": 7.22
+        }
+    },
+    {
+        "date": "2027-05-09 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lyon",
+        "away_team": "Paris SG",
+        "lambda_home": 1.3,
+        "lambda_away": 2.03,
+        "probabilities": {
+            "1": 23.4,
+            "X": 23.6,
+            "2": 53.0
+        },
+        "odds": {
+            "1": 4.27,
+            "X": 4.23,
+            "2": 1.89
+        }
+    },
+    {
+        "date": "2027-05-16 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Auxerre",
+        "away_team": "Rennes",
+        "lambda_home": 1.26,
+        "lambda_away": 1.71,
+        "probabilities": {
+            "1": 27.1,
+            "X": 26.3,
+            "2": 46.6
+        },
+        "odds": {
+            "1": 3.69,
+            "X": 3.81,
+            "2": 2.14
+        }
+    },
+    {
+        "date": "2027-05-16 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Brest",
+        "away_team": "Le Havre",
+        "lambda_home": 1.79,
+        "lambda_away": 1.0,
+        "probabilities": {
+            "1": 54.6,
+            "X": 25.7,
+            "2": 19.8
+        },
+        "odds": {
+            "1": 1.83,
+            "X": 3.9,
+            "2": 5.05
+        }
+    },
+    {
+        "date": "2027-05-16 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lille",
+        "away_team": "Angers",
+        "lambda_home": 2.04,
+        "lambda_away": 0.65,
+        "probabilities": {
+            "1": 68.8,
+            "X": 21.4,
+            "2": 9.8
+        },
+        "odds": {
+            "1": 1.45,
+            "X": 4.68,
+            "2": 10.18
+        }
+    },
+    {
+        "date": "2027-05-16 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lyon",
+        "away_team": "Le Mans",
+        "lambda_home": 2.73,
+        "lambda_away": 1.14,
+        "probabilities": {
+            "1": 69.3,
+            "X": 17.6,
+            "2": 13.1
+        },
+        "odds": {
+            "1": 1.44,
+            "X": 5.68,
+            "2": 7.66
+        }
+    },
+    {
+        "date": "2027-05-16 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Marseille",
+        "away_team": "Lens",
+        "lambda_home": 1.61,
+        "lambda_away": 1.38,
+        "probabilities": {
+            "1": 41.7,
+            "X": 26.7,
+            "2": 31.6
+        },
+        "odds": {
+            "1": 2.4,
+            "X": 3.75,
+            "2": 3.16
+        }
+    },
+    {
+        "date": "2027-05-16 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Monaco",
+        "away_team": "Paris FC",
+        "lambda_home": 1.97,
+        "lambda_away": 1.31,
+        "probabilities": {
+            "1": 51.6,
+            "X": 24.1,
+            "2": 24.3
+        },
+        "odds": {
+            "1": 1.94,
+            "X": 4.14,
+            "2": 4.11
+        }
+    },
+    {
+        "date": "2027-05-16 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Paris SG",
+        "away_team": "Nice",
+        "lambda_home": 2.43,
+        "lambda_away": 0.84,
+        "probabilities": {
+            "1": 71.1,
+            "X": 18.5,
+            "2": 10.4
+        },
+        "odds": {
+            "1": 1.41,
+            "X": 5.4,
+            "2": 9.65
+        }
+    },
+    {
+        "date": "2027-05-16 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Strasbourg",
+        "away_team": "Troyes",
+        "lambda_home": 2.58,
+        "lambda_away": 0.98,
+        "probabilities": {
+            "1": 70.7,
+            "X": 17.9,
+            "2": 11.4
+        },
+        "odds": {
+            "1": 1.42,
+            "X": 5.58,
+            "2": 8.75
+        }
+    },
+    {
+        "date": "2027-05-16 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Toulouse",
+        "away_team": "Lorient",
+        "lambda_home": 1.64,
+        "lambda_away": 1.15,
+        "probabilities": {
+            "1": 47.3,
+            "X": 27.1,
+            "2": 25.6
+        },
+        "odds": {
+            "1": 2.11,
+            "X": 3.69,
+            "2": 3.91
+        }
+    },
+    {
+        "date": "2027-05-22 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Angers",
+        "away_team": "Brest",
+        "lambda_home": 1.09,
+        "lambda_away": 1.55,
+        "probabilities": {
+            "1": 25.5,
+            "X": 28.0,
+            "2": 46.4
+        },
+        "odds": {
+            "1": 3.92,
+            "X": 3.57,
+            "2": 2.15
+        }
+    },
+    {
+        "date": "2027-05-22 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Le Havre",
+        "away_team": "Lille",
+        "lambda_home": 0.8,
+        "lambda_away": 1.65,
+        "probabilities": {
+            "1": 16.9,
+            "X": 26.9,
+            "2": 56.2
+        },
+        "odds": {
+            "1": 5.93,
+            "X": 3.71,
+            "2": 1.78
+        }
+    },
+    {
+        "date": "2027-05-22 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Le Mans",
+        "away_team": "Strasbourg",
+        "lambda_home": 1.62,
+        "lambda_away": 1.93,
+        "probabilities": {
+            "1": 31.7,
+            "X": 23.9,
+            "2": 44.4
+        },
+        "odds": {
+            "1": 3.16,
+            "X": 4.18,
+            "2": 2.25
+        }
+    },
+    {
+        "date": "2027-05-22 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lens",
+        "away_team": "Rennes",
+        "lambda_home": 1.75,
+        "lambda_away": 1.19,
+        "probabilities": {
+            "1": 49.3,
+            "X": 26.0,
+            "2": 24.7
+        },
+        "odds": {
+            "1": 2.03,
+            "X": 3.84,
+            "2": 4.05
+        }
+    },
+    {
+        "date": "2027-05-22 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lorient",
+        "away_team": "Lyon",
+        "lambda_home": 1.32,
+        "lambda_away": 1.74,
+        "probabilities": {
+            "1": 28.1,
+            "X": 25.9,
+            "2": 46.0
+        },
+        "odds": {
+            "1": 3.56,
+            "X": 3.86,
+            "2": 2.17
+        }
+    },
+    {
+        "date": "2027-05-22 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Nice",
+        "away_team": "Monaco",
+        "lambda_home": 1.43,
+        "lambda_away": 1.53,
+        "probabilities": {
+            "1": 34.3,
+            "X": 27.0,
+            "2": 38.7
+        },
+        "odds": {
+            "1": 2.92,
+            "X": 3.7,
+            "2": 2.58
+        }
+    },
+    {
+        "date": "2027-05-22 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Paris FC",
+        "away_team": "Marseille",
+        "lambda_home": 1.53,
+        "lambda_away": 1.74,
+        "probabilities": {
+            "1": 33.0,
+            "X": 25.3,
+            "2": 41.7
+        },
+        "odds": {
+            "1": 3.03,
+            "X": 3.95,
+            "2": 2.4
+        }
+    },
+    {
+        "date": "2027-05-22 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Toulouse",
+        "away_team": "Auxerre",
+        "lambda_home": 1.64,
+        "lambda_away": 1.02,
+        "probabilities": {
+            "1": 50.4,
+            "X": 27.3,
+            "2": 22.3
+        },
+        "odds": {
+            "1": 1.98,
+            "X": 3.67,
+            "2": 4.48
+        }
+    },
+    {
+        "date": "2027-05-22 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Troyes",
+        "away_team": "Paris SG",
+        "lambda_home": 0.77,
+        "lambda_away": 3.36,
+        "probabilities": {
+            "1": 4.8,
+            "X": 10.9,
+            "2": 84.3
+        },
+        "odds": {
+            "1": 20.0,
+            "X": 9.19,
+            "2": 1.19
+        }
+    },
+    {
+        "date": "2027-05-29 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Auxerre",
+        "away_team": "Le Havre",
+        "lambda_home": 1.48,
+        "lambda_away": 1.05,
+        "probabilities": {
+            "1": 45.7,
+            "X": 28.8,
+            "2": 25.4
+        },
+        "odds": {
+            "1": 2.19,
+            "X": 3.47,
+            "2": 3.93
+        }
+    },
+    {
+        "date": "2027-05-29 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Brest",
+        "away_team": "Lens",
+        "lambda_home": 1.23,
+        "lambda_away": 1.64,
+        "probabilities": {
+            "1": 27.5,
+            "X": 26.9,
+            "2": 45.5
+        },
+        "odds": {
+            "1": 3.63,
+            "X": 3.71,
+            "2": 2.2
+        }
+    },
+    {
+        "date": "2027-05-29 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lille",
+        "away_team": "Le Mans",
+        "lambda_home": 2.48,
+        "lambda_away": 0.89,
+        "probabilities": {
+            "1": 70.8,
+            "X": 18.4,
+            "2": 10.8
+        },
+        "odds": {
+            "1": 1.41,
+            "X": 5.44,
+            "2": 9.22
+        }
+    },
+    {
+        "date": "2027-05-29 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Lyon",
+        "away_team": "Paris FC",
+        "lambda_home": 1.89,
+        "lambda_away": 1.21,
+        "probabilities": {
+            "1": 51.9,
+            "X": 24.8,
+            "2": 23.3
+        },
+        "odds": {
+            "1": 1.93,
+            "X": 4.03,
+            "2": 4.29
+        }
+    },
+    {
+        "date": "2027-05-29 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Marseille",
+        "away_team": "Lorient",
+        "lambda_home": 2.31,
+        "lambda_away": 1.1,
+        "probabilities": {
+            "1": 63.1,
+            "X": 20.9,
+            "2": 16.1
+        },
+        "odds": {
+            "1": 1.59,
+            "X": 4.79,
+            "2": 6.23
+        }
+    },
+    {
+        "date": "2027-05-29 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Monaco",
+        "away_team": "Troyes",
+        "lambda_home": 3.1,
+        "lambda_away": 0.9,
+        "probabilities": {
+            "1": 79.4,
+            "X": 13.4,
+            "2": 7.2
+        },
+        "odds": {
+            "1": 1.26,
+            "X": 7.45,
+            "2": 13.86
+        }
+    },
+    {
+        "date": "2027-05-29 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Paris SG",
+        "away_team": "Toulouse",
+        "lambda_home": 2.62,
+        "lambda_away": 0.84,
+        "probabilities": {
+            "1": 74.3,
+            "X": 16.7,
+            "2": 9.0
+        },
+        "odds": {
+            "1": 1.35,
+            "X": 5.99,
+            "2": 11.13
+        }
+    },
+    {
+        "date": "2027-05-29 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Rennes",
+        "away_team": "Angers",
+        "lambda_home": 2.25,
+        "lambda_away": 0.82,
+        "probabilities": {
+            "1": 68.7,
+            "X": 20.1,
+            "2": 11.2
+        },
+        "odds": {
+            "1": 1.46,
+            "X": 4.98,
+            "2": 8.89
+        }
+    },
+    {
+        "date": "2027-05-29 00:00:00",
+        "league": "FRA-Ligue 1",
+        "home_team": "Strasbourg",
+        "away_team": "Nice",
+        "lambda_home": 1.5,
+        "lambda_away": 1.32,
+        "probabilities": {
+            "1": 40.2,
+            "X": 27.7,
+            "2": 32.1
+        },
+        "odds": {
+            "1": 2.49,
+            "X": 3.61,
+            "2": 3.12
+        }
+    }
+]
