@@ -17,7 +17,6 @@ def DixonColes_adjustment(x, y, lambda_h, lambda_a, rho):
         return 1.0
 
 def get_h2h_factor(home_team, away_team, db_path="data/database.db"):
-    """Calcola un fattore H2H fortemente smorzato e blindato tra 0.95 e 1.05."""
     try:
         conn = sqlite3.connect(db_path)
         query = """
@@ -57,8 +56,11 @@ def get_h2h_factor(home_team, away_team, db_path="data/database.db"):
     except Exception:
         return 1.0, 1.0
 
-def calculate_match_probabilities(home_team, away_team, league=None):
-    attack, defense, league_avg_h, league_avg_a, global_avg_h, global_avg_a = compute_team_stats()
+def calculate_match_probabilities(home_team, away_team, league=None, precomputed_stats=None):
+    if precomputed_stats:
+        home_attack, home_defense, away_attack, away_defense, league_avg_h, league_avg_a, global_avg_h, global_avg_a = precomputed_stats
+    else:
+        home_attack, home_defense, away_attack, away_defense, league_avg_h, league_avg_a, global_avg_h, global_avg_a = compute_team_stats()
     
     if league and league in league_avg_h:
         avg_h = league_avg_h[league]
@@ -67,22 +69,27 @@ def calculate_match_probabilities(home_team, away_team, league=None):
         avg_h = global_avg_h
         avg_a = global_avg_a
 
-    att_h = attack.get(home_team, 1.0)
-    def_h = defense.get(home_team, 1.0)
-    att_a = attack.get(away_team, 1.0)
-    def_a = defense.get(away_team, 1.0)
+    raw_att_h = home_attack.get(home_team, 1.0)
+    raw_def_a = away_defense.get(away_team, 1.0)
+    raw_att_a = away_attack.get(away_team, 1.0)
+    raw_def_h = home_defense.get(home_team, 1.0)
 
-    # Parametri adattivi specifici per lega
+    # Shrinkage a 0.4 per limitare i picchi dovuti al poco storico
+    hw_weight = 0.4
+    att_h = 1.0 + (raw_att_h - 1.0) * hw_weight
+    def_a = 1.0 + (raw_def_a - 1.0) * hw_weight
+    att_a = 1.0 + (raw_att_a - 1.0) * hw_weight
+    def_h = 1.0 + (raw_def_h - 1.0) * hw_weight
+
     if league == "GER-Bundesliga":
-        home_advantage = 1.02  # Fattore campo ridotto per minor pressione ambientale
-        rho = -0.05            # Correzione Dixon-Coles più blanda per alti flussi di gol
-        max_goals = 9          # Matrice estesa fino a 9 gol per coprire le goleade
+        home_advantage = 1.02
+        rho = -0.05
+        max_goals = 9
     else:
-        home_advantage = 1.04  # Standard per Serie A, Premier, Liga, Ligue 1
-        rho = -0.11            # Standard Dixon-Coles
-        max_goals = 7          # Standard matrice
+        home_advantage = 1.04
+        rho = -0.11
+        max_goals = 7
 
-    # H2H factor
     h2h_h, h2h_a = get_h2h_factor(home_team, away_team)
 
     lambda_home = max(att_h * def_a * avg_h * home_advantage * h2h_h, 0.70)
@@ -97,7 +104,8 @@ def calculate_match_probabilities(home_team, away_team, league=None):
             dc = DixonColes_adjustment(i, j, lambda_home, lambda_away, rho)
             matrix[i, j] = p_home * p_away * max(dc, 0.0)
 
-    matrix /= np.sum(matrix)
+    if np.sum(matrix) > 0:
+        matrix /= np.sum(matrix)
 
     prob_1 = np.sum(np.tril(matrix, -1))
     prob_X = np.sum(np.diag(matrix))
@@ -111,10 +119,27 @@ def calculate_match_probabilities(home_team, away_team, league=None):
     else:
         prob_1, prob_X, prob_2 = 0.33, 0.34, 0.33
 
+    # --- CALCOLO RISULTATI ESATTI ---
+    exact_scores = []
+    for i in range(min(max_goals, 5)):
+        for j in range(min(max_goals, 5)):
+            p_score = matrix[i, j] if i < matrix.shape[0] and j < matrix.shape[1] else 0
+            if p_score > 0:
+                odd_score = min(round(1.0 / p_score, 2), 50.0)
+                exact_scores.append({
+                    "score": f"{i}-{j}",
+                    "probability": round(float(p_score) * 100, 1),
+                    "odd": odd_score
+                })
+    
+    # Ordiniamo per probabilità decrescente e prendiamo i top 5
+    exact_scores = sorted(exact_scores, key=lambda x: x["probability"], reverse=True)[:5]
+
     return {
         "lambda_home": round(lambda_home, 2),
         "lambda_away": round(lambda_away, 2),
         "prob_1": float(prob_1),
         "prob_X": float(prob_X),
-        "prob_2": float(prob_2)
+        "prob_2": float(prob_2),
+        "exact_scores": exact_scores
     }

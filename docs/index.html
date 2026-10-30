@@ -134,6 +134,20 @@
                             <span class="block text-[10px] text-sky-400 mt-1" id="prob-2-${index}">${match.probabilities["2"]}%</span>
                         </div>
                     </div>
+
+                    <!-- Risultati Esatti Consigliati -->
+                    <div class="mt-4 pt-3 border-t border-slate-800/80">
+                        <span class="block text-xs font-semibold text-slate-400 mb-2">Top Risultati Esatti:</span>
+                        <div class="flex flex-wrap gap-2">
+                            ${match.exact_scores ? match.exact_scores.map(es => `
+                                <div class="bg-slate-950 px-2.5 py-1.5 rounded-lg border border-slate-800 text-xs flex items-center gap-2">
+                                    <span class="font-bold text-white">${es.score}</span>
+                                    <span class="text-emerald-400 font-mono">${es.odd}</span>
+                                    <span class="text-[10px] text-slate-500">(${es.probability}%)</span>
+                                </div>
+                            `).join('') : ''}
+                        </div>
+                    </div>
                 `;
                 container.appendChild(card);
             });

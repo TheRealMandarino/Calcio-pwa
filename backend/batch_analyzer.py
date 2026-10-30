@@ -2,35 +2,53 @@ import sqlite3
 import json
 import pandas as pd
 import os
+from datetime import datetime
+from backend.stats import compute_team_stats
 from backend.model import calculate_match_probabilities
 
-def generate_league_json(db_path="data/database.db", output_dir="frontend"):
-    conn = sqlite3.connect(db_path)
-    today_str = "2026-10-26"
+def generate_league_json():
+    # Trova automaticamente la cartella radice del progetto
+    BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    db_path = os.path.join(BASE_DIR, "data", "database.db")
+    output_dir = os.path.join(BASE_DIR, "docs")
     
-    # Estraiamo tutte le partite future raggruppate per lega
-    query = f"""
+    conn = sqlite3.connect(db_path)
+    
+    # Data di riferimento odierna
+    today_str = datetime.now().strftime('%Y-%m-%d')
+    
+    # Rileva automaticamente la data della prima partita non ancora giocata da oggi in poi
+    query_date = "SELECT MIN(date) as next_date FROM matches WHERE home_goals IS NULL AND date >= ?"
+    df_date = pd.read_sql(query_date, conn, params=(today_str,))
+    
+    if not df_date.empty and df_date['next_date'].iloc[0] is not None:
+        target_date = df_date['next_date'].iloc[0]
+    else:
+        target_date = today_str
+        
+    print(f"Giornata corrente identificata a partire dal: {target_date}")
+    
+    # Calcoliamo le statistiche UNA SOLA VOLTA ALL'INIZIO (Time Decay + Casa/Trasferta)
+    print("Calcolo delle statistiche di squadra in corso...")
+    stats_cache = compute_team_stats(db_path)
+    
+    # Estraiamo solo le partite future a partire dalla giornata corrente
+    query = """
         SELECT date, league, home_team, away_team 
         FROM matches 
-        WHERE (home_goals IS NULL OR date >= ?) 
+        WHERE date >= ? 
         ORDER BY league ASC, date ASC
     """
-    df = pd.read_sql(query, conn, params=(today_str,))
+    df = pd.read_sql(query, conn, params=(target_date,))
     conn.close()
-    
-    if not df.empty and 'date' in df.columns:
-        df['date_parsed'] = pd.to_datetime(df['date'], errors='coerce')
-        today_dt = pd.to_datetime(today_str)
-        df = df[(df['date_parsed'] >= today_dt) | (df['date_parsed'].isna())]
     
     if df.empty:
         print("Nessuna partita futura trovata nel database.")
         return
 
-    # Assicuriamoci che la cartella di output esista
     os.makedirs(output_dir, exist_ok=True)
 
-    # Raggruppiamo le partite per campionato
+    print("Generazione dei file JSON nella cartella docs...")
     for league_name, group_df in df.groupby('league'):
         matches_output = []
         
@@ -38,7 +56,7 @@ def generate_league_json(db_path="data/database.db", output_dir="frontend"):
             h_team = row['home_team']
             a_team = row['away_team']
             
-            calc = calculate_match_probabilities(h_team, a_team, league=league_name)
+            calc = calculate_match_probabilities(h_team, a_team, league=league_name, precomputed_stats=stats_cache)
             
             p1 = max(calc["prob_1"], 0.03)
             pX = max(calc["prob_X"], 0.03)
@@ -67,10 +85,10 @@ def generate_league_json(db_path="data/database.db", output_dir="frontend"):
                     "1": odd_1,
                     "X": odd_X,
                     "2": odd_2
-                }
+                },
+                "exact_scores": calc["exact_scores"]  # Inclusione dei risultati esatti calcolati dal modello
             })
         
-        # Creiamo un nome file pulito per il campionato (es. "ITA-Serie A" -> "ITA-Serie_A.json")
         safe_league_name = league_name.replace(" ", "_").lower()
         file_name = f"{safe_league_name}.json"
         output_path = os.path.join(output_dir, file_name)
